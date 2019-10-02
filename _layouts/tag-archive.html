@@ -1,0 +1,13 @@
+---
+layout: default
+title: Etikett
+---
+
+<div class="row listrecent">
+    <div class="section-title col-md-12 mt-4">
+        <h2><span class="text-capitalize">{{ page.title }}</span></h2>
+    </div>
+    {% for post in page.posts %}
+        {% include postbox.html compact=true %}
+    {% endfor %}
+</div>

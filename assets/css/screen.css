@@ -51,8 +51,13 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    margin-top: 57px;
+    margin-top: 110px;
     transition: all 0.4s;
+}
+
+.site-title {
+    margin: 0rem;
+    padding: 0rem;
 }
 
 section {
@@ -104,40 +109,13 @@ section.recent-posts {
     }
 }
 
-.listfeaturedtag {
-    border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem;
-    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
-}
-
-.listfeaturedtag .wrapthumbnail {
-    height: 290px;
-    flex: 0 0 auto;
-    height: 100%;
-}
-
 .maxthumb {
     max-height: 300px;
     overflow: hidden;
 }
 
-.listfeaturedtag .card,
 .card-footer {
     border: 0;
-}
-
-.listfeaturedtag .thumbnail {
-    background-size: cover;
-    height: 100%;
-    display: block;
-    background-position: 38% 22% !important;
-    background-origin: border-box !important;
-    border-top-left-radius: .25rem;
-    border-bottom-left-radius: .25rem;
-}
-
-.listfeaturedtag .card-block {
-    padding-left: 0;
 }
 
 .listfeaturedtag h2.card-title,
@@ -153,20 +131,6 @@ section.recent-posts {
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
-}
-
-.featured-box-img-cover {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    max-height: 100%;
-}
-
-@media (max-width:991px) {
-    .featured-box-img-cover {
-        height: auto;
-        width: 100%;
-    }
 }
 
 .wrapfooter {
@@ -206,11 +170,6 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
-}
-
-.toc ul {
-    list-style: decimal;
-    font-weight: 400;
 }
 
 .author-meta {
@@ -300,12 +259,8 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 120px;
     margin-right: 5px;
-}
-
-.mainheading h1.sitetitle {
-    font-family: Righteous;
 }
 
 .mainheading h1.posttitle {
@@ -330,7 +285,6 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -396,10 +350,6 @@ blockquote {
 }
 
 @media (max-width:999px) {
-    .featured-box-img-cover {
-        height: 359px;
-    }
-
     .alertbar {
         position: relative !Important;
         margin-bottom: 20px;
