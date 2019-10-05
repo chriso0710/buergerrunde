@@ -2,6 +2,7 @@
 layout: page
 title: Was soll die Heuweilermer Bürgerrunde sein?
 permalink: /about
+search: true
 ---
 Die Heuweilermer Bürgerrunde soll eine Generalversammlung der Heuweilermer Bürger sein, in der jeder Bürger Heuweilers sich möglichst offen und konstruktiv an einer Diskussion über aktuelle und zukünftige Belange Heuweilers beteiligen kann. Die Diskussion innerhalb der Bürgerrunde soll so offen und frei wie möglich ablaufen. Im Idealfall gibt sich die Bürgerrunde die Themen selbst vor und entscheidet über die Behandlung dieser Themen und deren weiterer Entwicklung.
 
