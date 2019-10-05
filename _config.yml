@@ -48,6 +48,11 @@ authors:
     display_name: Friederike Gutmann
     email: friederike.gutmann@gmx.de
     description: "Lebt seit über 10 Jahren mit ihrer Familie in Heuweiler. Engagiert in der AG Neubürger und im Gundelfinger Flüchtlingshelferkreis."
+  kh:
+    name: Katja H
+    display_name: Katja Holstein-Gussmann
+    email: Katja_Holstein-Gussmann@web.de
+    description: "Lebt mit Mann und Hund seit langem in Heuweiler. Im Vorstand der Bürgerrunde und Mitglied in der Kultur AG. Leiterin der Mediathek Denzlingen."
     
 # Plugins
 plugins:
