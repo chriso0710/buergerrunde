@@ -25,7 +25,8 @@ Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch be
 
 ### AG Neubürger
 
-Die AG Neubürger hilft seit Februar 2019 Zugezogenen mit Migrationshintergrund bei ihren Aufgaben im Alltag. Unsere derzeitige Aufgaben und Aktionen sind Hilfe beim Deutschlernen, bei der Kommunikation mit den Behörden, gemeinsame Ausflüge oder Spiele. Sehr gerne kann jeder, der sich einbringen möchte, vorbei kommen. Wir sind eine offene Runde und freuen uns über jede Unterstützung.
+Bei unseren Aktionen geht es in erster Linie um einen Austausch und Kennenlernen von Menschen in Heuweiler. Wir möchten hier junge und alte, neue und eingesessene MitbürgerInnen aus Heuweiler zusammenbringen. Die AG Neubürger hilft seit Februar 2019 Zugezogenen mit Migrationshintergrund bei ihren Aufgaben im Alltag. Unsere derzeitige Aufgaben und Aktionen sind Hilfe beim Deutschlernen, bei der Kommunikation mit den Behörden, gemeinsame Ausflüge oder Spiele. 
+Sehr gerne kann jeder, der sich einbringen möchte, vorbei kommen. Wir sind eine offene Runde und freuen uns über jede Unterstützung.
 
 ### AG Kennenlernen
 

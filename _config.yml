@@ -43,8 +43,12 @@ authors:
     display_name: Katja Fimmen
     email: katja.fimmen@gmx.de
     description: "Lebt seit 1999 mit Ihrer Familie in Heuweiler. Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG."
-
-
+  fg:
+    name: Friederike
+    display_name: Friederike Gutmann
+    email: friederike.gutmann@gmx.de
+    description: "Lebt seit über 10 Jahren mit ihrer Familie in Heuweiler. Engagiert in der AG Neubürger und im Gundelfinger Flüchtlingshelferkreis."
+    
 # Plugins
 plugins:
   - jekyll-paginate
