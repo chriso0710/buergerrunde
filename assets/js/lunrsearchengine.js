@@ -9,15 +9,15 @@ var documents = [
     {
     "id": {{ counter }},
     "url": "{{ page.url | prepend: site.baseurl }}",
-    "title": "{{ page.title }}",
-    "body": "{{ page.content | markdownify | strip_html | strip_newlines | replace: '.', '. ' | replace: '"', '' }}"
+    "title": "{{ page.title | escape }}",
+    "body": "{{ page.content | markdownify | strip_html | strip_newlines | escape }}"
     {% assign counter = counter | plus: 1 %}
     }, {% endif %}{% endfor %}{% for page in site.posts %}
     {
     "id": {{ counter }},
     "url": "{{ page.url | prepend: site.baseurl }}",
-    "title": "{{ page.title }}",
-    "body": "{{ page.content | markdownify | strip_html | strip_newlines | replace: '.', '. ' | replace: '"', '' }}"
+    "title": "{{ page.title | escape }}",
+    "body": "{{ page.content | markdownify | strip_html | strip_newlines | escape }}"
     {% assign counter = counter | plus: 1 %}
     }
     {% if forloop.last %}{% else %}, {% endif %}{% endfor %}

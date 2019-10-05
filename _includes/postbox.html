@@ -6,9 +6,9 @@
 {% endif %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
-        <div class="maxthumb">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-                {% if post.image and option_compact == false %}
+        {% if post.image and option_compact == false %}
+            <div class="maxthumb">
+                <a href="{{ post.url | prepend: site.baseurl }}">
                     {% if post.image contains "://" %}
                         {% assign image_url = post.image %}
                     {% else %}
@@ -19,9 +19,9 @@
                     {% else %}
                         <img class="img-fluid" src="{{ image_url }}" alt="{{ post.title }}">
                     {% endif %}
-                {% endif %}
-            </a>
-        </div>
+                </a>
+            </div>
+        {% endif %}
         <div class="card-body">
             <h2 class="card-title">
                 <a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -30,10 +30,13 @@
                     {% include star_rating.html rating=post.rating %}
                     </div>
                 {% endif %}
+                {% if post.event %}
+                    <span class="badge badge-danger">{{ post.event | german_datetime }}</span>
+                {% endif %}
             </h2>
             <h4 class="card-text">
                 {{ post.excerpt | strip_html | truncatewords:30 }}
-                    <a href="{{ post.url | prepend: site.baseurl }}" title="Read Story">read more</a>
+                <a href="{{ post.url | prepend: site.baseurl }}" title="{{ site.static.read_more }}">{{ site.static.read_more }}</a>
             </h4>
         </div>
         <div class="card-footer bg-white">
@@ -43,12 +46,10 @@
                     <span class="meta-footer-thumb">
                     {% if author.avatar %}
                         <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                    {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
                     {% endif %}
                     </span>
                     <span class="author-meta">
-                        <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                        <span class="post-name"><a target="_blank" href="mailto:{{ author.email }}">{{ author.display_name }}</a></span><br/>
                     </span>
                 {% endif %}
                 <span class="post-date">{{ post.date | german_date }}</span>

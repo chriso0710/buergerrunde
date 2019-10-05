@@ -1,7 +1,7 @@
 # Site
 name: "Bürgerrunde Heuweiler e.V."
 title: "Bürgerrunde Heuweiler"
-description: "Curabitur blandit tempus porttitor."
+description: "Forum und Initiative in und für Heuweiler. Seit 2015."
 logo: '/assets/images/br_logo.svg'
 favicon: '/assets/images/br_logo.svg'
 baseurl:
@@ -21,6 +21,7 @@ static:
   next: weiter
   share: Teilen
   search_for: "Suche nach..."
+  read_more: "Mehr lesen..."
   menu:
     privacy: Datenschutz
     about: Über uns
@@ -32,23 +33,17 @@ static:
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal Meier
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John Gruber
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  co:
+    name: Christian
+    display_name: Christian Ott
+    email: mail@christian.ott.name
+    description: "Erster Vorstand des Vereins. Lebt seit 1999 mit seiner Familie in Heuweiler. Liebt die Natur und die Berge des Schwarzwalds."
+  kf:
+    name: Katja F
+    display_name: Katja Fimmen
+    email: katja.fimmen@gmx.de
+    description: "Lebt seit 1999 mit Ihrer Familie in Heuweiler. Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG."
+
 
 # Plugins
 plugins:
@@ -96,3 +91,12 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, theme]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      author: "co"

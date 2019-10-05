@@ -1,0 +1,22 @@
+---
+layout: default
+title: Veranstaltungen
+---
+
+{% assign postsByYear = site.posts | sort: 'event' | reverse | group_by_exp:"post", "post.event | date: '%Y'"  %}
+{% for year in postsByYear %}
+<div class="section-title col-md-12 mt-4">
+    <h2>{{ year.name }}</h2>
+</div>
+<ul>
+    {% for post in year.items %}
+        {% if post.event %}
+            <li>
+                <span class="badge badge-danger">{{ post.event | german_datetime }}</span>
+                <span class="badge badge-primary">{{ post.location }}</span>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
+{% endfor %}

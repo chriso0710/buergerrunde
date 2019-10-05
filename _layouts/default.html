@@ -141,11 +141,17 @@ ga('send', 'pageview');
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1"
+                        href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | capitalize }}
+                        ({{ site.tags[category].size }})
+                    </a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1"
+                        href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | capitalize }}
+                        ({{ category[1].size }})
+                    </a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
@@ -163,7 +169,6 @@ ga('send', 'pageview');
                 | <a href="{{ site.baseurl }}/imprint">{{ site.static.menu.imprint }}</a>
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
             </div>
         </div>
     </div>
