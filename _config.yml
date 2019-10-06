@@ -5,6 +5,7 @@ description: "Forum und Initiative in und für Heuweiler. Seit 2015."
 logo: '/assets/images/br_logo.svg'
 favicon: '/assets/images/br_logo.svg'
 baseurl:
+url: "https://br-preview.netlify.com"
 google_analytics:
 disqus: 
 mailchimp-list:

@@ -21,7 +21,7 @@ Unsere Ziele: Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs b
 
 ### AG Bürgernetz
 
-Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch besser zu vernetzen, beispielsweise über Nachbarschaftshilfe. Wir organisieren schöne Veranstaltungen und freuen uns über jeden, der Lust hat, mit uns weiter zu denken und unsere Ziele Schritt für Schritt anzugehen und umzusetzen. 
+Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch besser zu vernetzen, beispielsweise über Nachbarschaftshilfe. Wir organisieren schöne Veranstaltungen, wie z.B. das Frauenfrühstück, und freuen uns über jeden, der Lust hat, mit uns weiter zu denken und unsere Ziele Schritt für Schritt anzugehen und umzusetzen. 
 
 ### AG Neubürger
 
