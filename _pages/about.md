@@ -59,3 +59,15 @@ Es ist gut vorstellbar, das sich aus der Heuweilermer Bürgerrunde eine gemeinsc
 * Dorfmittelpunkt Heuweiler: Wie wünschen wir uns den Dorfmittelpunkt in Heuweiler?
 * Nachhaltigkeit und Klimaschutz
 * Mobilität
+
+## Der gemeinnützige Verein
+
+Seit dem 29.9.2016 ist die Bürgerrunde Heuweiler ein Verein.
+Das Finanzamt Freiburg-Land hat am 08.11.2016 bestätigt, dass die Bürgerrunde Heuweiler als Verein den Bedingungen der Gemeinnützigkeit entspricht.
+
+Wichtige Dokumente:
+
+* [Protokoll Gründungsversammlung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Protokoll_Grundungsversammlung_Original_unterschrieben.pdf)
+* [Satzung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Satzung.pdf)
+* [Beitragsordnung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Beitragsordnung.pdf)
+* [Aufnahmeantrag](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Aufnahmeantrag.pdf)
