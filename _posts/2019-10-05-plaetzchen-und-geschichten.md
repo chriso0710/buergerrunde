@@ -1,10 +1,9 @@
 ---
 title: Bei Kerzenschein Plätzchen backen und Geschichten vorlesen
-categories: [ Weihnachten ]
+categories: [ Gemeinschaft ]
 author: fg
 event: 2019-12-12 16:30:00
 location: Küche 2.OG, Rathaus
-hidden: true
 image: "/assets/images/kekse.jpg"
 ---
 

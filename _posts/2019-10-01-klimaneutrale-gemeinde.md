@@ -4,7 +4,6 @@ categories: [ Bürgerrunde ]
 author: co
 event: 2019-10-18 18:30:00
 location: Gemeindesaal, Rathaus
-hidden: true
 image: "/assets/images/klimaneutrale_gemeinde_sonne.jpg"
 ---
 

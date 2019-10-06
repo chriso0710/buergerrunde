@@ -1,10 +1,9 @@
 ---
 title: Spieleabend
-categories: [ Spiele ]
+categories: [ Gemeinschaft ]
 author: fg
 event: 2019-11-14 18:00:00
 location: Schulungsraum, Rathaus
-hidden: true
 image: "/assets/images/spiele.jpg"
 ---
 

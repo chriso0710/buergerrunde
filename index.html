@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+{% assign today_unix = 'now' | date: '%s' | plus: 0 %}
+
 {% if page.url == "/" %}
     <!-- Featured ================================================== -->
     <section class="featured-posts">
@@ -10,11 +12,19 @@ title: Home
             <h2><span>{{ site.static.featured }}</span></h2>
         </div>
         <div class="row listfeaturedtag">
-            {% assign sortedPosts = site.posts | sort: 'event' %}
-            {% for post in sortedPosts %}
+            {% assign filtered_posts = "" | split: ',' %}
+            {% for post in site.posts %}
                 {% if post.event %}
-                    {% include postbox.html %}
+                    {% assign event_unix = post.event | date: '%s' | plus: 0 %}
+                    {% if event_unix >= today_unix %}
+                        {% assign filtered_posts = filtered_posts | push: post %}
+                    {% endif %}
                 {% endif %}
+            {% endfor %}
+
+            {% assign filtered_posts = filtered_posts | sort: 'event' %}
+            {% for post in filtered_posts %}
+                {% include postbox.html %}
             {% endfor %}
         </div>
     </section>
@@ -23,13 +33,23 @@ title: Home
 <!-- Posts Index ================================================== -->
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>{{ site.static.all }}</span></h2>
+        <h2><span>{{ site.static.all }} ({{ paginator.total_posts }})</span></h2>
     </div>
     <div class="row listrecent">
-        {% for post in paginator.posts %}
-            {% if post.hidden != true %}
-                {% include postbox.html %}
+        {% assign filtered_posts = "" | split: ',' %}
+        {% for post in site.posts %}
+            {% if post.event %}
+                {% assign event_unix = post.event | date: '%s' | plus: 0 %}
+                {% if event_unix < today_unix %}
+                    {% assign filtered_posts = filtered_posts | push: post %}
+                {% endif %}
+            {% else %}
+                {% assign filtered_posts = filtered_posts | push: post %}
             {% endif %}
+        {% endfor %}
+
+        {% for post in filtered_posts limit: 6 %}
+            {% include postbox.html %}
         {% endfor %}
     </div>
 </section>
@@ -39,7 +59,7 @@ title: Home
 <div class="bottompagination">
     <div class="pointerup"><i class="fa fa-caret-up"></i></div>
     <span class="navigation" role="navigation">
-        {% include pagination.html %}
+        {{ site.static.older_articles }} <a href="{{ site.baseurl }}/archive">{{ site.static.menu.archive }}</a>
     </span>
 </div>
 

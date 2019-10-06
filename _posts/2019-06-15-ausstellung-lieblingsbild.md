@@ -4,7 +4,6 @@ categories: [ Ausstellung ]
 author: kf
 event: 2019-11-17 15:00:00
 location: Rathaus
-hidden: true
 image: "/assets/images/lieblingsbild.jpg"
 ---
 

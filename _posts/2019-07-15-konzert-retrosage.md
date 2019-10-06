@@ -5,7 +5,6 @@ author: kf
 image: "/assets/images/retrosage.jpg"
 event: 2019-10-12 19:00:00
 location: Gemeindesaal, Rathaus
-hidden: true
 ---
 
 Mit einer Vielzahl von Instrumenten im Gepäck und einem breiten Repertoire aus den unterschiedlichsten Genres der letzten 100 Jahre erfüllen [Retrosage](http://www.retrosage.de) (Yvonne Engist & Michael Helfer) die Wünsche des Publikums – unmittelbar, live und handgemacht. Die Zuhörer erwartet ein abwechslungsreicher und musikalisch bunt gemischter Abend, frei nach dem Motto "Grad gewünscht und schon gespielt".
