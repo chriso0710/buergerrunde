@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Die Heuweilermer Bürgerrunde
 permalink: /about
 search: true
