@@ -4,7 +4,7 @@ categories: [ Kino ]
 author: kh
 event: 2017-11-17 20:00:00
 location: Gemeindesaal, Rathaus
-image: "/assets/images/look_beyond.jpg"
+image: "/assets/images/kino/look_beyond.jpg"
 ---
 
 Die nächste Kinovorstellung am 24.11.17 um 20h entführt Euch in verschiedenste Länder nach Asien. "Look beyond" ist ein eindrucksvoller Dokumentarfilm von Tim Daubach, einem jungen Studenten aus Freiburg, über seine 9-monatige Reise durch Asien. Der Film zeigt die verschiedenen Kulturen in den Ländern und fängt Schlüsselszenen der dort lebenden Völker aus geografischer Sicht ein. Er hat sich zum Thema gemacht, Vielfalt zu tolerieren und das Schöne in allem zu erkennen, Vorurteile abzubauen und andere Lebensweisen verstehen zu wollen. Einen ersten Eindruck findet Ihr [hier](https://www.youtube.com/watch?v=30o5ZZJqjL0).

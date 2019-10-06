@@ -2,7 +2,7 @@
 title: Erfolgreiches Herbstkino mit "Look beyond"
 categories: [ Kino ]
 author: kh
-image: "/assets/images/lookbeyond_rueckblick.jpg"
+image: "/assets/images/kino/lookbeyond_rueckblick.jpg"
 ---
 
 Am vergangenen Freitag füllte sich das Gemeindehaus in Heuweiler nur langsam mit interessierten Besuchern. Aber einige waren sogar aus dem Freiburger Umland angereist. Pünktlich um acht startete der Abend mit einer Einführung des Regisseurs Herrn Daubach über die Entstehung des Films und einigen Erläuterungen zu den Hilfsorganisationen, für die der Film Spenden sammelte. 
