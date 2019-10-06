@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Arbeitsgruppen
 permalink: /groups
 search: true
@@ -30,5 +30,5 @@ Sehr gerne kann jeder, der sich einbringen möchte, vorbei kommen. Wir sind eine
 
 ### AG Kennenlernen
 
-Neu in Heuweiler oder schon lange hier? Alle sind herzlich zu unserem formlosen Stammtisch eingeladen. Er findet immer am zweiten Dienstag eines Monats statt. 
+Neu in Heuweiler oder schon lange hier? Alle sind herzlich zu unserem formlosen Stammtisch eingeladen. Er findet immer am zweiten Dienstag eines Monats ab 20 Uhr im Rebstock statt. 
 NeubürgerInnen heißen wir willkommen. Wenn möglich begrüßen wir Neuzugezogene persönlich mit einem kleinen Geschenk und mit einem Exemplar unseres Bildbands über Heuweiler.

@@ -14,12 +14,12 @@ Vertreten durch:
 * Erster Vorsitzender Christian Ott
 * Zweite Vorsitzende Julia Langner
 * Kassenwart Burkhard Werner
-* Schriftführerin Katja Holstein-Gussmann
+* Schriftführerin Katja Holstein-Gußmann
 
 Kontakt: 
 
 Telefon: 0171 1987880  
-E-Mail: buergerrunde-heuweiler@googlegroups.com
+E-Mail: <buergerrunde-heuweiler@googlegroups.com>
 
 Registereintrag: 
 
