@@ -8,6 +8,6 @@ title: Archiv
         <h2>{{ page.date | date: "%Y" }}</h2>
     </div>
     {% for post in page.posts %}
-        {% include postbox.html compact=true %}
+        {% include postbox.html %}
     {% endfor %}
 </div>

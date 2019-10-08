@@ -1,5 +1,5 @@
 ---
-title: Mediathek Denzlingen
+title: Besuch der Mediathek Denzlingen
 categories: [ Ausflug ]
 author: fg
 event: 2019-10-15 17:00:00

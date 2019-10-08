@@ -5,7 +5,7 @@ description: "Forum und Initiative in und für Heuweiler. Seit 2015."
 logo: '/assets/images/br_logo.svg'
 favicon: '/assets/images/br_logo.svg'
 baseurl:
-url: "https://br-preview.netlify.com"
+url: "https://buergerrunde.heuweiler.net"
 google_analytics:
 disqus: 
 mailchimp-list:
@@ -53,8 +53,13 @@ authors:
   kh:
     name: Katja H
     display_name: Katja Holstein-Gußmann
-    email: Katja_Holstein-Gussmann@web.de
+    email: katja_holstein-gussmann@web.de
     description: "Lebt mit Mann und Hund seit langem in Heuweiler. Im Vorstand der Bürgerrunde und Mitglied in der Kultur AG. Leiterin der Mediathek Denzlingen."
+  dg:
+    name: Daniela
+    display_name: Daniela Giesenhagen
+    email: daniela.giesenhagen@web.de
+    description: "Lebt seit 1999 mit ihrer Familie in Heuweiler und erfreut sich täglich am eigenen Garten. Engagiert in der AG Bürgernetz."
     
 # Plugins
 plugins:

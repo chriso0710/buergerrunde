@@ -4,6 +4,7 @@ title: Die Heuweilermer Bürgerrunde
 permalink: /about
 search: true
 ---
+
 Die Heuweilermer Bürgerrunde soll eine Generalversammlung der Heuweilermer Bürger sein, in der jeder Bürger Heuweilers sich möglichst offen und konstruktiv an einer Diskussion über aktuelle und zukünftige Belange Heuweilers beteiligen kann. Die Diskussion innerhalb der Bürgerrunde soll so offen und frei wie möglich ablaufen. Im Idealfall gibt sich die Bürgerrunde die Themen selbst vor und entscheidet über die Behandlung dieser Themen und deren weiterer Entwicklung.
 
 Die Heuweilermer Bürgerrunde richtet sich an alle Bürger Heuweilers, die an der weiteren Entwicklung der Gemeinde Heuweiler interessiert sind. Um den Gesprächsprozess zu initiieren und im Gange zu halten, ist ein periodisches oder regelmäßiges Stattfinden der Heuweilermer Bürgerrunde sinnvoll. Aus dieser Perspektive erscheint eine quartalsmäßige Einladung zur Bürgerrunde angebracht.
@@ -24,7 +25,7 @@ die Gemeinde weiter beleben. Im besten Fall gelingt es mit dieser Initiative nic
 
 ## Themenbereiche
 
-### Kurzfristige oder operative Themen
+#### Kurzfristige oder operative Themen
 
 Es ist gut vorstellbar, dass die Bürgerrunde sich mit eher operativen oder kurzfristigen und aktuellen Themen befasst. Die Bürgerrunde wäre damit also eher ein Austauschort, um über Themen und Fragen, die Heuweiler und seine Menschen betreffen, zu diskutieren. Im Rahmen der operativen Themen wären also vielleicht eher Bereiche zu erwarten, die sich mit privater Initiative bewerkstelligen lassen, oder die von der Aufgabenstellung sehr eindeutig und vom gewünschten Ziel direkt operationalisierbar wären. Hierunter fallen also eher Abläufe, die mittels einer oder weniger Aktionen direkt umgesetzt werden können, die dann ihr Ziel erreicht haben und als erledigt angesehen werden können.
 
@@ -40,7 +41,7 @@ Es ist gut vorstellbar, dass die Bürgerrunde sich mit eher operativen oder kurz
 * Bildband Heuweiler
 * Bürgerbus, Carsharing
 
-### Langfristige oder strategische Themen
+#### Langfristige oder strategische Themen
 
 Es ist gut vorstellbar, das sich aus der Heuweilermer Bürgerrunde eine gemeinschaftliche Aktivität zur weiteren Gestaltung des Dorfes entwickelt. Vielleicht entwickelt sich ja sogar ein Prozess in Heuweiler, in dessen Rahmen die Heuweilermer Bürgerrunde Überlegungen anstellt, wie sich das Dorf und das Dorfleben verändern und verbessern lässt, so dass alle Bürger, alle Generationen und alle Betroffenen daraus einen Gewinn ziehen können. Im Rahmen der strategischen Themen wären also vielleicht eher Bereiche zu erwarten, die eine große und gemeinsame Anstrengung benötigen, um bewerkstelligt zu werden. Vielleicht sind es aber auch Themen oder Initiativen, deren Umsetzung sich nur in mehreren oder vielen Jahren erreichen lässt, oder deren Ziel vielleicht nie erreicht werden wird, aber zu denen man sich dennoch geeinigt hat. Vielleicht sind es ja sogar nur Ideen, die formuliert werden, eine gemeinschaftliche Akzeptanz genießen, aber eher nur als Richtschnur für anderes oder operatives Handeln im obigen Themenbereich dienen.
 
