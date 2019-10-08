@@ -24,7 +24,7 @@ Die ursprünglich für den 17.10. geplante Bürgerrunde entfällt zugunsten dies
 * Begrüßung durch Bürgermeister Walz und Vertretern der Bürgerrunde
 * Kurze Impulsvorträge von
   * Dr. Matthias Koch, Öko-Institut e.V. Freiburg, Bereich Energie und Klimaschutz 
-  * Dr. Michael Hermann, Fraunhofer-Institut für Solare Energiesysteme ISE in Freiburg
+  * Dr. Michael Hermann, Wissenschaftler, wohnt in Heuweiler
 * kurzer Videobeitrag der Jugend in Heuweiler
 * Diskussion und Ideensammlung
 * Bewirtung durch die Bürgerrunde
