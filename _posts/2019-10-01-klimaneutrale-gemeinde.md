@@ -19,12 +19,12 @@ Der Abend soll keine reine Informationsveranstaltung bleiben, sondern in eine Di
 
 Die ursprünglich für den 17.10. geplante Bürgerrunde entfällt zugunsten dieses Abends.
 
-### Ablauf des Abends
+### Geplanter Ablauf des Abends
 
 * Begrüßung durch Bürgermeister Walz und Vertretern der Bürgerrunde
 * Kurze Impulsvorträge von
   * Dr. Matthias Koch, Öko-Institut e.V. Freiburg, Bereich Energie und Klimaschutz 
-  * Dr. Michael Hermann, Wissenschaftler, wohnt in Heuweiler
+  * Dr. Michael Hermann, Wissenschaftler, Mitglied der Bürgerrunde, wohnt in Heuweiler
 * kurzer Videobeitrag der Jugend in Heuweiler
 * Diskussion und Ideensammlung
 * Bewirtung durch die Bürgerrunde
