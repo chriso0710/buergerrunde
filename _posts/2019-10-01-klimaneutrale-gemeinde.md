@@ -23,6 +23,7 @@ Die ursprünglich für den 17.10. geplante Bürgerrunde entfällt zugunsten dies
 
 * Begrüßung durch Bürgermeister Walz und Vertretern der Bürgerrunde
 * Kurze Impulsvorträge von
+  * Tanja Kenkmann, Senior Researcher, Öko-Institut e.V. Freiburg, Bereich Energie & Klimaschutz 
   * Dr. Matthias Koch, Öko-Institut e.V. Freiburg, Bereich Energie und Klimaschutz 
   * Dr. Michael Hermann, Wissenschaftler, Mitglied der Bürgerrunde, wohnt in Heuweiler
 * kurzer Videobeitrag der Jugend in Heuweiler

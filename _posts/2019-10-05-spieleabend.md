@@ -4,7 +4,7 @@ categories: [ Gemeinschaft ]
 author: fg
 event: 2019-11-14 18:00:00
 location: Schulungsraum, Rathaus
-image: "/assets/images/spiele.jpg"
+image: "/assets/images/neubuerger/spiele.jpg"
 ---
 
 Geselliger Abend mit Brettspielen am 14. November 18:00 – 20:00 Uhr 

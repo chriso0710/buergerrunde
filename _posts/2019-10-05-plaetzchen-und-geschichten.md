@@ -4,7 +4,7 @@ categories: [ Gemeinschaft ]
 author: fg
 event: 2019-12-12 16:30:00
 location: Küche 2.OG, Rathaus
-image: "/assets/images/kekse.jpg"
+image: "/assets/images/neubuerger/kekse.jpg"
 ---
 
 Weihnachtliche Stimmung: Bei Kerzenschein Plätzchen backen und Geschichten vorlesen am 12. Dezember 16:30 – 19:30 Uhr

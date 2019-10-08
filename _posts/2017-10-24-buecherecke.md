@@ -1,7 +1,7 @@
 ---
 title: Bücherecke
 categories: [ Weiterbildung, Flohmarkt ]
-author: co
+author: tf
 image: "/assets/images/buecherecke.jpg"
 ---
 

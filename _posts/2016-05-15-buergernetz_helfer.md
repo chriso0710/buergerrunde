@@ -2,7 +2,7 @@
 title: AG Bürgernetz sucht Helfer
 categories: [ Nachbarschaftshilfe ]
 author: dg
-image: "/assets/images/buergernetz_netz.jpg"
+image: "/assets/images/buergernetz/netz.jpg"
 ---
 
 Benötigen Sie oder ein Familienangehöriger Hilfe im Haushalt, z.B. bei der Wäschepflege, beim Kochen oder Aufräumen? Oder fehlt Ihnen jemand für Spaziergänge, für die Begleitung zu Ärzten und Behörden – oder einfach ein offenes Ohr für regelmäßige Gespräche? Es gibt Menschen, die Ihnen gerne Zeit und Unterstützung anbieten würden.

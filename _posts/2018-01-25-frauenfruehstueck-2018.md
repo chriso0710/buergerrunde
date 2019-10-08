@@ -2,7 +2,7 @@
 title: Zweites Heuweilemer Frauenfrühstück
 categories: [ Gemeinschaft ]
 author: dg
-image: "/assets/images/buergernetz/frauenfruehstueck_2018.png"
+image: "/assets/images/buergernetz/frauenfruehstueck.png"
 location: Gemeindesaal, Rathaus
 event: 2018-02-25 10:00:00
 ---

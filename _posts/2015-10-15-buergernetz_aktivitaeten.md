@@ -2,7 +2,7 @@
 title: Bisherige Aktivitäten Nachbarschaftshilfe
 categories: [ Nachbarschaftshilfe ]
 author: dg
-image: "/assets/images/buergernetz/buergernetz_team.jpg"
+image: "/assets/images/buergernetz/team.jpg"
 ---
 
 Erste Schritte zur Orientierung haben wir im Bereich „Nachbarschaftshilfe“ gemacht. Zum Beispiel hatten wir zu einem AG- Termin Frau Haberl von der ehemaligen Nachbarschaftshilfe Heuweiler eingeladen. Frau Haberl hatte sich freundlicherweise bereit erklärt, über die Arbeit der ehemaligen Nachbarschaftshilfe zu berichten. So bekamen wir einen ersten Eindruck davon, was es an Hilfsangeboten schon einmal im Dorf gab.

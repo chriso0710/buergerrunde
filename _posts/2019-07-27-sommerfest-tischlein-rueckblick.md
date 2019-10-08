@@ -3,7 +3,7 @@ title: Über 50 Gäste beim Sommerfest
 categories: [ Gemeinschaft ]
 author: fg
 location: Schule Kirchberg
-image: "/assets/images/sommerfest_tischlein_rueckblick.jpg"
+image: "/assets/images/neubuerger/sommerfest_tischlein_rueckblick.jpg"
 ---
 
 Am Sonntag, den 21.07. hat das erste Sommerfest der AG Neubürger stattgefunden.

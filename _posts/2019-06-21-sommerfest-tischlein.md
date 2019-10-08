@@ -3,8 +3,8 @@ title: Sommerfest "Tischlein deck dich!"
 categories: [ Gemeinschaft ]
 author: fg
 event: 2019-07-21 11:00:00
-location: Schule Kirchberg
-image: "/assets/images/sommerfest_tischlein.jpg"
+location: Schulhof, Kirchberg
+image: "/assets/images/neubuerger/sommerfest_tischlein.jpg"
 ---
 
 Die AG Neubürger der Bürgerrunde Heuweiler lädt alle Heuweilermer Bürgerinnen und Bürger von fern und nah sowie Interessierte herzlich zu einer LANGEN, BUNTEN TAFEL ein. Jeder bringt eine Leckerei aus seiner Heimatregion (national und international) mit. Alle Spezialitäten sind willkommen! Wir freuen uns auf ein gemeinsames Essen und Beisammensein!
