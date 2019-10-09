@@ -22,11 +22,11 @@ Die ursprünglich für den 17.10. geplante Bürgerrunde entfällt zugunsten dies
 ### Geplanter Ablauf des Abends
 
 * Begrüßung durch Bürgermeister Walz und Vertretern der Bürgerrunde
-* Moderation: Anne Dittrich, Soziologin, erfahren in erneuerbaren Energien und Klimaschützerin im Kleinen
+* Moderation: Anne Dittrich, Soziologin, erfahren in erneuerbaren Energien und Klimaschützerin im Kleinen, wohnt in Heuweiler
 * Kurze Impulsvorträge von
-  * Tanja Kenkmann, Senior Researcher, Öko-Institut e.V. Freiburg, Bereich Energie & Klimaschutz 
-  * Dr. Matthias Koch, Öko-Institut e.V. Freiburg, Bereich Energie und Klimaschutz 
-  * Dr. Michael Hermann, Wissenschaftler, Mitglied der Bürgerrunde, wohnt in Heuweiler
+  * [Tanja Kenkmann](https://www.oeko.de/das-institut/team/tanja-kenkmann/), Senior Researcher, Öko-Institut e.V. Freiburg, Bereich Energie & Klimaschutz 
+  * [Dr. Matthias Koch](https://www.oeko.de/das-institut/team/matthias-koch/), Senior Researcher, Öko-Institut e.V. Freiburg, Bereich Energie und Klimaschutz 
+  * [Dr. Michael Hermann](https://www.ise.fraunhofer.de/de/ueber-uns/mitarbeiterprofile/hermann-michael.html), Wissenschaftler, Mitglied der Bürgerrunde, wohnt in Heuweiler
 * kurzer Videobeitrag der Jugend Heuweilers
 * Diskussion und Ideensammlung
 * Bewirtung durch die Bürgerrunde
