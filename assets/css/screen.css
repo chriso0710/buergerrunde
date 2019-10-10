@@ -342,12 +342,6 @@ blockquote {
     top: 100px;
 }
 
-@media (min-width:1024px) {
-    .share ul li {
-        display: block;
-    }
-}
-
 @media (max-width:999px) {
     .alertbar {
         position: relative !Important;
