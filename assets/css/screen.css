@@ -423,8 +423,8 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .44);
-    fill: rgba(0, 0, 0, .44);
+    color: rgba(0, 0, 0, .54);
+    fill: rgba(0, 0, 0, .54);
 }
 
 .graybg {
