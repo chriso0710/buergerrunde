@@ -342,6 +342,12 @@ blockquote {
     top: 100px;
 }
 
+@media (min-width:1024px) {
+    .share ul li {
+        display: block;
+    }
+}
+
 @media (max-width:999px) {
     .alertbar {
         position: relative !Important;
@@ -417,8 +423,8 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .54);
-    fill: rgba(0, 0, 0, .54);
+    color: rgba(0, 0, 0, .44);
+    fill: rgba(0, 0, 0, .44);
 }
 
 .graybg {
