@@ -5,6 +5,15 @@ permalink: /about
 search: true
 ---
 
+## Forum und Initiative in und für Heuweiler. Seit 2015.
+
+Die tollen Rückmeldungen zeigen, dass unsere Aktionen in Heuweiler und Umgebung gut ankommen. 
+Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte BürgerInnen, die Lust und Zeit haben, bei unseren Aktionen mitzuplanen mitzuhelfen oder mitzumachen. 
+Es spielt keine Rolle, was jede/r beitragen kann oder wie oft er/sie Zeit hat. 
+Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen oder schreibt eine eMail.
+
+## Die Bürgerrunde
+
 Die Heuweilermer Bürgerrunde soll eine Generalversammlung der Heuweilermer Bürger sein, in der jeder Bürger Heuweilers sich möglichst offen und konstruktiv an einer Diskussion über aktuelle und zukünftige Belange Heuweilers beteiligen kann. Die Diskussion innerhalb der Bürgerrunde soll so offen und frei wie möglich ablaufen. Im Idealfall gibt sich die Bürgerrunde die Themen selbst vor und entscheidet über die Behandlung dieser Themen und deren weiterer Entwicklung.
 
 Die Heuweilermer Bürgerrunde richtet sich an alle Bürger Heuweilers, die an der weiteren Entwicklung der Gemeinde Heuweiler interessiert sind. Um den Gesprächsprozess zu initiieren und im Gange zu halten, ist ein periodisches oder regelmäßiges Stattfinden der Heuweilermer Bürgerrunde sinnvoll. Aus dieser Perspektive erscheint eine quartalsmäßige Einladung zur Bürgerrunde angebracht.
