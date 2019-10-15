@@ -2,7 +2,7 @@
 title: Rückblick und Vorträge "Gut versorgt alt werden in Heuweiler"
 categories: [ Bürgerrunde, Weiterbildung, Gemeinschaft ]
 author: co
-image: "/assets/images/br_logo.svg"
+image: "/assets/images/altwerden.jpg"
 ---
 
 Die letzte Bürgerrunde des Jahres 2017 zum Thema "Gut versorgt alt werden in Heuweiler- (k)ein Traum?" rief großes Interesse im Dorf hervor. Wir konnten am 30.11. im Rathaus rund 50 Bürgerinnen und Bürger unseres Dorfes zu interessanten Vorträgen und einer anschließenden spannenden Fragerunde und Diskussion begrüßen. Die AGs "Bürgernetz" und "Bürger mobil" (Orangener Punkt) stellten sich und ihre Aktivitäten vor. Auch der stellvertretende Bürgermeister Claudius Stahl war anwesend. Wir bedanken uns bei allen Anwesenden für das Interesse und die Geldspenden zur Unterstützung unserer Aktionen.

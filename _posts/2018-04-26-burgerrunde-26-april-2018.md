@@ -4,7 +4,7 @@ event: 2018-04-26 19:30:00
 categories: [ Bürgerrunde, Weiterbildung ]
 location: Gemeindesaal, Rathaus
 author: co
-image: "/assets/images/br_logo.svg"
+image: "/assets/images/solar.jpg"
 ---
 
 ### Photovoltaik und Stromspeicher im Eigenheim: Die wichtigsten Fragen und Antworten.

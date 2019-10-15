@@ -4,7 +4,7 @@ event: 2017-11-30 19:00:00
 categories: [ Bürgerrunde, Weiterbildung, Gemeinschaft ]
 location: Gemeindesaal, Rathaus
 author: co
-image: "/assets/images/br_logo.svg"
+image: "/assets/images/altwerden.jpg"
 ---
 
 ### Gut versorgt alt werden in Heuweiler- (k)ein Traum?

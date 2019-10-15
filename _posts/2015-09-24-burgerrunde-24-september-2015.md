@@ -4,7 +4,7 @@ categories: [ Bürgerrunde, Weiterbildung ]
 event: 2015-09-24 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
-image: "/assets/images/br_logo.svg"
+image: "/assets/images/myecar.jpg"
 ---
 
 * Teilnehmer: ca. 15 Heuweilermer
@@ -127,3 +127,5 @@ Es wurde der Hinweis vorgebracht, dass der Dorfplatz im Winter auf dem Weg zum F
 
 [Car_Sharing_Stadtmobil_Südbaden.pdf](/assets/pdfs/Car_Sharing_Stadtmobil_Suedbaden.pdf)
 [Elektromobilität_in_Kommunen_Informationen_über_das_Elektro_CarSharing.pdf](/assets/pdfs/Elektromobilitaet_in_Kommunen_Informationen_ueber_das_Elektro_CarSharing.pdf)
+
+Bildquelle: [my-e-car](https://www.my-e-car.de/start.html)
