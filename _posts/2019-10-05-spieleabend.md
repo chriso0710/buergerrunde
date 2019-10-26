@@ -3,7 +3,7 @@ title: Spieleabend
 categories: [ Gemeinschaft ]
 author: fg
 event: 2019-11-14 18:00:00
-location: Schulungsraum, Rathaus
+location: Raum der Malteser, Rathaus
 image: "/assets/images/neubuerger/spiele.jpg"
 ---
 

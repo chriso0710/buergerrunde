@@ -1,6 +1,6 @@
 ---
 title: Klimaneutrale Gemeinde Heuweiler 2050?
-categories: [ Bürgerrunde ]
+categories: [ Bürgerrunde, Klimaschutz ]
 author: co
 event: 2019-10-18 18:30:00
 location: Gemeindesaal, Rathaus

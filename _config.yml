@@ -45,7 +45,7 @@ authors:
     name: Katja F
     display_name: Katja Fimmen
     email: katja.fimmen@gmx.de
-    description: "Lebt seit 1999 mit ihrer Familie in Heuweiler. Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG."
+    description: "Lebt seit 1999 mit ihrer Familie in Heuweiler. Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG. Initiatorin der Sportwoche Heuweiler."
   fg:
     name: Friederike
     display_name: Friederike Gutmann
@@ -66,6 +66,26 @@ authors:
     display_name: Thomas Frank
     email: tfrank@tfrank.net
     description: "Lebt seit 1999 mit seiner Familie in Heuweiler. Gründungsmitglied der Bürgerrunde und ehemaliger Vorstand."
+  ad:
+    name: Anne
+    display_name: Anne Dittrich
+    email: annedittrich@web.de
+    description: "Wohnt seit Sommer 2019 mit ihrer Familie in Heuweiler. Soziologin, erfahren in erneuerbaren Energien und Klimaschützerin im Kleinen."
+  cs:
+    name: Claudia
+    display_name: Claudia Schultz
+    email: cschultz@posteo.de
+    description: "Lebt mit ihrer Familie seit 13 Jahren in Heuweiler. Initiatorin der Sportwoche Heuweiler und bei der AG Neubürger ehrenamtlich tätig, außerdem engagiert sie sich bei der Frauenliste Heuweiler."
+  mh:
+    name: Michael
+    display_name: Michael Hermann
+    email: sonnenpfeifer@web.de
+    description: "Solarforscher mit Haus in Heuweiler. Weder Neu- noch Altbürger, sondern Gebrauchtbürger, der in der Kirche Orgel spielt und bei der Kultur AG mithilft."
+  bw:
+    name: Burkhard
+    display_name: Burkhard Werner
+    email: burk.werner@gmail.com
+    description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil. Im Vorstand der Bürgerrunde für die Kasse zuständig."
     
 # Plugins
 plugins:
