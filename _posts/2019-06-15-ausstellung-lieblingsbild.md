@@ -25,6 +25,7 @@ BM: Es ist ein mittelgroßes Gemälde, das ich vor ca. 5 Jahren gekauft habe. Me
 
 Bei wem könnte wohl dieses Bild zuhause hängen?
 ![Rotkäppchen](/assets/images/ausstellung/rotkaeppchen.jpg)
+
 Dieses Bild ist auch ein Lieblingsbild, weil eine lustige Geschichte damit verbunden ist. Der Besitzer hat es selber gemalt und wird es auf jeden Fall im Gemeindehaus Heuweiler zusammen mit der Geschichte präsentieren.
 
 Sind Sie neugierig geworden und haben auch ein Lieblingsbild, das Sie gerne mal anderen zeigen möchten? Melden Sie sich einfach bis zum 08.11. an, telefonisch bei Barbara Klausmann (07666-3928), Hubert Blattmann (07666-3668) oder Raphael Reichenbach (07666-881991) oder per Email an <buergerrunde-heuweiler@googlegroups.com>.
