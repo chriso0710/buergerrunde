@@ -3,7 +3,7 @@ title: Wunschkonzert mit dem Duo Retrosage
 categories: [ Konzert ]
 author: kf
 image: "/assets/images/konzert/retrosage.jpg"
-event: 2019-10-12 19:00:00
+event: 2019-10-12 20:00:00
 location: Gemeindesaal, Rathaus
 ---
 
