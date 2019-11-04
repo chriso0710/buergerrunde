@@ -1,6 +1,6 @@
 ---
 title: Bürgerrunde Sept 2015 - Zukunftsfähige Mobilität vor Ort
-categories: [ Bürgerrunde, Weiterbildung ]
+categories: [ Bürgerrunde, Weiterbildung, Klimaschutz ]
 event: 2015-09-24 20:00:00
 location: Schulungsraum, Rathaus
 author: kh

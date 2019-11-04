@@ -1,7 +1,7 @@
 ---
 title: Bürgerrunde April 2018 - Photovoltaik und Stromspeicher im Eigenheim
 event: 2018-04-26 19:30:00
-categories: [ Bürgerrunde, Weiterbildung ]
+categories: [ Bürgerrunde, Weiterbildung, Klimaschutz ]
 location: Gemeindesaal, Rathaus
 author: co
 image: "/assets/images/solar.jpg"
