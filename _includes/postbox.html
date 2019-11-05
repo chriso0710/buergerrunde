@@ -7,20 +7,27 @@
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         {% if post.image and option_compact == false %}
-            <div class="maxthumb">
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                    {% if post.image contains "://" %}
-                        {% assign image_url = post.image %}
-                    {% else %}
-                        {% capture image_url %}{{ post.image | prepend: site.baseurl }}{% endcapture %}
-                    {% endif %}
-                    {% if site.lazyimages == "enabled" %}
-                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{{ image_url }}" alt="{{ post.title }}">
-                    {% else %}
-                        <img class="img-fluid" src="{{ image_url }}" alt="{{ post.title }}">
-                    {% endif %}
-                </a>
-            </div>
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                {% if post.image contains "://" %}
+                    {% assign image_url = post.image %}
+                {% else %}
+                    {% capture image_url %}{{ post.image | prepend: site.baseurl }}{% endcapture %}
+                {% endif %}
+                {% if site.lazyimages == "enabled" %}
+                    <img class="card-img-top lazyimg"
+                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+                        data-src="{{ image_url }}" alt="{{ post.title }}">
+                {% else %}
+                    <img class="card-img-top" src="{{ image_url }}" alt="{{ post.title }}">
+                {% endif %}
+            </a>
+            <!--        
+            {% if post.categories %}
+                <div class="text-block">
+                    <h4>{{ post.categories | sort }}</h4>
+                </div>
+            {% endif %}
+            -->
         {% endif %}
         <div class="card-body">
             <h2 class="card-title">

@@ -108,11 +108,6 @@ section.recent-posts {
     }
 }
 
-.maxthumb {
-    max-height: 300px;
-    overflow: hidden;
-}
-
 .card-footer {
     border: 0;
 }
@@ -846,4 +841,28 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+.badge-danger {
+    background-color: #FF4E2C;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.text-block {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    width: 70%;
+    background-color: #FF4E2C;
+    opacity: 0.9;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
 }
