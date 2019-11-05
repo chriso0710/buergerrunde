@@ -30,7 +30,9 @@ Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Christian Ott  
 Am Flissert 6  
-79194 Heuweiler 
+79194 Heuweiler
+
+Fotos: Bürgerrunde Heuweiler, Unsplash, Künstler, sowie explizit im Artikel genannte Personen.
 
 ### Haftungsausschluss
 

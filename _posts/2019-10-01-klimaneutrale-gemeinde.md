@@ -31,6 +31,6 @@ Die ursprünglich für den 17.10. geplante Bürgerrunde entfällt zugunsten dies
 * Diskussion und Ideensammlung
 * Bewirtung durch die Bürgerrunde
 
-### Frühjahr 2020
+### Sommer 2020
 
-Die Bürgerrunde plant für das Frühjahr zusammen mit verschiedenen Institutionen, Schulen und Vereinen einen großen Klima-Aktionstag, an dem die Verbindungsstraße zwischen Heuweiler und Gundelfingen voll gesperrt werden soll. Weitere Details folgen.
+Die Bürgerrunde plant für 2020 zusammen mit verschiedenen Institutionen, Schulen und Vereinen einen großen Klima-Aktionstag, an dem die Verbindungsstraße zwischen Heuweiler und Gundelfingen voll gesperrt werden soll. Weitere Details folgen.
