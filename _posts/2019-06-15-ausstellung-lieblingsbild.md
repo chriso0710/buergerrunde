@@ -1,14 +1,12 @@
 ---
-title: '„Einfach mal zuhause abhängen!“'
+title: '„Einfach mal zuhause abhängen!“ - Ausstellung zeigt Lieblingsbilder'
 categories: [ Ausstellung ]
 author: kf
 event: 2019-11-17 15:00:00
 location: Rathaus
-image: "/assets/images/ausstellung/fahrlaenders.jpg"
+image: /assets/images/ausstellung/fahrlaenders.jpg
 ---
-
-Unter diesem Motto veranstaltet die Bürgerrunde Heuweiler am 17.11.19 die Ausstellung „Ich zeige Dir mein Lieblingsbild“.
-Sie haben auch ein Lieblingsbild und möchten es gerne anderen zeigen? Kein Problem. Die Bürgerrunde Heuweiler stellt Ihr Lieblingsbild zusammen mit vielen anderen im Gemeindehaus Heuweiler aus.
+Die Bürgerrunde Heuweiler lädt am 17.11.19 um 15:00 Uhr ins Foyer des Gemeindehauses Heuweiler zur Ausstellungseröffnung mit Sektempfang ein. Die Besucher erwartet ein bunter und spannender Mix an Bildern unterschiedlichster Techniken. Jedes Ausstellungsstück ist ein Lieblingsbild von Heuweilermer und Gundelfinger Bürgern. Diese präsentieren ihre Werke und die Geschichte dahinter. Kaffee und Kuchen trägt zum leiblichen Wohl bei. Für musikalische Untermalung ist ebenfalls gesorgt. Gegen 18 Uhr endet diese fulminante und einmalige Ausstellung mit einer Überraschung. Die Bürgerrunde Heuweiler freut sich über viele Besucher.
 
 >„Hier hängt normalerweise mein Lieblingsbild. Es ist mein Lieblingsbild, weil es ein Andenken an meine Mutter ist.“, sagt Annemarie Fahrländer. Herbert Fahrländer kann da nur zustimmen: „Wir möchten es der Öffentlichkeit zeigen, weil es etwas ganz Besonderes ist, und man so etwas heutzutage gar nicht mehr finden kann.“
 
