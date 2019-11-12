@@ -1,6 +1,6 @@
 ---
 title: Sommerliches Singen
-event: 2020-05-16 20:00:00
+event: 2020-07-17 20:00:00
 categories: [ Konzert ]
 location: Jugendhütte
 author: co
