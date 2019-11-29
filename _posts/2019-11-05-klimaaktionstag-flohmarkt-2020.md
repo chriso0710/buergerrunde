@@ -4,7 +4,7 @@ categories: [ Klimaschutz, Flohmarkt, Orangener Punkt ]
 event: 2020-06-21 10:00:00
 location: Verbindungsstraße Heuweiler - Gundelfingen
 author: co
-image: /assets/images/plakat.jpg
+image: /assets/images/op/klimaplakat.jpg
 ---
 Bitte vormerken: Die Bürgerrunde plant am Sonntag 21. Juni 2020 zusammen mit verschiedenen Institutionen, Schulen und Vereinen einen großen Klima-Aktionstag, an dem die Verbindungsstraße zwischen Heuweiler und Gundelfingen voll gesperrt werden soll. An dem Tag wird auch der Dorfflohmarkt 2020 stattfinden.
 

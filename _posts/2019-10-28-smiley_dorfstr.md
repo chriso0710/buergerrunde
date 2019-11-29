@@ -1,6 +1,6 @@
 ---
 title: Neuer Standort für den Smiley
-categories: [ Orangener Punkt ]
+categories: [ Mobilität ]
 author: co
 image: /assets/images/op/smiley_dorfstr.jpg
 ---
