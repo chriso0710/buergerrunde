@@ -1,7 +1,7 @@
 ---
 title: Neujahrsbegrüßung am Lagerfeuer
 categories: [ Gemeinschaft ]
-author: co
+author: dg
 event: 2020-01-05 16:30:00
 location: Jugendhütte
 image: /assets/images/buergernetz/feuer.jpg
