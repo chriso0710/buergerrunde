@@ -6,7 +6,7 @@ location: Verbindungsstraße Heuweiler - Gundelfingen
 author: co
 image: /assets/images/op/klimaplakat.jpg
 ---
-Bitte vormerken: Die Bürgerrunde plant am Sonntag 21. Juni 2020 zusammen mit verschiedenen Institutionen, Schulen und Vereinen einen großen Klima-Aktionstag, an dem die Verbindungsstraße zwischen Heuweiler und Gundelfingen voll gesperrt werden soll. An dem Tag wird auch der Dorfflohmarkt 2020 stattfinden.
+Bitte vormerken: Die Bürgerrunde plant am Sonntag 21. Juni 2020 zusammen mit verschiedenen Institutionen, Schulen und Vereinen einen großen Klima-Aktionstag, an dem die Verbindungsstraße zwischen Heuweiler und Gundelfingen komplett autofrei werden soll. An dem Tag wird auch der Dorfflohmarkt 2020 stattfinden.
 
 Folgende Aktionen sind an dem Tag denkbar:
 
