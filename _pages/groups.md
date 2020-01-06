@@ -15,11 +15,11 @@ Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung k
 * [Konzert](/category/konzert)
 * [Flohmarkt](/category/flohmarkt)
 
-### AG Bürger mobil
+### AG Mobil und Klimaschutz
 
-Unsere Themen: Mobilität, Sicherheit, Attraktivität sowie Erleichterungen für ältere MitbürgerInnen. 
+Unsere Themen: Mobilität, Sicherheit, Klimaschutz. 
 
-Unsere Ziele: Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität, CO2-/NOx-Reduktion und Klimaschutz.
+Unsere Ziele: Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität, CO2-/NOx-Reduktion, klimaneutrale Gemeinde 2050.
 
 Verkehrsberuhigung: Mehr 30er Zonen, Smilies mit Radar-Geschwindigkeitsangabe an besonders gefährlichen Stellen, (fester) Blitzer, Dorfplatz verkehrsberuhigen, Bordsteine am Rathaus, fehlende Bürgersteige einrichten, verbreitern, Fußgängerüberweg an Schule.
 
