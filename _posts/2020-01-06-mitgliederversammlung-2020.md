@@ -17,3 +17,5 @@ image: "/assets/images/br_logo.svg"
 6. Wahl des Vorstands
 7. Aussprache über die Vereinsziele für das laufende Jahr, aktuelle Planungen
 8. Weitere Anträge
+    * AG Mobil und Klimaschutz
+    * Diskussion über die Kooperation mit anderen Aktionsgruppen, Vereinen, Initiativen
