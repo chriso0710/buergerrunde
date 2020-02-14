@@ -6,4 +6,10 @@ location: Schulungsraum, Rathaus
 author: co
 image: /assets/images/br_logo.svg
 ---
-Agenda folgt
+Agenda:
+
+* Vorstellung der Ergebnisse des Klimaschutz-Infoabends aus dem Okt im Gemeinderat am 12.3.: Präsentation
+* Diskussion Klimaaktionstag und Flohmarkt: Status, Planung, Kosten, Standgebühren
+* Berichte aus den AGs
+
+Der neue Klimaschutzmanager der Gemeinde Gundelfingen David Matuschek wird an der BR teilnehmen.
