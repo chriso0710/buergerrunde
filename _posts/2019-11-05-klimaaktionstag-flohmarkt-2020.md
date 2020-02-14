@@ -1,12 +1,12 @@
 ---
-title: Großer Klima-Aktionstag und Dorfflohmarkt
+title: Großer Klima-Aktionstag und Flohmarkt
 categories: [ Klimaschutz, Flohmarkt, Orangener Punkt ]
 event: 2020-06-20 10:00:00
 location: Verbindungsstraße Heuweiler - Gundelfingen
 author: co
 image: /assets/images/op/klimaplakat.jpg
 ---
-(Achtung Terminänderung: Statt des bisher angekündigten Termins findet der Klimaaktionstag und Dorfflohmarkt am Samstag 20. Juni 2020 statt.)
+(Achtung Terminänderung: Statt des bisher angekündigten Termins findet der Klimaaktionstag und Flohmarkt am Samstag 20. Juni 2020 statt.)
 
 Wir brauchen Euch/Sie für unseren Klimaaktionstag! Wir wagen es, das große Ziel einer klimaneutralen Gemeinde Heuweiler anzugehen. Mit engagierten Menschen wie Euch/Ihnen und Euren/Ihren Ideen.
 

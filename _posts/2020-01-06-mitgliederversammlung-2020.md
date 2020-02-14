@@ -19,3 +19,4 @@ image: "/assets/images/br_logo.svg"
 8. Weitere Anträge
     * AG Mobil und Klimaschutz
     * Diskussion über die Kooperation mit anderen Aktionsgruppen, Vereinen, Initiativen
+    * Zusammenlegung der AGs Neubürger + Kennenlernen + Bürgernetz
