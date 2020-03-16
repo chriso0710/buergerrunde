@@ -17,6 +17,4 @@ Die aktuelle Präsentation und die Auswertung zum Herunterladen:
 * [Handout PDF](https://drive.google.com/file/d/11rjLrnAu8PNT14orEd1PzJEB0h9KUo8Y/view?usp=sharing)
 * [Auswertung PDF](https://drive.google.com/file/d/1S_lQIJn1AEALh3Hk5BrNZV5WCPknLlj2/view?usp=sharing)
 
-Die Vorträge vom Oktober sind hier nachzulesen:
-
-* [Bericht Klimaneutrale Gemeinde](/bericht-klimaneutrale-gemeinde/)
+Die Vorträge vom Oktober sind unter [Bericht Klimaneutrale Gemeinde](/bericht-klimaneutrale-gemeinde/) nachzulesen.
