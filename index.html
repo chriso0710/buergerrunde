@@ -23,7 +23,7 @@ title: Home
             {% endfor %}
 
             {% assign filtered_posts = filtered_posts | sort: 'event' %}
-            {% for post in filtered_posts limit: 9 %}
+            {% for post in filtered_posts limit: 6 %}
                 {% include postbox.html %}
             {% endfor %}
         </div>
