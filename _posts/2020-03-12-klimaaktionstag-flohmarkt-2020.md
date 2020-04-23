@@ -6,7 +6,7 @@ location: Verbindungsstraße Heuweiler - Gundelfingen
 author: co
 image: /assets/images/op/klimaplakat.jpg
 ---
-ACHTUNG: Gegenwärtig gehen wir davon aus, dass der Klimaaktionstag am bisher geplanten Termin (Juni) abgesagt werden wird. Wir suchen nach einem Ersatztermin.
+ACHTUNG: Der Klimaaktionstag kann am bisher geplanten Termin nicht stattfinden. Wir suchen nach einem Ersatztermin.
 
 ### Kimaaktionstag Heuweiler
 

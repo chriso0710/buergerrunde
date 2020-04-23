@@ -1,11 +1,13 @@
 ---
 title: Mitgliederversammlung 2020
-event: 2020-04-29 19:00:00
+event: 2020-06-24 19:00:00
 categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
 image: "/assets/images/br_logo.svg"
 ---
+
+ACHTUNG: VERSCHOBEN AUF JUNI.
 
 ### Tagesordnung
 
