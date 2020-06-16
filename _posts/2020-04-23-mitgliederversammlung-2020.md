@@ -2,12 +2,12 @@
 title: Mitgliederversammlung 2020
 event: 2020-06-24 19:00:00
 categories: [ Bürgerrunde ]
-location: Schulungsraum, Rathaus
+location: Jugendhütte
 author: co
 image: "/assets/images/br_logo.svg"
 ---
 
-ACHTUNG: VERSCHOBEN AUF JUNI.
+ACHTUNG: Die Mitgliederversammlung findet wegen der Coronakrise im Freien an der Jugendhütte statt, nicht im Rathaus.
 
 ### Tagesordnung
 

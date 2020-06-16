@@ -1,9 +1,10 @@
 ---
 title: Sommerliches Singen
-event: 2020-07-17 20:00:00
 categories: [ Konzert ]
 location: Jugendhütte
 author: co
 image: /assets/images/konzert/singen.jpg
 ---
-Zusammen mit dem Kirchenchor, Details folgen
+ACHTUNG: DIE VERANSTALTUNG IST ABGESAGT. 
+
+Möglicherweise wird es einen neuen Termin geben, Details folgen.
