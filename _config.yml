@@ -40,7 +40,7 @@ authors:
     name: Christian
     display_name: Christian Ott
     email: mail@christian.ott.name
-    description: "Erster Vorstand des Vereins. Lebt seit 1999 mit seiner Familie in Heuweiler. Liebt die Natur und die Berge des Schwarzwalds."
+    description: "Erster Vorstand des Vereins. Lebt seit 1999 mit seiner Familie in Heuweiler. Liebt die Natur und die Berge des Schwarzwalds, am liebsten auf dem Rad."
   kf:
     name: Katja F
     display_name: Katja Fimmen
@@ -75,17 +75,17 @@ authors:
     name: Claudia
     display_name: Claudia Schultz
     email: cschultz@posteo.de
-    description: "Lebt mit ihrer Familie seit 13 Jahren in Heuweiler. Initiatorin der Sportwoche Heuweiler und bei der AG Neubürger ehrenamtlich tätig, außerdem engagiert sie sich bei der Frauenliste Heuweiler."
+    description: "Lebt mit ihrer Familie seit 13 Jahren in Heuweiler. Initiatorin der Sportwoche Heuweiler und bei der AG Neubürger ehrenamtlich tätig, engagiert sich in der Frauenliste Heuweiler."
   mh:
     name: Michael
     display_name: Michael Hermann
     email: sonnenpfeifer@web.de
-    description: "Solarforscher mit Haus in Heuweiler. Weder Neu- noch Altbürger, sondern Gebrauchtbürger, der in der Kirche Orgel spielt und bei der Kultur AG mithilft."
+    description: "Solarforscher mit Haus in Heuweiler. Weder Neu- noch Altbürger, sondern 'Gebrauchtbürger', der in der Kirche Orgel spielt und dem der Klimaschutz wichtig ist."
   bw:
     name: Burkhard
     display_name: Burkhard Werner
     email: burk.werner@gmail.com
-    description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil. Im Vorstand der Bürgerrunde für die Kasse zuständig."
+    description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil und Klima. Im Vorstand der Bürgerrunde für die Kasse zuständig."
     
 # Plugins
 plugins:
