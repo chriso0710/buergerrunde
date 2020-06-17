@@ -1,5 +1,5 @@
 ---
-title: Bürgerrunde Juli 2020
+title: "ABGESAGT: Bürgerrunde Juli 2020"
 categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
