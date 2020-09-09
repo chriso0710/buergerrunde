@@ -33,15 +33,19 @@ Route: Dorfstraße Heuweiler, Malefikantenweg bis Grüner Weg, Grüner Weg, Gund
 
 Wir radeln gemeinsam eine rund 5 Kilometer lange Strecke und erleben dabei die aktuell vorhandene Radinfrastruktur zwischen Heuweiler und Gundelfingen. Ab 15 Radfahrer:nnen sind wir ein „geschlossener Verband“ nach § 27 StVO und müssen von anderen Verkehrsteilnehmern bevorzugt werden. Kinder auf eigenem Rad sind gerne willkommen.
 
+![Karte](/assets/images/klimamobil/karte_radtour.jpg)
+
 #### 15:30 - Austausch, Befragung und Picknick
 
-Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Der genaue Ort für das Picknick wird noch bekanntgegeben. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. Wir wollen uns austauschen, über Erfahrungen und Lösungsansätze berichten und ein Stimmungsbild der Radler:innen einsammeln, um Möglichkeiten der Verbesserung der Radinfrastruktur zwischen Heuweiler und Gundelfingen auszuloten. Dazu werden auch Unterschriftenlisten zum Ausfüllen ausgegeben, die dem Gemeinderat Heuweiler vorgelegt werden.
+Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Der genaue Ort für das Picknick wird noch bekanntgegeben. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. 
+
+Wir wollen uns austauschen, über Erfahrungen und Lösungsansätze berichten und ein Stimmungsbild der Radler:innen einsammeln, um Möglichkeiten der Verbesserung der Radinfrastruktur zwischen Heuweiler und Gundelfingen auszuloten. Dazu werden auch Unterschriftenlisten zum Ausfüllen ausgegeben, die dem Gemeinderat Heuweiler vorgelegt werden.
 
 #### Was noch?
 
-* Ohne Auto - geht das überhaupt? - Wir zeigen Euch Lastenräder!
+* Ohne Auto - geht das überhaupt? - Wir zeigen Euch Lastenräder! Eines unserer langfristigen Ziele ist der Anschluss Heuweilers an das Netzwerk des [LastenVelo Freiburg](http://www.lastenvelofreiburg.de). LastenVelo Freiburg wird uns ein modernes E-Lastenrad für den Tag zur Verfügung stellen.
 * Euer Fahrrad lief nicht rund auf der Tour? - Wir helfen uns gegenseitig und halten am Zielort einen Werkzeugkoffer bereit.
-* Ihr braucht neue Energie nach der Tour? - Kaltgetränke werden angeboten.
+* Ihr braucht neue Energie nach der Tour? - Kaltgetränke werden angeboten. Transportiert im Lastenrad.
 
 #### Ab 17:00 – Ausklingen der Veranstaltung
 
