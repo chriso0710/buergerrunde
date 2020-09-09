@@ -2,7 +2,7 @@
 title: Ein Abend rund ums Klima, zum Nachdenken und Anpacken
 categories: [ Bürgerrunde, Klimaschutz ]
 author: ad
-image: "/assets/images/klimaneutrale_gemeinde_sonne.jpg"
+image: "/assets/images/klimamobil/sonne.jpg"
 ---
 
 Einmal mehr hatte die Bürgerrunde Heuweiler ins Gemeindehaus geladen. Zum ersten Mal aber zu einem neuen und drängenden Thema: dem Klimawandel. So stand der Abend des 18. Oktober unter dem Motto „Wir wollen uns gemeinsam auf den Weg machen“, denn allen Beteiligten ist klar, dass Resignation auch trotz der riesigen Aufgabe nicht das Mittel der Wahl sein darf.

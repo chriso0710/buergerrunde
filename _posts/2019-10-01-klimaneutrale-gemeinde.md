@@ -4,7 +4,7 @@ categories: [ Bürgerrunde, Klimaschutz ]
 author: co
 event: 2019-10-18 18:30:00
 location: Gemeindesaal, Rathaus
-image: "/assets/images/klimaneutrale_gemeinde_sonne.jpg"
+image: "/assets/images/klimamobil/klimaneutrale_gemeinde.png"
 ---
 
 > "Die Klimakrise entscheidet darüber, ob die Erde ein lebenswerter Ort bleibt." (Winfried Kretschmann). 

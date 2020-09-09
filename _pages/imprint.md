@@ -11,10 +11,10 @@ Am Flissert 6
 
 Vertreten durch: 
 
-* Erster Vorsitzender Christian Ott
-* Zweite Vorsitzende Julia Langner
-* Kassenwart Burkhard Werner
-* Schriftführerin Katja Holstein-Gußmann
+* Erster Vorsitzender: Christian Ott
+* Zweite Vorsitzende: Anne Dittrich
+* Kassenwart: Burkhard Werner
+* Schriftführerin: Katja Holstein-Gußmann
 
 Kontakt: 
 

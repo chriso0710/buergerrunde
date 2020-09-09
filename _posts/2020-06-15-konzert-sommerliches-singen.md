@@ -5,4 +5,4 @@ location: Jugendhütte
 author: co
 image: /assets/images/konzert/singen.jpg
 ---
-ACHTUNG - Möglicherweise wird es einen neuen Termin geben, Details folgen.
+ACHTUNG: Alle Kulturtermine für 2020 sind abgesagt.

@@ -40,17 +40,17 @@ authors:
     name: Christian
     display_name: Christian Ott
     email: mail@christian.ott.name
-    description: "Erster Vorstand des Vereins. Lebt seit 1999 mit seiner Familie in Heuweiler. Liebt die Natur und die Berge des Schwarzwalds, am liebsten auf dem Rad."
+    description: "Gründungsmitglied der Bürgerrunde und seitdem erster Vorstand des Vereins. Liebt die Natur und die Berge des Schwarzwalds, am liebsten auf dem Rad."
   kf:
     name: Katja F
     display_name: Katja Fimmen
     email: katja.fimmen@gmx.de
-    description: "Lebt seit 1999 mit ihrer Familie in Heuweiler. Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG. Initiatorin der Sportwoche Heuweiler."
+    description: "Gründungsmitglied der Bürgerrunde. Engagiert in der Kultur AG. Initiatorin der Sportwoche Heuweiler."
   fg:
     name: Friederike
     display_name: Friederike Gutmann
     email: friederike.gutmann@gmx.de
-    description: "Lebt seit über 10 Jahren mit ihrer Familie in Heuweiler. Engagiert in der AG Neubürger und im Gundelfinger Flüchtlingshelferkreis."
+    description: "Engagiert in der AG Neubürger und im Gundelfinger Flüchtlingshelferkreis."
   kh:
     name: Katja H
     display_name: Katja Holstein-Gußmann
@@ -60,27 +60,27 @@ authors:
     name: Daniela
     display_name: Daniela Giesenhagen
     email: daniela.giesenhagen@web.de
-    description: "Lebt seit 1999 mit ihrer Familie in Heuweiler und erfreut sich täglich am eigenen Garten. Engagiert in der AG Bürgernetz."
+    description: "Erfreut sich täglich am eigenen Garten und am Flissertwald. Interessiert an Natur und Nachhaltigkeit, engagiert in der AG Bürgernetz."
   tf:
     name: Thomas
     display_name: Thomas Frank
     email: tfrank@tfrank.net
-    description: "Lebt seit 1999 mit seiner Familie in Heuweiler. Gründungsmitglied der Bürgerrunde und ehemaliger Vorstand."
+    description: "Gründungsmitglied der Bürgerrunde und ehemaliger Vorstand."
   ad:
     name: Anne
     display_name: Anne Dittrich
     email: annedittrich@web.de
-    description: "Wohnt seit Sommer 2019 mit ihrer Familie in Heuweiler. Soziologin, erfahren in erneuerbaren Energien und Klimaschützerin im Kleinen."
+    description: "Wohnt seit kurzem mit ihrer Familie in Heuweiler. Seit 2020 im Vorstand der Bürgerrunde. Soziologin, erfahren in erneuerbaren Energien und Klimaschützerin im Kleinen."
   cs:
     name: Claudia
     display_name: Claudia Schultz
     email: cschultz@posteo.de
-    description: "Lebt mit ihrer Familie seit 13 Jahren in Heuweiler. Initiatorin der Sportwoche Heuweiler und bei der AG Neubürger ehrenamtlich tätig, engagiert sich in der Frauenliste Heuweiler."
+    description: "Initiatorin der Sportwoche Heuweiler und in verschiedenen AGs der Bürgerrunde aktiv. Engagiert sich auch in der Frauenliste Heuweiler."
   mh:
     name: Michael
     display_name: Michael Hermann
     email: sonnenpfeifer@web.de
-    description: "Solarforscher mit Haus in Heuweiler. Weder Neu- noch Altbürger, sondern 'Gebrauchtbürger', der in der Kirche Orgel spielt und dem der Klimaschutz wichtig ist."
+    description: "Solarforscher mit Haus in Heuweiler. Weder Neu- noch Altbürger, sondern 'Gebrauchtbürger', der in der Kirche Orgel spielt und dem Klimaschutz wichtig ist."
   bw:
     name: Burkhard
     display_name: Burkhard Werner

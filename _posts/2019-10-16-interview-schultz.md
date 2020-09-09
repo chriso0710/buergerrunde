@@ -2,7 +2,7 @@
 title: Claudia Schultz im Gespräch mit der Badischen Zeitung
 categories: [ Bürgerrunde, Klimaschutz ]
 author: cs
-image: "/assets/images/claudia.jpg"
+image: "/assets/images/klimamobil/claudia.jpg"
 ---
 
 BZ: Frau Schultz, Sie und Ihre Mitstreiter wollen mehr Klimaschutz in Heuweiler. Wie soll das genau aussehen? 

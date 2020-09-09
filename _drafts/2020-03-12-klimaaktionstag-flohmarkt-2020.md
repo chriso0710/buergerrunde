@@ -4,7 +4,7 @@ categories: [ Klimaschutz, Flohmarkt, Orangener Punkt ]
 event: 
 location: Verbindungsstraße Heuweiler - Gundelfingen
 author: co
-image: /assets/images/op/klimaplakat.jpg
+image: /assets/images/klimamobil/klimaplakat.jpg
 ---
 ACHTUNG: Der Klimaaktionstag kann am bisher geplanten Termin nicht stattfinden. Wir suchen nach einem Ersatztermin.
 

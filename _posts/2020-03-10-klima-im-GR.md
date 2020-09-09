@@ -2,7 +2,7 @@
 title: Bürgerrunde stellt Bürgerwünsche zum Klimaschutz vor
 categories: [ Klimaschutz ]
 author: co
-image: "/assets/images/klimaneutrale_gemeinde_sonne.jpg"
+image: "/assets/images/klimamobil/sonne.jpg"
 location: Gemeindesaal, Rathaus
 event: 2020-03-12 19:00:00
 ---

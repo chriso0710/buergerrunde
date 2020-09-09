@@ -4,7 +4,7 @@ categories: [ Bürgerrunde, Weiterbildung, Klimaschutz ]
 event: 2015-09-24 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
-image: "/assets/images/myecar.jpg"
+image: "/assets/images/klimamobil/myecar.jpg"
 ---
 
 * Teilnehmer: ca. 15 Heuweilermer
