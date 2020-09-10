@@ -4,14 +4,14 @@ categories: [ Klimaschutz, Mobilität ]
 event: 2020-09-20 14:30:00
 location: Rathausplatz Heuweiler
 author: ad
-image: /assets/images/klimamobil/radweg.png
+image: /assets/images/klimamobil/plakat_radtour.jpg
 ---
 
 Unter diesem Motto veranstaltet die AG Klima und Mobilität der Bürgerrunde Heuweiler am Sonntag, den 20. September 2020 eine Radtour. Herzlich willkommen zur gemeinsam Fahrt sind alle großen und kleinen Radler:innen, die sich für eine bessere Radinfrastruktur in der Region interessieren und stark machen wollen. Bei starkem Regen wird die Veranstaltung verschoben.
 
 Los geht es um 14:30 Uhr mit einer Begrüßung am Rathausplatz in Heuweiler. Auf einer ca. fünf Kilometer langen Rundtour erleben wir dann gemeinsam, wie es aktuell um die Straßen und Wege zwischen Gundelfingen und Heuweiler bestellt ist. Ab 15 Radfahrer:innen wäre die Gruppe als ein „geschlossener Verband“ nach § 27 StVO anzusehen, der von anderen Verkehrsteilnehmern bevorzugt behandelt werden muss. Kinder auf eigenem Rad sind gerne willkommen.
 
-Im Anschluss sind alle Radler:innen herzlich eingeladen, ihre mitgebrachten Decken und Leckereien auszupacken und gemeinsam zu picknicken. Der genaue Ort für das Picknick wird noch bekanntgegeben. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten.
+Im Anschluss sind alle Radler:innen herzlich eingeladen, ihre mitgebrachten Decken und Leckereien auszupacken und gemeinsam zu picknicken. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten.
 Wir wollen uns austauschen, über Erfahrungen und Lösungsansätze berichten und ein Stimmungsbild der Radler:innen einsammeln, um Möglichkeiten der Verbesserung der Radinfrastruktur zwischen Heuweiler und Gundelfingen auszuloten. Dazu werden auch Unterschriftenlisten zum Ausfüllen ausgegeben, die dem Gemeinderat Heuweiler vorgelegt werden. 
 Für alle, die erfahren wollen, wie es im Alltag auch ohne Auto geht, werden Lastenräder gezeigt und können ausprobiert werden. Wer feststellt, dass sein Rad auf der Tour nicht ganz rund lief, kann mit Hilfe anderer das Rad reparieren.
 
@@ -37,7 +37,7 @@ Wir radeln gemeinsam eine rund 5 Kilometer lange Strecke und erleben dabei die a
 
 #### 15:30 - Austausch, Befragung und Picknick
 
-Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Der genaue Ort für das Picknick wird noch bekanntgegeben. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. 
+Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Das Ende der Tour ist auf dem Radhausplatz. Das Picknick findet oben an der Jugendhütte statt. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. 
 
 Wir wollen uns austauschen, über Erfahrungen und Lösungsansätze berichten und ein Stimmungsbild der Radler:innen einsammeln, um Möglichkeiten der Verbesserung der Radinfrastruktur zwischen Heuweiler und Gundelfingen auszuloten. Dazu werden auch Unterschriftenlisten zum Ausfüllen ausgegeben, die dem Gemeinderat Heuweiler vorgelegt werden.
 
