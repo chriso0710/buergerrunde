@@ -86,6 +86,11 @@ authors:
     display_name: Burkhard Werner
     email: burk.werner@gmail.com
     description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil und Klima. Im Vorstand der Bürgerrunde für die Kasse zuständig."
+  jk:
+    name: Jochen
+    display_name: Jochen Kreher
+    email: jochen_kreher@t-online.de
+    description: "Engagiert in der AG Mobil und Klima. Klimaschützer und passionierter Radfahrer."
     
 # Plugins
 plugins:
