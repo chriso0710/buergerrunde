@@ -37,7 +37,7 @@ Wir radeln gemeinsam eine rund 5 Kilometer lange Strecke und erleben dabei die a
 
 #### 15:30 - Austausch, Befragung und Picknick
 
-Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Das Ende der Tour ist auf dem Radhausplatz. Das Picknick findet oben an der Jugendhütte statt. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. 
+Alle Radler:innen sind herzlich eingeladen, Decken und Leckereien mitzubringen und nach der Tour gemeinsam zu picknicken. Das Ende der Tour ist auf dem Radhausplatz. Das Picknick findet auf der Wiese oberhalb des Rathausplatzes statt. Hunde sind nicht erlaubt. Kaltgetränke werden angeboten. 
 
 Wir wollen uns austauschen, über Erfahrungen und Lösungsansätze berichten und ein Stimmungsbild der Radler:innen einsammeln, um Möglichkeiten der Verbesserung der Radinfrastruktur zwischen Heuweiler und Gundelfingen auszuloten. Dazu werden auch Unterschriftenlisten zum Ausfüllen ausgegeben, die dem Gemeinderat Heuweiler vorgelegt werden.
 
