@@ -33,11 +33,9 @@ Bürgerbus und E-Car-Sharing: Installation von mindestens einem Elektroauto in K
 
 ### AG Bürgernetz
 
-Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch besser zu vernetzen, beispielsweise über Nachbarschaftshilfe. Wir organisieren schöne Veranstaltungen, wie z.B. das Frauenfrühstück, und freuen uns über jeden, der Lust hat, mit uns weiter zu denken und unsere Ziele Schritt für Schritt anzugehen und umzusetzen. Wir sind eine offene Runde und freuen uns über jede Unterstützung.
+Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch besser zu vernetzen. Wir organisieren schöne Veranstaltungen, wie z.B. das Frauenfrühstück, und freuen uns über jeden, der Lust hat, mit uns weiter zu denken und unsere Ziele Schritt für Schritt anzugehen und umzusetzen. Wir sind eine offene Runde und freuen uns über jede Unterstützung.
 
-Bei unseren Aktionen geht es auch um einen Austausch und Kennenlernen von Menschen in Heuweiler. Wir möchten hier junge und alte, neue und eingesessene MitbürgerInnen aus Heuweiler zusammenbringen. 
-Die AG Neubürger hilft seit Februar 2019 Zugezogenen mit Migrationshintergrund bei ihren Aufgaben im Alltag. 
-NeubürgerInnen heißen wir willkommen. Wenn möglich begrüßen wir Neuzugezogene persönlich mit einem kleinen Geschenk und mit einem Exemplar unseres Bildbands über Heuweiler.
+Bei unseren Aktionen geht es auch um einen Austausch und Kennenlernen von Menschen in Heuweiler. Wir möchten hier junge und alte, neue und eingesessene MitbürgerInnen aus Heuweiler zusammenbringen. Die AG hilft seit Februar 2019 Zugezogenen mit Migrationshintergrund bei ihren Aufgaben im Alltag. NeubürgerInnen heißen wir willkommen. Wenn möglich begrüßen wir Neuzugezogene persönlich mit einem kleinen Geschenk und mit einem Exemplar unseres Bildbands über Heuweiler.
 
 * [Nachbarschaftshilfe](/category/nachbarschaftshilfe)
 * [Gemeinschaft](/category/gemeinschaft)
