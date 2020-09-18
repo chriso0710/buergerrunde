@@ -92,4 +92,4 @@ Variante 1 war immer wieder in der politischen Debatte. Ist wegen notwendigen Gr
 
 Variante 2 bedeutet die Asphaltierung noch unbefestigter Teilstücke zwischen Heuweiler und Gundelfingen, ggfls. im Rahmen des Radschnellweges Freiburg-Waldkirch/Emmendingen umsetzbar.
 
-Variante 3 bedeutet: Radfahrer/Fußgänger haben Vorrang, aller anderer Verkehr hat Nachrang. Überholen möglich, falls kein Gegenverkehr. Tempo 30 max. für alle. Statt 2 Min. mit 60 Kmh in 4 Min. mit 30 Kmh per KFZ nach Gundelfingen.
+Variante 3 Fahrradstraße bedeutet: Radfahrer/Fußgänger haben Vorrang, aller anderer Verkehr hat Nachrang. Überholen möglich, falls kein Gegenverkehr. Tempo 30 max. für alle. Statt 2 Min. mit 60 Kmh in 4 Min. mit 30 Kmh per KFZ nach Gundelfingen.
