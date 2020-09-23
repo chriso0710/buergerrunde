@@ -17,8 +17,8 @@ Unterzeichnende wollen grundsätzlich einen solchen Weg! Bitte eine der drei ge
 <div class="form-group">
   <label class="col-md-12 control-label" for="bindafuer"><strong>Ich bin grundsätzlich für einen befestigten Fuß-/Radweg</strong></label>
   <div class="col-md-12">
-    <label class="checkbox-inline" for="bindafuer-0">
-      <input type="checkbox" name="bindafuer" id="bindafuer-0" value="1">
+    <label class="checkbox-inline" for="bindafuer">
+      <input type="checkbox" name="bindafuer" id="bindafuer" value="1">
       Ja
     </label>
   </div>
