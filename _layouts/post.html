@@ -70,6 +70,23 @@ archive: false
             {% endif %}
             <!-- End Featured Image -->
 
+            <!-- Gallery -->
+            {% if page.gallery.first %}
+                <div class="card-columns">
+                    {% for item in page.gallery %}
+                        {% if item contains "://" %}
+                            {% assign image_url = item %}
+                        {% else %}
+                            {% capture image_url %}{{ item | prepend: site.baseurl }}{% endcapture %}
+                        {% endif %}
+                        <div class="card">
+                            <img class="card-img-top" src="{{ image_url }}" alt="{{ page.title }}"">
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+            <!-- End Gallery -->
+
             <!-- Post Content -->
             <div class="article-post">
                 {{content}}

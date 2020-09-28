@@ -19,6 +19,8 @@ Dass weniger motorisierter Verkehr gut für das Klima und unsere Luft ist, weiß
 
 Schon eine Verkehrszählung im Jahr 2000 hat gezeigt, dass bis zu 1.600 Radfahrer pro Tag zwischen Heuweiler und Gundelfingen unterwegs sind. Seit Beginn der Corona-Krise sind noch mehr Menschen auf’s Rad umgestiegen. Eine [Haushaltsbefragung]({{ '/auswertung-umfrage-verkehr' | relative_url }}) im Frühjahr dieses Jahres ergab: 79% der befragten Haushalte sind für einen Radweg zwischen Heuweiler und Gundelfingen. Einen Mangel an Fahrrädern scheint es in Heuweiler nicht zu geben, finden sich doch nach Ergebnissen der Befragung im Durchschnitt 2,5 funktionsfähige Fahrräder in jedem Haushalt - sorgen wir gemeinsam dafür, dass es Spaß macht, sie regelmäßig zu benutzen!
 
+[Interview mit Claudia Schultz in der BZ](https://www.badische-zeitung.de/fuer-radfahrer-ist-die-jetzige-situation-nicht-gut--193935862.html)
+
 ### Geplantes Programm
 
 #### 14:30 - Begrüßung 
