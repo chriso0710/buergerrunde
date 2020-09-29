@@ -19,13 +19,22 @@ Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung k
 
 Unsere Themen: Mobilität, Sicherheit, Klimaschutz. 
 
-Unsere Ziele: Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität, CO2-/NOx-Reduktion, klimaneutrale Gemeinde 2050.
+Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität.
 
-Verkehrsberuhigung: Mehr 30er Zonen, Smilies mit Radar-Geschwindigkeitsangabe an besonders gefährlichen Stellen, (fester) Blitzer, Dorfplatz verkehrsberuhigen, Bordsteine am Rathaus, fehlende Bürgersteige einrichten, verbreitern, Fußgängerüberweg an Schule.
+CO2-/NOx-Reduktion. Klimaneutrale Gemeinde 2050. Ausbau Solaranlagen und Batteriespeicher.
 
-Aktion Orangener Punkt: Eine Mitnahme-/Mitfahrgelegenheit auf freiwilliger Basis. An mehreren Standorten können sich erwachsene MitbürgerInnen in Richtung Gundelfingen, Denzlingen oder Glottertal mitnehmen lassen. 
+Verkehrsberuhigung und Sicherheit: Mehr 30er Zonen, Smilies mit Radar-Geschwindigkeitsangabe an besonders gefährlichen Stellen, Dorfplatz verkehrsberuhigen, Fußgängerüberweg an Schule.
 
-Bürgerbus und E-Car-Sharing: Installation von mindestens einem Elektroauto in Kooperation mit einem südbadischen Anbieter, möglichst in Zusammenarbeit der Gemeinde. Fester zentraler Standort mit Ladestation. Das Elektroauto könnte auch Aufgaben als "Dorfauto" übernehmen und als "Bürgerbus" eingesetzt werden.
+Mitfahraktion Orangener Punkt: Eine Mitnahme-/Mitfahrgelegenheit auf freiwilliger Basis mit mehreren Haltepunkten in der Region. 
+
+E-Car-Sharing: Installation von einem Elektroauto in Kooperation mit einem südbadischen Anbieter, möglichst in Zusammenarbeit mit der Gemeinde. Fester zentraler Standort einer öffentlichen Ladestation für E-Autos und E-Bikes. 
+
+Bürgerbus: Das Elektroauto könnte auch Aufgaben als "Dorfauto" übernehmen und als Bürgerbus eingesetzt werden. Verlässliche Bürgerbusverbindung zwischen Heuweiler und Gundelfingen.
+
+Fahrradmobilität: Stellplatz für ein E-Lastenrad im Sharingbetrieb, Anbindung an LastenVelo Freiburg eV. 
+Bessere Fahrradinfrastruktur, sicherer und guter Radweg nach Gundelfingen, Anbindung an das Radschnellwegenetz.
+
+Dorfladen, Dorftreffpunkt, lokaler Konsum.
 
 * [Klimaschutz](/category/klimaschutz)
 * [Orangener Punkt](/category/orangener-punkt)
