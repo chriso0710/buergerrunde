@@ -15,7 +15,7 @@ Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung k
 * [Konzert](/category/konzert)
 * [Flohmarkt](/category/flohmarkt)
 
-### AG Mobil und Klimaschutz
+### AG Mobil und Klima
 
 Unsere Themen: Mobilität, Sicherheit, Klimaschutz. 
 
