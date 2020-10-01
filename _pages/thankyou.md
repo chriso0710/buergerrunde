@@ -4,4 +4,4 @@ title: Danke
 permalink: /thankyou
 ---
 
-### Danke für Ihre Meinung!
+### Danke für die Nachricht!

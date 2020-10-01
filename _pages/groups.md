@@ -17,7 +17,7 @@ Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung k
 
 ### AG Mobil und Klima
 
-Unsere Themen: Mobilität, Sicherheit, Klimaschutz. 
+Unsere Themen sind Mobilität, Sicherheit und Klimaschutz. 
 
 * Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität.
 * CO2-/NOx-Reduktion. Klimaneutrale Gemeinde 2050. Ausbau Solaranlagen und Batteriespeicher.
