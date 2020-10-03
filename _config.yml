@@ -11,6 +11,7 @@ disqus:
 mailchimp-list:
 include: ["_pages", "_redirects"]
 permalink: /:title/
+lang: de_DE
 
 static:
   featured: "Aktuelle Termine"
