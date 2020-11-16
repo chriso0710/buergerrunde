@@ -3,8 +3,6 @@ layout: page
 title: Impressum
 permalink: /imprint
 ---
-Angaben gemäß § 5 TMG
-
 Bürgerrunde Heuweiler e.V.  
 Am Flissert 6  
 79194 Heuweiler   
@@ -26,7 +24,7 @@ Registereintrag:
 Eintragung im Registergericht: Freiburg  
 Registernummer: VR 701748
 
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Inhaltlich verantwortlich gem. § 18 Abs. 2 MStV:
 
 Christian Ott  
 Am Flissert 6  
