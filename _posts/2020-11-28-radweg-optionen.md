@@ -4,9 +4,9 @@ categories: [ Klimaschutz, Mobilität ]
 author: co
 image: /assets/images/klimamobil/radweg.png
 ---
-Wir haben 3 sinnvolle Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
+Wir haben 3 sinnvoll Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
 
-Die hier zusätzlich aufgeführte Variante 4 ist durch den Gemeinderat in der Nov Sitzung in die Diskussion gebracht worden. Wir halten diese Variante für realitätsfern und indiskutabel.
+Besonders die Varianten 2 und 3 halten wir für gut und realisierbar. Die hier zusätzlich aufgeführte Variante 4 ist durch den Gemeinderat in der Nov Sitzung in die Diskussion gebracht worden. Wir halten diese Variante für realitätsfern und indiskutabel. 
 
 Alle Varianten haben Vor- und Nachteile und jeder von uns hat seine persönliche Meinung und vielleicht auch Vorlieben zu diesen Varianten. Worum es hier aber gehen sollte, ist eine objektive Abwägung in Bezug auf die Kosten und eine schnelle Machbarkeit. Aber natürlich auch in Bezug auf die positiven Effekte fürs Klima. Sprich: Mit welcher Variante locke ich die meisten Menschen aufs Rad, die aktuell eher das Auto nehmen? Es geht also um einen Teil der Verkehrswende und dazu gehört auch, das Ungleichgewicht der Verkehrsinfrastruktur zugunsten des Autos, wie wir es seit den 50er Jahren in Deutschland vorfinden, zugunsten einer verbesserten Radinfrastruktur zu verändern. 
 
@@ -33,7 +33,7 @@ In jedem Fall ist für alle Varianten ein Beleuchtungskonzept dringend angeraten
   <div class="card-body">
 ![Variante1](/assets/images/klimamobil/variante1.jpg)
 
-Separater Radweg, baulich getrennt entlang der Gundelfinger Straße. 
+### Separater Radweg, baulich getrennt entlang der Gundelfinger Straße. 
 
 Ein Vorteil wäre hier sicherlich die Sicherheit der Radfahrer. Erhebliche Nachteile sehen wir aber in den aufzubringenden Kosten und der erwartbar langwierigen Umsetzungszeit aufgrund der vielen Grundstückseigentümer entlang der Strecke. 
   </div>
@@ -52,7 +52,7 @@ Ein Vorteil wäre hier sicherlich die Sicherheit der Radfahrer. Erhebliche Nacht
   <div class="card-body">
 ![Variante2](/assets/images/klimamobil/variante2.jpg)
 
-Ausbau des Malefikantenwegs zu einem vollständig befestigten Radweg. 
+### Ausbau des Malefikantenwegs zu einem vollständig befestigten Radweg. 
 
 Auch bei dieser Variante sind nicht unerhebliche Kosten zu erwarten. Der Weg hat aber auch einen Umwegcharakter, zumindest für alle Heuweilemer, die von der Dorfmitte bis nach Hinterheuweiler leben. Wir wollen Alltagswege vom Auto auf das Rad verlagern. Gerade bei diesen Alltagswegen liegt es aber in der Natur das Sache, dass sie so kurz und so schnell wie möglich sein müssen, damit viele Menschen sie häufig nutzen.
   </div>
@@ -71,7 +71,7 @@ Auch bei dieser Variante sind nicht unerhebliche Kosten zu erwarten. Der Weg hat
 <div class="card-body">
 ![Variante3](/assets/images/klimamobil/variante3.jpg)
 
-Umwidmung der Gemeindeverbindungsstraße in eine Fahrradstraße.
+### Umwidmung der Gemeindeverbindungsstraße in eine Fahrradstraße.
 
 Tempo 30 und Vorfahrt für Radfahrer. Es ist zu erwarten, dass an der Akzeptanz von Autofahrern für eine Temporeduktion auf 30 km/h zunächst gearbeitet werden müsste. Die größten Vorteile liegen aber in den überschaubaren Kosten und einer schnellen Umsetzung. Und vor allem in der Möglichkeit, die Fahrradstraße auf Probe einrichten zu können.
 
@@ -90,9 +90,10 @@ Ein nicht zu verachtender Nebeneffekt wäre die Entlastung der Dorfstraße vom D
 </div>
 <div id="varianteFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 <div class="card-body">
-Radweg über Hinterheuweiler und das Leheneck nach Wildtal. 
 
-Der Weg ist unbefestigt und dazu noch extrem steil. Er ist nur für Sportradfahrer oder E-Biker geeignet, nicht für SchülerInnen oder DurchschnittradlerInnen. Er ist für den Großteil der BürgerInnen Heuweilers ein deutlicher Umweg nach Gundelfingen. Er ist damit keine sinnvolle Alternative zu den obigen Varianten.
+### Radweg über Hinterheuweiler und das Leheneck nach Wildtal. 
+
+Der Weg ist unbefestigt und dazu noch extrem steil. Er ist nur für Sportradfahrer oder E-Biker geeignet, nicht für SchülerInnen oder DurchschnittradlerInnen. Er ist für den Großteil der BürgerInnen Heuweilers ein deutlicher Umweg nach Gundelfingen. Der Weg ist damit keine akzeptable Alternative zu den obigen Varianten.
 </div>
 </div>
 </div>
