@@ -890,3 +890,11 @@ iframe {
         column-count: 2;
     }
 }
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+    background-color: #f74d36 !important;
+    border: 1px solid black !important;
+}
