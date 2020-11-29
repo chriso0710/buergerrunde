@@ -4,9 +4,9 @@ categories: [ Klimaschutz, Mobilität ]
 author: co
 image: /assets/images/klimamobil/radweg.png
 ---
-Wir haben 3 sinnvoll Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
+Wir haben 3 sinnvolle Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
 
-Besonders die Varianten 2 und 3 halten wir für gut und realisierbar. Die hier zusätzlich aufgeführte Variante 4 ist durch den Gemeinderat in der Nov Sitzung in die Diskussion gebracht worden. Wir halten diese Variante für realitätsfern und indiskutabel. 
+Besonders die Varianten 2 und 3 halten wir für gut und realisierbar. Die hier zusätzlich aufgeführte Variante 4 ist durch den Gemeinderat in der letzten Sitzung in die Diskussion gebracht worden. Wir halten diese Variante für realitätsfern und indiskutabel. 
 
 Alle Varianten haben Vor- und Nachteile und jeder von uns hat seine persönliche Meinung und vielleicht auch Vorlieben zu diesen Varianten. Worum es hier aber gehen sollte, ist eine objektive Abwägung in Bezug auf die Kosten und eine schnelle Machbarkeit. Aber natürlich auch in Bezug auf die positiven Effekte fürs Klima. Sprich: Mit welcher Variante locke ich die meisten Menschen aufs Rad, die aktuell eher das Auto nehmen? Es geht also um einen Teil der Verkehrswende und dazu gehört auch, das Ungleichgewicht der Verkehrsinfrastruktur zugunsten des Autos, wie wir es seit den 50er Jahren in Deutschland vorfinden, zugunsten einer verbesserten Radinfrastruktur zu verändern. 
 
