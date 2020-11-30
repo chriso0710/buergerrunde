@@ -80,7 +80,7 @@ Ein nicht zu verachtender Nebeneffekt wäre die Entlastung der Dorfstraße vom D
 <div class="card">
 <div class="card-header" id="headingFour">
   <h5 class="mb-0">
-    <button class="btn btn-primary collapsed" data-toggle="collapse" data-target="#varianteFour" aria-expanded="false" aria-controls="varianteFour">
+    <button class="btn btn-secondary collapsed" data-toggle="collapse" data-target="#varianteFour" aria-expanded="false" aria-controls="varianteFour">
       Variante 4: "Leheneck-Highway"
     </button>
   </h5>
