@@ -7,27 +7,29 @@ title: Home
 
 {% if page.url == "/" %}
     <!-- Featured ================================================== -->
-    <section class="featured-posts">
-        <div class="section-title">
-            <h2><span>{{ site.static.featured }}</span></h2>
-        </div>
-        <div class="row listfeaturedtag">
-            {% assign filtered_posts = "" | split: ',' %}
-            {% for post in site.posts %}
-                {% if post.event %}
-                    {% assign event_unix = post.event | date: '%s' | plus: 0 %}
-                    {% if event_unix >= today_unix %}
-                        {% assign filtered_posts = filtered_posts | push: post %}
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
+    {% assign filtered_posts = "" | split: ',' %}
+    {% for post in site.posts %}
+        {% if post.event %}
+            {% assign event_unix = post.event | date: '%s' | plus: 0 %}
+            {% if event_unix >= today_unix %}
+                {% assign filtered_posts = filtered_posts | push: post %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    {% assign filtered_posts = filtered_posts | sort: 'event' %}
 
-            {% assign filtered_posts = filtered_posts | sort: 'event' %}
-            {% for post in filtered_posts limit: 6 %}
-                {% include postbox.html %}
-            {% endfor %}
-        </div>
-    </section>
+    {% if filtered_posts.size > 0 %}
+        <section class="featured-posts">
+            <div class="section-title">
+                <h2><span>{{ site.static.featured }}</span></h2>
+            </div>
+            <div class="row listfeaturedtag">
+                {% for post in filtered_posts limit: 6 %}
+                    {% include postbox.html %}
+                {% endfor %}
+            </div>
+        </section>
+    {% endif %}
 {% endif %}
 
 <!-- Posts Index ================================================== -->
