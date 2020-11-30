@@ -10,7 +10,7 @@ Die Bürgerrunde hat in der Gemeinderatssitzung am 19.11.20 die Ergebnisse der U
 
 ### Das Klima wartet nicht
 
-Vor ziemlich genau 13 Monaten haben wir im Ratssaal unsere Auftaktveranstaltung unter dem Motto „Klimaneutrales Heuweiler 2050“ gemacht. Corona hat uns etwas ausgebremst, aber das Klima wartet nicht und deshalb gehen wir in diesem Jahr eines der Themen, das vielen Teilnehmern der Auftaktveranstaltung unter den Nägeln brennt an: Die Verbesserung der Radinfrastruktur. Das Thema haben wir mit unserer Fahrradtour am 20. September aufgegriffen und leiten heute unseren Beschlussantrag daraus ab.
+Vor ziemlich genau 13 Monaten haben wir im Ratssaal unsere Auftaktveranstaltung unter dem Motto „Klimaneutrales Heuweiler 2050“ gemacht. Corona hat uns etwas ausgebremst, aber das Klima wartet nicht und deshalb gehen wir in diesem Jahr eines der Themen, das vielen Teilnehmern der Auftaktveranstaltung "unter den Nägeln brennt", an: Die Verbesserung der Radinfrastruktur. Das Thema haben wir mit unserer Fahrradtour am 20. September aufgegriffen und leiten heute unseren Beschlussantrag daraus ab.
 
 Warum ist dieses Thema so wichtig? Die EU hat das Ziel klar formuliert: Klimaneutralität bis 2050! Das Land Baden-Württemberg macht ebenfalls klare Vorgaben: Verdopplung des Radverkehrs bis 2030! „Die EU“ oder „das Land“ setzen aber nichts um. Wir alle müssen gemeinsam auf lokaler Ebene diese Ziele in die Realität übersetzen. In den letzten 30 Jahren hat sich bei den CO2-Emissionen aus dem Bereich Verkehr rein gar nichts verändert. Ohne bessere Radinfrastruktur wird es nicht gehen.
 

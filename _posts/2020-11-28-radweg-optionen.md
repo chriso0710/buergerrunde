@@ -4,11 +4,11 @@ categories: [ Klimaschutz, Mobilität ]
 author: co
 image: /assets/images/klimamobil/radweg.png
 ---
-Wir haben 3 sinnvolle Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
+Wir haben drei sinnvolle Varianten für eine bessere Verbindung zwischen Heuweiler und Gundelfingen identifiziert. 
 
 Besonders die Varianten 2 und 3 halten wir für gut und realisierbar. Die hier zusätzlich aufgeführte Variante 4 ist durch den Gemeinderat in der letzten Sitzung in die Diskussion gebracht worden. Wir halten diese Variante für realitätsfern und indiskutabel. 
 
-Alle Varianten haben Vor- und Nachteile und jeder von uns hat seine persönliche Meinung und vielleicht auch Vorlieben zu diesen Varianten. Worum es hier aber gehen sollte, ist eine objektive Abwägung in Bezug auf die Kosten und eine schnelle Machbarkeit. Aber natürlich auch in Bezug auf die positiven Effekte fürs Klima. Sprich: Mit welcher Variante locke ich die meisten Menschen aufs Rad, die aktuell eher das Auto nehmen? Es geht also um einen Teil der Verkehrswende und dazu gehört auch, das Ungleichgewicht der Verkehrsinfrastruktur zugunsten des Autos, wie wir es seit den 50er Jahren in Deutschland vorfinden, zugunsten einer verbesserten Radinfrastruktur zu verändern. 
+Alle Varianten haben Vor- und Nachteile und jeder von uns hat seine persönliche Meinung und vielleicht auch Vorlieben zu diesen Varianten. Worum es hier aber gehen sollte, ist eine objektive Abwägung in Bezug auf die Kosten und eine schnelle Machbarkeit. Aber natürlich auch in Bezug auf die positiven Effekte fürs Klima: Mit welcher Variante locke ich die meisten Menschen aufs Rad, die aktuell eher das Auto nehmen? Es geht also um einen Teil der Verkehrswende und dazu gehört auch, das Ungleichgewicht der Verkehrsinfrastruktur zugunsten des Autos, wie wir es seit den 50er Jahren in Deutschland vorfinden, zugunsten einer verbesserten Radinfrastruktur zu verändern. 
 
 Einer Fahrradstraße auf Probe (das ist ja eben das charmante an dieser Variante) steht aus unserer Sicht nichts im Wege. Das schließt natürlich nicht aus, dass es perspektivisch andere oder sogar weitere gute Radwege z.B. über den Malefikantenweg gibt. Selbstverständlich sollte die Anbindung an den Schnellradweg mitgedacht werden, aber alle drei Varianten sind dazu vollkommen kompatibel. Von der Gemeindeverbindungsstraße/der potentiellen Fahrradstraße über „Grüner Weg“ lässt sich ebenso auf den geplanten Radschnellweg einbiegen wie vom Malefikantenweg. Man „verbaut“ sich also für diese regionale Gesamtplanung nichts. Es gibt hier also keinen Grund, auf den Radschnellweg (ca. 2028) zu warten.
 
@@ -70,7 +70,7 @@ Auch bei dieser Variante sind nicht unerhebliche Kosten zu erwarten. Der Weg hat
 
 ### Umwidmung der Gemeindeverbindungsstraße in eine Fahrradstraße
 
-Tempo 30 und Vorfahrt für Radfahrer. Es ist zu erwarten, dass an der Akzeptanz von Autofahrern für eine Temporeduktion auf 30 km/h zunächst gearbeitet werden müsste. Die größten Vorteile liegen aber in den überschaubaren Kosten und einer schnellen Umsetzung. Und vor allem in der Möglichkeit, die Fahrradstraße auf Probe einrichten zu können.
+Tempo 30 und Vorfahrt für Radfahrer. Statt 2 Min. mit 60 Km/h in 4 Min. mit 30 Km/h per KFZ nach Gundelfingen. Es ist zu erwarten, dass an der Akzeptanz von Autofahrern für eine Temporeduktion auf 30 Km/h zunächst gearbeitet werden müsste. Die größten Vorteile liegen aber in den überschaubaren Kosten und einer schnellen Umsetzung. Und vor allem in der Möglichkeit, die Fahrradstraße auf Probe einrichten zu können.
 
 Ein nicht zu verachtender Nebeneffekt wäre die Entlastung der Dorfstraße vom Durchgangsverkehr z.B. aus dem Glotteral. Es gibt im Landkreis Emmendingen bereits umgesetzte Beispiele, dass diese Fahrradstraßen auch außerorts umsetzbar sind. 
 </div>
