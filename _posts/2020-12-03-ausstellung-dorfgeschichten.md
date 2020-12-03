@@ -12,6 +12,8 @@ Wir sammeln: Darstellungen über Ereignisse, Erlebnisse, neue Verhaltensweisen, 
 
 Was hat sich verändert seit/mit Corona? Einkaufen, Nahverkehr, Fahrradfahren, Sport, Wein-Wandern, Kilbi Online, Nachbarschaftshilfe, Hochzeit, Trauerfeier, (ausgefallene) Konzerte, Chorproben, Kino, neue Verhaltensweisen z.B.: Essen to Go, Mundschutz tragen, Ellenbogen-Begrüßung, Homeschooling, Kleinkinder zu Hause, Homeoffice, Kurzarbeit, digitale Meetings, soziale Distanz, Sommerurlaub in Deutschland, Leben in Quarantäne, Krankheit, Corona Test, soziale Kontrolle.
 
+(Foto: Udo Stiefvater)
+
 ### Mitmachen und ein Teil der Dorfgeschichte werden
 
 **Wer kann mitmachen?**
