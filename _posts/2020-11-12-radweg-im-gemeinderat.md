@@ -20,7 +20,7 @@ Aktuell gibt es in Deutschland eine Aufbruchstimmung im Bereich der Fahrradmobil
 
 ### BürgerInnen Heuweilers sprechen sich für eine Fahrradstraße aus
 
-Wir sprechen hier und heute nicht über die Interessen Einzelner, sondern haben uns am Bürgerwillen zu orientieren. In der Haushaltsbefragung der Katholischen Hochschule, die in diesem Jahr durchgeführt wurde, haben sich 79% der Befragten für die Notwendigkeit eines befestigten Radweges ausgesprochen. Dabei wurde angegeben, dass die häufigste zurückgelegte Richtung im Alltag die zwischen Heuweiler und Gundelfingen ist. Räder jedenfalls sind genügend in den Haushalten vorhanden: Im Schnitt 2,5 Stück/Haushalt. Nun braucht es also eine bessere Infrastruktur, damit diese Räder nicht verstauben.
+Wir sprechen hier und heute nicht über die Interessen Einzelner, sondern haben uns am Bürgerwillen zu orientieren. In der Haushaltsbefragung der Katholischen Hochschule, die in diesem Jahr durchgeführt wurde, haben sich 77% der Befragten für die Notwendigkeit eines befestigten Radweges ausgesprochen. Dabei wurde angegeben, dass die häufigste zurückgelegte Richtung im Alltag die zwischen Heuweiler und Gundelfingen ist. Räder jedenfalls sind genügend in den Haushalten vorhanden: Im Schnitt 2,5 Stück/Haushalt. Nun braucht es also eine bessere Infrastruktur, damit diese Räder nicht verstauben.
 
 ![Ergebnisse Varianten](/assets/images/klimamobil/ergebnis_radweg1.png)
 ![Ergebnisse Wohnort](/assets/images/klimamobil/ergebnis_radweg2.png)
