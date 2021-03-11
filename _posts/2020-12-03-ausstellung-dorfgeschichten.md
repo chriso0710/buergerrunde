@@ -26,7 +26,7 @@ Ein TEXT, ein GEDICHT, ein FOTO, ein BILD, eine KARIKATUR, eine AUDIODATEI, ein 
 
 **Wie kann man einen Beitrag einreichen?**
 
-* Einsenden bitte bis zum 28.2.2021.
+* Einsenden bitte bis zum 31.3.2021.
 * Entweder per E-Mail an: <dorfgeschichten@heuweiler.net>
 * Oder per Post an: Rathaus Heuweiler Bürgeramt, Stichwort "Dorfgeschichte CORONA"
 * Oder im Rathaus abgeben: Box "Corona Dorf-Geschichte(n)"
