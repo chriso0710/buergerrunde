@@ -2,7 +2,7 @@
 title: Dorfgeschichte(n) in Zeiten von Corona
 categories: [ Ausstellung ]
 author: mb
-event: 2021-02-28 12:00:00
+event: 2021-03-31 12:00:00
 location: Website
 image: /assets/images/ausstellung/dorfgeschichten.jpg
 ---
