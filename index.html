@@ -25,7 +25,9 @@ title: Home
             </div>
             <div class="row listfeaturedtag">
                 {% for post in filtered_posts limit: 6 %}
-                    {% include postbox.html %}
+                    {% if post.hidden != true %}
+                        {% include postbox.html %}
+                    {% endif %}
                 {% endfor %}
             </div>
         </section>
@@ -51,7 +53,9 @@ title: Home
         {% endfor %}
 
         {% for post in filtered_posts limit: 9 %}
-            {% include postbox.html %}
+            {% if post.hidden != true %}
+                {% include postbox.html %}
+            {% endif %}
         {% endfor %}
     </div>
 </section>

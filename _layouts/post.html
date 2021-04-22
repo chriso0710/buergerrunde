@@ -9,13 +9,13 @@ archive: false
     <div class="row">
 
         <!-- Post Share -->
-        <div class="col-md-2 pl-0">
+        <div class="col-md-1 pl-0">
             {% include share.html %}
         </div>
 
         <!-- Post -->
 
-        <div class="col-md-9 flex-first flex-md-unordered">
+        <div class="col-md-11 flex-first flex-md-unordered">
             <div class="mainheading">
 
                 <!-- Author Box -->
@@ -54,7 +54,7 @@ archive: false
             <!-- End Adsense -->
 
             <!-- Post Featured Image -->
-            {% if page.image %}
+            {% if page.image and page.gallery.size == 0 %}
                 {% if page.image contains "://" %}
                     {% assign image_url = page.image %}
                 {% else %}
@@ -74,13 +74,17 @@ archive: false
             {% if page.gallery.first %}
                 <div class="card-columns">
                     {% for item in page.gallery %}
-                        {% if item contains "://" %}
-                            {% assign image_url = item %}
+                        {% if item.img contains "://" %}
+                            {% assign image_url = item.img %}
                         {% else %}
-                            {% capture image_url %}{{ item | prepend: site.baseurl }}{% endcapture %}
+                            {% capture image_url %}{{ item.img | prepend: site.baseurl }}{% endcapture %}
                         {% endif %}
                         <div class="card">
-                            <img class="card-img-top" src="{{ image_url }}" alt="{{ page.title }}"">
+                            <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title }}"">
+                            <div class="card-body">
+                                <p class="card-text small">{{ item.title }}</p>
+                                <p class="card-text small">{{ item.author }}</p>
+                            </div>
                         </div>
                     {% endfor %}
                 </div>
