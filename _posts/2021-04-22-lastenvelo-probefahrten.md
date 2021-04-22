@@ -8,7 +8,7 @@ location: Ecke Holzweg/Flissert
 ---
 Das [Lastenvelo für Heuweiler](/lastenvelo) kommt! Fast alle Details sind mittlerweile geklärt. Die Finanzierung des Rades über einige Sponsoren und die Gemeinde ist so gut wie gesichert. Das Rad wird direkt am Rathaus stehen.
 
-Jetzt geht es um das Rad selbst: 2- oder 3-rädrig, Art der Ladefläche? 
+Jetzt geht es um das Rad selbst: 2- oder 3-rädrig? Art der Ladefläche? 
 Wir wünschen uns vor der Kaufentscheidung ein Meinungsbild aller interessierten FahrerInnen.
 
 Am Sa 24.4. ab 10:00 Uhr (bis ca. 12:00) werden wir zwei sehr verschiedene E-Lastenräder für Testfahrten nach Heuweiler holen. 
