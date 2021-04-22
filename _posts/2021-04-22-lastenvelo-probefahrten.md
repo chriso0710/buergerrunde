@@ -12,7 +12,7 @@ Jetzt geht es um das Rad selbst: Zwei- oder dreirädrig? Art der Ladefläche?
 Wir wünschen uns vor der Kaufentscheidung ein Meinungsbild aller interessierten FahrerInnen.
 
 Am Samstag 24.4. ab 10:00 Uhr (bis ca. 12:00) werden wir zwei sehr unterschiedliche E-Lastenräder für Testfahrten nach Heuweiler holen. 
-Wer Zeit und Interesse hat, mal ein modernes Lastenrad mit Elektromotor auszuprobieren, ist eingeladen zum ausführlichen Probefahren und Mitentscheiden. Wir treffen uns an der Ecke Flissert/Holzweg. 
+Wer Zeit und Interesse hat, mal ein modernes Lastenrad mit Elektromotor auszuprobieren, ist eingeladen zum ausführlichen Probefahren und Mitentscheiden. Wir treffen uns an der Ecke Holzweg/Flissert.
 
 Wir sind gespannt auf eure Meinungen.
 
