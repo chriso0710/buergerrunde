@@ -54,7 +54,7 @@ archive: false
             <!-- End Adsense -->
 
             <!-- Post Featured Image -->
-            {% if page.image and page.gallery.size == 0 %}
+            {% if page.image and page.gallery.first == nil %}
                 {% if page.image contains "://" %}
                     {% assign image_url = page.image %}
                 {% else %}
