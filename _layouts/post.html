@@ -80,7 +80,7 @@ archive: false
                             {% capture image_url %}{{ item.img | prepend: site.baseurl }}{% endcapture %}
                         {% endif %}
                         <div class="card">
-                            <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title }}"">
+                            <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.author }}">
                             <div class="card-body">
                                 <p class="card-text small">{{ item.title }}</p>
                                 <p class="card-text small">{{ item.author }}</p>

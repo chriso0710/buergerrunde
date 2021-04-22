@@ -14,7 +14,7 @@ gallery:
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran_Berger_Bild_4_Kriegerdenkmal Heuweiler Januar 2021.jpg
     title: "22.Januar 2021: Der Atomwaffenverbotsvertrag trat in Kraft. Positive Hoffnungszeichen, dass die Menschen in Nach-Corona-Zeiten auch in Sachen Frieden sicher leben können."
     author: Marie Battran-Berger
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran_Berger_Bild_5_Bürgermeister_von_ Denzlingen_zeigt_Flagge_22_1_22.jpg
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran_Berger_Bild_5_Buergermeister_von_ Denzlingen_zeigt_Flagge_22_1_22.jpg
     title: "Mayors for Peace begrüßen Inkrafttreten des Atomwaffenverbotsvertrages.
     Bürgermeister weltweit setzen ein Zeichen – Denzlingen ist dabei. Am 22. Januar 2021 tritt der von den Vereinten Nationen im Jahr 2017 verabschiedete Atomwaffenverbotsvertrag in Kraft. Atomwaffen sind ab jetzt völkerrechtlich geächtet und verboten. Die Organisation Mayors for Peace, ein von Hiroshima geführtes, weltweites Städtebündnis mit rund 8.000 Mitgliedern, darunter 700 Städte in Deutschland, begrüßt das Inkrafttreten des Vertrages. Als Zeichen ihrer Unterstützung für dieses besondere Ereignis hissen etliche deutsche Mitgliedskommunen am 22. Januar die Mayors for Peace Flagge, so auch der Denzlinger Bürgermeister Markus Hollemann. Quelle: Homepage der Gemeinde Denzlingen"
     author: Marie Battran-Berger
