@@ -894,6 +894,6 @@ iframe {
 
 @media (min-width: 1500px) {
     .card-columns {
-        column-count: 3;
+        column-count: 2;
     }
 }

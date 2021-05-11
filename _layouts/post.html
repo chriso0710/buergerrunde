@@ -80,9 +80,14 @@ archive: false
                             {% capture image_url %}{{ item.img | prepend: site.baseurl }}{% endcapture %}
                         {% endif %}
                         <div class="card">
-                            <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.author }}">
+                            {% if item.img %}
+                                <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title }}">
+                            {% endif %}
                             <div class="card-body">
-                                <p class="card-text small">{{ item.title }}</p>
+                                <p class="card-text">{{ item.title }}</p>
+                                <div class="card-text small">
+                                    {{ item.text | markdownify }}
+                                </div>
                                 <p class="card-text small">{{ item.author }}</p>
                             </div>
                         </div>
