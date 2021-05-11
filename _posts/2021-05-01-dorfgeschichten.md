@@ -154,8 +154,6 @@ gallery:
     text: Aus unserer Sicht soll und wird das nicht so sein. In gemeinsamen bürgerschaftlichen Anstrengungen werden wir  konstruktiv aus der Krise kommen und die nötigen Veränderungen in allen Bereichen für eine gute Lebensqualität mit Mut angehen.
     author: "Frauenliste Heuweiler, VLNR: Sonja Weiss, Claudia Borst, Friederike Großmann"
 ---
-### Dorfgeschichte(n) in Zeiten von Corona, Mai 2021
-
 Als wir im November 2020 alle in Heuweiler lebenden Menschen eingeladen haben, uns Beiträge digital einzureichen, erhofften wir Bausteine zu bekommen, die speziell aus dem kleinen Dorfkosmos erzählen. Wir wollten wissen, ob und wieweit es Corona-geschuldete Ereignisse, Erlebnisse, neue Verhaltensweisen gegeben hat, die auch speziell das Lebensgefühl im Dorf beeinflusst oder die ins Dorfleben von außen hineingewirkt haben. Mitmachen und ein Teil der Dorfgeschichte werden war unsere Parole. Aber es schien, als ob nicht die Menschen, sondern das kleine Virus der Akteur war! Obwohl in fast allen Gesprächen irgendwie dabei, schien Corona nicht zur Kreativität anzuspornen, sondern im Gegenteil die Teilnahmebereitschaft zu hemmen.
 Umso mehr bedanken wir uns bei allen Akteuren für die bisher eingegangenen Beiträge verschiedenster Art.
 
