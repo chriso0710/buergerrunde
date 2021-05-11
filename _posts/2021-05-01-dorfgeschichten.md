@@ -2,7 +2,7 @@
 title: Dorfgeschichte(n) in Zeiten von Corona
 categories: [ Ausstellung ]
 author: mb
-image: /assets/images/ausstellung/dorfgeschichten.jpg
+image: /assets/images/ausstellung/dorfgeschichten/resized/Battran-Berger_Bild_1_Karikatur_pdf__1_Seite_.jpg
 gallery:
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran-Berger_Bild_1_Karikatur_pdf__1_Seite_.jpg
     title: "Zivilgesellschaftliches Engagement..." 
