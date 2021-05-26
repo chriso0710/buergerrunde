@@ -70,6 +70,11 @@ archive: false
             {% endif %}
             <!-- End Featured Image -->
 
+            <!-- Post Content -->
+            <div class="article-post">
+                {{content}}
+            </div>
+
             <!-- Gallery -->
             {% if page.gallery.first %}
                 <div class="card-columns">
@@ -95,11 +100,6 @@ archive: false
                 </div>
             {% endif %}
             <!-- End Gallery -->
-
-            <!-- Post Content -->
-            <div class="article-post">
-                {{content}}
-            </div>
 
             <!-- Rating -->
             {% if page.rating %}

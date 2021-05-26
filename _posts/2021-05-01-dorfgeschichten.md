@@ -2,7 +2,7 @@
 title: Dorfgeschichte(n) in Zeiten von Corona
 categories: [ Ausstellung ]
 author: mb
-image: /assets/images/ausstellung/dorfgeschichten/resized/Battran-Berger_Bild_1_Karikatur_pdf__1_Seite_.jpg
+image: /assets/images/ausstellung/dorfgeschichten.jpg
 gallery:
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran-Berger_Bild_1_Karikatur_pdf__1_Seite_.jpg
     title: "Zivilgesellschaftliches Engagement..." 
@@ -24,9 +24,6 @@ gallery:
     title: "Mayors for Peace begrüßen Inkrafttreten des Atomwaffenverbotsvertrages."
     text: "Bürgermeister weltweit setzen ein Zeichen – Denzlingen ist dabei. Am 22. Januar 2021 tritt der von den Vereinten Nationen im Jahr 2017 verabschiedete Atomwaffenverbotsvertrag in Kraft. Atomwaffen sind ab jetzt völkerrechtlich geächtet und verboten. Die Organisation Mayors for Peace, ein von Hiroshima geführtes, weltweites Städtebündnis mit rund 8.000 Mitgliedern, darunter 700 Städte in Deutschland, begrüßt das Inkrafttreten des Vertrages. Als Zeichen ihrer Unterstützung für dieses besondere Ereignis hissen etliche deutsche Mitgliedskommunen am 22. Januar die Mayors for Peace Flagge, so auch der Denzlinger Bürgermeister Markus Hollemann. Quelle: Homepage der Gemeinde Denzlingen"
     author: Marie Battran-Berger
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Blattmann_Narrenbaum-Heuweiler.JPG
-    title: Narrenbaum Heuweiler
-    author: Hubert Blattmann
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Blattmann_Sternsinger_ Allein_ zu_ Haus_Dez_2020.JPG
     title: Sternsinger allein zu Haus
     author: Hubert Blattmann
@@ -62,6 +59,24 @@ gallery:
     Und nun in unserer Zeit: Wir müssen Abstand voneinander halten - dadurch bilden sich Gräben und es fällt zunehmend schwerer, Kontakte zu halten, Nähe zu spüren. Nur durch Nähe kann ein Funke überspringen!
     Ich muß gestehen, dass mich dieses Gemälde zutiefst beeindruckt hat und ich hoffe, dass bald wieder eine Zeit kommt, in der es nicht mehr „Keep your distance“ heißen muß!"
     author: Regina Schwörer
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_1_Warum_in_die_Ferne_.jpg
+    title: Warum in die Ferne?
+    text: "Nach Urlaubsstornierung in Ligurien meinte der Enkel Noah: Also ich muss nicht im Urlaub ans Meer. Ich hab hier in Heuweiler doch alles: Einen Teich, ein Boot eine Liegewiese zum Sonnen!” Die täglichen Bootsfahrten über den Miniteich machten Noah sehr zufrieden und glücklich. Wie heißt es doch: Warum denn in die Ferne..."
+    author: Barbara Klausmann
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_2_Große_Pause_Homeschooling.jpg
+    title: Große Pause im Homeschooling
+    text: Im Sandmuschelboot auf großer Fahrt!
+    author: Barbara Klausmann
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_3.jpg
+    title: "Statt Schulbank: Baumstamm. "
+    text: Sachunterrichtliche Beobachtungen an einem echten(!) Löwenzahn
+    author: Barbara Klausmann
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Blattmann_Hubert_Fasnet_im_HomeOffies_2_2021_pdf__1_Seite_.jpg
+    title: Fasnet im Homeoffies
+    author: Hubert Blattmann
+  - img: /assets/images/ausstellung/dorfgeschichten/resized/Blattmann_Narrenbaum-Heuweiler.JPG
+    title: Narrenbaum Heuweiler
+    author: Hubert Blattmann
   - img:
     title: Was wirklich zählt - Fasnet 2021
     text: | 
@@ -85,21 +100,6 @@ gallery:
       Do dra wird jetz halt mol dacht Un disjohr dan zuhause glacht Den frölich si kansch immer noch Di Fasnet lebt zuhause hoch  
       In ein -zwei Johr geht's wieder rund Nari Naro un bliebe gsund
     author: Gerold Maier
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_1_Warum_in_die_Ferne_.jpg
-    title: Warum in die Ferne?
-    text: "Nach Urlaubsstornierung in Ligurien meinte der Enkel Noah: Also ich muss nicht im Urlaub ans Meer. Ich hab hier in Heuweiler doch alles: Einen Teich, ein Boot eine Liegewiese zum Sonnen!” Die täglichen Bootsfahrten über den Miniteich machten Noah sehr zufrieden und glücklich. Wie heißt es doch: Warum denn in die Ferne..."
-    author: Barbara Klausmann
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_2_Große_Pause_Homeschooling.jpg
-    title: Große Pause im Homeschooling
-    text: Im Sandmuschelboot auf großer Fahrt!
-    author: Barbara Klausmann
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Klausmann_Foto_3.jpg
-    title: "Statt Schulbank: Baumstamm. "
-    text: Sachunterrichtliche Beobachtungen an einem echten(!) Löwenzahn
-    author: Barbara Klausmann
-  - img: /assets/images/ausstellung/dorfgeschichten/resized/Blattmann_Hubert_Fasnet_im_HomeOffies_2_2021_pdf__1_Seite_.jpg
-    title: Fasnet im Homeoffies
-    author: Hubert Blattmann
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Battran_Corona_Währung_Installation_3_21_pdf__1_Seite_.jpg
     title: "Wertverfall in Corona-Zeiten stoppen: kinderleicht!"
     text: |
@@ -113,6 +113,7 @@ gallery:
       Später haben wir gehört, das Endtauschobjekt sei eine schicke schwarze Rothaus-Basecap gewesen. Unsere Lindt-Schokolade war wohl nur eine Sprosse auf der Werteleiter, deren erste die von mir eingetauschte Klopapierrolle war.
     author: Hagen Battran, 20.3.21
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Herbert_Fahrlaender2020.jpg
+    title: Trachtenkapelle Heuweiler - auch zu Corona-Zeiten so gut es geht aktiv!
     author: Herbert Fahrländer, 2020
   - img: /assets/images/ausstellung/dorfgeschichten/resized/Light-Lockdown_aus_Sicht_eines_Schülers.jpg
     title: Light-Lockdown aus Sicht eines Schülers
