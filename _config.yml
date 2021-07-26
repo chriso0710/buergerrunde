@@ -61,7 +61,7 @@ authors:
     name: Daniela
     display_name: Daniela Giesenhagen
     email: daniela.giesenhagen@web.de
-    description: "Erfreut sich täglich am eigenen Garten und am Flissertwald. Interessiert an Natur und Nachhaltigkeit, engagiert in der AG Bürgernetz."
+    description: "Erfreut sich täglich am eigenen Garten und am Flissertwald. Interessiert an Natur und Nachhaltigkeit, engagiert in den AGs Bürgernetz und Naturfreunde."
   tf:
     name: Thomas
     display_name: Thomas Frank
@@ -91,13 +91,18 @@ authors:
     name: Jochen
     display_name: Jochen Kreher
     email: jochen_kreher@t-online.de
-    description: "Engagiert in der AG Mobil und Klima. Klimaschützer und passionierter Radfahrer."
+    description: "Engagiert in der AG Mobil und Klima. Klimas- und Artenschützer und passionierter Radfahrer."
   mb:
     name: Marie
     display_name: Marie Battran-Berger
     email: Marie.Berger@t-online.de
     description: "Engagiert in der AG Mobil und Klima und in vielen weiteren Initiativen und Gruppen."
-      
+  jm:
+    name: Jonas
+    display_name: Jonas Maier
+    email: maierjonas92@gmail.com
+    description: "Engagiertes Mitglied der AG Mobil und Klima."
+
 # Plugins
 plugins:
   - jekyll-paginate

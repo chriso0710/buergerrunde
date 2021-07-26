@@ -1,6 +1,6 @@
 ---
 title: "Krötenhilfe in Hinterheuweiler"
-categories: [ Gemeinschaft ]
+categories: [ Naturschutz ]
 location: Löschteich, Hinterheuweiler
 author: co
 image: /assets/images/buergernetz/kroete.jpg

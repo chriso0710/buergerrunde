@@ -32,6 +32,17 @@ Unsere Themen sind Mobilität, Sicherheit und Klimaschutz.
 * [Orangener Punkt](/category/orangener-punkt)
 * [Mobilität](/category/mobilität)
 
+### AG Naturfreunde
+
+Im Sommer 2021 hat sich in der Bürgerrunde Heuweiler eine neue AG Naturfreunde gebildet. Die Naturfreunde möchten sich für vielfältige Projekte rund um das Thema Natur- und Artenschutz einsetzen.
+
+Es gibt viele Ideen, wie in Heuweiler Fauna und Flora geschützt und unterstützt werden kann. Diese sind in ersten Arbeitseinsätzen umgesetzt worden. Mit Genehmigung der Gemeinde sind die ersten “lebendigen Wildblumenwiesen” eingesät, bzw. insektenfreundliche Pflanzen gepflanzt worden. 
+
+Unsere Truppe ist bunt gemischt und jeder bringt sich so ein, wie es seinem Lebensalltag entspricht. Wir treffen uns nach Bedarf in lockeren Abständen zur Planung der Aktionen. Für die Arbeitseinsätze werden unterschiedlich viele Arbeitskräfte benötigt, die sich über Doodle/ WhatsApp/ Email zusammenfinden. Die Termine werden zukünftig auf der Homepage der Bürgerrunde und im EMail-Newsletter bekannt gegeben. Wir würden uns über alle Menschen freuen, die Lust haben, sich unserer Naturfreundegruppe anzuschließen, sei es regelmäßig oder bei einzelnen Aktionen, die einen besonders ansprechen. 
+
+* [Naturschutz](/category/naturschutz)
+* [Klimaschutz](/category/klimaschutz)
+
 ### AG Bürgernetz
 
 Die AG Bürgernetz setzt sich dafür ein, die BürgerInnen von Heuweiler noch besser zu vernetzen. Wir organisieren schöne Veranstaltungen, wie z.B. das Frauenfrühstück, und freuen uns über jeden, der Lust hat, mit uns weiter zu denken und unsere Ziele Schritt für Schritt anzugehen und umzusetzen. Wir sind eine offene Runde und freuen uns über jede Unterstützung.
