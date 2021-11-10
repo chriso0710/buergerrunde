@@ -4,7 +4,7 @@ categories: [ Klimaschutz, Mobilität ]
 author: co
 image: "/assets/images/klimamobil/carlos-einweihung.jpg"
 ---
-Im Beisein von Bürgermeister Walz und der Presse wurde Carlos am 23.10.2021 bei schönstem Herbstwetter offiziell eingeweiht. BR Walz gab zusammen mit dem Vorstand der Bürgerrunde den Startschuss. Die BR bedankte sich bei allen Sponsoren und der Gemeinde Heuweiler für die tolle Unterstützung. Bürgermeister Walz bedankte sich für die schnelle Realisierung und freut sich, dass es nun los geht.
+Im Beisein von Bürgermeister Walz und der Presse wurde Carlos am 23.10.2021 bei schönstem Herbstwetter offiziell eingeweiht. Der BM gab zusammen mit dem Vorstand der Bürgerrunde den Startschuss. Die BR bedankte sich bei allen Sponsoren und der Gemeinde Heuweiler für die tolle Unterstützung. Bürgermeister Walz bedankte sich für die schnelle Realisierung und freut sich, dass es nun los geht.
 
 Carlos ist das 21. und nördlichste Lastenrad der Flotte von Lastenvelo Freiburg (LV FR).
 LV FR meldet seit dem Einweihungstag bereits viele Anmeldungen und großes Interesse aus Heuweiler. Darüber freuen wir uns.

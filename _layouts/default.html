@@ -92,6 +92,14 @@ ga('send', 'pageview');
             <a class="nav-link" href="{{ site.baseurl }}/events">{{ site.static.menu.events }}</a>
             </li>
 
+            {% if page.url == "/carlos/" %}
+            <li class="nav-item active">
+            {% else %}
+            <li class="nav-item">
+            {% endif %}
+            <a class="nav-link" href="{{ site.baseurl }}/carlos">{{ site.static.menu.carlos }}</a>
+            </li>
+
             {% if page.url == "/archive" %}
             <li class="nav-item active">
             {% else %}
@@ -190,6 +198,7 @@ ga('send', 'pageview');
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
                 | <a href="{{ site.baseurl }}/privacy">{{ site.static.menu.privacy }}</a>
                 | <a href="{{ site.baseurl }}/imprint">{{ site.static.menu.imprint }}</a>
+                {{ page.url }}
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
             </div>
