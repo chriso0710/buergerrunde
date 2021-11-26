@@ -103,6 +103,11 @@ authors:
     display_name: Jonas Maier
     email: maierjonas92@gmail.com
     description: "Papa und nebenbei engagiertes Mitglied der AG Mobil und Klima."
+  jl:
+    name: Juliane
+    display_name: Juliane Lang
+    email: julianelang@posteo.de
+    description: "Juliane ist Gemeinschaft wichtig. Sie bringt gerne Leute zusammen und organisiert auch gerne kleine Veranstaltungen oder Kurse. Engagiert in der AG Bürgernetz."
 
 # Plugins
 plugins:
