@@ -11,6 +11,18 @@ Die tollen Rückmeldungen zeigen, dass unsere Aktionen in Heuweiler und Umgebung
 Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger, die Lust und Zeit haben, bei unseren Aktionen mitzuplanen mitzuhelfen oder mitzumachen. 
 Es spielt keine Rolle, was jede/r beitragen kann oder wie oft er/sie Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung.
 
+## Der gemeinnützige Verein
+
+Seit dem 29.9.2016 ist die Bürgerrunde Heuweiler ein Verein.
+Das Finanzamt Freiburg-Land hat am 08.11.2016 bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
+
+Wichtige Dokumente:
+
+* [Protokoll Gründungsversammlung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Protokoll_Grundungsversammlung_Original_unterschrieben.pdf)
+* [Satzung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Satzung.pdf)
+* [Beitragsordnung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Beitragsordnung.pdf)
+* [Aufnahmeantrag](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Aufnahmeantrag.pdf)
+
 ## Die Bürgerrunde
 
 Die BR soll eine Generalversammlung der Heuweilermer Bürger sein, in der jeder Bürger Heuweilers sich möglichst offen und konstruktiv an einer Diskussion über aktuelle und zukünftige Belange Heuweilers beteiligen kann. Die Diskussion innerhalb der BR soll so offen, frei und transparent wie möglich ablaufen. Im Idealfall gibt sich die BR die Themen selbst vor und entscheidet über die Behandlung dieser Themen und deren weiterer Entwicklung.
@@ -43,10 +55,8 @@ Es ist gut vorstellbar, dass die BR sich mit eher operativen oder kurzfristigen 
 * Nachbarschaftshilfe, Bürger helfen Bürgern: Welche Nachbarschaftshilfe wünschen wir uns?
 * Kultur: Bücherecke, Konzerte, Kino, Ausstellungen
 * Aktionen für Kinder, Ferienprogramm
-* Musiktag, Feuerwehrtag, Frühstück, Flohmarkt
-* Zeittauschbörse/Zeitkonten
+* Musiktag, Frühstück, Flohmarkt, Tauschbörsen
 * Bildband Heuweiler
-* Bürgerbus, Carsharing
 
 #### Langfristige oder strategische Themen
 
@@ -56,7 +66,7 @@ Es ist gut vorstellbar, das sich aus der BR eine gemeinschaftliche Aktivität zu
 * Demographischer Wandel
 * Eigenständigkeit Heuweilers sichern
 * Steigerung der Attraktivität Heuweilers
-* Struktur Heuweilers: Produktionsort vs. Schlafstatt
+* Struktur Heuweilers
 * Jugend in Heuweiler: Welche Bedingungen wollen wir für die Heuweilermer Jugend schaffen?
 * Älterwerden in Heuweiler: Wie können wir Älterwerden in Heuweiler unterstützen? 
 * Gemeindeinfrastruktur für ältere Menschen
@@ -67,15 +77,4 @@ Es ist gut vorstellbar, das sich aus der BR eine gemeinschaftliche Aktivität zu
 * Dorfmittelpunkt Heuweiler: Wie wünschen wir uns den Dorfmittelpunkt in Heuweiler?
 * Nachhaltigkeit und Klimaschutz
 * Mobilität
-
-## Der gemeinnützige Verein
-
-Seit dem 29.9.2016 ist die Bürgerrunde Heuweiler ein Verein.
-Das Finanzamt Freiburg-Land hat am 08.11.2016 bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
-
-Wichtige Dokumente:
-
-* [Protokoll Gründungsversammlung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Protokoll_Grundungsversammlung_Original_unterschrieben.pdf)
-* [Satzung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Satzung.pdf)
-* [Beitragsordnung](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Beitragsordnung.pdf)
-* [Aufnahmeantrag](/assets/pdfs/Burgerrunde_Heuweiler_e_V_Aufnahmeantrag.pdf)
+* Bürgerbus, Carsharing
