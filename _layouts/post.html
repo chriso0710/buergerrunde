@@ -88,13 +88,15 @@ archive: false
                             {% if item.img %}
                                 <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title }}">
                             {% endif %}
-                            <div class="card-body">
-                                <p class="card-text">{{ item.title }}</p>
-                                <div class="card-text small">
-                                    {{ item.text | markdownify }}
+                            {% if item.title %}
+                                <div class="card-body">
+                                    <p class="card-text">{{ item.title }}</p>
+                                    <div class="card-text small">
+                                        {{ item.text | markdownify }}
+                                    </div>
+                                    <p class="card-text small">{{ item.author }}</p>
                                 </div>
-                                <p class="card-text small">{{ item.author }}</p>
-                            </div>
+                            {% endif %}
                         </div>
                     {% endfor %}
                 </div>

@@ -4,12 +4,12 @@ categories: [ Klimaschutz, Mobilität ]
 author: ad
 image: /assets/images/klimamobil/radtour/DJI_0017.jpg
 gallery: 
-  - /assets/images/klimamobil/radtour/DJI_0002.jpg
-  - /assets/images/klimamobil/radtour/DJI_0996.jpg
-  - /assets/images/klimamobil/radtour/IMG_5903.jpg
-  - /assets/images/klimamobil/radtour/IMG_5894.jpg
-  - /assets/images/klimamobil/radtour/IMG_5882.jpg
-  - /assets/images/klimamobil/radtour/IMG_5887.jpg
+  - img: /assets/images/klimamobil/radtour/DJI_0002.jpg
+  - img: /assets/images/klimamobil/radtour/DJI_0996.jpg
+  - img: /assets/images/klimamobil/radtour/IMG_5903.jpg
+  - img: /assets/images/klimamobil/radtour/IMG_5894.jpg
+  - img: /assets/images/klimamobil/radtour/IMG_5882.jpg
+  - img: /assets/images/klimamobil/radtour/IMG_5887.jpg
 ---
 Knapp 100 Fahrradfreund:innen hatten sich am Sonntag, den 20.September zur gemeinsamen Radtour zwischen Heuweiler und Gundelfingen eingefunden. Unter dem Motto „Besser Radweg als ratlos“ hatte die AG Klima und Mobilität der Bürgerrunde eingeladen, die bestehenden Wege zwischen den beiden Orten zusammen zu erfahren, um aufzuzeigen, dass es Verbesserungsbedarf an der lokalen Radinfrastruktur gibt.
 
