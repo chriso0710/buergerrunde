@@ -20,10 +20,10 @@ Folgende Themen des Berichtes finden Sie/findet Ihr in entsprechenden Ergebnis- 
 - Verhältnis Bürger*innen zur politischen Kommune, zum Staat und zur Kirche: Ergebnisse: Kapitel 5.7, Empfehlungen: Kapitel 7.7
 - Perspektiven zum Wohnort/-art im Alter; Versorgung bei Pflegebedürftigkeit; Situation der Haushalte mit Pflegebedürftigen: Ergebnisse: Kapitel 5.8 sowie 5.9, Empfehlungen: Kapitel 7.8
 
-Wenn Corona es wieder zulässt, würde das Projektteam gerne noch in einer Bürgerversammlung die Ergebnisse und Empfehlungen präsentieren. Dazu wird separat eingeladen.
+Unten finden Sie den überarbeiteten Bericht mit Stand Januar 2022. Im Frühjahr/Frühsommer ist eine öffentliche Präsentation der Ergebnisse in Heuweiler vorgesehen, sobald die Corona-Situation das zulässt. Wir werden frühzeitig informieren.
 
 Prof. Dr. Burkhard Werner und 10 Studierende der Kath. Hochschule Freiburg 
 
 Kontaktadresse: [Burkhard Werner](mailto:Burkhard.Werner@kh-freiburg.de)
 
-* [Endbericht (PDF)](https://drive.google.com/file/d/1WYB5FGj2YP3rMg82j4JjSsbGNz7WekuM/view?usp=sharing)
+* [Endbericht Stand Jan 2022 (PDF)](https://drive.google.com/file/d/1U8FBeFTxCMBgRzmkpOtXve_PRzIyEqCo/view?usp=sharing)
