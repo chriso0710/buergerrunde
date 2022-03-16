@@ -1,0 +1,47 @@
+Hi there, 
+
+my name is Christian, I am the chairman of the board of the Bürgerrunde Heuweiler (BR). 
+
+Heuweiler is a small community in southern Germany. The BR is a small team of dedicated citizens. However, we are doing our best to fight climate change locally. Our topics are mobility, safety and climate protection. Our goal is to become a fully climate-neutral community by 2030.
+
+We just purchased a modern Urban Arrow Family cargo electric bike for our village:
+https://www.urbanarrow.com/en/family
+
+The bike is supported by local businesses and the local community. The BR will provide regular maintenance for the bike.
+The bike will have a central public location and can be used freely and at no cost by all inhabitants for all their transport needs (children, dogs, tools, sports equipment, picknicks, shopping, etc.). 
+
+We would like you to design large stickers on *both* sides of the cargo box. 
+We will print the stickers ourselves, locally.
+Please note that we do NOT need a logo.
+
+People should know what the bike is for and who operates and supports the bike.
+The design should be simple, minimalistic, fresh, easy to read, beautiful to look at and maybe just a little playful. 
+Please be creative. All designs and suggestions are welcome.
+
+Please pay attention to the following for the design of the stickers:
+
+- as the bike frame is white and we want the base/background of our stickers to be white also
+- the name of the bike is "Henry"/"Heidi"
+- the slogan is "Mein - dein - unser Lastenrad", which is german and translates to "my, your, our cargo bike"
+- most important is the slogan and the name of the bike, so both should be large and easy to read
+- a QRcode, which points to a website with more info
+- the two website urls: https://buergerrunde.heuweiler.net and https://www.lastenvelofreiburg.de/
+- we have 6 logos in total (rewe, ews, lexware, bürgerrunde, lastenvelo, heuweiler), most of the files are already in vector format
+- all logos should be unobtrusive, maybe placed in a single row below the name/slogan. All logos should be the same size, small but readable.
+- we would optionally like to see a nice graphical element. Like a silhouette of Heuweiler. Or something else, which makes it clear that the bike belongs to the villagers and that we are caring for better mobility, the environment and the climate
+- main colors should be the orange colors of our logo (BR), but you are also free to use other colors
+- the charging station for the bike will look like this:
+https://www.spelsberg.com/e-bike-charging-stations/with-integrated-connectors/58012201/
+
+
+You can find all files, images and logos in this dropbox folder:
+https://...
+
+Additionally we need a separate sign for the bike location. The sign should be printable in max A3 format and should have the same design as the stickers with the following additional title:
+"Dieser Platz ist reserviert für", which translates to "This space is reserved for".
+
+Included is an .ai file which the manufacturer of the bike provided, together with some instructions. Please use this file for your designs.
+As the final result, please create and deliver full vector files (AI, PDF) for print.
+
+Would you be interested in this job?
+How many different base designs can you provide?
