@@ -15,7 +15,7 @@ Erneut rufen wir auch die Wohnungsbesitzer mit freistehendem Wohnraum in Heuweil
 Ebenfalls wurde ein Spendenaufruf direkt an die Heuweilermer Bevölkerung verabredet. Sie können und mögen bitte auf das 
 
 > Konto der Gemeinde Heuweiler
-> IBAN DE33 6806 4222 0007 0100 0
+> IBAN DE33 6806 4222 0007 0100 01
 > Stichwort Ukrainehilfe
 
 überweisen. Spenden in jeder Höhe sind willkommen, bis zu 300,- Euro werden diese gewöhnlich vom Finanzamt ohne umständliche Nachweise berücksichtigt. Es genügt der Kontoauszug. Gegebenenfalls können für darüber hinausgehende Spenden Quittungen mit Hilfe der Gemeinde Heuweiler ausgestellt werden.
