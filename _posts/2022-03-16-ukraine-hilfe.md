@@ -4,8 +4,6 @@ categories: [ Gemeinschaft ]
 author: bw
 image: "/assets/images/buergernetz/ukraine-flag.svg"
 ---
-Liebe Freund:innen und Mitglieder:innen der Bürgerrunde Heuweiler,
- 
 Der Angriffskrieg Russlands gegen die Ukraine war auch wichtigstes Thema beim 2. Treffen der Bürgerrunde mit Mitgliedern des Gemeinderates Heuweiler am Abend des 15. März. Wir haben zunächst das dringende Thema der Flüchtlingsunterbringung angesprochen. Viele Flüchtlinge aus der Ukraine sind schon in Erstaufnahmeeinrichtungen, auch schon in Freiburg und Gundelfingen, angekommen. Alle Gemeinden des Landkreises Breisgau-Hochschwarzwald sind aufgerufen, freie Wohnungen zu melden. Ebenfalls können sich Privatpersonen melden, die vorübergehend eine kleine Zahl von Flüchtlingen in ihren Wohnungen aufnehmen können und auch wollen. Die Teilnehmenden an dem o.g. Treffen selbst überlegen ebenfalls einen solchen Schritt.
 
 Heute wurde mit der Verwaltung der Partnergemeinden Heuweiler und Gundelfingen abgesprochen, dass Wohnungsbesitzer sich unter der neu eingerichteten Mailadresse [ukraine@heuweiler.de](ukraine@heuweiler.de) melden können, wenn sie vorübergehend Geflüchtete aus der Ukraine aufnehmen möchten. Wir weisen jedoch darauf hin, dass dies gut überlegt sein sollte, denn es kann sich unter Umständen um Wochen, vielleicht auch Monate handeln. Die Gemeindeverwaltung kann es nicht leisten, untergebrachte Flüchtlinge nach kurzer Zeit wieder zurückzunehmen.
