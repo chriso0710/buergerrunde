@@ -21,3 +21,5 @@ Ebenfalls wurde ein Spendenaufruf direkt an die Heuweilermer Bevölkerung verabr
 Wir dürfen die ukrainische Bevölkerung und auch die von dort Geflüchteten jetzt nicht allein lassen.
  
 Der Vorstand der Bürgerrunde Heuweiler sowie vier Gemeinderät:innen
+
+[Eine Sammlung von Organisationen, Projekten und Hilfsangeboten zur Unterstützung von Menschen in und aus der Ukraine](https://re-publica.com/de/news/standwithukraine-so-koennt-ihr-unterstuetzen)
