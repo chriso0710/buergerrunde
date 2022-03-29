@@ -1,0 +1,17 @@
+---
+title: Heuweilemer Dorfputzete
+categories: [ Gemeinschaft, Klimaschutz ]
+author: dg
+image: /assets/images/muell.jpg
+event: 2022-04-09 11:00:00
+location: Rathausplatz
+---
+Die AG Naturfreund*innen der Bürgerrunde Heuweiler e.V. lädt Sie auch dieses Jahr wieder ein zur 
+
+**Heuweilermer Dorfputzete und weiteren Aktionen 
+am Samstag, den 09.04.2022, um 11 bis ca. 13 Uhr
+Treffpunkt Rathausplatz**
+
+Wir möchten zu Beginn des Frühlings die Straßen, Wege, Plätze und Waldränder unserer Gemeinde von Müll und Unrat befreien. Dazu werden uns dankenswerterweise Müllsäcke und Greifzangen vom Bauhof gestellt. Handschuhe, Eimer und ggf. Warnwesten sollte jede/r selber mitbringen. Das Dorf wird in mehrere Sektionen unterteilt und gruppenweise abgelaufen. Wer dann noch Lust und Zeit hat, kann sich an diesem Tag auch mit anderen geplanten Aktionen, wie z.B. dem Abbau der Amphibienzäune, für Heuweilers Flora und Fauna engagieren. 
+
+Wir hoffen auf gutes Wetter und freuen uns über rege Unterstützung!
