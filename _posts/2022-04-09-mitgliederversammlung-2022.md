@@ -9,7 +9,7 @@ image: "/assets/images/br_logo.svg"
 
 Unsere Mitgliederversammlung muss krankheitsbedingt online per Zoom stattfinden. Gäste sind weiterhin herzlich willkommen. Wer online dabei sein möchte, schreibt bitte eine kurze eMail und erhält dann den Zoom Link.
 
-Wir werden morgen nur das minimale Pflichtprogramm durchgehen und dabei lediglich die vereinsrechtlichen Formalien klären. 
+Wir werden nur das minimale Pflichtprogramm durchgehen und dabei lediglich die vereinsrechtlichen Formalien klären. 
 
 Die ausführliche Diskussion über Vereinsziele und die aktuelle Planung wird zu einem späteren Zeitpunkt noch vor den Sommerferien nachgeholt. Hierüber informieren wir separat zu gegebener Zeit.
 
