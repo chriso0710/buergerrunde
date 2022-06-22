@@ -2,22 +2,24 @@
 title: Mitgliederversammlung 2022
 event: 2022-06-23 19:00:00
 categories: [ Bürgerrunde ]
-location: Jugendhütte
+location: Zoom onine
 author: co
 image: "/assets/images/br_logo.svg"
 ---
 
-Wir treffen uns wie letztes Jahr wieder oben an der Jugendhütte. Sollte die Jugendhütte wegen des Wetters nicht möglich sein, dann wird die Versammlung an einem anderen Ort oder im Rathaus stattfinden. Das entscheiden wir kurz vorher.
+Unsere Mitgliederversammlung muss krankheitsbedingt online per Zoom stattfinden. Gäste sind weiterhin herzlich willkommen. Wer online dabei sein möchte, schreibt bitte eine kurze eMail und erhält dann den Zoom Link.
 
-Wir haben weiterhin die Themen Klimaschutz, Natur- und Artenschutz, Verkehrswende und Kultur auf der Agenda für Heuweiler. Angesichts der immensen Krisen in Europa und der Welt sind diese wichtiger denn je. Wir freuen uns sehr, wenn viele von euch dabei sein können. Auch Gäste sind herzlich willkommen. Bitte reserviert euch den Termin. 
+Wir werden morgen nur das minimale Pflichtprogramm durchgehen und dabei lediglich die vereinsrechtlichen Formalien klären. 
+
+Die ausführliche Diskussion über Vereinsziele und die aktuelle Planung wird zu einem späteren Zeitpunkt noch vor den Sommerferien nachgeholt. Hierüber informieren wir separat zu gegebener Zeit.
+
+Wir haben weiterhin die Themen Klimaschutz, Natur- und Artenschutz, Verkehrswende und Kultur auf der Agenda für Heuweiler. Angesichts der immensen Krisen in Europa und der Welt sind diese wichtiger denn je. 
 
 ### Tagesordnung
 
 1 Begrüßung und Eröffnung, Ernennung eines Protokollführers
-2 Jahresbericht des Vorstands für das abgelaufene Jahr
+2 kurzer Jahresbericht des Vorstands für das abgelaufene Jahr
 3 Finanzbericht des Kassenwartes
 4 Entlastung des Vorstands
 5 Wahl des Kassenprüfers
 6 Wahl des Vorstands
-7 Aussprache über die Vereinsziele für das laufende Jahr, aktuelle Planungen
-8 Weitere Anträge
