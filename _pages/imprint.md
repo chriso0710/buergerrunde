@@ -30,7 +30,7 @@ Christian Ott
 Am Flissert 6  
 79194 Heuweiler
 
-Fotos: Bürgerrunde Heuweiler, Unsplash, Künstler sowie explizit im Artikel genannte Personen und Firmen.
+Fotos und Symbole: Bürgerrunde Heuweiler, Unsplash, Canva, Künstler sowie explizit im Artikel genannte Personen und Firmen.
 
 ### Haftungsausschluss
 
