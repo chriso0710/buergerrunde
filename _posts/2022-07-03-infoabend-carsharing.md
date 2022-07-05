@@ -13,4 +13,6 @@ Wir möchten Carsharing nach Heuweiler bringen. Gemeinsam mit Ihnen wollen wir m
 
 Wir freuen uns auf einen angeregten Austausch am 13.07.!
 
-Unsere Umfrage "Carsharing in Heuweiler?" demnächst hier.
+Für unseren Infoabend und für die Planung wollen wir Ihren Bedarf und Ihre Wünsche kennenlernen. Bitte füllen Sie den untenstehenden Fragebogen aus. Das dauert nur 2 Minuten und ist anonym. Herzlichen Dank für's Mitmachen!
+
+<a class="btn btn-success" href="https://forms.gle/ziohCJJM4kZHGr3YA" role="button" target="_blank">Hier geht es zur Umfrage</a>
