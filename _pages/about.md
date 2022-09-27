@@ -11,6 +11,8 @@ Die tollen Rückmeldungen zeigen, dass unsere Aktionen in Heuweiler und Umgebung
 Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger, die Lust und Zeit haben, bei unseren Aktionen mitzuplanen mitzuhelfen oder mitzumachen. 
 Es spielt keine Rolle, was jede/r beitragen kann oder wie oft er/sie Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung.
 
+![Animation](/assets/images/rollup-display.gif)
+
 ## Der gemeinnützige Verein
 
 Seit dem 29.9.2016 ist die Bürgerrunde Heuweiler ein Verein.
