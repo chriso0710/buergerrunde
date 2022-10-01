@@ -31,8 +31,6 @@ Heuweiler könnte mit einem Carpooling-Projekt Vorreiter für geteilte Mobilitä
 
 ## Wie geht es nun weiter? 
 
-Wir suchen Menschen, die sich vorstellen können, ihr Auto für das Carpooling bereit zu stellen, um es mit einem ausgewählten Nutzerkreis zu teilen. Unter folgendem Formular bitten wir daher um Rückmeldung: 
+Wir suchen Menschen, die sich vorstellen können, ihr Auto für das Carpooling bereit zu stellen, um es mit einem ausgewählten Nutzerkreis zu teilen. 
 
-<a class="btn btn-success" href="https://forms.gle/bBo4eEYPzukfFMjm7" role="button" target="_blank">Hier geht es zur Abfrage Carpooling</a>
-
-Wir sammeln die Rückmeldungen bis Mitte September und setzen uns dann mit allen Interessierten in Verbindung. Das Ziel ist es, zu ermitteln, ob es genügend Interessierte sowie geeignete Fahrzeuge in ganz Heuweiler gibt, um mit einem Carpooling-Projekt ein neues Mobilitätsangebot in Heuweiler zu schaffen. 
+Wir sammeln die Rückmeldungen bis Ende September und setzen uns dann mit allen Interessierten in Verbindung. Das Ziel ist es, zu ermitteln, ob es genügend Interessierte sowie geeignete Fahrzeuge in ganz Heuweiler gibt, um mit einem Carpooling-Projekt ein neues Mobilitätsangebot in Heuweiler zu schaffen. 
