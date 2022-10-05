@@ -2,7 +2,7 @@
 title: Energiestationen und Lastenräder beim Dorfflohmarkt in Heuweiler
 categories: [ Klimaschutz ]
 author: ad
-image: "/assets/images/klimamobil/energiestation.png"
+image: "/assets/images/flohmarktaktionen22.png"
 event: 2022-10-08 11:00:00
 location: Heuweiler
 ---
