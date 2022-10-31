@@ -1,6 +1,6 @@
 ---
 title: Der Orangene Punkt braucht Helfer
-categories: [ Klimaschutz, Mobilität ]
+categories: [ Klimaschutz, Mobilität, Orangener Punkt ]
 author: bw
 image: "/assets/images/op.png"
 ---

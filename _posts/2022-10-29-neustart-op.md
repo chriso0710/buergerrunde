@@ -1,0 +1,17 @@
+---
+title: Neustart Orangener Punkt
+categories: [ Klimaschutz, Mobilität, Orangener Punkt ]
+author: bw
+image: "/assets/images/op.png"
+event: 2022-11-09 19:00:00
+location: Rathaus
+---
+Am Mittwoch, den 9. November, soll unsere Mitfahraktion wieder neu gestartet werden. Nachdem nun seit dem Frühjahr 2020 der  Orangene Punkt coronabedingt mehr oder weniger still gestanden hat, ist jetzt der Zeitpunkt für eine Neubelebung gekommen. Corona ist nach wie vor vorhanden, muss aber nicht mehr radikal den Orangenen Punkt lahmlegen. Auch das soll an dem Abend angesprochen werden. Jedenfalls finden wir, dass unsere Mitfahraktion es wert ist, wieder aufzuleben. Die Gründe für den OP, zur Zeit seiner Gründung im Jahr 2016, sind heute relevant wie nie zuvor. Sowohl die Reduktion von klima- und umweltschädlichen Gasen (CO2, NOx) und Feinstaub durch einen Rückgang des motorisierten individuellen Verkehrs, als auch die spätestens seit dem Krieg in der Ukraine deutlich gewordene weltweite Abhängigkeit von fossilen Brennstoffen fordert geradezu eine Verkehrswende, einhergehend mit einer Energiewende.
+
+Die AG Klima und Mobilität der Bürgerrunde Heuweiler hat dazu schon im letzten Jahr ein Impulspapier [„Heuweiler bewegt sich“]({{ '/heuweiler-bewegt-sich' | relative_url }}) formuliert, das die wesentlichen Schritte hin zu weniger Verkehr mit Verbrennungsmotoren, aber auch hin zur Verbesserung für den Fuß- und Radverkehr sowie den Öffentlichen Personen-Nahverkehr in unserem Dorf zusammenfasst. Dieses Papier wurde in Kooperation  mit der Bürgergenossenschaft Heuweiler erarbeitet, um den umgebauten Alt-Vogtshof in die Überlegungen einzubeziehen.
+
+Am Abend des 9. 11. wird zunächst Bürgermeister Raphael Walz ein Eingangsstatement zum Orangenen Punkt abgeben. Danach erfolgt ein kurzer Sachstandsbericht zum OP (Haltestellen im Dorf und in den Nachbargemeinden, Mitgliederzahl u.ä., Kommunikationsmedien), um dann zu geplanten Neuerungen zu informieren. Hier geht es besonders um die von der Bürgerrunde erworbene, speziell für unseren OP in Heuweiler zugeschnittene Mitfahr-App Twogo. Diese App kann auf mobilen Endgeräten, aber auch auf dem heimischen PC bzw. Laptop installiert werden und führt automatisch eingegebene Fahrtangebote und -wünsche zu Fahrgemeinschaften zusammen, z.B. zwei Berufspendler, die ungefähr gleiche Wege  und Zeiten haben. Auch die Ausweitung der Kooperation mit den Nachbargemeinden sowie mit Initiativen ähnlicher Art (Mitfahr-Punkte Dreisamtal, Mitfahrbank Vörstetten, Mitfahrbank Waldkirch) wird diskutiert.
+
+Der Abend bietet für Interessierte und Mitglieder des OP die Möglichkeit, eigene Ideen, Wünsche und Vorschläge für den Neustart des OP einzubringen. Es geht auch um die Verbesserung der Mobilität für Menschen ohne Auto, für Ältere, die keines mehr führen wollen, aber dennoch zum Einkaufen, für Arztbesuche usw. mobil sein möchten. Eine mögliche Weiterentwicklung des OP in Richtung Bürgerauto oder Bürgerbus wird am Ende der Veranstaltung thematisiert. Zum derzeitigen Stand unserer Vorarbeiten für Carsharing und Carpooling in Heuweiler wird es Informationen geben. Möglicherweise können Carsharing und der Orangene Punkt ja sogar miteinander verbunden werden.
+
+Wir hoffen auf ein großes Interesse Ihrerseits und auf rege Beteiligung, denn diese Aktion steht für unser Dorf und für alle Menschen, die gemeinsam eine Antwort auf die aktuellen Herausforderungen finden möchten. Wer mag, kann gerne mit FFP2-Maske kommen.
