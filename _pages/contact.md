@@ -5,8 +5,8 @@ permalink: /contact
 search: true
 ---
 
-Sie erreichen uns am besten per eMail an <buergerrunde-heuweiler@googlegroups.com>
+Ihr erreicht uns am besten per eMail an <buergerrunde-heuweiler@googlegroups.com>
 
 Weitere Details im [Impressum]({{ '/imprint' | relative_url }}).
 
-Die Bürgerrunde hat einen großen eMail-Verteiler, über den wir regelmässig alle Neuigkeiten bekanntgeben. Wenn Sie uns eine kurze formlose eMail senden, dann tragen wir Sie gerne im Verteiler ein. Sie können sich jederzeit selbst wieder abmelden.
+Die Bürgerrunde hat einen großen eMail-Verteiler, über den wir regelmässig alle Neuigkeiten bekanntgeben. Wenn du uns eine kurze formlose eMail sendest, dann tragen wir dich gerne im Verteiler ein. Du kannst dich jederzeit selbst wieder abmelden.

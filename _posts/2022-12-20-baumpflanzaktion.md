@@ -1,5 +1,5 @@
 ---
-title: Baumpflanzaktion am "Freundschaftsplatz" der Gemeinden Denzlingen und Heuweiler
+title: Baumpflanzaktion am "Freundschaftsplatz"
 categories: [ Gemeinschaft, Naturschutz ]
 author: dg
 image: /assets/images/naturschutz/konzept-freundschaftsplatz.jpg
