@@ -1,6 +1,6 @@
 ---
 title: Fahrgemeinschaften zur Exkursion der Gemeinde Heuweiler nach Gutach-Bleibach
-categories: [ Klimaschutz, Ausflug, Orangener Punkt ]
+categories: [ Klimaschutz, Ausflug, Orangener Punkt, Weiterbildung ]
 author: mh
 image: "/assets/images/klimamobil/pipelines.jpg"
 event: 2022-11-26 14:30:00

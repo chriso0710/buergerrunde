@@ -1,6 +1,6 @@
 ---
 title: 2022 - “Was für ein Jahr!”
-categories: [ Gemeinschaft, Ausstellung, Klimaschutz, Mobilität ]
+categories: [ Gemeinschaft ]
 author: ad
 image: /assets/images/winter.jpg
 ---

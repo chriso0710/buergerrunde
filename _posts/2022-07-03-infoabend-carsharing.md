@@ -1,7 +1,7 @@
 ---
 title: Infoabend Carsharing
 event: 2022-07-13 19:30:00
-categories: [ Klimaschutz, Mobilität, Gemeinschaft ]
+categories: [ Klimaschutz, Mobilität, Gemeinschaft, Weiterbildung ]
 location: Rathaus Heuweiler
 author: ad
 image: "/assets/images/klimamobil/carsharing.jpg"

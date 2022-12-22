@@ -1,6 +1,6 @@
 ---
 title: Wie lade ich Vielfalt in meinen Garten ein?
-categories: [ Gemeinschaft, Naturschutz ]
+categories: [ Gemeinschaft, Naturschutz, Weiterbildung ]
 author: jk
 image: /assets/images/naturschutz/losert.jpg
 event: 2022-11-12 19:00:00
