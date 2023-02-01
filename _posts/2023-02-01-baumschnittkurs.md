@@ -1,10 +1,10 @@
 ---
-title: Baumschnittkurs für Anfänger in Heuweiler
+title: "Baumschnittkurs für Anfänger:innen in Heuweiler"
 categories: [ Gemeinschaft, Weiterbildung, Naturschutz ]
 author: dg
 image: /assets/images/naturschutz/apfelbaume.jpg
 event: 2023-02-11 10:00:00
-location: Ecke Holzweg/Am Flissert
+location: Ort wird nach Anmeldung mitgeteilt
 ---
 Jetzt ist die richtige Zeit, um die Obstbäume im Garten zu schneiden! Der richtige Schnitt entscheidet dabei über den Ertrag und die Qualität der Ernte und die Gesundheit des Baumes. 
 
