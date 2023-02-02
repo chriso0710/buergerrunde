@@ -1,5 +1,5 @@
 ---
-title: Treffen AG Naturfreunde
+title: Treffen AG NaturfreundInnen
 categories: [ Klimaschutz, Naturschutz ]
 author: co
 image: "/assets/images/naturschutz/nf6.jpg"
