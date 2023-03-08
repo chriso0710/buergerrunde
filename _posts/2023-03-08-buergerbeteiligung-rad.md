@@ -3,6 +3,8 @@ title: Bürgerbeteiligung für das Radverkehrskonzept im Landkreis Breisgau-Hoch
 categories: [ Mobilität ]
 author: bw
 image: /assets/images/klimamobil/wegedetektiv.jpg
+location: Web
+event: 2022-03-06 00:00:00
 ---
 Seit kurzem ist eine Beteiligungsaktion des Landkreises Breisgau-Hochschwarzwald online. Es geht um eine Bestandsaufnahme aller Probleme, aber auch Lösungsvorschläge, für den Radverkehr im Landkreis.
 
