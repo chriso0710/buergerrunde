@@ -11,7 +11,7 @@ title: Home
     {% for post in site.posts %}
         {% if post.event %}
             {% assign event_unix = post.event | date: '%s' | plus: 0 %}
-            {% if event_unix >= today_unix %}
+            {% if event_unix >= today_unix or post.featured %}
                 {% assign filtered_posts = filtered_posts | push: post %}
             {% endif %}
         {% endif %}
@@ -44,7 +44,7 @@ title: Home
         {% for post in site.posts %}
             {% if post.event %}
                 {% assign event_unix = post.event | date: '%s' | plus: 0 %}
-                {% if event_unix < today_unix %}
+                {% if event_unix < today_unix and post.featured == nil %}
                     {% assign filtered_posts = filtered_posts | push: post %}
                 {% endif %}
             {% else %}
