@@ -3,7 +3,7 @@ title: "Krötenhilfe in Hinterheuweiler"
 categories: [ Naturschutz ]
 location: Löschteich, Hinterheuweiler
 author: co
-image: /assets/images/buergernetz/kroete.jpg
+image: /assets/images/naturschutz/kroete.jpg
 event: 2020-03-01 20:15:00
 ---
 Der BUND Gundelfingen hat bei der Bürgerrunde angefragt, ob sich in Heuweiler Menschen finden würden, die bei der diesjährigen Krötenwanderung in Hinterheuweiler helfen würden.
