@@ -7,16 +7,11 @@ search: true
 
 ## Forum und Initiative in und für Heuweiler. Seit 2015.
 
-Unsere Themen sind Mobilität, Naturschutz, Kultur, Klimaschutz und Bürgervernetzung.
+Seit 2016 ist die Bürgerrunde Heuweiler als Verein aktiv. Unsere Themen sind Klimaschutz, Mobilität, Naturschutz, Kultur und Dorfgemeinschaft im Bürgernetz.
 
-Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte BürgerInnen, die Lust und Zeit haben, bei unseren vielfältigen Aktionen mit zu diskutieren, zu planen, zu helfen oder mitzumachen. Es spielt keine Rolle, was jede:r beitragen kann oder wie oft jede:r Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung.
+Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger:innen die Lust und Zeit haben, bei unseren vielfältigen Aktionen mit zu diskutieren, zu planen, zu helfen oder mitzumachen. Es spielt keine Rolle, was jede:r beitragen kann oder wie oft jede:r Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung. Seit Ende 2016 ist durch das Finanzamt Freiburg-Land bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
 
 ![Animation](/assets/images/rollup-display.gif)
-
-## Der gemeinnützige Verein
-
-Seit dem 29.9.2016 ist die Bürgerrunde Heuweiler ein Verein.
-Das Finanzamt Freiburg-Land hat am 08.11.2016 bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
 
 Wichtige Dokumente:
 

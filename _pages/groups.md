@@ -5,19 +5,15 @@ permalink: /groups
 search: true
 ---
 
-### AG Kultur
-
-Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung kultureller Veranstaltungen für alle Altersgruppen im Rathaus oder anderen Orten im Dorf: Kinoabende, Konzerte, Ausstellungen, Theater. Wir freuen uns auch sehr über BesucherInnen aus umliegenden Orten. Unsere Veranstaltungen versuchen, Kunst und Musik mit Dorfgemeinschaft und Genuß zu verbinden. Auch der große Dorfflohmarkt wird von der Kultur AG geplant. 
-
-* [Ausstellung](/category/ausstellung/)
-* [Kino](/category/kino)
-* [Theater](/category/theater)
-* [Konzert](/category/konzert)
-* [Flohmarkt](/category/flohmarkt)
-
 ### AG Klima und Mobil
 
-Unsere Themen sind Mobilität, Klimaschutz und Sicherheit. 
+Eine unserer ersten Aktionen war die Anschaffung eines Verkehrs-Smilies zur Reduktion der Durchfahrtsgeschwindigkeit auf 30 kmh im Dorf.
+
+Seit 2021 betreiben wir sehr erfolgreich das Lastenvelo Carlos, kostenlos auszuleihen und zu nutzen für alle.
+
+Weitere Schwerpunkte unserer Arbeit in der AG sind die Mitfahraktion "Orangener Punkt", die Einführung von Carsharing-Angeboten sowie eines Bürgerbusses zwischen Heuweiler und Gundelfingen (Bahnhof und Straba-Endhaltestelle). Ein umfassendes Impulspapier zur Mobilität im Dorf ("Heuweiler bewegt sich") haben wir maßgeblich entwickelt.
+
+Zur Förderung des Klimaschutzes in unserer Gemeinde haben wir uns an der Gründung des Klimaschutz-Ausschusses durch den Gemeinderat im Jahr 2022 beteiligt und entsenden zwei Mitglieder darin. Themen wir alternative Energien (Photovoltaik, Windkraft, Solarthermie), aber auch Sanierung von Wohngebäuden (Wärmedämmung) sowie verschiedene Formen der Nah- und Fernwärme diskutieren wir mit und versuchen, deren Umsetzung zu fördern.
 
 * Reduktion von Verkehrsgefahren, Reduktion des Individualverkehrs bei gleichzeitiger Erhöhung der Mobilität.
 * CO2-/NOx-Reduktion. Klimaneutrale Gemeinde 2050. Ausbau Solaranlagen und Batteriespeicher.
@@ -39,6 +35,16 @@ Die NaturfreundInnen setzen sich für vielfältige Projekte rund um das Thema Na
 
 * [Naturschutz](/category/naturschutz)
 * [Klimaschutz](/category/klimaschutz)
+
+### AG Kultur
+
+Die Aufgabe der Kultur AG ist die regelmässige Organisation und Durchführung kultureller Veranstaltungen für alle Altersgruppen im Rathaus oder anderen Orten im Dorf: Kinoabende, Konzerte, Ausstellungen, Theater. Wir freuen uns auch sehr über BesucherInnen aus umliegenden Orten. Unsere Veranstaltungen versuchen, Kunst und Musik mit Dorfgemeinschaft und Genuß zu verbinden. Auch der große Dorfflohmarkt wird von der Kultur AG geplant. 
+
+* [Ausstellung](/category/ausstellung/)
+* [Kino](/category/kino)
+* [Theater](/category/theater)
+* [Konzert](/category/konzert)
+* [Flohmarkt](/category/flohmarkt)
 
 ### AG Bürgernetz
 
