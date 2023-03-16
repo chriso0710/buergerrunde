@@ -1,0 +1,19 @@
+---
+title: Earth Hour 2023
+categories: [ Klimaschutz ]
+author: co
+image: /assets/images/klimamobil/erde.jpg
+location: Überall
+event: 2023-03-25 20:30:00
+---
+Am 25. März 2023 findet ab 20:30 Uhr wieder die Earth Hour statt, eine weltweite Aktion, bei der Menschen auf der ganzen Welt für eine Stunde das Licht ausschalten, um ein Zeichen für den Klimaschutz zu setzen. Die Earth Hour wurde erstmals 2007 von der Umweltschutzorganisation WWF ins Leben gerufen und hat sich seither zu einer bedeutenden Aktion entwickelt. Doch warum lohnt es sich eigentlich, bei der Earth Hour mitzumachen?
+
+Zunächst einmal ist die Earth Hour eine einfache Möglichkeit, um Energie zu sparen und damit einen Beitrag zum Klimaschutz zu leisten. Wenn wir für eine Stunde das Licht ausschalten, sparen wir nicht nur Energie, sondern reduzieren auch den CO2-Ausstoß, der durch die Stromerzeugung entsteht. Jede/r kann mitmachen und ein kleines Stück zum Schutz unserer Umwelt beitragen.
+
+Darüber hinaus ist die Earth Hour auch ein wichtiger symbolischer Akt. Durch das gemeinsame Abschalten des Lichts setzen wir ein Zeichen für den Klimaschutz und zeigen, dass wir uns für eine lebenswerte Zukunft einsetzen. Die Earth Hour ist eine Gelegenheit, um Bewusstsein für den Klimawandel und seine Auswirkungen zu schaffen und um auf die Dringlichkeit von Maßnahmen zum Schutz unserer Umwelt hinzuweisen.
+
+Die Earth Hour kann auch dazu beitragen, den eigenen Lebensstil zu reflektieren und zu verändern. Wenn wir uns bewusst machen, wie viel Energie wir im Alltag verbrauchen, können wir Maßnahmen ergreifen, um unseren eigenen CO2-Fußabdruck zu reduzieren. Das kann beispielsweise bedeuten, energieeffiziente Geräte zu verwenden, auf erneuerbare Energien umzusteigen oder auf Flüge zu verzichten, wenn es alternative Reisemöglichkeiten gibt.
+
+Insgesamt lohnt es sich also, bei der Earth Hour mitzumachen und ein kleines Zeichen für den Klimaschutz zu setzen. Jede/r von uns kann durch kleine Veränderungen im Alltag einen Beitrag zum Schutz unserer Umwelt leisten. Die Earth Hour bietet uns eine Gelegenheit, um uns daran zu erinnern und um gemeinsam für eine bessere Zukunft zu kämpfen. Macht also mit und setzt ein Zeichen für den Klimaschutz!
+
+Mehr Infos beim [WWF](https://www.wwf.de/earth-hour)
