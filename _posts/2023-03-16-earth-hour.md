@@ -2,7 +2,7 @@
 title: Earth Hour 2023
 categories: [ Klimaschutz ]
 author: co
-image: /assets/images/klimamobil/erde.jpg
+image: /assets/images/klimamobil/earthhour.jpg
 location: Überall
 event: 2023-03-25 20:30:00
 ---
