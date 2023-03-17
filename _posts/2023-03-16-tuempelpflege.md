@@ -3,7 +3,12 @@ title: Tümpelpflege - vielleicht die letzte Chance
 categories: [ Naturschutz ]
 location: Löschteiche
 author: jk
-image: /assets/images/naturschutz/bergmolch.jpg
+image: /assets/images/naturschutz/amphibiengruppe.jpg
+gallery: 
+  - img: /assets/images/naturschutz/teich.jpg
+  - img: /assets/images/naturschutz/molch.jpg
+  - img: /assets/images/naturschutz/bergmolch.jpg
+  - img: /assets/images/naturschutz/amphibiengruppe.jpg
 ---
 Am Donnerstag, den 2.3.2023 hatten wir das große Glück, mit dem jetzigen Förster Bernd Nold und seiner Nachfolgerin Julia Lindinger und Klemens Fritz, einer der Amphibienspezialisten in Baden-Württemberg einen Begang der drei Tümpel rund um Heuweiler und am Einbollen in Denzlingen gemeinsam mit dem BUND Denzlingen, Vörstetten, Reute und der Naturfreundegruppe Heuweiler durchzuführen. Durch einen guten direkten persönlichen Kontakt ist es uns gelungen, diese hochkarätige Mannschaft nach Heuweiler zu bekommen. Startpunkt war am Waldparkplatz Flissert am Pfaffenrainweg auf Denzlinger Gemarkung.
 
