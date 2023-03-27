@@ -17,7 +17,7 @@ Vertreten durch:
 Kontakt: 
 
 Telefon: 0171 1987880  
-E-Mail: <buergerrunde-heuweiler@googlegroups.com>
+E-Mail: vorstand@heuweiler.net
 
 Registereintrag: 
 

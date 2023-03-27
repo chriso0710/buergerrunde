@@ -10,7 +10,7 @@ Bürgerrunde Heuweiler e.V.
 Am Flissert 6  
 79194 Heuweiler
 
-E-Mailadresse: buergerrunde-heuweiler@googlegroups.com  
+E-Mailadresse: vorstand@heuweiler.net  
 Erster Vorsitzender: Christian Ott  
 Link zum Impressum: [Impressum]({{ '/imprint' | relative_url }})
 

@@ -2,7 +2,7 @@
 title: Aktionen der AG NaturfreundInnen
 categories: [ Gemeinschaft, Naturschutz ]
 author: dg
-image: /assets/images/naturschutz/putzete.jpg
+image: /assets/images/naturschutz/putzede.jpg
 ---
 Vor etwas mehr als einem Jahr hat sich aus der Amphibienzaun-Aktion heraus eine bunt gemischte Gruppe HeuweilemerInnen zusammengefunden, die sich den Naturschutz in Heuweiler zum Ziel gesetzt hat. Um die Biodiversität zu fördern, Landschaftspflege zu betreiben und Leben und Farbe ins Dorf und seine Umgebung zu bringen, haben wir in vielen Wochenend-Arbeitseinsätzen mit einer Gruppe aus Erwachsenen und Kindern verschiedene Projekte angestoßen bzw. durchgeführt, deren Ergebnisse sich jetzt so langsam zeigen. Nun ist es Zeit, davon zu berichten:
 
