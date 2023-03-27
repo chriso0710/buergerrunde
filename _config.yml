@@ -32,7 +32,8 @@ static:
     home: Aktuelles
     groups: Arbeitsgruppen
     events: Veranstaltungen
-    archive: Archiv
+    archive: Archiv/Suche
+    newsletter: Newsletter
     contact: Kontakt
     carlos: Carlos
 

@@ -7,6 +7,8 @@ title: Archiv
     <h2><span>{{ page.title }}</span></h2>
 </div>
 
+{% include search-lunr.html %}
+
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
     <div class="section-title col-md-12 mt-4">

@@ -3,7 +3,7 @@ title: Treffen AG Klima und Mobilität
 categories: [ Klimaschutz, Mobilität ]
 author: co
 image: "/assets/images/klimamobil/erde.jpg"
-event: 2023-03-22 20:00:00
+event: 2023-04-26 20:00:00
 location: Ort variabel
 ---
 Unsere Themen sind Mobilität, Sicherheit und Klimaschutz. 
@@ -20,6 +20,7 @@ Unsere Termine in 2023:
 * 26.1.
 * 15.2.
 * 22.3.
+* 26.4.
 
 Die Termine des Klimaausschuss Heuweiler in 2023:
 * 29.3. (19:00, Rathaus)
