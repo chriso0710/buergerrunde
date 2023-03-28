@@ -1,5 +1,5 @@
 ---
-title: Bürgerschaftsworkshop zum Radwegekonzept Heuweiler
+title: Bürgerbeteiligung - Workshop zum Radwegekonzept Heuweiler
 categories: [ Mobilität ]
 author: co
 image: /assets/images/klimamobil/adfc_fahrradklimatest.jpg

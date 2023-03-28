@@ -1,5 +1,5 @@
 ---
-title: Bürgerbeteiligung für das Radverkehrskonzept im Landkreis Breisgau-Hochschwarzwald
+title: Bürgerbeteiligung - Radverkehrskonzept Landkreis Breisgau-Hochschwarzwald
 categories: [ Mobilität ]
 author: bw
 image: /assets/images/klimamobil/wegedetektiv.jpg
