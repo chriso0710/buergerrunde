@@ -5,7 +5,6 @@ author: bw
 image: /assets/images/klimamobil/wegedetektiv.jpg
 location: Web
 event: 2023-03-06 00:00:00
-featured: true
 ---
 Seit kurzem ist eine Beteiligungsaktion des Landkreises Breisgau-Hochschwarzwald online. Es geht um eine Bestandsaufnahme aller Probleme, aber auch Lösungsvorschläge, für den Radverkehr im Landkreis.
 
