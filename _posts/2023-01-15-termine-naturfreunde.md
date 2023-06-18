@@ -3,7 +3,7 @@ title: Treffen AG NaturfreundInnen
 categories: [ Klimaschutz, Naturschutz ]
 author: co
 image: "/assets/images/naturschutz/nf6.jpg"
-event: 2023-03-07 19:00:00
+event: 2023-07-24 20:00:00
 location: Rathaus
 ---
 Die NaturfreundInnen setzen sich für vielfältige Projekte rund um das Thema Natur- und Artenschutz ein.
@@ -17,3 +17,12 @@ Unsere Termine in 2023:
 * 10.1.
 * 31.1.
 * 7.3.
+* 22.05.
+* 19.06.
+* 24.07.
+* 21.08.
+* 18.09.
+* 23.10.
+* 20.11.
+* 18.12.
+
