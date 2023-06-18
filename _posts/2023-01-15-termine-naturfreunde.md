@@ -1,7 +1,7 @@
 ---
 title: Treffen AG NaturfreundInnen
 categories: [ Klimaschutz, Naturschutz ]
-author: co
+author: fg
 image: "/assets/images/naturschutz/nf6.jpg"
 event: 2023-07-24 20:00:00
 location: Rathaus
