@@ -1,5 +1,5 @@
 ---
-title: Weitere Haltestellen für den OP in Denzlingen
+title: Weitere Haltestellen für den Orangenen Punkt in Denzlingen
 categories: [ Orangener Punkt, Mobilität ]
 author: bw
 image: /assets/images/op/denzlingen.jpg
