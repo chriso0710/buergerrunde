@@ -1,6 +1,6 @@
 ---
 title: Mach’ was aus Deinem Dach!
-categories: [ Klimaschutz ]
+categories: [ Klimaschutz, Weiterbildung ]
 author: ad
 image: /assets/images/klimamobil/pvdach.jpg
 event: 2023-07-12 19:30:00
