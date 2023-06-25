@@ -1,6 +1,6 @@
 ---
 title: Orangener Punkt im Glottertal
-categories: [ Oranger Punkt, Mobilität ]
+categories: [ Orangener Punkt, Mobilität ]
 author: bw
 image: /assets/images/op/glottertal-schwimmbad.jpg
 gallery: 
