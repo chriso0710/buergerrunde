@@ -3,7 +3,7 @@ title: Treffen AG Klima und Mobilität
 categories: [ Klimaschutz, Mobilität ]
 author: co
 image: "/assets/images/klimamobil/erde.jpg"
-event: 2023-06-21 20:00:00
+event: 2023-07-19 20:00:00
 location: Ort variabel
 ---
 Unsere Themen sind Mobilität, Sicherheit und Klimaschutz. 
