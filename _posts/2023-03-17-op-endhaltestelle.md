@@ -1,5 +1,5 @@
 ---
-title: Der Orangene Punkt erweitert sein Haltestellen-Netz
+title: Der OP jetzt an der Straßenbahn-Endhaltestelle
 categories: [ Orangener Punkt, Mobilität ]
 author: bw
 image: /assets/images/op/endhaltestelle.jpg
