@@ -92,6 +92,14 @@ ga('send', 'pageview');
             <a class="nav-link" href="{{ site.baseurl }}/events">{{ site.static.menu.events }}</a>
             </li>
 
+            {% if page.url == "/op/" %}
+            <li class="nav-item active">
+            {% else %}
+            <li class="nav-item">
+            {% endif %}
+            <a class="nav-link" href="{{ site.baseurl }}/op">{{ site.static.menu.op }}</a>
+            </li>
+
             {% if page.url == "/carlos/" %}
             <li class="nav-item active">
             {% else %}
