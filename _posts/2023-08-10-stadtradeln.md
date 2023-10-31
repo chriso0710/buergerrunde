@@ -1,5 +1,5 @@
 ---
-title: Bürgerrunde beim Stadtradeln geehrt
+title: Bürgerrunde räumt beim Stadtradeln ab
 categories: [ Klimaschutz, Mobilität ]
 author: co
 image: "/assets/images/klimamobil/stadtradeln.jpeg"
