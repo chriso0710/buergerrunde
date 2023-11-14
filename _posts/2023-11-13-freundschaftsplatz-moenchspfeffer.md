@@ -10,5 +10,6 @@ Im letzten Jahr wurde als Besonderheit ein erster größerer Streuobstbaum auf D
 
 Nun hat die Gemeinde Denzlingen wiederum 100 Euro Spende für die Vervollkommnung des Platzes gegeben. Davon wurde ein Mönchspfeffer, ein kulturhistorischer Strauch, der selten ist und äußerst interessant für Insekten plus einem Insektenhotel mit entsprechendem Pfahl gekauft.
 
-Am 1.12. um 15:00 ist es dann nach gut einem Jahr seit der Pflanzung des Baumes soweit, dass sich die Bürgermeister der beiden Gemeinden und Mitglieder der BUND Gruppe Denzlingen und Reute und der Naturfreundegruppe als Teil der Bürgerrunde Heuweiler treffen, um den Strauch zu pflanzen und das Insektenhotel aufzustellen. Somit wird die Freundschaft der BewohnerInnen der beiden Gemeinden Denzlingen und Heuweiler Rechnung getragen. 
+Am 1.12. um 15:00 ist es dann nach gut einem Jahr seit der Pflanzung des Baumes soweit, dass sich die Bürgermeister der beiden Gemeinden und Mitglieder der BUND Gruppe Denzlingen und Reute und der Naturfreundegruppe als Teil der Bürgerrunde Heuweiler treffen, um den Strauch zu pflanzen und das Insektenhotel aufzustellen. Somit wird der Freundschaft der BewohnerInnen der beiden Gemeinden Rechnung getragen. 
+
 Den Platz findet man, indem man sich am Ortsausgang von Heuweiler entlang der Glascontainer orientiert und dabei genau bei der ersten Weggabelung auf eine alleinstehende Bank trifft.
