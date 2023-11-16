@@ -1,5 +1,5 @@
 ---
 layout: year-events
-title: Veranstaltungen
+title: Termine und Veranstaltungen
 permalink: /events
 ---
