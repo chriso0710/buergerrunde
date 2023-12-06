@@ -1,7 +1,7 @@
 ---
 title: Workshop "Smartphone, aber sicher!"
 event: 2019-04-11 19:30:00
-image: "/assets/images/smartphone.jpg"
+image: "/assets/images/buergernetz/smartphone.jpg"
 categories: [ Weiterbildung ]
 location: Gemeindesaal, Rathaus
 author: co
