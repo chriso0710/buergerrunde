@@ -7,9 +7,11 @@ search: true
 
 ## Forum und Initiative in und für Heuweiler. Seit 2015.
 
-Seit 2016 ist die Bürgerrunde Heuweiler als Verein aktiv. Unsere Themen sind Klimaschutz, Mobilität, Naturschutz, Kultur und Dorfgemeinschaft im Bürgernetz.
+Unsere Themen sind Klimaschutz, Mobilität, Naturschutz, Kultur und Dorfgemeinschaft.
 
-Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger:innen die Lust und Zeit haben, bei unseren vielfältigen Aktionen mit zu diskutieren, zu planen, zu helfen oder mitzumachen. Es spielt keine Rolle, was jede:r beitragen kann oder wie oft jede:r Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung. Seit Ende 2016 ist durch das Finanzamt Freiburg-Land bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
+Seit Ende 2016 ist durch das Finanzamt Freiburg-Land bestätigt, dass die Bürgerrunde Heuweiler e.V. als Verein den Bedingungen der Gemeinnützigkeit entspricht.
+
+Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger:innen die Lust und Zeit haben, bei unseren vielfältigen Aktionen mit zu diskutieren, zu planen, zu helfen oder mitzumachen. Es spielt keine Rolle, was jede:r beitragen kann oder wie oft jede:r Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung. 
 
 ![Animation](/assets/images/rollup-display.gif)
 
@@ -30,8 +32,8 @@ Dieses Forum soll ein Sammelbecken der unterschiedlichen Interessen der beteilig
 
 Die BR ist keine kommunalpolitsche Institution und besitzt kein Mandat. Insofern sind für Themen und Ergebnisse, die in der BR besprochen worden, als interessant erkannt worden sind, generell zwei Möglichkeiten der weiteren Vorgehensweise denkbar.
 
-* Da ist zum einen die Möglichkeit der privaten Initiative. Falls sich für ein Thema eine Arbeitsgruppe von Bürgern findet, die Lust und ausreichende Möglichkeiten hat, so könnte im Rahmen der BR dieses Thema an eine Arbeitsgruppe übergeben werden. Bei nachfolgenden BR wären dann Berichte über Fortschritt der Aktivität der Arbeitsgruppe möglich.
-* Zum anderen gibt es die Möglichkeit der politischen Initiative. Sollte die BR ein Thema besprechen und entscheiden, dass dieses weiter verfolgt werden soll, aber erkennen, dass auf privater Basis hierfür keine Lösung oder keine Abhilfe geschaffen werden kann, so könnte dieses als Initiative in den Gemeinderat weitergeben werden mit der Bitte, sich dieses Themas anzunehmen und für die Umsetzung zu sorgen. Da die BR kein vorgesehenes Gremium der kommunalen Verwaltung ist, hätte eine Weitergabe einer solchen Initiative natürlich keine bindende Wirkung. Gleichwohl würde der Gemeinderat aus oben beschriebenen Überlegungen sich sicherlich mit dem Anliegen beschäftigen. Bei nachfolgenden BR wären dann Berichte über ein auf diesem Weg weitergebenes Thema des Gemeinderats möglich.
+* Da ist zum einen die Möglichkeit der privaten Initiative. Falls sich für ein Thema eine Arbeitsgruppe von Bürgern findet, die Lust und ausreichende Möglichkeiten hat, so könnte im Rahmen der BR dieses Thema an eine Arbeitsgruppe übergeben werden. 
+* Zum anderen gibt es die Möglichkeit der politischen Initiative. Sollte die BR ein Thema besprechen und entscheiden, dass dieses weiter verfolgt werden soll, aber erkennen, dass auf privater Basis hierfür keine Lösung oder keine Abhilfe geschaffen werden kann, so könnte dieses als Initiative in den Gemeinderat weitergeben werden mit der Bitte, sich dieses Themas anzunehmen und für die Umsetzung zu sorgen. Da die BR kein vorgesehenes Gremium der kommunalen Verwaltung ist, hätte eine Weitergabe einer solchen Initiative natürlich keine bindende Wirkung. Gleichwohl würde der Gemeinderat aus oben beschriebenen Überlegungen sich sicherlich mit dem Anliegen beschäftigen. 
 
 ### Offener Austauschort zwischen Gemeinderat und Bürgerschaft
 
@@ -41,37 +43,24 @@ In jedem Fall soll die BR eine alternative, freie aber geregelte und zivilisiert
 
 ## Themenbereiche
 
-#### Kurzfristige oder operative Themen
-
-Es ist gut vorstellbar, dass die BR sich mit eher operativen oder kurzfristigen und aktuellen Themen befasst. Die BR wäre damit also eher ein Austauschort, um über Themen und Fragen, die Heuweiler und seine Menschen betreffen, zu diskutieren. Im Rahmen der operativen Themen wären also vielleicht eher Bereiche zu erwarten, die sich mit privater Initiative bewerkstelligen lassen, oder die von der Aufgabenstellung sehr eindeutig und vom gewünschten Ziel direkt operationalisierbar wären. Hierunter fallen also eher Abläufe, die mittels einer oder weniger Aktionen direkt umgesetzt werden können, die dann ihr Ziel erreicht haben und als erledigt angesehen werden können.
-
-* Gewerbe, Infrastruktur, Handel: Bedarf und Angebot
-* Verbesserung und Sicherung der Gemeindefinanzen
 * Neue Bürger in Heuweiler
 * Dorfmittelpunkt Heuweiler
-* Nachbarschaftshilfe, Bürger helfen Bürgern: Welche Nachbarschaftshilfe wünschen wir uns?
-* Kultur: Bücherecke, Konzerte, Kino, Ausstellungen
+* Nachbarschaftshilfe, Bürger helfen Bürgern
 * Aktionen für Kinder, Ferienprogramm
-* Musiktag, Frühstück, Flohmarkt, Tauschbörsen
+* Kulturelle Aktionen, z.B. Konzerte, Kino, Ausstellungen, Theater, Frühstück, Flohmarkt, Tauschbörsen
 * Bildband Heuweiler
-
-#### Langfristige oder strategische Themen
-
-Es ist gut vorstellbar, das sich aus der BR eine gemeinschaftliche Aktivität zur weiteren Gestaltung des Dorfes entwickelt. Vielleicht entwickelt sich ja sogar ein Prozess in Heuweiler, in dessen Rahmen die BR Überlegungen anstellt, wie sich das Dorf und das Dorfleben verändern und verbessern lässt, so dass alle Bürger, alle Generationen und alle Betroffenen daraus einen Gewinn ziehen können. Im Rahmen der strategischen Themen wären also vielleicht eher Bereiche zu erwarten, die eine große und gemeinsame Anstrengung benötigen, um bewerkstelligt zu werden. Vielleicht sind es aber auch Themen oder Initiativen, deren Umsetzung sich nur in mehreren oder vielen Jahren erreichen lässt, oder deren Ziel vielleicht nie erreicht werden wird, aber zu denen man sich dennoch geeinigt hat. Vielleicht sind es ja sogar nur Ideen, die formuliert werden, eine gemeinschaftliche Akzeptanz genießen, aber eher nur als Richtschnur für anderes oder operatives Handeln im obigen Themenbereich dienen.
-
-* Entwicklung Heuweiler in der Zukunft: Wie stellen wir uns die weitere Entwicklung unseres Dorfs vor? Heuweiler 2020: Wie wünschen wir uns unser Dorf?
+* Entwicklung Heuweiler in der Zukunft 
 * Demographischer Wandel
-* Eigenständigkeit Heuweilers sichern
+* Eigenständigkeit Heuweilers
 * Steigerung der Attraktivität Heuweilers
 * Struktur Heuweilers
-* Jugend in Heuweiler: Welche Bedingungen wollen wir für die Heuweilermer Jugend schaffen?
-* Älterwerden in Heuweiler: Wie können wir Älterwerden in Heuweiler unterstützen? 
-* Gemeindeinfrastruktur für ältere Menschen
+* Jugend in Heuweiler
+* Älterwerden in Heuweiler 
+* Infrastruktur für ältere Menschen
 * Gewerbe, Infrastruktur, Handel: Bedarf und Angebot
 * Verbesserung und Sicherung der Gemeindefinanzen
-* Dorfgemeinschaft: Wie stärken wir die Dorfgemeinschaft?
-* Neue Bürger in Heuweiler
-* Dorfmittelpunkt Heuweiler: Wie wünschen wir uns den Dorfmittelpunkt in Heuweiler?
+* Dorfgemeinschaft
 * Nachhaltigkeit und Klimaschutz
 * Mobilität
-* Bürgerbus, Carsharing
+* Bürgerbus, Mitfahraktion
+* Carsharing
