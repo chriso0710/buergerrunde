@@ -24,6 +24,12 @@ Registereintrag:
 Eintragung im Registergericht: Freiburg  
 Registernummer: VR 701748
 
+Konto: 
+
+Raiffeisenbank Gundelfingen
+IBAN DE84 6806 4222 0000 7227 07
+Wir erstellen für alle Spender:innen eine Spendenbescheinigung.
+
 Inhaltlich verantwortlich gem. § 18 Abs. 2 MStV:
 
 Christian Ott  
