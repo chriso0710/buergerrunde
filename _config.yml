@@ -21,7 +21,7 @@ static:
   tag: Etikett
   prev: zurück
   next: weiter
-  share: Teilen
+  author: "Geschrieben von "
   search_for: "Suche nach..."
   read_more: "Mehr lesen..."
   older_articles: "Ältere Artikel im"
@@ -54,12 +54,12 @@ authors:
     name: Friederike
     display_name: Friederike Gutmann
     email: friederike.gutmann@gmx.de
-    description: "Engagiert in den AGs Neubürger und Kultur. Mitglied im Vorstand."
+    description: "Kümmert sich um Vernetzung der BürgerInnen und um die Kultur im Dorf. Mitglied im Vorstand."
   kh:
     name: Katja H
     display_name: Katja Holstein-Gußmann
     email: katja_holstein-gussmann@web.de
-    description: "Lebt mit Mann und Hund seit langem in Heuweiler. Im Vorstand der Bürgerrunde und Mitglied in der Kultur AG. Leiterin der Mediathek Denzlingen."
+    description: "Lebt mit Mann und Hund seit langem in Heuweiler. Mitglied in der Kultur AG. Leiterin der Mediathek Denzlingen."
   dg:
     name: Daniela
     display_name: Daniela Giesenhagen
