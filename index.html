@@ -24,7 +24,7 @@ title: Home
                 <h2><span>{{ site.static.featured }}</span></h2>
             </div>
             <div class="row listfeaturedtag">
-                {% for post in filtered_posts limit: 6 %}
+                {% for post in filtered_posts limit: 9 %}
                     {% if post.hidden != true %}
                         {% include postbox.html %}
                     {% endif %}
