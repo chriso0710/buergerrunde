@@ -1,5 +1,5 @@
 ---
-title: Aktion "Nistkästen reinigen"
+title: "Aktion: Nistkästen reinigen"
 categories: [ Gemeinschaft, Naturschutz ]
 author: fg
 image: /assets/images/naturschutz/nistkaesten.jpg
