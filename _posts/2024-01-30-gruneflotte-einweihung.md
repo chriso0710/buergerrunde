@@ -8,4 +8,4 @@ location: Parkplatz Grüner Baum, Glottertalstr. 3
 ---
 Das neue Carsharing Auto der Grünen Flotte wird offiziell eingeweiht. Dazu werden Jonas Schmid (Grüne Flotte Geschäftsfeldentwicklung & Strategie), BM Walz und die Presse anwesend sein. Alle interessierten Bürger:innen sind herzlich willkommen.
 
-Mehr Infos unter zur [Grünen Flotte in Heuweiler](/gruneflotte-carsharing/).
+Mehr Infos unter [Grünen Flotte in Heuweiler](/gruneflotte-carsharing/).
