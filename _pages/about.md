@@ -45,22 +45,20 @@ In jedem Fall soll die BR eine alternative, freie aber geregelte und zivilisiert
 
 * Neue Bürger in Heuweiler
 * Dorfmittelpunkt Heuweiler
-* Nachbarschaftshilfe, Bürger helfen Bürgern
+* Nachbarschaftshilfe, Bürger helfen Bürgern, Bürgernetz
 * Aktionen für Kinder, Ferienprogramm
-* Kulturelle Aktionen, z.B. Konzerte, Kino, Ausstellungen, Theater, Frühstück, Flohmarkt, Tauschbörsen
+* Jugend in Heuweiler
+* Kulturelle Aktionen
 * Bildband Heuweiler
 * Entwicklung Heuweiler in der Zukunft 
 * Demographischer Wandel
 * Eigenständigkeit Heuweilers
 * Steigerung der Attraktivität Heuweilers
 * Struktur Heuweilers
-* Jugend in Heuweiler
-* Älterwerden in Heuweiler 
-* Infrastruktur für ältere Menschen
+* Älterwerden in Heuweiler, Infrastruktur für ältere Menschen
 * Gewerbe, Infrastruktur, Handel: Bedarf und Angebot
-* Verbesserung und Sicherung der Gemeindefinanzen
 * Dorfgemeinschaft
 * Nachhaltigkeit und Klimaschutz
 * Mobilität
-* Bürgerbus, Mitfahraktion
-* Carsharing
+* Bürgerbus, Mitfahraktion, Carsharing
+* Naturschutz, Tierschutz
