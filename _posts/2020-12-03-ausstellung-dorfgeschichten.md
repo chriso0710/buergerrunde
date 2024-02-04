@@ -36,9 +36,4 @@ Ein TEXT, ein GEDICHT, ein FOTO, ein BILD, eine KARIKATUR, eine AUDIODATEI, ein 
 Zunächst sollen die Beiträge für eine digitale Ausstellung auf der Homepage der Bürgerrunde vorbereitet werden. Es können nur Beiträge angenommen werden mit vollständigen (!) Absenderangaben.
 Mit der Einreichung stimmt man der Veröffentlichung des Namens zu. Dies beinhaltet auch das Einverständnis zur Veröffentlichung bei der digitalen und bei der evtl. späteren echten Ausstellung. Widerruf jederzeit möglich. Urheberrecht und Datenschutz werden beachtet.
 
-**Verantwortliche Ansprechpartnerinnen**
-
-* Marie Battran-Berger: 07666 - 882791
-* Friederike Gutmann: 07666 - 944776
-
 > Wir freuen uns auf alle Beiträge. Loslegen ist besser als beiseitelegen!
