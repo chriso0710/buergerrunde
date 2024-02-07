@@ -1,14 +1,15 @@
 ---
-title: "Aktion: Nistkästen reinigen"
+title: "Aktion: Frühjahrsputz im Vogelheim"
 categories: [ Gemeinschaft, Naturschutz ]
-author: fg
+author: fh
 image: /assets/images/naturschutz/nistkaesten.jpg
 event: 2024-02-25 10:30:00
-location: Glascontainer, Feldweg Richtung Denzlingen
+location: Glascontainer, Ortseingang
 ---
-Die Aktion "Nistkästen reinigen" der Naturfreunde ermöglicht nicht nur die gemeinschaftliche Pflege der Nistplätze um und in Heuweiler, sondern auch spannende Beobachtungen der Vogelwelt. Wir laden alle Interessierten herzlich ein, gemeinsam einen Einblick in das faszinierende Leben der heimischen Vögel zu gewinnen. Das ist eine Aktion für die ganze Familie.
+Die Naturfreunde der Bürgerrunde laden ein zur Nistkasten-Putzete am 
 
-Treffpunkt ist am 25.02.2024 um 10:30 Uhr an den Glascontainern. 
+Sonntag, 25. Februar
 
-Bitte Garten-Handschuhe mitbringen und gutes Schuhwerk tragen.
- 
+Treffpunkt ist um 10:30 Uhr beim Altglascontainer am Ortseingang von Heuweiler.  
+
+Anschließend gehen wir die verschiedenen Nistkästen ab, um diese "besenrein" für die neue  Brutsaison zu machen. Wer mag, bringt für sich Arbeitshandschuhe und ggf. einen Mundschutz mit, da es manchmal etwas staubt. Unterwegs gibt's Infos zum Aufhängen von Nistkästen und zur heimischen Vogelwelt.
