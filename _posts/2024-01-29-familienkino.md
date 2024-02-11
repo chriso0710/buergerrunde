@@ -2,7 +2,7 @@
 title: Familienkino "Das fliegende Klassenzimmer" (2003)
 categories: [ Kino ]
 author: fg
-image: /assets/images/kino.jpg
+image: /assets/images/kino/das_fliegende_klassenzimmer.jpg
 event: 2024-02-24 16:00:00
 location: Rathaus Schulungsraum
 ---
