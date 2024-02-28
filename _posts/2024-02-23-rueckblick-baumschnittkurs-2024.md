@@ -1,5 +1,5 @@
 ---
-title: Sehr Interessierte TeilnehmerInnen am Baumschnittkurs
+title: Interessierte TeilnehmerInnen am Baumschnittkurs
 categories: [ Gemeinschaft, Naturschutz, Weiterbildung ]
 author: jk
 image: /assets/images/naturschutz/baumschnittkurs24.jpg
