@@ -13,6 +13,6 @@ Neben einem theoretischen Teil wird es im Praxisteil um folgende Inhalte gehen: 
 
 Kosten: 25 Euro (Übungs-CS-Gas inbegriffen), Mindestalter: 16 Jahre, Teilnehmerinnenhöchstzahl: 20.
 
-Anmeldung per Email an: <buergerrunde-heuweiler@googlegroups.com>. Wir würden uns freuen, wenn viele Heuweilemer Bürgerinnen dieses einmalige Angebot nutzen würden!
+Anmeldung per Email an: <hallo@heuweiler.net>. Wir würden uns freuen, wenn viele Heuweilemer Bürgerinnen dieses einmalige Angebot nutzen würden!
 
 Bitte mitbringen: Bequeme Kleidung, Sportschuhe, Getränke und die Kursgebühr in bar.

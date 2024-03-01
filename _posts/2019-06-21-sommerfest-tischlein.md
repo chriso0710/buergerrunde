@@ -15,4 +15,4 @@ Wo? Überdachter Schulhof/Wiese an der Grundschule bzw. Kirchberghalle, Am Kirch
 
 Was noch? Teller, Besteck und Gläser bitte selbst mitbringen! Für Getränke ist gesorgt!
 
-Anmeldung per Email zur besseren Planung erwünscht unter: Sommer.Heuweiler2019@gmail.com. Spontane Gäste sind ebenso willkommen!
+Anmeldung per Email zur besseren Planung erwünscht. Spontane Gäste sind ebenso willkommen!

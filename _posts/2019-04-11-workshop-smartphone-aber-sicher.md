@@ -15,4 +15,4 @@ In diesem zweistündigen Workshop dreht sich alles rund ums Smartphone, zu Theme
 
 Der Workshop ist kostenlos und wird geleitet von Frau Sandra Tell. Frau Tell ist medienpädagogische Referentin und SMEP-Trainerin im Landesmedienzentrum Baden-Württemberg (LMZ).
 
-Die Teilnehmerzahl ist begrenzt. Bitte melden Sie sich kurz formlos mit Name und Wohnort an, per eMail an die Adresse [buergerrunde-heuweiler@googlegroups.com](mailto:buergerrunde-heuweiler@googlegroups.com). Die Plätze werden nach Eingang der Anmeldung vergeben. Der Workshop richtet sich vorrangig an BürgerInnen aus Heuweiler. Gerne nehmen wir aber Menschen aus anderen Gemeinden auf die Warteliste.
+Die Teilnehmerzahl ist begrenzt. Bitte melden Sie sich kurz formlos mit Name und Wohnort an, per eMail an die Adresse [hallo@heuweiler.net](mailto:hallo@heuweiler.net). Die Plätze werden nach Eingang der Anmeldung vergeben. Der Workshop richtet sich vorrangig an BürgerInnen aus Heuweiler. Gerne nehmen wir aber Menschen aus anderen Gemeinden auf die Warteliste.

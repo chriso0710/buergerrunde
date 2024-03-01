@@ -9,4 +9,4 @@ Auch der Erwerb einer neuen Kommunikations-App (TwoGo-Mitfahrapp), nur für unse
 
 Es geht darum, den OP auf eine breitere Basis als bisher zu stellen, damit er einen Beitrag dazu leisten kann, neue Formen der Mobilität auch auf dem Lande aufzubauen und zu erhalten.
 
-Wer Interesse hat, sich an dieser spannenden Aufgabe in spannenden Zeiten (Energie- und Mobilitätswende, Krieg auch um fossile Brennstoffe) zu beteiligen, kann sich gerne an uns wenden, z.B. über [Burkhard Werner](op.heuweiler@gmail.com) oder an die anderen Vorstandsmitglieder der Bürgerrunde Heuweiler.
+Wer Interesse hat, sich an dieser spannenden Aufgabe in spannenden Zeiten (Energie- und Mobilitätswende, Krieg auch um fossile Brennstoffe) zu beteiligen, kann sich gerne an uns wenden, z.B. über [Burkhard Werner](op@heuweiler.net) oder an die anderen Vorstandsmitglieder der Bürgerrunde Heuweiler.

@@ -96,7 +96,7 @@ Besonderes Preismodell für Kommunen:
 * hat eine Anfrage an die Gemeinde gestartet, ob sie die Adressen der neu hinzugezogenen Personen bekommen könnten
 * regelmässiger Stammtisch zum Kennenlernen im Rebstock, erstes Treffen am 13.10.
 
-### Mailverteiler: buergerrunde-heuweiler@googlegroups.com
+### Mailverteiler
  
 Der Mailverteiler soll nicht für alle Personen der Bürgerrunde geöffnet werden. Aktuell können ausschließlich Christian Ott und Thomas Frank in dem Verteiler Nachrichten verschicken. Das soll auch so bleiben.
 

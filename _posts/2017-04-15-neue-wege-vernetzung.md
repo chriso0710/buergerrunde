@@ -17,7 +17,7 @@ Neben einer privaten Anzeige in einer Wochenzeitung gibt es folgende mögliche W
 * Außerdem wurde eine Google-Mailingliste erstellt, in die jeder Teilnehmer eine Mail mit einem Angebot oder einem Gesuch schreiben kann. Die Mail wird dann automatisch an alle Teilnehmer der Gruppe verschickt, wobei diese anonym bleiben. Mit etwas Glück bekommt man dann früher oder später eine Antwort von jemandem und kann dann individuell Kontakt aufnehmen. Wie und auf welche Weise – das entscheiden die Personen selbst.
 * Weiter wurde eine WhatsApp-Gruppe eingerichtet, in der vor allem akute Belange sehr gut kommuniziert werden können.
 
-Wenn jemand in eine der Gruppen aufgenommen werden möchte, reicht eine Nachricht an die Bürgerrunde: <buergerrunde-heuweiler@googlegroups.com>. Wenn man nicht mehr teilnehmen möchte, kann man sich selbst aus den Listen löschen.
+Wenn jemand in eine der Gruppen aufgenommen werden möchte, reicht eine Nachricht an die Bürgerrunde: <hallo@heuweiler.net>. Wenn man nicht mehr teilnehmen möchte, kann man sich selbst aus den Listen löschen.
 
 Um noch effektiver zu sein, ist jede weitere Handynummer (für WhatsApp) oder Emailadresse (für die Google-Liste) eine große Bereicherung. Je mehr Heuweilermer sich beteiligen, um so eher können Anbieter und Nachfragende zueinander finden. Also: Weitererzählen erwünscht!
 
