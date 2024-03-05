@@ -1,2 +1,0 @@
-magick mogrify -resize x600 -quality 85 -format jpg -path resized/ *.*
-# magick mogrify -gravity center -resize x300 -extent 200x256 -quality 85 -format jpg -path resized/ *.*

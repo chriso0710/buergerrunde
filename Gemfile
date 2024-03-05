@@ -11,6 +11,9 @@ ruby "~> 2.7.0"
 
 # If you have any plugins, put them here!
 gem 'jekyll'
+gem 'solargraph'
+gem 'mini_magick'
+gem 'rake'
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
