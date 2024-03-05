@@ -25,9 +25,9 @@ static:
   search_for: "Suche nach..."
   read_more: "Mehr lesen..."
   older_articles: "Ältere Artikel im"
-  menu:
-    privacy: Datenschutz
-    imprint: Impressum
+  privacy: Datenschutz
+  imprint: Impressum
+  archive: Archiv
 
 menu:
   - name: Aktuelles
