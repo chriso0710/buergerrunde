@@ -3,69 +3,48 @@ layout: default
 title: Home
 ---
 
-{% assign today_unix = 'now' | date: '%s' | plus: 0 %}
+{% assign today_unix = 'now' | date: '%s' | plus: 0 %} {% if page.url == "/" %}
+<!-- Featured ================================================== -->
+{% assign filtered_posts = "" | split: ',' %} {% for post in site.posts %} {% if
+post.event %} {% assign event_unix = post.event | date: '%s' | plus: 0 %} {% if
+event_unix >= today_unix or post.featured %} {% assign filtered_posts =
+filtered_posts | push: post %} {% endif %} {% endif %} {% endfor %} {% assign
+filtered_posts = filtered_posts | sort: 'event' %} {% if filtered_posts.size > 0
+%}
 
-{% if page.url == "/" %}
-    <!-- Featured ================================================== -->
-    {% assign filtered_posts = "" | split: ',' %}
-    {% for post in site.posts %}
-        {% if post.event %}
-            {% assign event_unix = post.event | date: '%s' | plus: 0 %}
-            {% if event_unix >= today_unix or post.featured %}
-                {% assign filtered_posts = filtered_posts | push: post %}
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-    {% assign filtered_posts = filtered_posts | sort: 'event' %}
-
-    {% if filtered_posts.size > 0 %}
-        <section class="featured-posts">
-            <div class="section-title">
-                <h2><span>{{ site.static.featured }}</span></h2>
-            </div>
-            <div class="row listfeaturedtag">
-                {% for post in filtered_posts limit: 9 %}
-                    {% if post.hidden != true %}
-                        {% include postbox.html %}
-                    {% endif %}
-                {% endfor %}
-            </div>
-        </section>
-    {% endif %}
-{% endif %}
+<section class="featured-posts">
+  <div class="section-title">
+    <h2><span>{{ site.static.featured }}</span></h2>
+  </div>
+  <div class="row listfeaturedtag">
+    {% for post in filtered_posts limit: 9 %} {% if post.hidden != true %} {%
+    include postbox.html %} {% endif %} {% endfor %}
+  </div>
+</section>
+{% endif %} {% endif %}
 
 <!-- Posts Index ================================================== -->
 <section class="recent-posts">
-    <div class="section-title">
-        <h2><span>{{ site.static.all }} ({{ paginator.total_posts }})</span></h2>
-    </div>
-    <div class="row listrecent">
-        {% assign filtered_posts = "" | split: ',' %}
-        {% for post in site.posts %}
-            {% if post.event %}
-                {% assign event_unix = post.event | date: '%s' | plus: 0 %}
-                {% if event_unix < today_unix and post.featured == nil %}
-                    {% assign filtered_posts = filtered_posts | push: post %}
-                {% endif %}
-            {% else %}
-                {% assign filtered_posts = filtered_posts | push: post %}
-            {% endif %}
-        {% endfor %}
-
-        {% for post in filtered_posts limit: 9 %}
-            {% if post.hidden != true %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-    </div>
+  <div class="section-title">
+    <h2><span>{{ site.static.all }} ({{ paginator.total_posts }})</span></h2>
+  </div>
+  <div class="row listrecent">
+    {% assign filtered_posts = "" | split: ',' %} {% for post in site.posts %}
+    {% if post.event %} {% assign event_unix = post.event | date: '%s' | plus: 0
+    %} {% if event_unix < today_unix and post.featured == nil %} {% assign
+    filtered_posts = filtered_posts | push: post %} {% endif %} {% else %} {%
+    assign filtered_posts = filtered_posts | push: post %} {% endif %} {% endfor
+    %} {% for post in filtered_posts limit: 9 %} {% if post.hidden != true %} {%
+    include postbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        {{ site.static.older_articles }} <a href="{{ site.baseurl }}/archive">{{ site.static.menu.archive }}</a>
-    </span>
+  <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+  <span class="navigation" role="navigation">
+    {{ site.static.older_articles }}
+    <a href="{{ site.baseurl }}/archive">{{ site.static.menu.archive }}</a>
+  </span>
 </div>
-

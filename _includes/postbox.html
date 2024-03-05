@@ -1,68 +1,83 @@
 <!-- begin post -->
-{% if include.compact %}
-    {% assign option_compact = true %}
-{% else %}
-    {% assign option_compact = false %}
-{% endif %}
+{% if include.compact %} {% assign option_compact = true %} {% else %} {% assign
+option_compact = false %} {% endif %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
-        {% if post.image and option_compact == false %}
-            <a href="{{ post.url | prepend: site.baseurl }}">
-                {% if post.image contains "://" %}
-                    {% assign image_url = post.image %}
-                {% else %}
-                    {% capture image_url %}{{ post.image | prepend: site.baseurl }}{% endcapture %}
-                {% endif %}
-                {% if site.lazyimages == "enabled" %}
-                    <img class="card-img-top lazyimg"
-                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                        data-src="{{ image_url }}" alt="{{ post.title }}">
-                {% else %}
-                    <img class="card-img-top" src="{{ image_url }}" alt="{{ post.title }}">
-                {% endif %}
-            </a>
-            <!--        
-            {% if post.categories %}
-                <div class="text-block">
-                    <h4>{{ post.categories | sort }}</h4>
-                </div>
-            {% endif %}
-            -->
+  <div class="card h-100">
+    {% if post.image and option_compact == false %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <div class="zoom-container">
+        {% if post.image contains "://" %} {% assign image_url = post.image %}
+        {% else %} {% capture image_url %}{{ post.image | prepend: site.baseurl
+        }}{% endcapture %} {% endif %} {% if site.lazyimages == "enabled" %}
+        <img
+          class="card-img-top zoom lazyimg"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+          data-src="{{ image_url }}"
+          alt="{{ post.title }}" />
+        {% else %}
+        <img
+          class="card-img-top zoom"
+          src="{{ image_url }}"
+          alt="{{ post.title }}" />
         {% endif %}
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                {% if post.rating %}
-                    <div class="mb-2 mt-2 font-weight-normal">
-                    {% include star_rating.html rating=post.rating %}
-                    </div>
-                {% endif %}
-                {% if post.event %}
-                    <span class="badge badge-danger">{{ post.event | german_datetime }}</span>
-                {% endif %}
-            </h2>
-            <h4 class="card-text">
-                {{ post.excerpt | strip_html | truncatewords:30 }}
-                <a href="{{ post.url | prepend: site.baseurl }}" title="{{ site.static.read_more }}">{{ site.static.read_more }}</a>
-            </h4>
+      </div>
+    </a>
+    <!--        
+    {% if post.categories %}
+        <div class="text-block">
+            <h4>{{ post.categories | sort }}</h4>
         </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                {% if post.author %}
-                    {% assign author = site.authors[post.author] %}
-                    <span class="meta-footer-thumb">
-                    {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                    {% endif %}
-                    </span>
-                    <span class="author-meta">
-                        <span class="post-name"><a target="_blank" href="mailto:{{ author.email }}">{{ author.display_name }}</a></span><br/>
-                    </span>
-                {% endif %}
-                <span class="post-date">{{ post.date | german_date }}</span>
-                <div class="clearfix"></div>
-            </div>
+    {% endif %}
+    -->
+    {% endif %}
+    <div class="card-body">
+      <h2 class="card-title">
+        <a class="text-dark" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+        {% if post.rating %}
+        <div class="mb-2 mt-2 font-weight-normal">
+          {% include star_rating.html rating=post.rating %}
         </div>
+        {% endif %} {% if post.event %}
+        <span class="badge badge-danger">
+          {{ post.event | german_datetime }}
+        </span>
+        {% endif %}
+      </h2>
+      <h4 class="card-text">
+        {{ post.excerpt | strip_html | truncatewords:30 }}
+        <a
+          href="{{ post.url | prepend: site.baseurl }}"
+          title="{{ site.static.read_more }}">
+          {{ site.static.read_more }}
+        </a>
+      </h4>
     </div>
+    <div class="card-footer bg-white">
+      <div class="wrapfooter">
+        {% if post.author %} {% assign author = site.authors[post.author] %}
+        <span class="meta-footer-thumb">
+          {% if author.avatar %}
+          <img
+            class="author-thumb"
+            src="{{site.baseurl}}/{{ author.avatar }}"
+            alt="{{ author.display_name }}" />
+          {% endif %}
+        </span>
+        <span class="author-meta">
+          <span class="post-name">
+            <a target="_blank" href="mailto:{{ author.email }}">
+              {{ author.display_name }}
+            </a>
+          </span>
+          <br />
+        </span>
+        {% endif %}
+        <span class="post-date">{{ post.date | german_date }}</span>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
 </div>
 <!-- end post -->

@@ -2,12 +2,12 @@
 name: "Bürgerrunde Heuweiler e.V."
 title: "Bürgerrunde Heuweiler"
 description: "Forum und Initiative in und für Heuweiler. Seit 2015."
-logo: '/assets/images/br_logo.svg'
-favicon: '/assets/images/br_logo.svg'
+logo: "/assets/images/br_logo.svg"
+favicon: "/assets/images/br_logo.svg"
 baseurl:
 url: "https://buergerrunde.heuweiler.net"
 google_analytics:
-disqus: 
+disqus:
 mailchimp-list:
 include: ["_pages", "_redirects"]
 permalink: /:title/
@@ -27,17 +27,29 @@ static:
   older_articles: "Ältere Artikel im"
   menu:
     privacy: Datenschutz
-    about: Über uns
     imprint: Impressum
-    home: Aktuelles
-    groups: AGs
-    events: Termine
-    archive: Archiv/Suche
-    newsletter: Newsletter
-    contact: Kontakt
-    carlos: Carlos
-    holly: Holly
-    op: Orangener Punkt
+
+menu:
+  - name: Aktuelles
+    url: /
+  - name: Über uns
+    url: /about
+  - name: AGs
+    url: /groups
+  - name: Termine
+    url: /events
+  - name: Orangener Punkt
+    url: /op/
+  - name: Carlos
+    url: /carlos/
+  - name: Holly
+    url: /holly/
+  - name: Archiv/Suche
+    url: /archive
+  - name: Newsletter
+    url: /newsletter
+  - name: Kontakt
+    url: /contact
 
 # Authors
 authors:
@@ -124,7 +136,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -136,19 +148,19 @@ jekyll-archives:
     category: category-archive
     tag: tag-archive
   permalinks:
-    year: '/:year/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-    
-# Pagination 
+    year: "/:year/"
+    tag: "/tag/:name/"
+    category: "/category/:name/"
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
 kramdown:
-#  input: GFM
+  #  input: GFM
   hard_wrap: true
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -163,11 +175,20 @@ adsense-data-ad-slot: ""
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, theme, br.code-workspace, tmp]
+exclude:
+  [
+    changelog.md,
+    LICENSE.txt,
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    theme,
+    br.code-workspace,
+    tmp,
+  ]
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
