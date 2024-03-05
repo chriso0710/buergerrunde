@@ -34,16 +34,12 @@ namespace :images do
       # Resize only if width or height is greater than 800px
       if image.width > 800 || image.height > 800
         image.resize '800x800'
-        logger.info("Resized image to 800x800")
+        # Optimize the image
+        image.strip
+        # Write the changes to the original image
+        image.write image_path
+        logger.info("Resized, optimized and wrote image to #{image_path}")
       end
-
-      # Optimize the image
-      image.strip
-
-      # Write the changes to the original image
-      image.write image_path
-
-      logger.info("Optimized and wrote image to #{image_path}")
     end
 
     logger.info("Finished image optimization task")
