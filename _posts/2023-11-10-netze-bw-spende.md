@@ -2,7 +2,7 @@
 title: Netze BW spendet an die Bürgerrunde
 categories: [ Klimaschutz ]
 author: co
-image: "/assets/images/spende-netzebw.jpg"
+image: "/assets/images/verein/spende-netzebw.jpg"
 event: 2023-11-10 10:30:00
 location: Cafe IZ
 ---

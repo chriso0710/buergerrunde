@@ -2,7 +2,7 @@
 title: Team Bürgerrunde räumt beim Stadtradeln ab
 categories: [ Klimaschutz, Mobilität ]
 author: co
-image: "/assets/images/klimamobil/stadtradeln.jpeg"
+image: "/assets/images/klimamobil/stadtradeln.jpg"
 ---
 Dieses Jahr haben sowohl Gundelfingen als auch erstmals Heuweiler aktiv an der Initiative „Stadtradeln“ des Klima-Bündnisses teilgenommen. Bürgermeister Raphael Walz hat die herausragenden Teams und Einzelpersonen für ihr Engagement geehrt.
 

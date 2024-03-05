@@ -13,7 +13,7 @@ Seit Ende 2016 ist durch das Finanzamt Freiburg-Land bestätigt, dass die Bürge
 
 Die Bürgerrunde ist ein nettes Team und freut sich über weitere engagierte Bürger:innen die Lust und Zeit haben, bei unseren vielfältigen Aktionen mit zu diskutieren, zu planen, zu helfen oder mitzumachen. Es spielt keine Rolle, was jede:r beitragen kann oder wie oft jede:r Zeit hat. Jede Hilfe ist willkommen. Kommt doch einfach mal zur Bürgerrunde oder zu einer unserer Aktionen. Die Mitgliedschaft im Verein ist dafür keine Voraussetzung. 
 
-![Animation](/assets/images/rollup-display.gif)
+![Animation](/assets/images/verein/rollup-display.gif)
 
 Wichtige Dokumente:
 

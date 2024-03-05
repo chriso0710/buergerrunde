@@ -2,7 +2,7 @@
 title: Bürgerrunde holt Carsharing nach Heuweiler
 categories: [ Mobilität ]
 author: co
-image: "/assets/images/klimamobil/gf-ford.jpeg"
+image: "/assets/images/klimamobil/gf-ford.jpg"
 ---
 Nach einer intensiven Vorarbeit von mehr als 14 Monaten ist es der Bürgerrunde nun gelungen, den regionalen Carsharing Anbieter Grüne Flotte nach Heuweiler zu holen. Wir freuen uns sehr, dass Jonas Schmid (Grüne Flotte Geschäftsfeldentwicklung & Strategie) trotz schwieriger Bedingungen bereit ist, ein Auto dauerhaft in Heuweiler zu stationieren. 
 

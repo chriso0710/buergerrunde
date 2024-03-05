@@ -2,7 +2,7 @@
 title: Einweihung Grüne Flotte
 categories: [ Mobilität ]
 author: co
-image: "/assets/images/klimamobil/gf-ford.jpeg"
+image: "/assets/images/klimamobil/gf-ford.jpg"
 event: 2024-02-06 14:30:00
 location: Parkplatz Grüner Baum, Glottertalstr. 3
 ---

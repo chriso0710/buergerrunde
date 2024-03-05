@@ -2,7 +2,7 @@
 title: Hinweisschilder für mehr Miteinander
 categories: [ Mobilität ]
 author: bw
-image: /assets/images/klimamobil/gebt-acht.jpeg
+image: /assets/images/klimamobil/gebt-acht.jpg
 ---
 Wir haben uns sehr gefreut, dass die Initiative der Frauenliste Heuweiler zusammen mit der BR im Gemeinderat nun endlich Früchte getragen hat und vier Hinweisschilder für mehr Miteinander im Rad- und KFZ-Verkehr auf der Gemeindeverbindungsstraße aufgehängt wurden. Wir bedanken uns für die Hartnäckigkeit bei der Frauenliste sowie bei den anderen Fraktionen des Gemeinderats.
 

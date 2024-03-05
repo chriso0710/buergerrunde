@@ -2,7 +2,7 @@
 title: Heuweilemer Dorfputzede
 categories: [ Gemeinschaft, Klimaschutz ]
 author: dg
-image: /assets/images/muell.jpg
+image: /assets/images/naturschutz/muell.jpg
 event: 2021-05-15 11:00:00
 location: Rathausplatz
 ---

@@ -4,7 +4,7 @@ event: 2016-09-29 20:00:00
 categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
-image: "/assets/images/gruendung.jpg"
+image: "/assets/images/verein/gruendung.jpg"
 ---
 
 Die Bürgerrunde Heuweiler wird ein Verein. 
