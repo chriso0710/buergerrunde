@@ -6,17 +6,18 @@ option_compact = false %} {% endif %}
     {% if post.image and option_compact == false %}
     <a href="{{ post.url | prepend: site.baseurl }}">
       <div class="zoom-container">
+        <div class="image-text">{{ post.categories | sort | join: ', ' }}</div>
         {% if post.image contains "://" %} {% assign image_url = post.image %}
         {% else %} {% capture image_url %}{{ post.image | prepend: site.baseurl
         }}{% endcapture %} {% endif %} {% if site.lazyimages == "enabled" %}
         <img
-          class="card-img-top zoom lazyimg"
+          class="card-img-top lazyimg"
           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
           data-src="{{ image_url }}"
           alt="{{ post.title }}" />
         {% else %}
         <img
-          class="card-img-top zoom"
+          class="card-img-top"
           src="{{ image_url }}"
           alt="{{ post.title }}" />
         {% endif %}

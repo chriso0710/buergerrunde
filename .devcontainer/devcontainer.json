@@ -1,43 +1,38 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.224.2/containers/ruby
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
-	"name": "bürgerrunde",
-	"build": {
-		"dockerfile": "Dockerfile",
-		"args": { 
-			// Update 'VARIANT' to pick a Ruby version: 3, 3.1, 3.0, 2, 2.7, 2.6
-			// Append -bullseye or -buster to pin to an OS version.
-			// Use -bullseye variants on local on arm64/Apple Silicon.
-			"VARIANT": "2.7-bullseye",
-			// Options
-			"NODE_VERSION": "none"
-		}
-	},
+  "name": "${localWorkspaceFolderBasename}",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "image": "mcr.microsoft.com/devcontainers/jekyll:2.7-bullseye",
+  "runArgs": ["--name", "${localWorkspaceFolderBasename}_devcontainer"],
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers-contrib/features/gulp-cli:2": {}
+  },
 
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"castwide.solargraph",
-				"sissel.shopify-liquid",
-				"esbenp.prettier-vscode",
-				"eamodio.gitlens"
-			]
-		}
-	},
+  // Uncomment the next line to run commands after the container is created.
+  "postCreateCommand": "sh .devcontainer/post-create.sh && sudo apt-get update && sudo apt-get install -y imagemagick",
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [
-		// Jekyll server
-		4000,
-		// Live reload server
-		35729
-	],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "castwide.solargraph",
+        "sissel.shopify-liquid",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
 
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "ruby --version",
-	"postCreateCommand": "sh .devcontainer/post-create.sh",
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [
+    // Jekyll server
+    4000,
+    // Live reload server
+    35729
+  ]
 
-	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
-	"remoteUser": "vscode"
-
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  // "remoteUser": "root"
 }
