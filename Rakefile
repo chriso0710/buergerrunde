@@ -17,9 +17,7 @@ namespace :images do
 
     logger.info("Finished image removal task")
   end
-end
 
-namespace :images do
   desc 'Optimize and resize images'
   task :optimize do
     logger = Logger.new(STDOUT)
@@ -44,9 +42,7 @@ namespace :images do
 
     logger.info("Finished image optimization task")
   end
-end
 
-namespace :images do
   desc 'Find all PNG images and output their file size and resolution'
   task :info do
     logger = Logger.new(STDOUT)
@@ -66,9 +62,7 @@ namespace :images do
 
     logger.info("Finished image info task")
   end
-end
 
-namespace :images do
   desc 'Rename .jpeg files to .jpg'
   task :rename do
     directory = 'assets/images'
@@ -81,4 +75,5 @@ namespace :images do
       end
     end
   end
+  
 end
