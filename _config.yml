@@ -74,7 +74,7 @@ authors:
     email: katja_holstein-gussmann@web.de
     description: "Lebt mit Mann und Hund seit langem in Heuweiler. Mitglied in der Kultur AG. Leiterin der Mediathek Denzlingen."
   fh:
-    name: Frank
+    name: Frank H
     display_name: Frank Holstein
     email: fholstein64@web.de
     description: "Naturfreund mit großer Begeisterung für große und kleine Tiere und deren Lebensräume. Musik- und Kulturinteressierter."
@@ -128,6 +128,11 @@ authors:
     display_name: Juliane Lang
     email: julianelang@posteo.de
     description: "Juliane ist Gemeinschaft wichtig. Sie bringt gerne Leute zusammen und organisiert auch gerne kleine Veranstaltungen oder Kurse. Engagiert in der AG Bürgernetz."
+  fs:
+    name: Frank S
+    display_name: Frank Schwehr
+    email: fschwehr@web.de
+    description: "Großer Pflanzen- und Naturfreund. Ohne sein Wissen, seine Geräte und seine Arbeit wäre Heuweiler nicht so schön."
 
 # Plugins
 plugins:
