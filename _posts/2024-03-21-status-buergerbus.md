@@ -1,6 +1,6 @@
 ---
 title: Bürgerbus nimmt Formen an - Verein soll gegründet werden
-categories: [Mobilität]
+categories: [Mobilität, Gemeinschaft]
 author: bw
 image: /assets/images/klimamobil/vwbus.jpg
 ---

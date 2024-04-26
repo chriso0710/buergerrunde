@@ -2,7 +2,7 @@
 title: Orangener Punkt im Glottertal nimmt Formen an
 categories: [Orangener Punkt, Mobilität]
 author: bw
-image: /assets/images/klimamobil/vwbus.jpg
+image: /assets/images/op/postkarte-glottertal.png
 ---
 
 In der zweiten Märzwoche wurden an zwei Haltestellen der Mitfahraktion OP Flyerboxen für Infomaterial und sogenannte Mitfahr-Karten aufgehängt. Eine Flyerbox hängt an der Haltestelle am Rathaus. Eine weitere Box hängt an der Haltestelle am Panaromabad (Übergangspunkt zu den [Mit-Fahr-Punkten Dreisamtal](https://www.mit-fahr-punkt.de/mitfahrpunkt)).

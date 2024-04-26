@@ -1,6 +1,6 @@
 ---
 title: Wie gestalten wir die Stadt oder Gemeinde der Zukunft? Die Kokreative Kommune
-categories: [Bürgerrunde]
+categories: [Bürgerrunde, Gemeinschaft]
 author: dg
 image: /assets/images/creative.jpg
 ---
