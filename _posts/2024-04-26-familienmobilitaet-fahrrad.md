@@ -18,7 +18,7 @@ Und ja, ein Auto haben wir auch noch. Das teilen wir aber seit Längerem mit ein
 Klar, manchmal ist es ekelig nass und kalt oder die Schuhe mal wieder voller Schlamm vom Feldweg.🌧️💨 ☹️
 ABER erstens gibt es Wärmflaschen und zweitens ist es wunderbar, dass
 
-- die Kinder alle Vogelarten kennen, die wir täglich vom Fahrrad aus beobachten 🦆🐦‍⬛🦅🦉
+- die Kinder alle Vogelarten kennen, die wir täglich vom Fahrrad aus beobachten 🦆🐦‍🦅🦉
 - sie singend (und leider auch mal streitend) vor mir in der Kiste sitzen 🎶
 - unsere Tetrisfähigkeiten echt advanced sind, weil wir mal wieder Menschen, Schulranzen, Sportbeutel, Jacken, Einkäufe … irgendwie ins Fahrrad stapeln 💥
 - wir unseren kompletten Haushalt mit dem Rad umgezogen haben🪑
