@@ -11,6 +11,7 @@ Mit unserer „Kiste“ - wie wir unser Lastenrad nennen - haben wir am 24.04. d
 Das Rad ist seit 08/2017 im ständigen Einsatz. Wir haben drei Kinder und leben in Heuweiler - rund 10 Kilometer außerhalb von Freiburg. Ja, das ist genau genommen noch „Speckgürtel“, aber das Dorf hat quasi keine Infrastruktur und eine ÖPNV-Verbindung in den nächsten Ort (Entfernung 3-4 km mit Schule, Kita, Nahversorgung) gibt es nicht! Fühlt sich für mich zumindest ganz schön nach ländlichem Raum an! Was bleibt? Auto oder Fahrrad (zu Fuß kommt irgendwie nicht in Frage 😉).
 
 Wir haben auch vor der Zeit mit Lastenrad schon immer für uns als default Modus das Fahrrad definiert. So heißt es in meinem Kopf nicht „Ui, heute habe ich mal das Fahrrad genommen, das Wetter war auch wirklich gut.“ ☀️, sondern: „sch\*\*\*e, heute muss ich das Auto nehmen, weil es logistisch einfach nicht anders klappt oder ich mich zu krank zum Radfahren fühle, die Kinder aber trotzdem von A nach B müssen.“ 😏
+
 Es ist also - wie so Vieles - eine Frage der Gewohnheit!
 
 Und ja, ein Auto haben wir auch noch. Das teilen wir aber seit Längerem mit einer befreundeten Familie, die ihr Auto abgeschafft hat. Und wie oft bin ich schon überrascht gefragt worden: „Ach, ich dachte, ihr habt gar kein Auto?“, weil man uns so selten damit sieht.
