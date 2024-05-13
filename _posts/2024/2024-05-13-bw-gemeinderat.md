@@ -1,3 +1,10 @@
+---
+title: "Kandidat für den Gemeinderat: Burkhard Werner"
+categories: [Bürgerrunde]
+author: bw
+image: "/assets/images/op/burkhard.jpg"
+---
+
 Hallo, ich bin Dr. Burkhard Werner, und ich kandidiere für den Gemeinderat in Heuweiler. Meine Leidenschaft ist es, ein harmonisches und respektvolles Zusammenleben in unserer Gemeinde zu fördern. Hier sind die Themen, die mir am meisten am Herzen liegen:
 
 - Gutes Zusammenleben im Dorf: Ich setze mich für ein respektvolles Miteinander ein, in dem unterschiedliche Meinungen akzeptiert und wertgeschätzt werden.
