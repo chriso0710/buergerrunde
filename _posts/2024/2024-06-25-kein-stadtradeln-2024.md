@@ -1,6 +1,6 @@
 ---
 title: Kein STADTRADELN in Heuweiler im Jahr 2024
-categories: [Klimaschutz, Gemeinschaft]
+categories: [Mobilität, Klimaschutz, Gemeinschaft]
 author: jk
 image: /assets/images/klimamobil/radfahrer.jpg
 ---

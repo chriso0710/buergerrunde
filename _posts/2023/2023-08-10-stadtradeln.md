@@ -1,6 +1,6 @@
 ---
 title: Team Bürgerrunde räumt beim STADTRADELN ab
-categories: [Klimaschutz, Mobilität]
+categories: [Klimaschutz, Mobilität, Gemeinschaft]
 author: co
 image: "/assets/images/klimamobil/stadtradeln.jpg"
 ---
