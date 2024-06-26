@@ -1,6 +1,6 @@
 ---
 title: Wir sind beim Freiburger Balkonsolar Upcycling dabei
-categories: [Klimaschutz, Gemeinschaft]
+categories: [Klimaschutz, Gemeinschaft, Weiterbildung]
 author: co
 image: /assets/images/klimamobil/upcycling-pv.jpg
 ---
