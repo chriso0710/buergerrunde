@@ -31,7 +31,7 @@ Zur Förderung des Klimaschutzes in unserer Gemeinde haben wir uns an der Gründ
 - [Orangener Punkt](/category/orangener-punkt)
 - [Mobilität](/category/mobilität)
 
-### AG NaturfreundInnen
+### AG Naturfreunde
 
 Die NaturfreundInnen setzen sich für vielfältige Projekte rund um das Thema Natur- und Artenschutz ein. Unsere Truppe ist bunt gemischt und jeder bringt sich so ein, wie es seinem Lebensalltag entspricht. Wir treffen uns nach Bedarf in lockeren Abständen zur Planung der Aktionen. Für die Arbeitseinsätze werden unterschiedlich viele Arbeitskräfte benötigt, die sich über Signal oder Email zusammenfinden. Wir würden uns über alle Menschen freuen, die Lust haben, sich unserer NaturfreundInnen-Gruppe anzuschließen, sei es regelmäßig oder bei einzelnen Aktionen, die euch besonders ansprechen.
 

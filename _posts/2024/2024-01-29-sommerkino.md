@@ -15,6 +15,6 @@ Nach intensiver Recherche und in Zusammenarbeit mit dem Kommunalen Kino Gundelfi
 
 Die Filmvorführung findet auf dem Schulhof in Heuweiler statt. Einlass ist ab 20:00 Uhr. Es gibt Essen, Trinken und Musik. Der Flammkuchen-Foodtruck vom ZMF wird bei uns sein. Der Film beginnt gegen 21:30 Uhr. Der Eintritt beträgt 5 Euro.
 
-Als Sitzgelegenheit stehen euch Stühle oder Bänke zur Verfügung. Aber wenn ihr es so richtig gemütlich haben wollt, bringt doch einfach eure eigene Sitzgelegenheit mit – sei es ein Stuhl, eine Decke oder gar ein Sofa. Je komfortabler, desto besser!
+Als Sitzgelegenheit stehen euch Bänke zur Verfügung. Wenn ihr es für den geselligen Sommerabend bequemer haben wollt, bringt bitte eure eigene Sitzgelegenheit mit – sei es ein Stuhl, eine Decke oder gar ein Sofa. Je komfortabler, desto besser!
 
 Wir freuen uns auf euer Kommen!
