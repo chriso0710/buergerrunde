@@ -13,7 +13,7 @@ Nach intensiver Recherche und in Zusammenarbeit mit dem Kommunalen Kino Gundelfi
 
 > „Die Geschichte ihrer Reise ist wohltuend, sie macht gute Laune. Vor allem aber macht sie Hoffnung. Es ist in dieser Zeit genau die richtige Antwort auf Misstrauen, Angst und Fremdenhass.“ Christof Gerlitz, SWR-Fernsehen
 
-Die Filmvorführung findet auf dem Schulhof in Heuweiler statt. Einlass ist ab 20:00 Uhr. Es gibt Essen, Trinken und Musik. Der Flammkuchen-Foodtruck vom ZMF wird bei uns sein. Der Film beginnt gegen 21:30 Uhr. Der Eintritt beträgt 5 Euro.
+Die Filmvorführung findet auf dem Schulhof in Heuweiler statt. Einlass ist ab 20:00 Uhr. Es gibt Essen, Trinken und Live Musik. Der Flammkuchen-Foodtruck vom ZMF wird bei uns sein. Der Film beginnt gegen 21:30 Uhr. Der Eintritt beträgt 5 Euro.
 
 Als Sitzgelegenheit stehen euch Bänke zur Verfügung. Wenn ihr es für den geselligen Sommerabend bequemer haben wollt, bringt bitte eure eigene Sitzgelegenheit mit – sei es ein Stuhl, eine Decke oder gar ein Sofa. Je komfortabler, desto besser!
 
