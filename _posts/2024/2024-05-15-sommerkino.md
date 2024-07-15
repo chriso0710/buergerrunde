@@ -1,6 +1,6 @@
 ---
 title: "Open air Sommerkino: WEIT. Die Geschichte von einem Weg um die Welt"
-categories: [Kino]
+categories: [Kino, Konzert]
 author: fg
 image: /assets/images/kino/sommerkino-weit.png
 event: 2024-07-20 21:30:00
