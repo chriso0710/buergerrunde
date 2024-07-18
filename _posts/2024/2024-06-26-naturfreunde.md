@@ -9,7 +9,7 @@ location: Rathaus
 
 ## Die AG Naturfreunde der Bürgerrunde Heuweiler stellt sich vor
 
-Die AG Naturfreunde engagiert sich für verschiedene Projekte rund um den Natur- und Artenschutz in Heuweiler. Oft braucht es dafür nicht mehr als ein geschultes Auge, Freude an der Natur und die Lust, sich zu bewegen. Wir möchten einige unsere Aktionen hier einmal vorstellen.
+Die AG Naturfreunde engagiert sich für verschiedene Projekte rund um den Natur- und Artenschutz in Heuweiler. Neben Interesse und Freude an der Natur reicht es, Lust zu haben, sich zu bewegen. Wir möchten einige unsere Aktionen hier einmal vorstellen.
 
 Was wurde bereits gemacht?
 
