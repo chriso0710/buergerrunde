@@ -1,6 +1,6 @@
 ---
 title: Ein Sommerabend mit Musik und Film
-categories: [Kino]
+categories: [Kino, Konzert]
 author: dg
 image: /assets/images/kino/IMG_5344.jpg
 gallery:
