@@ -1,6 +1,6 @@
 ---
 title: Flohmarkt bei perfektem Herbstwetter
-categories: [Gemeinschaft, Kultur, Flohmarkt]
+categories: [Gemeinschaft, Flohmarkt]
 author: co
 image: /assets/images/flohmarkt24/img_6209.jpg
 gallery:
