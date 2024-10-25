@@ -12,9 +12,10 @@ gallery:
 
 Unser Dorflastenrad **Carlos** ist seit Jahren ein oft genutzter und zuverlässiger Begleiter für viele BürgerInnen aus Heuweiler. Egal ob für den Einkauf, den Transport von schweren Gegenständen oder für Familienausflüge – Carlos bietet eine umweltfreundliche, praktische Alternative zum Auto und fördert die nachhaltige Mobilität in unserer Gemeinde.
 
-Mittlerweile hat Carlos über 14.000 km auf dem Tacho. Der alte Frontscheinwerfer ist leider vor kurzem kaputt gegangen. Gerade in der dunkleren Jahreszeit ist eine funktionierende Lampe unerlässlich für die Sicherheit. Doch glücklicherweise sprang die Firma **Supernova** aus Gundelfingen schnell und unkompliziert ein, um uns zu unterstützen. Supernova spendete uns ein neues, hochmodernes Beleuchtungssystem, sodass Carlos nun wieder sicher zu allen Tageszeiten genutzt werden kann. Die Montage beider Lampen hat das Team der Bürgerrunde selbst übernommen. Nun klebt auch das Logo von Supernova an Carlos' Rahmen.
+Mittlerweile hat Carlos über 14.000 km auf dem Tacho. Der alte Frontscheinwerfer ist leider vor kurzem kaputt gegangen. Gerade in der dunkleren Jahreszeit ist eine funktionierende Lampe unerlässlich für die Sicherheit. Doch glücklicherweise sprang die Firma **Supernova** aus Gundelfingen schnell und unkompliziert ein, um uns zu unterstützen. Supernova spendete uns ein neues, hochmodernes Beleuchtungssystem, sodass Carlos nun wieder sicher zu allen Tageszeiten genutzt werden kann.
 
 Carlos ist jetzt mit dem **Scheinwerfer M99 Mini Pro 25** und dem **Rücklicht M99 TL2** ausgestattet – zwei der fortschrittlichsten und besten Beleuchtungssysteme auf dem Markt. Damit fährt Carlos jetzt sicherer und moderner denn je.
+Die Montage beider Lampen hat das Team der Bürgerrunde selbst übernommen. Nun klebt auch das Logo von Supernova an Carlos' Rahmen.
 
 Ein herzliches Dankeschön an das ganze Team von Supernova für die schnelle, unbürokratische Hilfe! Wir freuen uns sehr, dass ein lokales Unternehmen die Projekte der Bürgerrunde Heuweiler und des Bürgertreffs Gundelfingen unterstützt und mit innovativer weltweit führender Lampentechnik für mehr Sicherheit sorgt. Gemeinsam fördern wir die nachhaltige Mobilität in Heuweiler und Gundelfingen.
 

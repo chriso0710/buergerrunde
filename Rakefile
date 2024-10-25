@@ -75,5 +75,28 @@ namespace :images do
       end
     end
   end
+
+  desc 'Convert HEIC files to JPG and optimize'
+  task :convert_heic_to_jpg do
+    logger = Logger.new(STDOUT)
+    logger.info("Starting HEIC to JPG conversion task")
+
+    Dir.glob('assets/images/**/*.{HEIC}') do |image_path|
+      image = MiniMagick::Image.open(image_path)
+      new_image_path = image_path.sub(/\.HEIC$/, '.jpg').downcase
+      image.format 'jpg'
+      image.write new_image_path
+      logger.info("Converted #{image_path} to #{new_image_path}")
+
+      if image.width > 800 || image.height > 800
+        image.resize '800x800'
+        image.strip
+        image.write new_image_path
+        logger.info("Resized, optimized and wrote image to #{new_image_path}")
+      end
+    end
+
+    logger.info("Finished HEIC to JPG conversion task")
+  end
   
 end
