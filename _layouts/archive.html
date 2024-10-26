@@ -4,26 +4,25 @@ title: Archiv
 ---
 
 <div class="section-title">
-    <h2><span>{{ page.title }}</span></h2>
+  <h2><span>{{ page.title }}</span> ({{ site.posts.size }})</h2>
 </div>
 
-{% include search-lunr.html %}
-
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% include search-lunr.html %} 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %} 
 {% for year in postsByYear %}
     <div class="section-title col-md-12 mt-4">
         <h2>{{ year.name }}</h2>
     </div>
     <ul>
-        {% for post in year.items %}
-            <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% if post.author %}
-                {% assign author = site.authors[post.author] %}
-                {{ author.display_name }}
-            {% endif %}
-            {{ post.date | german_date }}
-        {% endfor %}
+    {% for post in year.items %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% if post.author %} 
+            {% assign author = site.authors[post.author] %} 
+            {{ author.display_name }} 
+        {% endif %} 
+        {{ post.date | german_date }} 
+    {% endfor %}
     </ul>
 {% endfor %}

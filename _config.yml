@@ -14,8 +14,7 @@ permalink: /:title/
 lang: de_DE
 
 static:
-  featured: "Aktuelle Termine"
-  all: "Alle Themen"
+  featured: "Aktuelle Termine und Themen"
   categories: Kategorien
   category: Kategorie
   tag: Etikett
