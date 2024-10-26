@@ -26,7 +26,7 @@ filtered_posts = filtered_posts | sort: 'event' %} {% if filtered_posts.size > 0
 <!-- Posts Index ================================================== -->
 <section class="recent-posts">
   <div class="section-title">
-    <h2><span>{{ site.static.all }} ({{ paginator.total_posts }})</span></h2>
+    <h2><span>{{ site.static.all }} ({{ site.posts.size }})</span></h2>
   </div>
   <div class="row listrecent">
     {% assign filtered_posts = "" | split: ',' %} {% for post in site.posts %}

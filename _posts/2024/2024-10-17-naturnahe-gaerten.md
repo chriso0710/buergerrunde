@@ -7,11 +7,9 @@ event: 2024-11-21 19:00:00
 location: Cafe IZ, Heuweiler
 ---
 
-Die Naturfreundegruppe als Teil der Bürgerrunde Heuweiler lädt am 21.11.2024 um 19 Uhr im Café IZ zu dem Vortrag von Andreas Wiedmaier unter dem Titel
+Die AG Naturfreunde der Bürgerrunde Heuweiler lädt am 21.11.2024 um 19 Uhr ein ins Café IZ zum Vortrag von Andreas Wiedmaier unter dem Titel
 
 „Naturnahe Gärten im Einfluss des Klimawandels – Strategien für schöne lebendige Gärten“
-
-ein.
 
 Wir freuen uns sehr, Andreas Wiedmaier entdeckt und für einen Vortrag bei uns gewonnen zu haben. Herr Wiedmaier ist Landschaftsgärtner, gelernter Baumpfleger und Gärtnermeister [(www.wiedmaier-garten.de)](https://www.wiedmaier-garten.de). Er ist selbständig und in der Gartenberatung tätig und hat hierbei viele private und öffentliche Flächen gestaltet, so auch z.B. bei der Internationalen Gartenausstellung (IGA) 2017 und beim Mundenhof 2018. Nebenbei hält er Vorträge und schreibt Fachartikel zu verschiedenen Themen im Bereich Garten und Ökologie.
 
