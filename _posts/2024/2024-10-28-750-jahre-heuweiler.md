@@ -11,7 +11,7 @@ Die Bürgerrunde Heuweiler möchte zur 750-Jahr-Feier 2025 mit ganz besonderen I
 - Baumscheibenpatenschaften – Bürger\*innen übernehmen Patenschaften für Baumscheiben, um das Dorf zu verschönern und das Bewusstsein für Grünflächen zu stärken.
 - 75h Aktion für eine Fahrradstation – gemeinschaftlicher Selbstausbau der Stellplätze und Infrastruktur für eine nachhaltige Mobilität.
 - 75 neue Nistkästen - ein Beitrag zum Naturschutz und zur Biodiversität.
-- Interaktive Karte von Heuweiler im Netz – unsere Dorfbroschüre (https://buergerrunde.heuweiler.net/bildband-2017/) digital aktualisiert: eine digitale und interaktive Karte, die Einwohner\*innen und Besucher\*innen über alles in Heuweiler informiert und Orientierung bietet (Vereine, Firmen, Gemeinde, Orte, Badische Weinstrasse, Römerkreuzung, Amphibien in Heuweiler, etc.)
+- Interaktive Karte von Heuweiler im Netz – unsere [Dorfbroschüre](/bildband-2017/) digital aktualisiert: eine digitale und interaktive Karte, die Einwohner\*innen und Besucher\*innen über alles in Heuweiler informiert und Orientierung bietet (Vereine, Firmen, Gemeinde, Orte, Badische Weinstrasse, Römerkreuzung, Amphibien in Heuweiler, etc.)
 - Kino – ein Kinoabend in der Kirchberghalle als stimmungsvoller Abschluss des Jubiläumsjahres.
 - „Heuweiler gestern-heute-morgen“ – (Digitale) Ausstellung, die den Wandel und die Zukunftsaussichten des Dorfes thematisiert.
 - Rad-Aktion „10 x 75“ – mit 75-Stunden- und 75-Kilometer-Herausforderungen, Radtouren und Staffelradfahren, um Bewegung und Gemeinschaft zu fördern.
