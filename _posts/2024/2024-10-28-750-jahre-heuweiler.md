@@ -1,5 +1,5 @@
 ---
-title: Ideen der Bürgerrunde für 750-Jahre Heuweiler
+title: Ideen der Bürgerrunde für 750 Jahre Heuweiler
 categories: [Gemeinschaft]
 author: co
 image: /assets/images/verein/750-jahre.jpg
