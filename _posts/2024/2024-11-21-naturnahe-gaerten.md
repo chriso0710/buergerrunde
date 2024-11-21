@@ -1,13 +1,11 @@
 ---
-title: "Vortrag: Naturnahe Gärten unter dem Einfluss des Klimawandels"
+title: "Vortrag: Naturnahe Gärten unter dem Einfluss des Klimawandels - FÄLLT AUS"
 categories: [Weiterbildung, Naturschutz, Klimaschutz]
 author: jk
 image: /assets/images/naturschutz/wiedmaier.jpg
-event: 2024-11-21 19:00:00
-location: Cafe IZ, Heuweiler
 ---
 
-Die AG Naturfreunde der Bürgerrunde Heuweiler lädt am 21.11.2024 um 19 Uhr ein ins Café IZ zum Vortrag von Andreas Wiedmaier unter dem Titel
+**Wichtiger Hinweis: Leider fällt der Vortrag wegen Krankheit des Referenten aus. Wir hoffen auf einen Ersatztermin in 2025 und informieren dann an dieser Stelle.**
 
 „Naturnahe Gärten unter dem Einfluss des Klimawandels – Strategien für schöne lebendige Gärten“
 
