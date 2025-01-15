@@ -3,31 +3,28 @@ layout: page
 title: Impressum
 permalink: /imprint
 ---
+
 Bürgerrunde Heuweiler e.V.  
 Am Flissert 6  
-79194 Heuweiler   
+79194 Heuweiler
 
-Vertreten durch: 
+Vertreten durch:
 
-* Erster Vorsitzender: Christian Ott
-* Zweite Vorsitzende: Anne Dittrich
-* Kassenwart: Burkhard Werner
-* Schriftführerin: Friederike Gutmann
+- Erster Vorsitzender: Christian Ott
+- Zweite Vorsitzende: Anne Dittrich
+- Kassenwart: Burkhard Werner
+- Schriftführerin: Friederike Gutmann
 
-Kontakt: 
+Kontakt:
 
 Telefon: 0171 1987880  
 E-Mail: vorstand@heuweiler.net
 
-Registereintrag: 
+Registereintrag:
 
 Eintragung im Registergericht: Freiburg  
 Registernummer: VR 701748
 
-Konto: 
-
-Raiffeisenbank Gundelfingen
-IBAN DE84 6806 4222 0000 7227 07
 Wir erstellen für alle Spender:innen eine Spendenbescheinigung.
 
 Inhaltlich verantwortlich gem. § 18 Abs. 2 MStV:
@@ -50,7 +47,7 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 ### Urheberrecht
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. 
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 ### Datenschutz
 
