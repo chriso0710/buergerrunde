@@ -12,7 +12,7 @@ Vertreten durch:
 
 - Erster Vorsitzender: Christian Ott
 - Zweite Vorsitzende: Anne Dittrich
-- Kassenwart: Burkhard Werner
+- Kassenwart: Christoph Teuchert
 - Schriftführerin: Friederike Gutmann
 
 Kontakt:
