@@ -3,7 +3,7 @@ title: "Familienkino in Heuweiler: Die Unzertrennlichen"
 categories: [Kino]
 author: fg
 image: /assets/images/kino/die_unzertrennlichen.jpg
-event: 2024-02-15 16:00:00
+event: 2025-02-15 16:00:00
 location: Rathaus Schulungsraum
 ---
 
