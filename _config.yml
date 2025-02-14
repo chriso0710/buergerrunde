@@ -106,7 +106,7 @@ authors:
     name: Burkhard
     display_name: Burkhard Werner
     email: burk.werner@gmail.com
-    description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil und Klima. Im Vorstand der Bürgerrunde für die Kasse zuständig."
+    description: "Professor im Ruhestand. Initiator der Mitfahraktion Orangener Punkt, engagiert in der AG Mobil und Klima."
   jk:
     name: Jochen
     display_name: Jochen Kreher
@@ -132,6 +132,11 @@ authors:
     display_name: Frank Schwehr
     email: fschwehr@web.de
     description: "Großer Pflanzen- und Naturfreund. Ohne sein Wissen, seine Geräte und seine Arbeit wäre Heuweiler nicht so schön."
+  ct:
+    name: Christoph
+    display_name: Christoph Teuchert
+    email: chris.teuchert@gmail.com
+    description: "Experte für erneuerbare Energien. Im Vorstand der Bürgerrunde für die Kasse zuständig."
 
 # Plugins
 plugins:
