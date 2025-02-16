@@ -2,7 +2,7 @@
 title: "Demokratie lebt vom Mitmachen #ichgehwählen"
 categories: [Bürgerrunde]
 author: ct
-image: /assets/images/wahlomat_bundestagswahl_2025.jpg
+image: /assets/images/ichgehwaehlen.jpg
 ---
 
 Die Bürgerrunde Heuweiler e.V. engagiert sich laut Satzung für den Austausch, die Vernetzung und das soziale und kulturelle Leben in unserer Gemeinde. Unser Ziel ist es, Bürgerinnen und Bürger in Heuweiler zu verbinden und Heimatpflege zu betreiben, wie z.B. durch Natur- und Klimaschutz. Zudem fördern wir gemeinschaftliches Engagement und stärken die lokale Dorfgemeinschaft – unabhängig von Herkunft, Alter oder Meinung.
