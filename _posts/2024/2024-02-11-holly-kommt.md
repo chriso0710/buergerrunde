@@ -2,7 +2,7 @@
 title: "Carlos bekommt eine Schwester: Holly ist bald da und sucht noch ein Zuhause"
 categories: [Klimaschutz, Mobilität]
 author: ad
-image: /assets/images/klimamobil/holly.png
+image: /assets/images/klimamobil/holly1.jpg
 ---
 
 Seit Oktober 2021 steht Carlos als (kosten-)freies Lastenrad in Heuweiler allen Bürger:innen zur Verfügung. Das Angebot wurde erfreulicherweise so gut angenommen, dass Carlos nach 2,5 Jahren nicht nur weit mehr als 12.000 Kilometer (!) gefahren wurde, sondern auch vielen anderen ländlichen Gemeinden rund um Freiburg als Inspiration diente, ebenfalls freie Lastenräder zu installieren. Eine echte Erfolgsgeschichte, die unsere Erwartungen weit übertroffen hat.
