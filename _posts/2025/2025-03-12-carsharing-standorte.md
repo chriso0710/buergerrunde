@@ -9,10 +9,9 @@ gallery:
   - img: /assets/images/klimamobil/carsharing-standort3.jpg
   - img: /assets/images/klimamobil/carsharing-standort4.jpg
   - img: /assets/images/klimamobil/carsharing-standort5.jpg
-  - img: /assets/images/klimamobil/carsharing-standort6.jpg
 ---
 
-Das Carsharing-Angebot in Heuweiler besteht nun seit einem Jahr. Jonas Schmid vom Carsharing-Anbieter Grüne Flotte meldete zurück, dass die Auslastung des Carsharing-Fahrzeugs auf lange Sicht nicht ausreichend ist. Insbesondere der aktuelle Standort außerhalb des Dorfzentrums (Parkplatz Grüner Baum) wird als suboptimal angesehen. Die Grüne Flotte machte deutlich, dass ein besserer Stellplatz entscheidend sei, um das Carsharing-Angebot in Heuweiler langfristig wirtschaftlich tragfähig zu gestalten. Eine Verlagerung in die Dorfmitte, z.B. auf einen öffentlichen Stellplatz mit Parkschildmarkierung, würde laut der Grünen Flotte die Sichtbarkeit und Akzeptanz des Angebots deutlich steigern.
+Das Carsharing-Angebot in Heuweiler besteht nun seit einem Jahr. Jonas Schmid vom Carsharing-Anbieter Grüne Flotte meldete zurück, dass die Auslastung des Carsharing-Fahrzeugs gut, aber auf lange Sicht nicht ausreichend sei. Insbesondere der aktuelle Standort außerhalb des Dorfzentrums (Parkplatz Grüner Baum) wird als suboptimal angesehen. Die Grüne Flotte machte deutlich, dass ein besserer Stellplatz entscheidend sei, um das Carsharing-Angebot in Heuweiler langfristig wirtschaftlich tragfähig zu gestalten. Eine Verlagerung in die Dorfmitte, z.B. auf einen öffentlichen Stellplatz mit Parkschildmarkierung, würde laut der Grünen Flotte die Sichtbarkeit und Akzeptanz des Angebots deutlich steigern.
 
 ## Parkdruck reduzieren
 
