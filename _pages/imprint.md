@@ -4,6 +4,12 @@ title: Impressum
 permalink: /imprint
 ---
 
+<style>
+  .protected span {
+    display: none;
+  }
+</style>
+
 Bürgerrunde Heuweiler e.V.  
 Am Flissert 6  
 79194 Heuweiler
@@ -17,8 +23,8 @@ Vertreten durch:
 
 Kontakt:
 
-Telefon: 0171 1987880  
-E-Mail: vorstand@heuweiler.net
+Telefon: <span class="protected">01<span>NOSPAM</span>71 19<span>DELETE</span>878<span>THIS</span>80</span>  
+E-Mail: <span class="protected">vor<span>REMOVE</span>stand@<span>NOSPAM</span>heu<span>XYZ</span>weiler.net</span>
 
 Registereintrag:
 
