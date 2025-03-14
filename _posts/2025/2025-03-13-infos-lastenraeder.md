@@ -19,10 +19,14 @@ Die Mindestausleihdauer beträgt 1h (seit dem 1.10.2023, vorher 4h). Bitte achte
 
 ### Spenden
 
-Der Betrieb der Räder erfolgt ehrenamtlich durch die Bürgerrunde Heuweiler und durch Lastenvelo Freiburg. Die Nutzung ist für alle kostenlos. Aber die Räder brauchen natürlich trotzdem Pflege, Reifen, Schläuche, Bremsen, Inspektion, etc.
+Unser Angebot ist gratis. Der Betrieb der Räder erfolgt ehrenamtlich durch die Bürgerrunde Heuweiler und durch Lastenvelo Freiburg. Unsere Räder brauchen regelmässige Pflege, Reifen, Schläuche, Bremsen, Lager, Inspektion, etc.
 
 Über deine Unterstützung und Spende zur Aufrechterhaltung und Erweiterung unseres Lastenradangebots würden wir uns sehr freuen!
-Unsere Kontonummer ist DE84 6806 4222 0000 7227 07 bei der Raiffeisenbank Gundelfingen.
+
+Bürgerrunde Heuweiler eV
+DE84 6806 4222 0000 7227 07
+Raiffeisenbank Gundelfingen
+
 Auf Wunsch erstellen wir eine Spendenbescheinigung.
 
 ### Technische Daten
