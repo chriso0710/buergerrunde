@@ -7,7 +7,7 @@ event: 2025-05-07 19:30:00
 location: Rathaus
 ---
 
-## Ein Film, der unter die Haut geht. Eine Erinnerung, die bleiben muss.
+Ein Film, der unter die Haut geht. Eine Erinnerung, die bleiben muss.
 
 „Sonst war es still“ ist eine eindrucksvolle Dokumentation (45 Min.) über die Freiburger Bombennacht vom 27. November 1944 – erzählt von denen, die sie als Kinder oder Jugendliche erlebt haben. Ohne Kommentar, ohne Filter. Nur die Stimmen der letzten Zeitzeug:innen, begleitet von seltenen Archivaufnahmen, machen die Schrecken jener Nacht spürbar.
 
