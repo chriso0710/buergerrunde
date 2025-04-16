@@ -7,13 +7,13 @@ event: 2025-05-07 19:30:00
 location: Rathaus
 ---
 
-Ein Film, der unter die Haut geht. Eine Erinnerung, die bleiben muss.
+## Ein Film, der unter die Haut geht. Eine Erinnerung, die bleiben muss.
 
 „Sonst war es still“ ist eine eindrucksvolle Dokumentation (45 Min.) über die Freiburger Bombennacht vom 27. November 1944 – erzählt von denen, die sie als Kinder oder Jugendliche erlebt haben. Ohne Kommentar, ohne Filter. Nur die Stimmen der letzten Zeitzeug:innen, begleitet von seltenen Archivaufnahmen, machen die Schrecken jener Nacht spürbar.
 
 Der Film verzichtet bewusst auf erklärende Einordnung und lässt die Bilder und Erzählungen selbst sprechen – intensiv, ehrlich, bewegend. Er ist ein Denkmal der Erinnerungskultur in einer Zeit, in der direkte Gespräche mit Zeitzeugen immer seltener möglich sind.
 
-**Nach ausverkauften Vorstellungen in Freiburg kommt dieser außergewöhnliche Film jetzt nach Heuweiler – in unser Dorfkino, organisiert von der Bürgerrunde Heuweiler. Eintritt 5 Euro.**
+**Nach ausverkauften Vorstellungen in Freiburg kommt dieser außergewöhnliche Film jetzt nach Heuweiler in unser Dorfkino, organisiert von der Bürgerrunde Heuweiler. Eintritt 5 Euro.**
 
 ## Im Anschluss an die Vorstellung: Gespräch mit den Filmemachern
 
