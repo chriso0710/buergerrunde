@@ -5,6 +5,12 @@ permalink: /contact
 search: true
 ---
 
+<style>
+  .protected span {
+    display: none;
+  }
+</style>
+
 Allgemeine Anfragen schickt ihr am besten an:
 
 - <span class="protected">hal<span>NOSPAM</span>lo@<span>DELETE</span>heu<span>THIS</span>weiler.net</span>
