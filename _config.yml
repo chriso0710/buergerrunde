@@ -33,8 +33,6 @@ menu:
     url: /
   - name: Über uns
     url: /about
-  - name: AGs
-    url: /groups
   - name: Termine
     url: /events
   - name: Orangener Punkt

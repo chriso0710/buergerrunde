@@ -5,8 +5,6 @@ permalink: /groups
 search: true
 ---
 
-![Einfach mal machen](/assets/images/verein/postkarte-rosskopf.jpg)
-
 ### AG Klima und Mobil
 
 Eine unserer ersten Aktionen war die Anschaffung eines Verkehrs-Smilies zur Reduktion der Durchfahrtsgeschwindigkeit auf 30 kmh im Dorf.
