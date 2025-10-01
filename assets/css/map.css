@@ -1,0 +1,115 @@
+/* Custom Marker Styling */
+.custom-div-icon {
+    background: transparent;
+    border: none;
+}
+
+.custom-marker {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.custom-marker:hover {
+    transform: scale(1.1);
+}
+
+/* Filter Buttons - keine Hover-Effekte */
+[data-category].btn-outline-primary:not(.active) {
+    background-color: transparent !important;
+    color: #007bff !important;
+    border-color: #007bff !important;
+}
+
+[data-category].btn-outline-primary:not(.active):hover {
+    background-color: transparent !important;
+    color: #007bff !important;
+    border-color: #007bff !important;
+}
+
+[data-category].btn-primary.active {
+    background-color: #007bff !important;
+    color: #ffffff !important;
+    border-color: #007bff !important;
+}
+
+[data-category].btn-primary.active:hover {
+    background-color: #007bff !important;
+    color: #ffffff !important;
+    border-color: #007bff !important;
+}
+
+/* "Alle anzeigen" Button - keine Hover-Effekte */
+[data-category="all"].btn-outline-success:not(.active) {
+    background-color: transparent !important;
+    color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+[data-category="all"].btn-outline-success:not(.active):hover {
+    background-color: transparent !important;
+    color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+[data-category="all"].btn-success.active {
+    background-color: #28a745 !important;
+    color: #ffffff !important;
+    border-color: #28a745 !important;
+}
+
+[data-category="all"].btn-success.active:hover {
+    background-color: #28a745 !important;
+    color: #ffffff !important;
+    border-color: #28a745 !important;
+}
+
+/* Popup Styling */
+.location-popup {
+    max-width: 300px;
+}
+
+.location-popup h5 {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.location-popup p {
+    margin-bottom: 8px;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.location-popup .btn {
+    margin-top: 5px;
+    text-decoration: none;
+}
+
+/* Map Container Styling */
+#map {
+    z-index: 1;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #map {
+        height: 400px !important;
+    }
+    
+    .custom-marker {
+        width: 25px;
+        height: 25px;
+        font-size: 12px;
+    }
+}

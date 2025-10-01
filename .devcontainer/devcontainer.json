@@ -4,7 +4,10 @@
   "name": "${localWorkspaceFolderBasename}",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
   "image": "mcr.microsoft.com/devcontainers/jekyll:2.7-bullseye",
-  "runArgs": ["--name", "${localWorkspaceFolderBasename}_devcontainer"],
+  "runArgs": [
+    "--name", "${localWorkspaceFolderBasename}_devcontainer",
+    "--env-file", ".env"
+  ],
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},

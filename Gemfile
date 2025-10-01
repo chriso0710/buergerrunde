@@ -14,6 +14,9 @@ gem 'jekyll'
 gem 'solargraph'
 gem 'mini_magick'
 gem 'rake'
+gem 'ruby-openai'
+gem 'dotenv'  # Für .env Datei Support
+
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'

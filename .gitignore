@@ -4,3 +4,10 @@ _site
 .sass-cache
 *~
 .jekyll-cache
+
+# Environment variables (sensitive data)
+.env
+
+# Temporary and log files
+tmp/
+*.log

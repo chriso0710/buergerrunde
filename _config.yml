@@ -35,6 +35,8 @@ menu:
     url: /about
   - name: Termine
     url: /events
+  #  - name: Karte
+  #    url: /karte
   - name: Orangener Punkt
     url: /op/
   - name: Carlos
@@ -144,6 +146,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
+# Collections
+collections:
+  locations:
+    output: true
+    permalink: /location/:name/
+
 # Archives
 jekyll-archives:
   enabled:
@@ -201,3 +209,8 @@ defaults:
     values:
       layout: "post"
       author: "co"
+  - scope:
+      path: ""
+      type: "locations"
+    values:
+      layout: "page"
