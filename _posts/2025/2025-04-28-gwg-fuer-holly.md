@@ -1,6 +1,6 @@
 ---
 title: Neues Sponsoring für Holly durch die Gemeindewerke Gundelfingen
-categories: [Mobilität]
+categories: [Klimaschutz, Mobilität]
 author: co
 image: https://www.gwg-gundelfingen.de/de/Bilder-Kundenportal/Bilder-Kundenportal/gwg-rgb.png
 ---

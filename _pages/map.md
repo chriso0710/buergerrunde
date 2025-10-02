@@ -14,4 +14,4 @@ Zum 750-jährigen Bestehen von Heuweiler hat die Bürgerrunde im Auftrag der Gem
 
 Klicke auf die Marker für weitere Informationen oder nutze die Filter, um bestimmte Kategorien anzuzeigen. Bevorzugst du eine Listenansicht? Dann schaue dir unsere [Übersicht](/locations) an, die alle Orte in Heuweiler übersichtlich nach Kategorien sortiert auflistet.
 
-Fehler gefunden? Dann gib uns doch bitte einen Hinweis und schreib an buergerrunde@heuweiler.net. Vielen Dank!
+Fehler gefunden? Dann gib uns doch bitte einen Hinweis und schreib an buergerrunde@heuweiler.net. Vielen Dank! (Stand 10/2025)

@@ -43,6 +43,12 @@ Auf Wunsch erstellen wir eine Spendenbescheinigung.
 
 Für die Räder gibt es ein Regenverdeck (für Kinder) und eine Laderaumabdeckung (für Ladung). Beides liegt allerdings nicht am Standort, weil es meist nicht gebraucht wird und dort nicht gesichert werden kann. Wir haben noch keine gute Lösung dafür gefunden und sind offen für Ideen. Wenn ihr das Regenverdeck oder die Laderaumabdeckung ausleihen möchtet, dann meldet euch bitte per eMail direkt bei uns.
 
+### Im Falle eine Panne
+
+- Im Falle eine Panne wendet euch bitte zuerst an LV FR per eMail. Je nach Problem werden wir dann sehen, wie und von wem das Rad am besten abgeholt und repariert werden kann. Kleinigkeiten macht die BR, größere Schäden oder Wartungsarbeiten werden in der voll eingerichteten Werkstatt von LV FR oder bei Fahrradspezialitäten in Freiburg gemacht.
+
+- Bitte meldet euch schnellstmöglich bei uns oder bei LV FR, wenn euch vor oder nach eurer Fahrt Schäden, verdächtige Geräusche, lose Schrauben oder fehlende Teile auffallen. Damit können wir sicherstellen, dass das Rad für die nächsten AusleiherIn in einem guten Zustand ist.
+
 ### Oft gestellte Fragen und Antworten
 
 - Die Nutzung ist wirklich gratis! Lediglich bei der Anmeldung bei LV FR muss ein einmaliges Pfand gezahlt werden. Das Geld erhaltet ihr zurück, wenn ihr die Räder von LV FR nicht mehr nutzen möchtet.
@@ -54,8 +60,6 @@ Für die Räder gibt es ein Regenverdeck (für Kinder) und eine Laderaumabdeckun
 - Mit einer Anmeldung bei LV FR könnt ihr nicht nur Carlos und Holly, sondern _alle_ Räder im ganzen Gebiet von LV FR ausleihen. Die Räder müssen bei Rückgabe immer am festen Standort abgestellt werden.
 
 - Der Ladestecker (Bosch) passt nur in einer Position. Bitte vorsichtig ein- und ausstecken. Das Ladekabel ist lang genug für Rückwarts- oder Vorwärts-Parken.
-
-- Im Falle eine Panne wendet euch bitte zuerst an LV FR per eMail. Je nach Problem werden wir dann sehen, wie und von wem das Rad am besten abgeholt und repariert werden kann. Kleinigkeiten macht die BR, größere Schäden oder Wartungsarbeiten werden in der voll eingerichteten Werkstatt von LV FR oder bei Fahrradspezialitäten in Freiburg gemacht.
 
 - Das Buchungssystem ist etwas träge. Es kann daher ein paar Minuten dauern, bis im Kundenkonto von LV FR die gerade getätigte Buchung auftaucht.
 
