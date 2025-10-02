@@ -140,6 +140,127 @@ namespace :locations do
       exit 1
     end
   end
+
+  desc 'Geocode all location files using Nominatim API and update coordinates'
+  task :geocode do
+    require 'net/http'
+    require 'uri'
+    require 'json'
+    require 'yaml'
+    
+    logger = Logger.new(STDOUT)
+    logger.info("Starting geocoding task for all location files")
+
+    locations_dir = '_locations'
+    unless Dir.exist?(locations_dir)
+      logger.error("Locations directory not found: #{locations_dir}")
+      exit 1
+    end
+
+    # Alle .md Dateien im _locations Verzeichnis
+    location_files = Dir.glob("#{locations_dir}/*.md")
+    
+    if location_files.empty?
+      logger.info("No location files found in #{locations_dir}")
+      exit 0
+    end
+
+    logger.info("Found #{location_files.length} location files to process")
+    
+    success_count = 0
+    error_count = 0
+    
+    location_files.each_with_index do |file_path, index|
+      logger.info("Processing #{index + 1}/#{location_files.length}: #{File.basename(file_path)}")
+      
+      begin
+        # Datei lesen
+        content = File.read(file_path)
+        
+        # YAML Front Matter extrahieren
+        if content =~ /\A---\s*\n(.*?)\n---\s*\n(.*)/m
+          yaml_content = $1
+          markdown_content = $2
+          
+          # YAML parsen
+          front_matter = YAML.load(yaml_content)
+          
+          # Prüfen ob Adresse vorhanden ist
+          unless front_matter['address']
+            logger.warn("No address found in #{File.basename(file_path)}, skipping")
+            next
+          end
+          
+          address = front_matter['address']
+          logger.info("  Address: #{address}")
+          
+          # Nominatim API aufrufen
+          encoded_address = URI.encode_www_form_component(address)
+          api_url = "https://nominatim.openstreetmap.org/search?q=#{encoded_address}&format=json&limit=1&addressdetails=1"
+          
+          uri = URI(api_url)
+          http = Net::HTTP.new(uri.host, uri.port)
+          http.use_ssl = true
+          
+          # User-Agent setzen (erforderlich für Nominatim)
+          request = Net::HTTP::Get.new(uri)
+          request['User-Agent'] = 'Buergerrunde Jekyll Site (https://buergerrunde.heuweiler.net)'
+          
+          response = http.request(request)
+          
+          if response.code == '200'
+            results = JSON.parse(response.body)
+            
+            if results.empty?
+              logger.warn("  No geocoding results found for address")
+              error_count += 1
+              next
+            end
+            
+            result = results.first
+            new_lat = result['lat'].to_f.round(6)
+            new_lng = result['lon'].to_f.round(6)
+            
+            old_lat = front_matter['latitude']
+            old_lng = front_matter['longitude']
+            
+            logger.info("  Old coordinates: #{old_lat}, #{old_lng}")
+            logger.info("  New coordinates: #{new_lat}, #{new_lng}")
+            
+            # Koordinaten aktualisieren
+            front_matter['latitude'] = new_lat
+            front_matter['longitude'] = new_lng
+            
+            # Datei neu schreiben
+            new_content = "---\n#{front_matter.to_yaml.sub(/^---\n/, '')}---\n#{markdown_content}"
+            File.write(file_path, new_content)
+            
+            logger.info("  ✅ Updated coordinates in #{File.basename(file_path)}")
+            success_count += 1
+            
+          else
+            logger.error("  API request failed with code #{response.code}")
+            error_count += 1
+          end
+          
+        else
+          logger.warn("No valid YAML front matter found in #{File.basename(file_path)}")
+          error_count += 1
+        end
+        
+      rescue => e
+        logger.error("  Error processing #{File.basename(file_path)}: #{e.message}")
+        error_count += 1
+      end
+      
+      # Pause zwischen API-Aufrufen (Nominatim Rate Limit respektieren)
+      sleep(1) unless index == location_files.length - 1
+    end
+    
+    logger.info("Geocoding completed!")
+    logger.info("✅ Successfully processed: #{success_count} files")
+    logger.info("❌ Errors: #{error_count} files") if error_count > 0
+  end
 end
 
 namespace :images do

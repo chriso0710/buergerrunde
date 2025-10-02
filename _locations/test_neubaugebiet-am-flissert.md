@@ -1,16 +1,16 @@
 ---
-title: "Neubaugebiet Am Flissert, Heuweiler"
-latitude: 48.0512
-longitude: 7.9159
+title: Neubaugebiet Am Flissert, Heuweiler
+latitude: 48.054925
+longitude: 7.909551
 category: Wohngebiete
-description: "Kleines Neubaugebiet / Wohnstraße („Am Flissert“) im Nordosten der Gemeinde Heuweiler (Breisgau‑Hochschwarzwald)."
-address: "Am Flissert, 79194 Heuweiler, Baden‑Württemberg, Deutschland"
-website: "https://www.heuweiler.de"
-image: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-01 15:55:41 +0000"
+description: Kleines Neubaugebiet / Wohnstraße („Am Flissert“) im Nordosten der Gemeinde
+  Heuweiler (Breisgau‑Hochschwarzwald).
+address: Am Flissert, 79194 Heuweiler, Baden‑Württemberg, Deutschland
+website: https://www.heuweiler.de
+image: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-01 15:55:41 +0000'
 ---
-
 ## Kurzbeschreibung
 Das Neubaugebiet/ die Wohnstraße "Am Flissert" liegt im nordöstlichen Bereich von Heuweiler und gehört zur Siedlungs‑/Wohngebietsplanung (Holzweg‑Erweiterung) der Gemeinde. ([heuweiler.de](https://www.heuweiler.de/leben-wohnen/bauen?utm_source=openai))
 

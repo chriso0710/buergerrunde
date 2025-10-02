@@ -1,16 +1,16 @@
 ---
-title: "Litzelstahlerhof (Heuweiler)"
-latitude: 48.0514
-longitude: 7.8922
+title: Litzelstahlerhof (Heuweiler)
+latitude: 48.049488
+longitude: 7.891728
 category: Bauernhöfe
-description: "Ein historischer Einzelhof / Wohnplatz im Gemeindebereich Heuweiler (Breisgau-Hochschwarzwald), heute Teil der landwirtschaftlich geprägten Gemarkung."
-address: "Litzelstahlerhof 2, 79194 Heuweiler, Baden-Württemberg, Germany"
-website: ""
-image: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-01 14:03:39 +0000"
+description: Ein historischer Einzelhof / Wohnplatz im Gemeindebereich Heuweiler (Breisgau-Hochschwarzwald),
+  heute Teil der landwirtschaftlich geprägten Gemarkung.
+address: Litzelstahlerhof 2, 79194 Heuweiler, Baden-Württemberg, Germany
+website: ''
+image: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-01 14:03:39 +0000'
 ---
-
 ## Beschreibung
 Der Litzelstahlerhof ist ein einzelner Hof / Wohnplatz am westlichen Rand der Gemarkung Heuweiler und gehört administrativ zur Gemeinde Heuweiler im Landkreis Breisgau‑Hochschwarzwald. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/anfahrt-lage-oepnv?utm_source=openai))
 

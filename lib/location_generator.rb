@@ -74,10 +74,9 @@ Heuweiler ist eine kleine Gemeinde im Breisgau-Hochschwarzwald zwischen Freiburg
 
 * Suche im Internet nach dem Ort.
 * Ergänze ggf. relevante soziale Medien oder Verzeichniseinträge.
-* Suche im Internet ein Bild des Ortes. Falls du kein passendes findest, lasse das Feld leer.
+* Suche im Internet ein Bild des Ortes in geeigneter Auflösung (mind. 300x300 px). Wichtig ist, dass es ein Direktlink zu einem Bild ist. Falls du kein passendes findest, lasse das Feld leer.
 * Suche im Internet die offizielle Website des Ortes. Falls du keine findest, lasse das Feld leer.
-* Verwende die Nominatim API, um zur Adresse des Ortes die genauen Geo Koordinaten zu finden. Die API ist öffentlich und benötigt keinen API Key:
-https://nominatim.openstreetmap.org/search?q=<adresse>&format=json&limit=1&addressdetails=1
+* Versuche bestmöglich, die genauen Geo Koordinaten des Ortes zu finden. Gib keine fiktiven Koordinaten an. Falls du keine genauen Koordinaten findest, lasse die Felder leer.
 
 **Ausgabeformat:**
 Antworte ausschließlich in Markdown mit:
@@ -120,8 +119,8 @@ Antworte ausschließlich in Markdown mit:
 * Verwende **genau eine** Kategorie.
 * Verwende Markdown für Überschriften ab Ebene 4 (#### Überschrift).
 * Prüfe ob die URL der Website und des Bildes wirklich existiert. Wenn nicht, dann suche weiter.
-* Antwort nur als Markdown-Dokument, ohne zusätzliche Erklärungen oder Kommentare.
-
+* Antwort nur als Markdown-Dokument, ohne zusätzliche Erklärungen oder Kommentare. 
+* Gib keine Erklärungen oder Kommentare im Markdown ab. Wenn du Kommentare hast, schreibe sie in den Frontmatter-Header als `notes`.
     PROMPT
   end
 

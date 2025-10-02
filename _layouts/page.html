@@ -7,15 +7,18 @@ layout: default
         <h2><span>{{ page.title }}</span></h2>
     </div>
 
-    <div class="article-post">
-    {{content}}
-    </div>
-
-    {% if page.comments == true %}
-        <div id="comments" class="row mb-5">
-            <div class="col-md-8">
-                {% include disqus.html %}
-            </div>
+    {% if page.image and page.image != '' %}
+        <div class="mb-4">
+            {% if page.image contains "://" %}
+                {% assign image_url = page.image %}
+            {% else %}
+                {% capture image_url %}{{ page.image | prepend: site.baseurl }}{% endcapture %}
+            {% endif %}
+            <img class="img-fluid" src="{{ image_url }}" alt="{{ page.title }}" style="max-height: 400px; object-fit: cover;">
         </div>
     {% endif %}
+
+    <div class="article-post">
+        {{content}}
+    </div>
 </section>

@@ -1,16 +1,16 @@
 ---
-title: "Café iz & Dorfladen"
-latitude: 48.0451
-longitude: 7.9032
-category: "Geschäfte & Gastronomie"
-description: "Gemütliches Dorfcafé mit kleinem Dorfladen im Kellergewölbe des Alt‑Vogtshofs in der Ortsmitte von Heuweiler."
-address: "Dorfstraße 22, 79194 Heuweiler, Deutschland"
-website: "https://cafe-iz.de"
-image: "https://cafe-iz.de/wp-content/uploads/2022/11/cafe-2.jpg"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-01 14:08:13 +0000"
+title: Café iz & Dorfladen
+latitude: 48.052077
+longitude: 7.903343
+category: Geschäfte & Gastronomie
+description: Gemütliches Dorfcafé mit kleinem Dorfladen im Kellergewölbe des Alt‑Vogtshofs
+  in der Ortsmitte von Heuweiler.
+address: Dorfstraße 22, 79194 Heuweiler, Deutschland
+website: https://cafe-iz.de
+image: https://cafe-iz.de/wp-content/uploads/2022/11/cafe-2.jpg
+generated_by: gpt-5-mini
+generated_at: '2025-10-01 14:08:13 +0000'
 ---
-
 Beschreibung
 
 Das Café iz & Dorfladen ist ein kleines, persönlich geführtes Dorfcafé im Kellergewölbe des Alt‑Vogtshofs in der Ortsmitte von Heuweiler. Betreiberin ist Ines Zschau; im Café werden regional geröstete Espressobohnen, hausgebackene Kuchen sowie Frühstücks‑ und Kleingerichte angeboten, zugleich betreibt das Lokal einen kleinen Dorfladen mit regionalen Produkten. ([cafe-iz.de](https://cafe-iz.de/cafe/))
