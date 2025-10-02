@@ -1,5 +1,5 @@
 ---
-title: Begrüßung von NeubürgerInnen
+title: Herzlich Willkommen in Heuweiler!
 categories: [Bürgerrunde]
 author: co
 image: /assets/images/verein/postkarte-rosskopf.jpg
