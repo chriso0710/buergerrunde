@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Veranstaltungen im Jahreslauf
-permalink: /events_year
+permalink: /yearlyevents
 search: true
 ---
 
