@@ -4,9 +4,9 @@ Bürgerrunde Heuweiler e.V.
 Bürgernetz der Bürgerrunde
 DJK Heuweiler e.V.
 Dorfbild Arbeitskreis
-Freiwillige Feuerwehr Heuweiler
+Freiwillige Feuerwehr
 Flexsingers e.V.
-Kirchenchor Heuweiler
+Kirchenchor
 Kirchliche Sozialstation Nördlicher Breisgau e.V.
 Landfrauen Heuweiler e.V.
 Leheneckbestien Heuweiler e.V.
@@ -18,10 +18,10 @@ Reit- und Pfarrverein Heuweiler e.V.
 Sozial-Caritativer Förderverein St. Remigius e.V.
 Trachtenkapelle Heuweiler e.V.
 Tanzgruppe
-Zeltlagergemeinschaft Heuweiler
+Zeltlagergemeinschaft
 Bürgermeister
 Gemeinderat
-Gemeindeverwaltung Heuweiler
+Gemeindeverwaltung
 Klimaschutzausschuss des Gemeinderates
 Verwaltungsgemeinschaft Heuweiler und Gundelfingen
 Neue Liste
@@ -70,7 +70,7 @@ Mini-Rock
 Obsthof Blattmann
 Brennerei Wuchner 
 Café IZ
-Hotel Garni Heuweiler
+Hotel Garni
 Ketterer's Gasthaus Rebstock
 Gartenbau Björn Zwigart
 Islandpferdegestüt Alt-Vogtshof
@@ -82,7 +82,8 @@ Behindertenfahrzeug Malteser
 Bürgerbus (in Planung)
 Carsharing Grüne Flotte
 Haldenweg
-Freie Lastenräder Lastenvelo Freiburg
+Freies Lastenrad Carlos (Lastenvelo Freiburg)
+Freies Lastenrad Holly (Lastenvelo Freiburg)
 Taubenbach
 Froschbächle
 Malefikantenweg
@@ -92,3 +93,6 @@ Orangener Punkt Mitfahrbänkle
 Kinderchor
 Katharina Hermann, Musiklehrerin
 Institut 3P Helmut Aatz
+Bürgergenossenschaft
+Spielplatz Kirchberg
+Spielplatz Holzweg

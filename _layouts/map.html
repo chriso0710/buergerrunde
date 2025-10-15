@@ -51,15 +51,11 @@ layout: default
     {% for location in site.locations %}
     {
         "title": {{ location.title | jsonify }},
-        "latitude": {{ location.latitude }},
-        "longitude": {{ location.longitude }},
+        "latitude": {% if location.latitude and location.latitude != "" %}{{ location.latitude }}{% else %}null{% endif %},
+        "longitude": {% if location.longitude and location.longitude != "" %}{{ location.longitude }}{% else %}null{% endif %},
         "category": {{ location.category | jsonify }},
         "description": {{ location.description | jsonify }},
-        "content": {{ location.content | markdownify | strip_html | jsonify }},
-        "image": {% if location.image %}{{ location.image | jsonify }}{% else %}null{% endif %},
-        "address": {% if location.address %}{{ location.address | jsonify }}{% else %}null{% endif %},
-        "website": {% if location.website %}{{ location.website | jsonify }}{% else %}null{% endif %},
-        "url": {{ location.url | jsonify }}
+        "address": {{ location.address | jsonify }}
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
 ]

@@ -3,42 +3,41 @@ title: "Café iz"
 latitude: ""
 longitude: ""
 category: "Geschäfte & Gastronomie"
-description: "Kleines Dorfcafé mit angeschlossenem Dorfladen im Alt‑Vogtshof im Ortskern von Heuweiler."
+description: "Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuweiler, betrieben von Ines Zschau."
 address: "Dorfstraße 22, 79194 Heuweiler"
-website: "https://cafe-iz.de/"
-image: "https://cafe-iz.de/wp-content/uploads/2022/11/IMG_1586-scaled.jpg"
+website: "https://cafe-iz.de"
+image: ""
 image_copyright: ""
 generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 09:37:08 +0000"
-notes: "Bei der Suche nach genauen Hausnummern-Koordinaten wurde das Mapbox-Reverse-Geocoding verwendet; es lieferte nahegelegene Treffer (z. B. Dorfstraße 21: 48.051713, 7.903225), für die konkrete Hausnummer 22 konnten jedoch keine verifizierbaren Einzelkoordinaten gefunden werden, daher wurden Latitude/Longitude-Felder leer gelassen. Quellen: Café-Website (cafe-iz.de), Impressum, Badische Zeitung, Projektseite Alt‑Vogtshof; Mapbox-Reverse-Geocoding (abweichende Nachbaradresse)."
+generated_at: "2025-10-15 11:37:18 +0000"
+notes: "Bei der Generierung wurden die offizielle Website und das Impressum von Café iz (cafe-iz.de) sowie Berichte der Badischen Zeitung und Projektseiten zum Alt‑Vogtshof verwendet. Es wurde versucht, mit Mapbox-Reverse-Geocoding die genauen Koordinaten für Dorfstraße 22 zu finden; Mapbox lieferte nahegelegene Hausnummern (z. B. Dorfstraße 19: lat 48.05158, lon 7.90295 / routable point 48.051552, 7.903039), konnte aber keine explizite Enträge für Nr. 22 zurückgeben — daher sind die Koordinaten im Eintrag leer gelassen worden. Quellen und Hinweise siehe Referenzen."
 ---
 
-#### Beschreibung
-Das Café iz ist ein kleines, gemütliches Dorfcafé mit angeschlossenem Dorfladen im historischen Alt‑Vogtshof im Ortskern von Heuweiler, das Kaffee, hausgemachte Kuchen, kleine Gerichte und regionale Produkte anbietet. ([cafe-iz.de](https://cafe-iz.de/))
+#### Beschreibung des Ortes
+Das Café iz ist ein kleines, gemütliches Café mit angeschlossenem Dorfladen im historischen Alt‑Vogtshof im Ortskern von Heuweiler; Betreiberin ist Ines Zschau. ([cafe-iz.de](https://cafe-iz.de/?utm_source=openai))
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-Als Treffpunkt im Ortszentrum belebt das Café die Dorfmitte, verbindet Nahversorgung (Dorfladen) mit Gastronomie und dient gleichzeitig als Veranstaltungsort für lokale Kultur‑ und Konzertabende. Es stärkt Nahversorgung und Gemeinschaftsleben in der kleinen Gemeinde. ([cafe-iz.de](https://cafe-iz.de/))
+#### Bedeutung/Verwendungszweck für Heuweiler
+Das Café iz dient als Treffpunkt für Bewohner und Gäste, bietet Frühstück, hausgemachte Kuchen, regionales Sortiment im Dorfladen und belebt durch Veranstaltungen den Dorfmittelpunkt. ([cafe-iz.de](https://cafe-iz.de/?utm_source=openai))
 
 #### Geschichte
-Das Café iz wurde im Kellergewölbe des renovierten Alt‑Vogtshofs eingerichtet—ein Bürgergenossenschaftsprojekt, bei dem der Alt‑Vogtshof kernsaniert und für Wohnraum sowie ein Café mit Dorfladen umgestaltet wurde. Betreiberin ist Ines Zschau, die das Konzept mit regionalen Produkten und selbstgebackenem Kuchen umsetzt. ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/?utm_source=openai))
+Das Café befindet sich im sanierten Alt‑Vogtshof, einem von der Bürgergenossenschaft Heuweiler verantworteten Sanierungsprojekt, das Wohnraum und kleinteilige Nahversorgung (u. a. Dorfladen/Café) in der Ortsmitte kombiniert. Die Eröffnung des Café iz folgte der Kernsanierung des Hauses; lokale Berichte beschreiben die Einrichtung im Gewölbekeller und die Inhaberin, die das Projekt mit viel Liebe zum Detail betreibt. ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/?utm_source=openai))
 
 #### Besonderheiten oder interessante Fakten
-- Sitz im historischen Alt‑Vogtshof (Bürgergenossenschaftsprojekt zur Dorfentwicklung). ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/?utm_source=openai))  
-- Eigene Kaffeeauswahl (Röstung aus Waldkirch, Kooperationen mit regionalen Erzeugern) und hausgebackene Kuchen (z. B. Dinkelmehl‑Backwaren). ([cafe-iz.de](https://cafe-iz.de/cafe/?utm_source=openai))  
-- Der kleine Dorfladen verkauft regionale Spezialitäten und Produkte aus der Umgebung. ([cafe-iz.de](https://cafe-iz.de/))
+- Das Café liegt im Gewölbekeller/Untergeschoss des Alt‑Vogtshofs und verbindet Cafébetrieb mit einem kleinen Dorfladen (regionaler Fokus). ([badische-zeitung.de](https://www.badische-zeitung.de/eine-ex-stewardess-betreibt-nun-das-caf-iz-in-heuweiler?utm_source=openai))  
+- Laut Betreiberin werden Kuchen u. a. mit Dinkelmehl gebacken; es gibt eine eigene Espressomischung aus einer lokalen Rösterei (Waldkirch). ([cafe-iz.de](https://cafe-iz.de/cafe/?utm_source=openai))
 
 #### Wichtige Kontaktinfos
-- Adresse: Dorfstraße 22, 79194 Heuweiler. ([cafe-iz.de](https://cafe-iz.de/))  
-- Telefon: +49 7666 9005111. ([cafe-iz.de](https://cafe-iz.de/))  
-- E‑Mail: cafe-iz@t-online.de. ([cafe-iz.de](https://cafe-iz.de/))  
-- Website: https://cafe-iz.de/. ([cafe-iz.de](https://cafe-iz.de/))  
-- Öffnungszeiten (laut offizieller Website): Montag, Dienstag: Ruhetag; Mittwoch–Freitag: 09:00–12:30, 14:30–18:00; Samstag: 07:30–18:00; Sonntag: 08:00–18:00. Hinweis: Sonderöffnungszeiten an Feiertagen möglich. ([cafe-iz.de](https://cafe-iz.de/))  
-- Hinweis aus der Website: Kuchen „to go“ kann aktuell nicht angeboten werden (Stand Angaben auf Website). ([cafe-iz.de](https://cafe-iz.de/))
+- Adresse: Dorfstraße 22, 79194 Heuweiler. ([cafe-iz.de](https://cafe-iz.de/impressum/?utm_source=openai))  
+- Telefon: +49 (0)7666 9005 111. ([cafe-iz.de](https://cafe-iz.de/impressum/?utm_source=openai))  
+- E‑Mail: cafe-iz@t-online.de. ([cafe-iz.de](https://cafe-iz.de/impressum/?utm_source=openai))  
+- Website: https://cafe-iz.de. ([cafe-iz.de](https://cafe-iz.de/?utm_source=openai))  
+- Typische Öffnungszeiten (Anhaltspunkt, bitte auf Website prüfen): Mi–Do 09:00–12:30 & 14:30–18:00; Fr 09:00–12:30 & 14:30–20:00; Sa 07:30–18:00; So 08:00–18:00; Mo/Di Ruhetag. (Öffnungszeiten stammen aus Branchenverzeichnissen/Einträgen und Veranstaltungsseiten.) ([komoot.com](https://www.komoot.com/de-de/tour/615256633?utm_source=openai))
 
-#### Referenzen
-- Café iz — Offizielle Website (Startseite / Kontakt / Öffnungszeiten): https://cafe-iz.de/ (Impressum & Kontaktinformationen). ([cafe-iz.de](https://cafe-iz.de/))  
-- Impressum Café iz (Angaben zur Betreiberin, Adresse, Kontakt): https://cafe-iz.de/impressum/. ([cafe-iz.de](https://cafe-iz.de/impressum/?utm_source=openai))  
-- Café‑Seite (Angebot, Café & Dorfladen): https://cafe-iz.de/cafe/ und https://cafe-iz.de/ueber-uns/. ([cafe-iz.de](https://cafe-iz.de/cafe/?utm_source=openai))  
-- Badische Zeitung — Artikel über das Café iz / Betreiberin Ines Zschau: https://www.badische-zeitung.de/eine-ex-stewardess-betreibt-nun-das-caf-iz-in-heuweiler. ([badische-zeitung.de](https://www.badische-zeitung.de/eine-ex-stewardess-betreibt-nun-das-caf-iz-in-heuweiler?utm_source=openai))  
-- Projektseite Alt‑Vogtshof / Sanierung (Bürgergenossenschaft Heuweiler): https://hopp-hofmann.de/impressionen/projekt-heuweiler/ (Alt‑Vogtshof, Dorfstraße 22). ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/?utm_source=openai))  
-- Direktes Bild (Beispielbild aus dem Café, direkte Bild‑URL auf der Website): https://cafe-iz.de/wp-content/uploads/2022/11/IMG_1586-scaled.jpg. ([cafe-iz.de](https://cafe-iz.de/wp-content/uploads/2022/11/IMG_1586-scaled.jpg))
+#### Referenzen (Quellen / URLs)
+- Café iz — offizielle Website (Startseite / Informationen). https://cafe-iz.de. ([cafe-iz.de](https://cafe-iz.de/?utm_source=openai))  
+- Impressum (Adresse, Kontakt). https://cafe-iz.de/impressum/. ([cafe-iz.de](https://cafe-iz.de/impressum/?utm_source=openai))  
+- Badische Zeitung — Artikel zur Eröffnung / Vorstellung des Café iz (Fotos + Text). https://www.badische-zeitung.de/eine-ex-stewardess-betreibt-nun-das-caf-iz-in-heuweiler. ([badische-zeitung.de](https://www.badische-zeitung.de/eine-ex-stewardess-betreibt-nun-das-caf-iz-in-heuweiler?utm_source=openai))  
+- Projektseite Alt‑Vogtshof / Sanierung (Angabe Dorfstr. 22, Projektkontext). https://hopp-hofmann.de/impressionen/projekt-heuweiler/. ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/?utm_source=openai))  
+- Branchen-/Verzeichnis‑Einträge mit Kontaktdaten und Öffnungszeiten (z. B. Komoot / Telefonbuch). Beispiel: https://www.komoot.com/de-de/tour/320948415 und Einträge in regionalen Branchenbüchern. ([komoot.com](https://www.komoot.com/de-de/tour/615256633?utm_source=openai))
+
+(Anmerkung: exakte Geo‑Koordinaten für die Hausnummer Dorfstraße 22 konnten mit Mapbox‑Reverse‑Geocoding nicht eindeutig verifiziert werden; Mapbox lieferte nahegelegene Hausnummern wie Dorfstraße 19 mit Koordinaten lat 48.05158 / lon 7.90295 und einen routable point bei ca. 48.051552, 7.903039 — siehe notes.)

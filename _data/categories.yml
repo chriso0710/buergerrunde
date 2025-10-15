@@ -43,3 +43,7 @@ categories:
     color: "blue"
     icon: "fas fa-cog"
     btn_class: "btn-outline-primary"
+  - name: "Vereine"
+    color: "green"
+    icon: "fas fa-users"
+    btn_class: "btn-outline-success"
