@@ -8,7 +8,7 @@ class LocationGenerator
   DEFAULT_MODEL = "gpt-5-mini"
   
   # Faraday Timeout-Konstanten (in Sekunden)
-  REQUEST_TIMEOUT = 180  # Timeout für einzelne HTTP-Requests
+  REQUEST_TIMEOUT = 300  # Timeout für einzelne HTTP-Requests
   OPEN_TIMEOUT = 30     # Timeout für das Öffnen der Verbindung
 
   attr_reader :logger, :client
@@ -44,10 +44,26 @@ class LocationGenerator
         input: prompt,
         tools: [
             { type: "web_search" },
+            { "type": "mcp",
+              "server_label": "mapbox",
+              "server_url": "https://mcp.mapbox.com/mcp",  # dein MCP-Server
+              "headers": {
+                "Authorization": "Bearer #{ENV['MAPBOX_MCP_TOKEN']}"
+              },
+              "allowed_tools": [
+                "forward_geocode_tool",
+                "reverse_geocode_tool"
+              ],
+              # Setze Approval-Verhalten
+              "require_approval": "never"
+          }
         ]
       }
     )
 
+    # Debug: Vollständige Response-Struktur loggen
+    debug_response(response)
+    
     # Parse response basierend auf Model-Typ
     content = parse_response_content(response)
     
@@ -65,6 +81,7 @@ class LocationGenerator
   def create_location_prompt(place_name)
     <<~PROMPT
 **Aufgabe:**
+Du bist Rechercheur für eine interaktive Dorfkarte des Ortes Heuweiler.
 Erstelle einen Markdown-Eintrag für den Ort „#{place_name}" in Heuweiler, Baden-Württemberg, Deutschland.
 
 **Kontext:**
@@ -72,11 +89,12 @@ Heuweiler ist eine kleine Gemeinde im Breisgau-Hochschwarzwald zwischen Freiburg
 
 **Rechercheanforderungen:**
 
-* Suche im Internet nach dem Ort.
-* Ergänze ggf. relevante soziale Medien oder Verzeichniseinträge.
+* Suche im Internet nach dem Ort und der genauen Postadresse.
+* Bevorzuge Wikipedia bei deiner Suche.
 * Suche im Internet ein Bild des Ortes in geeigneter Auflösung (mind. 300x300 px). Wichtig ist, dass es ein Direktlink zu einem Bild ist. Falls du kein passendes findest, lasse das Feld leer.
 * Suche im Internet die offizielle Website des Ortes. Falls du keine findest, lasse das Feld leer.
-* Versuche bestmöglich, die genauen Geo Koordinaten des Ortes zu finden. Gib keine fiktiven Koordinaten an. Falls du keine genauen Koordinaten findest, lasse die Felder leer.
+* Suche im Internet die offizielle Postadresse des Ortes. Falls du keine findest, lasse das Feld leer.
+* Versuche, die genauen Geo Koordinaten für die Postadresse zu finden. Verwende dazu das mapbox_geocoding Tool. Gib keine fiktiven Koordinaten an. Falls du keine genauen Koordinaten findest, lasse die Felder leer.
 
 **Ausgabeformat:**
 Antworte ausschließlich in Markdown mit:
@@ -98,27 +116,30 @@ Antworte ausschließlich in Markdown mit:
      * Naturdenkmäler
      * Historische Gebäude
      * Infrastruktur
+     * Vereine
    * `description`: kurze Beschreibung in einem Satz
-   * `address`: vollständige Adresse, sonst „Heuweiler, Baden-Württemberg"
-   * `website`: Website-URL mit des Ortes, mit `https://`
+   * `address`: vollständige Postadresse, sonst „Heuweiler, Baden-Württemberg"
+   * `website`: offizielle Website-URL des Ortes
    * `image`: URL zu einem Bild des Ortes
+   * `image_copyright`: Copyright-Informationen zum Bild, falls bekannt, sonst leer lassen
    * `generated_by`: "#{DEFAULT_MODEL}"
    * `generated_at`: "#{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+   * `notes`: (optional) hier kannst du Kommentare oder Anmerkungen zur Generierung einfügen
 
 2. **Markdown-Inhalt** mit:
 
-   * 2–3 Absätze Beschreibung des Ortes
-   * Besonderheiten oder interessante Fakten
+   * Beschreibung des Ortes
    * Bedeutung/Verwendungszweck für Heuweiler
-   * ggf. Geschichte, Ausstattung, Veranstaltungen
-   * wichtige Kontaktinfos (Telefon, E-Mail)
-   * Öffnungszeiten, falls relevant
+   * Geschichte
+   * Besonderheiten oder interessante Fakten
+   * Wichtige Kontaktinfos (Telefon, E-Mail, Öffnungszeiten bei Gewerbebetrieben, Restaurants, etc.)
+   * Referenzen zu Quellen (URLs)
 
 **Regeln:**
 
 * Verwende **genau eine** Kategorie.
 * Verwende Markdown für Überschriften ab Ebene 4 (#### Überschrift).
-* Prüfe ob die URL der Website und des Bildes wirklich existiert. Wenn nicht, dann suche weiter.
+* Prüfe ob die URL des Bildes wirklich existiert und ob sie ein **Direktlink** auf das Bild ist. Wenn nicht, dann suche weiter nach einem passenden Bild.
 * Antwort nur als Markdown-Dokument, ohne zusätzliche Erklärungen oder Kommentare. 
 * Gib keine Erklärungen oder Kommentare im Markdown ab. Wenn du Kommentare hast, schreibe sie in den Frontmatter-Header als `notes`.
     PROMPT
@@ -268,6 +289,95 @@ Antworte ausschließlich in Markdown mit:
     
     if usage.dig("input_tokens_details", "cached_tokens")
       logger.info("   Cached tokens: #{usage['input_tokens_details']['cached_tokens']}")
+    end
+  end
+
+  def debug_response(response)
+    logger.info("🔍 === DEBUG: Response Analysis ===")
+    
+    # 1. Response-Struktur analysieren
+    logger.info("📋 Response keys: #{response.keys}")
+    
+    # 2. Tool-Calls in verschiedenen Strukturen suchen
+    analyze_tool_calls(response)
+    
+    # 3. Output-Struktur für Reasoning Models
+    if response.dig("output")
+      logger.info("🧠 Reasoning model output structure detected")
+      response["output"].each_with_index do |output, index|
+        logger.info("   Output #{index}: type=#{output['type']}")
+        
+        # Tool-Calls in output analysieren
+        if output["type"] == "tool_call"
+          log_tool_call(output)
+        elsif output["type"] == "tool_result"
+          log_tool_result(output)
+        end
+      end
+    end
+    
+    # 4. Standard Chat Completion Struktur
+    if response.dig("choices")
+      logger.info("💬 Standard chat completion structure detected")
+      response["choices"].each_with_index do |choice, index|
+        logger.info("   Choice #{index}: finish_reason=#{choice['finish_reason']}")
+        
+        # Tool-Calls in message analysieren
+        if choice.dig("message", "tool_calls")
+          choice["message"]["tool_calls"].each { |tc| log_tool_call(tc) }
+        end
+      end
+    end
+    
+    logger.info("🔍 === End Debug Analysis ===")
+  end
+
+  def analyze_tool_calls(response)
+    tool_calls_found = 0
+    
+    # Verschiedene mögliche Pfade für Tool-Calls durchsuchen
+    [
+      response.dig("choices", 0, "message", "tool_calls"),
+      response.dig("output")&.select { |o| o["type"] == "tool_call" },
+      response.dig("tool_calls")
+    ].compact.flatten.each do |tool_call|
+      next unless tool_call
+      
+      tool_calls_found += 1
+      log_tool_call(tool_call)
+    end
+    
+    if tool_calls_found > 0
+      logger.info("🛠️ Total tool calls found: #{tool_calls_found}")
+    else
+      logger.info("❌ No tool calls found in response")
+    end
+  end
+
+  def log_tool_call(tool_call)
+    logger.info("🔧 Tool Call:")
+    logger.info("   ID: #{tool_call['id']}")
+    logger.info("   Type: #{tool_call['type']}")
+    
+    if tool_call['function']
+      logger.info("   Function: #{tool_call['function']['name']}")
+      logger.info("   Arguments: #{tool_call['function']['arguments']}")
+    elsif tool_call['name']
+      logger.info("   Name: #{tool_call['name']}")
+      logger.info("   Arguments: #{tool_call['arguments']}")
+    end
+  end
+
+  def log_tool_result(tool_result)
+    logger.info("📤 Tool Result:")
+    logger.info("   Tool call ID: #{tool_result['tool_call_id']}")
+    logger.info("   Content length: #{tool_result['content']&.length || 0} characters")
+    
+    # Erste 200 Zeichen des Results anzeigen
+    if tool_result['content']
+      preview = tool_result['content'][0..200]
+      preview += "..." if tool_result['content'].length > 200
+      logger.info("   Content preview: #{preview}")
     end
   end
 end
