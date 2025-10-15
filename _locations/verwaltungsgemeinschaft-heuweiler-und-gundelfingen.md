@@ -1,18 +1,20 @@
 ---
-title: "Verwaltungsgemeinschaft Heuweiler und Gundelfingen"
-latitude: 48.051713
-longitude: 7.903225
+title: Verwaltungsgemeinschaft Heuweiler und Gundelfingen
+latitude: 48.051706
+longitude: 7.903312
 category: Öffentliche Gebäude
-description: "Verwaltungsstelle/Gemeindehaus von Heuweiler im Rahmen der Verwaltungsgemeinschaft mit Gundelfingen."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein / CC BY-SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:22:29 +0000"
-notes: "Postadresse und Rathaus-Angaben aus der Gemeindehomepage; Koordinaten für Dorfstraße 21 (48.051713, 7.903225) mit Mapbox Reverse-Geocoding verifiziert; Bild (Kirche St. Remigius) von Wikimedia Commons verwendet."
+description: Verwaltungsstelle/Gemeindehaus von Heuweiler im Rahmen der Verwaltungsgemeinschaft
+  mit Gundelfingen.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein / CC BY-SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:22:29 +0000'
+notes: Postadresse und Rathaus-Angaben aus der Gemeindehomepage; Koordinaten für Dorfstraße
+  21 (48.051713, 7.903225) mit Mapbox Reverse-Geocoding verifiziert; Bild (Kirche
+  St. Remigius) von Wikimedia Commons verwendet.
 ---
-
 #### Beschreibung
 Die Verwaltungsgemeinschaft Heuweiler und Gundelfingen ist die administrative Partnerschaft, durch die die kleine Gemeinde Heuweiler ihre kommunalen Aufgaben in Kooperation mit der Nachbargemeinde Gundelfingen organisiert; in Heuweiler befindet sich die örtliche Verwaltungsstelle (Gemeindehaus/Rathaus) in der Dorfstraße 21. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 

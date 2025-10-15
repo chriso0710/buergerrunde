@@ -1,18 +1,21 @@
 ---
-title: "Gemeinderat Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
-category: "Öffentliche Gebäude"
-description: "Sitz und Arbeitsort des gewählten Gemeinderats der Gemeinde Heuweiler (Rathausbüro im Gemeindehaus)."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: "https://www.heuweiler.de/fileadmin/_processed_/4/6/csm_Das_neue_Gemeindehaus_c296224baf.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:04:04 +0000"
-notes: "Koordinaten wurden mit Mapbox-Reverse-Geocoding geprüft: Mapbox lieferte als nächstliegende Adresse 'Dorfstraße 19' (48.05158, 7.90295). Die offizielle Postadresse der Gemeindeverwaltung (Dorfstraße 21) stammt von der Gemeindehomepage; die angegebenen Koordinaten sind daher als annähernd/prüfbar zu verstehen."
+title: Gemeinderat Heuweiler
+latitude: 48.051706
+longitude: 7.903312
+category: Öffentliche Gebäude
+description: Sitz und Arbeitsort des gewählten Gemeinderats der Gemeinde Heuweiler
+  (Rathausbüro im Gemeindehaus).
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: https://www.heuweiler.de/fileadmin/_processed_/4/6/csm_Das_neue_Gemeindehaus_c296224baf.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:04:04 +0000'
+notes: 'Koordinaten wurden mit Mapbox-Reverse-Geocoding geprüft: Mapbox lieferte als
+  nächstliegende Adresse ''Dorfstraße 19'' (48.05158, 7.90295). Die offizielle Postadresse
+  der Gemeindeverwaltung (Dorfstraße 21) stammt von der Gemeindehomepage; die angegebenen
+  Koordinaten sind daher als annähernd/prüfbar zu verstehen.'
 ---
-
 #### Beschreibung des Ortes
 Der Gemeinderat Heuweiler tagt bzw. seine Verwaltungssitzung findet im Gemeindehaus in der Dorfstraße 21 statt; das Gemeindehaus dient als Anlaufstelle für Bürgerinnen und Bürger und als Verwaltungssitz der kleinen Gemeinde Heuweiler. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten))
 

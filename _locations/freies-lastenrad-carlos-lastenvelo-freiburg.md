@@ -1,18 +1,23 @@
 ---
-title: "Freies Lastenrad Carlos (LastenVelo Freiburg)"
-latitude: 48.05158
-longitude: 7.90295
+title: Freies Lastenrad Carlos (LastenVelo Freiburg)
+latitude: 48.051706
+longitude: 7.903312
 category: Infrastruktur
-description: "Kostenlos ausleihbares E-Lastenrad 'Carlos' (LastenVelo Freiburg) in Heuweiler, betrieben von der Bürgerrunde Heuweiler in Kooperation mit LastenVelo Freiburg."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/"
-image: "https://buergerrunde.heuweiler.net/assets/images/klimamobil/supernova5.jpg"
-image_copyright: "Bürgerrunde Heuweiler e.V."
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:26:53 +0000"
-notes: "Koordinaten (latitude/longitude) stammen aus einer Mapbox Reverse-Geocode-Abfrage; Mapbox lieferte als nächstliegende Adresse Dorfstraße 19 (Koordinaten 48.05158, 7.90295) — Standort des Lastenrads wird in der LastenVelo-Registrierung als 'Rathaus/Heuweiler' (Dorfstraße 21) geführt. Informationen zum Rad stammen von LastenVelo Freiburg und der Bürgerrunde Heuweiler; Bildquelle: Bürgerrunde Heuweiler (Website)."
+description: Kostenlos ausleihbares E-Lastenrad 'Carlos' (LastenVelo Freiburg) in
+  Heuweiler, betrieben von der Bürgerrunde Heuweiler in Kooperation mit LastenVelo
+  Freiburg.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/
+image: https://buergerrunde.heuweiler.net/assets/images/klimamobil/supernova5.jpg
+image_copyright: Bürgerrunde Heuweiler e.V.
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:26:53 +0000'
+notes: 'Koordinaten (latitude/longitude) stammen aus einer Mapbox Reverse-Geocode-Abfrage;
+  Mapbox lieferte als nächstliegende Adresse Dorfstraße 19 (Koordinaten 48.05158,
+  7.90295) — Standort des Lastenrads wird in der LastenVelo-Registrierung als ''Rathaus/Heuweiler''
+  (Dorfstraße 21) geführt. Informationen zum Rad stammen von LastenVelo Freiburg und
+  der Bürgerrunde Heuweiler; Bildquelle: Bürgerrunde Heuweiler (Website).'
 ---
-
 #### Beschreibung
 Carlos ist ein zweirädriges, elektrisch unterstütztes Lastenrad (Urban Arrow) der LastenVelo‑Flotte, das in Heuweiler kostenfrei von Einwohner:innen ausgeliehen werden kann und von der Bürgerrunde Heuweiler in Kooperation mit LastenVelo Freiburg betreut wird. ([lastenvelofreiburg.de](https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/?utm_source=openai))
 

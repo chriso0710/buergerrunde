@@ -1,22 +1,22 @@
 ---
-title: "Dorfbild-Arbeitskreis Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
+title: Dorfbild-Arbeitskreis Heuweiler
+latitude: 48.051706
+longitude: 7.903312
 category: Infrastruktur
-description: "Lokaler Arbeitskreis zur Pflege, Gestaltung und Erhaltung des Dorfbildes von Heuweiler."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de/"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Creative Commons BY-SA 3.0 — Foto: Rauenstein / Wikimedia Commons"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 16:54:49 +0000"
-notes: |
+description: Lokaler Arbeitskreis zur Pflege, Gestaltung und Erhaltung des Dorfbildes
+  von Heuweiler.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de/
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: 'Creative Commons BY-SA 3.0 — Foto: Rauenstein / Wikimedia Commons'
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 16:54:49 +0000'
+notes: |-
   - Keine eigenständige, leicht auffindbare offizielle Webseite oder separate Online-Präsenz für einen "Dorfbild‑Arbeitskreis Heuweiler" gefunden (Stand der Recherche: Webquellen, siehe Referenzen).
   - Offizielle Gemeindeadresse und Kontaktdaten stammen von der Gemeindeverwaltung Heuweiler (Dorfstraße 21). Statistische Quellen und Verzeichnisse bestätigen Adresse. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))
   - Zur Verifikation der Postadresse wurde ein Mapbox-Reverse-Geocoding-Aufruf durchgeführt; Mapbox liefert als nächstliegende Hausnummer Dorfstraße 19 (Koordinaten 48.05158, 7.90295). Die offizielle Gemeindeadresse lautet in amtlichen Verzeichnissen Dorfstraße 21. Bei Verwendung von GPS-Koordinaten bitte diese geringe Ungenauigkeit beachten.
   - Bild: Foto der Kirche St. Remigius in Heuweiler (Wikimedia Commons), direktes Bild-URL geprüft (≥300×300 px). ([commons.wikimedia.org](https://commons.wikimedia.org/wiki/File%3AHeuweiler%2C_Kirche_St._Remigius.jpg))
 ---
-
 #### Beschreibung
 Der "Dorfbild-Arbeitskreis Heuweiler" bezeichnet in diesem Eintrag den lokalen, ehrenamtlichen Kreis von Einwohner:innen und Initiativen, die sich mit der Erhaltung, Pflege und optischen Gestaltung öffentlicher Flächen, Häuserfassaden und Dorfplätze in Heuweiler befassen (keine separate Website gefunden). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 

@@ -1,18 +1,21 @@
 ---
-title: "Bürgernetz der Bürgerrunde"
-latitude: 48.054633
-longitude: 7.909000
+title: Bürgernetz der Bürgerrunde
+latitude: 48.054432
+longitude: 7.909479
 category: Infrastruktur
-description: "Lokales Bürgernetz und Initiative der Bürgerrunde Heuweiler zur Vernetzung, Klimaschutz, Mobilität und Dorfgemeinschaft."
-address: "Am Flissert 6, 79194 Heuweiler"
-website: "https://buergerrunde.heuweiler.net/"
-image: "https://www.heuweiler.de/fileadmin/Dateien/Teaserbilder/Aktuelles/2023_-_1._Quartal/b%C3%BCrgerrunde_Heuweiler.JPG"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 16:49:37 +0000"
-notes: "Adresse laut Vereinsliste der Gemeinde: Am Flissert 6, 79194 Heuweiler (Vereinsliste). GPS-Koordinaten wurden mit Mapbox/OpenStreetMap geprüft und entsprechen dem Am-Flissert‑/Wohngebiet in Heuweiler (Mapbox-Reverse-Geocoding und OSM‑Marker). Telefonnummer aus Vereinsliste; offizielle Vereinswebsite: buergerrunde.heuweiler.net. Quellen in Referenzen."
+description: Lokales Bürgernetz und Initiative der Bürgerrunde Heuweiler zur Vernetzung,
+  Klimaschutz, Mobilität und Dorfgemeinschaft.
+address: Am Flissert 6, 79194 Heuweiler
+website: https://buergerrunde.heuweiler.net/
+image: https://www.heuweiler.de/fileadmin/Dateien/Teaserbilder/Aktuelles/2023_-_1._Quartal/b%C3%BCrgerrunde_Heuweiler.JPG
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 16:49:37 +0000'
+notes: 'Adresse laut Vereinsliste der Gemeinde: Am Flissert 6, 79194 Heuweiler (Vereinsliste).
+  GPS-Koordinaten wurden mit Mapbox/OpenStreetMap geprüft und entsprechen dem Am-Flissert‑/Wohngebiet
+  in Heuweiler (Mapbox-Reverse-Geocoding und OSM‑Marker). Telefonnummer aus Vereinsliste;
+  offizielle Vereinswebsite: buergerrunde.heuweiler.net. Quellen in Referenzen.'
 ---
-
 #### Beschreibung des Ortes
 Das Bürgernetz der Bürgerrunde ist eine lokale Initiative in Heuweiler, die Bürger:innen vernetzt und Projekte zu Klimaschutz, Mobilität, Naturschutz, Kultur und Dorfgemeinschaft organisiert. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/buergerrunde-heuweiler/forum-und-initiative-in-und-fuer-heuweiler))
 

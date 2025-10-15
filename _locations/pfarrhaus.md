@@ -1,18 +1,23 @@
 ---
-title: "Pfarrhaus St. Remigius, Heuweiler"
-latitude: 48.051942
-longitude: 7.904279
+title: Pfarrhaus St. Remigius, Heuweiler
+latitude: 48.051985
+longitude: 7.904412
 category: Historische Gebäude
-description: "Historisches Pfarrhaus der Pfarrei St. Remigius in Heuweiler (um 1790 erbaut), gelegen am Kirchberg neben der Pfarrkirche."
-address: "Kirchberg 6, 79194 Heuweiler"
-website: "https://an-der-glotter.de/kirche-vor-ort/heuweiler/gottesdienste-kirche-st-remigius/die-pfarrkirche/"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 09:06:59 +0000"
-notes: "Adresse und Koordinaten wurden anhand öffentlicher Quellen recherchiert (LEO-BW, Wikimedia Commons) und per Mapbox-Reverse-Geocoding bestätigt; einige Quellen listen die Kirche an 'Kirchberg 4' — die denkmalpflegerische Quelle nennt 'Kirchberg 6'. Kein eindeutiger, frei lizenzierter Direktlink zu einem Foto des Pfarrhauses gefunden; deshalb ist das Bildfeld leer. Quellen: Gemeinde Heuweiler, Seelsorgeeinheit An der Glotter, LEO-BW, Wikimedia Commons, Badische Zeitung."
+description: Historisches Pfarrhaus der Pfarrei St. Remigius in Heuweiler (um 1790
+  erbaut), gelegen am Kirchberg neben der Pfarrkirche.
+address: Kirchberg 6, 79194 Heuweiler
+website: https://an-der-glotter.de/kirche-vor-ort/heuweiler/gottesdienste-kirche-st-remigius/die-pfarrkirche/
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 09:06:59 +0000'
+notes: 'Adresse und Koordinaten wurden anhand öffentlicher Quellen recherchiert (LEO-BW,
+  Wikimedia Commons) und per Mapbox-Reverse-Geocoding bestätigt; einige Quellen listen
+  die Kirche an ''Kirchberg 4'' — die denkmalpflegerische Quelle nennt ''Kirchberg
+  6''. Kein eindeutiger, frei lizenzierter Direktlink zu einem Foto des Pfarrhauses
+  gefunden; deshalb ist das Bildfeld leer. Quellen: Gemeinde Heuweiler, Seelsorgeeinheit
+  An der Glotter, LEO-BW, Wikimedia Commons, Badische Zeitung.'
 ---
-
 #### Beschreibung
 Das Pfarrhaus St. Remigius in Heuweiler ist ein historisches Pfarrhaus nahe der Pfarrkirche St. Remigius, das ursprünglich um 1790 errichtet wurde und zum Ortsbild am Kirchberg gehört. ([an-der-glotter.de](https://an-der-glotter.de/kirche-vor-ort/heuweiler/gottesdienste-kirche-st-remigius/die-pfarrkirche/?utm_source=openai))
 

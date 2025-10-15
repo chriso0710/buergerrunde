@@ -1,21 +1,21 @@
 ---
-title: "Bürgerbus (in Planung)"
-latitude: 48.05167
-longitude: 7.90306
+title: Bürgerbus (in Planung)
+latitude: 48.054696
+longitude: 7.905291
 category: Infrastruktur
-description: "Geplantes Bürgerbus‑Projekt „Stadt‑Land‑Bus“ zur Verbesserung der Nahmobilität zwischen Gundelfingen, Heuweiler und Wildtal."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus"
-image: "https://www.gundelfingen.de/fileadmin/_processed_/b/4/csm_Plakat_B%C3%BCrgerbus_c1c1beafa8.jpg"
+description: Geplantes Bürgerbus‑Projekt „Stadt‑Land‑Bus“ zur Verbesserung der Nahmobilität
+  zwischen Gundelfingen, Heuweiler und Wildtal.
+address: Heuweiler, Baden-Württemberg
+website: https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus
+image: https://www.gundelfingen.de/fileadmin/_processed_/b/4/csm_Plakat_B%C3%BCrgerbus_c1c1beafa8.jpg
 image_copyright: "© Gemeinde Gundelfingen"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:23:27 +0000"
-notes: |
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:23:27 +0000'
+notes: |-
   - Recherchequellen: Wikipedia‑Eintrag Heuweiler (Koordinaten), Gemeindeseiten Gundelfingen (Projektseite und Kontakt), Gemeindeseiten Heuweiler (Rathausadresse). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
   - Es wurde kein eigenständiger, offizieller Websiteauftritt nur für den Bürgerbus gefunden; die Projektinformationen liegen auf der Gemeinde Gundelfingen / Vereinsunterlagen (Mitgliedsantrag). ([gundelfingen.de](https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus))
   - Für die Lagekoordinaten wurden die in Wikipedia angegebenen Gemeindekoordinaten (48.05167, 7.90306) als realistische Position für den Eintrag verwendet; ein Mapbox‑Reverse‑Geocode‑Check lieferte nahegelegene Adressen (z. B. Dorfstraße 19). Genauere Hauskoordinaten für ein noch nicht existierendes Projektzentrum liegen nicht vor. (Mapbox Reverse‑Geocode Ergebnis protokolliert). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 ---
-
 #### Beschreibung
 Der Eintrag beschreibt das in Planung befindliche Bürgerbus‑Projekt „Stadt‑Land‑Bus“, das Gundelfingen, Heuweiler und Wildtal besser vernetzen und die Nahmobilität vor Ort stärken soll. ([gundelfingen.de](https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus))
 

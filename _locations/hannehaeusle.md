@@ -1,18 +1,23 @@
 ---
-title: "Hannehäusle (Heuweiler)"
-latitude: 48.051942
-longitude: 7.904279
+title: Hannehäusle (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Historische Gebäude
-description: "Kleines historisches Häuschen direkt unterhalb der Kirche St. Remigius in Heuweiler, das seit Jahrzehnten leersteht."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:21:44 +0000"
-notes: "Keine eigene offizielle Postadresse für das Hannehäusle im Internet gefunden; die angegebenen Koordinaten stammen von einer Mapbox-Reverse-Geocoding-Abfrage nahe der Kirche St. Remigius (Kirchberg 6). Es konnte kein verlässlicher Direktlink zu einem frei nutzbaren Bild des Hannehäusle gefunden werden (Badische Zeitung zeigt Fotos, ist aber nicht direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website, Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW (Kirchenadresse)."
+description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remigius
+  in Heuweiler, das seit Jahrzehnten leersteht.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:21:44 +0000'
+notes: 'Keine eigene offizielle Postadresse für das Hannehäusle im Internet gefunden;
+  die angegebenen Koordinaten stammen von einer Mapbox-Reverse-Geocoding-Abfrage nahe
+  der Kirche St. Remigius (Kirchberg 6). Es konnte kein verlässlicher Direktlink zu
+  einem frei nutzbaren Bild des Hannehäusle gefunden werden (Badische Zeitung zeigt
+  Fotos, ist aber nicht direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website,
+  Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW (Kirchenadresse).'
 ---
-
 #### Beschreibung des Ortes
 Das Hannehäusle ist ein kleines, schmuckes Häuschen in Ortsmitte von Heuweiler, unmittelbar unterhalb der Pfarrkirche St. Remigius; äußerlich farblich hervorgehoben, steht es jedoch seit Jahrzehnten leer und gilt lokal als sogenannter „Lost Place“. ([badische-zeitung.de](https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus?utm_source=openai))
 

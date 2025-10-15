@@ -1,18 +1,26 @@
 ---
-title: "Birklehof (Hinterheuweiler, Heuweiler)"
-latitude: ""
-longitude: ""
-category: "Bauernhöfe"
-description: "Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heuweiler; Adresse: Hinterheuweiler 11."
-address: "Hinterheuweiler 11, 79194 Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:49:07 +0000"
-notes: "Recherche-Ergebnisse: Die Adresse Birklehof (Hinterheuweiler 11) wurde in regionalen Verzeichnissen bestätigt; eine eigene offizielle Website für den Hof wurde nicht gefunden. Versuch, exakte Koordinaten für Hinterheuweiler 11 per Mapbox (reverse geocoding) zu ermitteln, ergab keine direkte Treffer für Hausnummer 11; Mapbox lieferte nahegelegene Adressen: Hinterheuweiler 10a → 48.045119, 7.901244 und Hinterheuweiler 12 → 48.045405, 7.902011. Außerdem listet die lokale Bürgerrunde einen Mitfahrpunkt „in der Kurve beim Birklehof“ mit Koordinaten 48.045218, 7.901805. Für präzise GPS-Koordinaten des Gebäudes Hinterheuweiler 11 empfehle ich eine Bestätigung vor Ort oder über ein genaues Kartenwerk (OpenStreetMap/Google Maps) durch den Auftraggeber."
+title: Birklehof (Hinterheuweiler, Heuweiler)
+latitude: 48.045366
+longitude: 7.903349
+category: Bauernhöfe
+description: 'Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heuweiler;
+  Adresse: Hinterheuweiler 11.'
+address: Hinterheuweiler 11, 79194 Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:49:07 +0000'
+notes: 'Recherche-Ergebnisse: Die Adresse Birklehof (Hinterheuweiler 11) wurde in
+  regionalen Verzeichnissen bestätigt; eine eigene offizielle Website für den Hof
+  wurde nicht gefunden. Versuch, exakte Koordinaten für Hinterheuweiler 11 per Mapbox
+  (reverse geocoding) zu ermitteln, ergab keine direkte Treffer für Hausnummer 11;
+  Mapbox lieferte nahegelegene Adressen: Hinterheuweiler 10a → 48.045119, 7.901244
+  und Hinterheuweiler 12 → 48.045405, 7.902011. Außerdem listet die lokale Bürgerrunde
+  einen Mitfahrpunkt „in der Kurve beim Birklehof“ mit Koordinaten 48.045218, 7.901805.
+  Für präzise GPS-Koordinaten des Gebäudes Hinterheuweiler 11 empfehle ich eine Bestätigung
+  vor Ort oder über ein genaues Kartenwerk (OpenStreetMap/Google Maps) durch den Auftraggeber.'
 ---
-
 #### Beschreibung
 Der Birklehof in Hinterheuweiler ist ein traditioneller landwirtschaftlicher Hof im kleinen Ortsteil Hinterheuweiler der Gemeinde Heuweiler (Postleitzahl 79194). ([bz-ticket.de](https://bz-ticket.de/birklehof-hinterheuweiler-heuweiler?utm_source=openai))
 

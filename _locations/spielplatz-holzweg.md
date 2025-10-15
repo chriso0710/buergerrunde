@@ -1,18 +1,23 @@
 ---
-title: "Spielplatz Holzweg, Heuweiler"
-latitude: ""
-longitude: ""
-category: "Infrastruktur"
-description: "Kleiner öffentlicher Kinderspielplatz im Wohngebiet »Am Flissert« (Holzweg 8) in Heuweiler."
-address: "Holzweg 8, 79194 Heuweiler, Deutschland"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 12:23:56 +0000"
-notes: "Adresse Spielplatz: Holzweg 8, 79194 Heuweiler (verschiedene lokale Verzeichnisse / Spielplatzlisten). Offizielle Gemeindeadresse / Rathaus: Dorfstraße 21, 79194 Heuweiler (Koordinaten für Rathaus per Mapbox reverse geocoding: 48.051713, 7.903225). Kein eindeutiger, frei verfügbarer Direktlink zu einem Foto des Spielplatzes gefunden; Feld 'image' deshalb leer gelassen. Quellen: Wikipedia, Gemeinde-Website, Spielplatz-Verzeichnisse, Mapcarta, Badische Zeitung (lokale Einträge)."
+title: Spielplatz Holzweg, Heuweiler
+latitude: 48.054453
+longitude: 7.908547
+category: Infrastruktur
+description: Kleiner öffentlicher Kinderspielplatz im Wohngebiet »Am Flissert« (Holzweg
+  8) in Heuweiler.
+address: Holzweg 8, 79194 Heuweiler, Deutschland
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 12:23:56 +0000'
+notes: 'Adresse Spielplatz: Holzweg 8, 79194 Heuweiler (verschiedene lokale Verzeichnisse
+  / Spielplatzlisten). Offizielle Gemeindeadresse / Rathaus: Dorfstraße 21, 79194
+  Heuweiler (Koordinaten für Rathaus per Mapbox reverse geocoding: 48.051713, 7.903225).
+  Kein eindeutiger, frei verfügbarer Direktlink zu einem Foto des Spielplatzes gefunden;
+  Feld ''image'' deshalb leer gelassen. Quellen: Wikipedia, Gemeinde-Website, Spielplatz-Verzeichnisse,
+  Mapcarta, Badische Zeitung (lokale Einträge).'
 ---
-
 #### Beschreibung des Ortes
 Der Spielplatz Holzweg ist ein kleiner öffentlicher Kinderspielplatz im Wohngebiet „Am Flissert“ in Heuweiler (Holzweg 8) und bietet Spielgeräte für Kleinkinder und Familien im Ortsbereich. ([spielplatznet.de](https://spielplatznet.de/spielplatz/30334/Heuweiler/Holzweg))
 

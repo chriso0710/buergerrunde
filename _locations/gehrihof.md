@@ -1,18 +1,23 @@
 ---
-title: "Gehrihof (Weingut Gehrihof)"
-latitude: ""
-longitude: ""
-category: "Bauernhöfe"
-description: "Familiengeführter Hof mit Weingut, Hofladen und Weinstube in Hinterheuweiler."
-address: "Hinterheuweiler 6, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "http://www.gehrihof.com"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg"
-image_copyright: "Andreas Schwarzkopf / CC BY-SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:22:13 +0000"
-notes: "Bei der Generierung wurden lokale Quellen (Weinbauverband, Gemeinde-Webseite, lokale Verzeichnisse) und ein Wikimedia- Commons-Foto verwendet. Ich habe versucht, mit dem mapbox reverse-geocoding Tool genaue Koordinaten zur Postadresse zu ermitteln; der Aufruf lieferte keine Treffer, daher wurden latitude/longitude leer gelassen. Adress- und Kontaktangaben stammen aus den zitierten Quellen; das Hof-eigene Webangebot (gehrihof.com) wird in Verzeichnissen genannt, konnte aber nicht von allen Tools direkt geladen werden."
+title: Gehrihof (Weingut Gehrihof)
+latitude: 48.045062
+longitude: 7.899723
+category: Bauernhöfe
+description: Familiengeführter Hof mit Weingut, Hofladen und Weinstube in Hinterheuweiler.
+address: Hinterheuweiler 6, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: http://www.gehrihof.com
+image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg
+image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:22:13 +0000'
+notes: Bei der Generierung wurden lokale Quellen (Weinbauverband, Gemeinde-Webseite,
+  lokale Verzeichnisse) und ein Wikimedia- Commons-Foto verwendet. Ich habe versucht,
+  mit dem mapbox reverse-geocoding Tool genaue Koordinaten zur Postadresse zu ermitteln;
+  der Aufruf lieferte keine Treffer, daher wurden latitude/longitude leer gelassen.
+  Adress- und Kontaktangaben stammen aus den zitierten Quellen; das Hof-eigene Webangebot
+  (gehrihof.com) wird in Verzeichnissen genannt, konnte aber nicht von allen Tools
+  direkt geladen werden.
 ---
-
 #### Beschreibung des Ortes
 Der Gehrihof ist ein familiengeführtes Weingut mit Hofladen und (früher) Weinstube im Ortsteil Hinterheuweiler der Gemeinde Heuweiler; im Hofladen werden eigene Weine, hausgemachte Produkte und frisch gebackenes Holzofenbrot angeboten. ([badischer-weinbauverband.de](https://www.badischer-weinbauverband.de/interaktive-karte/?utm_source=openai))
 

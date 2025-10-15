@@ -1,18 +1,22 @@
 ---
-title: "Institut 3P Helmut Aatz"
-latitude: 
-longitude: 
+title: Institut 3P Helmut Aatz
+latitude: 48.05214
+longitude: 7.903857
 category: Handwerk & Gewerbe
-description: "Beratungs- und Ausbildungsinstitut für Achtsamkeit, Resilienz und betriebliches Gesundheitsmanagement unter der Leitung von Helmut Aatz."
-address: "Kirchberg 12, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "https://www.institut3p.de/"
-image: "https://www.institut3p.de/wp-content/uploads/2018/02/Seehstern_3419.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:06:03 +0000"
-notes: "Postadresse und Kontaktdaten stammen aus dem Impressum der Instituts-Website; genaue Geokoordinaten für die Adresse Kirchberg 12 konnten mit dem eingesetzten Mapbox-Tool nicht eindeutig zurückgegeben werden, daher wurden latitude/longitude leer gelassen. Bild-Link wurde direkt von der Institutsseite übernommen; Bildrechte sind auf der 'Bildrechte'-Seite der Website teilweise aufgeführt."
+description: Beratungs- und Ausbildungsinstitut für Achtsamkeit, Resilienz und betriebliches
+  Gesundheitsmanagement unter der Leitung von Helmut Aatz.
+address: Kirchberg 12, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: https://www.institut3p.de/
+image: https://www.institut3p.de/wp-content/uploads/2018/02/Seehstern_3419.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:06:03 +0000'
+notes: Postadresse und Kontaktdaten stammen aus dem Impressum der Instituts-Website;
+  genaue Geokoordinaten für die Adresse Kirchberg 12 konnten mit dem eingesetzten
+  Mapbox-Tool nicht eindeutig zurückgegeben werden, daher wurden latitude/longitude
+  leer gelassen. Bild-Link wurde direkt von der Institutsseite übernommen; Bildrechte
+  sind auf der 'Bildrechte'-Seite der Website teilweise aufgeführt.
 ---
-
 #### Beschreibung
 Das Institut 3P – Psyche, Profil, Performance ist ein privates Beratungs‑ und Weiterbildungszentrum in Heuweiler, geleitet von Helmut Aatz, das Achtsamkeit, Resilienz, Stressmanagement und betriebliches Gesundheitsmanagement anbietet. ([institut3p.de](https://www.institut3p.de/team/))
 

@@ -1,18 +1,25 @@
 ---
-title: "Klimaschutzausschuss des Gemeinderates Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
+title: Klimaschutzausschuss des Gemeinderates Heuweiler
+latitude: 48.051706
+longitude: 7.903312
 category: Vereine
-description: "Beratender Ausschuss des Gemeinderats Heuweiler, zuständig für Empfehlungen und Maßnahmen zum Klimaschutz."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal_4.jpg"
-image_copyright: "Foto: Andreas Schwarzkopf, Creative Commons BY‑SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:20:21 +0000"
-notes: "Offizielle Adresse der Gemeindeverwaltung laut Impressum: Dorfstraße 21 (79194 Heuweiler). Bei der Reverse-Geokodierung über Mapbox wurde in der Umgebung der Adresse die Hausnummer Dorfstraße 19 mit Koordinaten 48.05158, 7.90295 (rooftop) zurückgegeben; daher sind die im Frontmatter angegebenen Koordinaten die nächstgenauen, vom Mapbox-Tool gefundene Werte. Quellen: Gemeinde-Website (Impressum, Ausschuss-Seite), Wikipedia, Wikimedia Commons. Mapbox-Reverse-Geocoding wurde verwendet (Ergebnis: Dorfstraße 19, 48.05158 / 7.90295)."
+description: Beratender Ausschuss des Gemeinderats Heuweiler, zuständig für Empfehlungen
+  und Maßnahmen zum Klimaschutz.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal_4.jpg
+image_copyright: 'Foto: Andreas Schwarzkopf, Creative Commons BY‑SA 3.0 (Wikimedia
+  Commons)'
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:20:21 +0000'
+notes: 'Offizielle Adresse der Gemeindeverwaltung laut Impressum: Dorfstraße 21 (79194
+  Heuweiler). Bei der Reverse-Geokodierung über Mapbox wurde in der Umgebung der Adresse
+  die Hausnummer Dorfstraße 19 mit Koordinaten 48.05158, 7.90295 (rooftop) zurückgegeben;
+  daher sind die im Frontmatter angegebenen Koordinaten die nächstgenauen, vom Mapbox-Tool
+  gefundene Werte. Quellen: Gemeinde-Website (Impressum, Ausschuss-Seite), Wikipedia,
+  Wikimedia Commons. Mapbox-Reverse-Geocoding wurde verwendet (Ergebnis: Dorfstraße
+  19, 48.05158 / 7.90295).'
 ---
-
 #### Beschreibung
 Der Klimaschutzausschuss des Gemeinderates Heuweiler ist ein beratender Ausschuss, der Empfehlungen zu allen Fragen des kommunalen Klimaschutzes erarbeitet und dem Gemeinderat zur Entscheidung vorlegt. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/gemeinderat/ausschuesse?utm_source=openai))
 

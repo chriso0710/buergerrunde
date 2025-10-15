@@ -1,18 +1,20 @@
 ---
-title: "Gemeindeverwaltung Heuweiler"
-latitude: 48.051713
-longitude: 7.903225
+title: Gemeindeverwaltung Heuweiler
+latitude: 48.051706
+longitude: 7.903312
 category: Öffentliche Gebäude
-description: Das Gemeindehaus in Heuweiler ist Sitz der Gemeindeverwaltung und Anlaufstelle für Bürgerservices.
+description: Das Gemeindehaus in Heuweiler ist Sitz der Gemeindeverwaltung und Anlaufstelle
+  für Bürgerservices.
 address: Dorfstraße 21, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de
 image: https://www.heuweiler.de/fileadmin/_processed_/4/6/csm_Das_neue_Gemeindehaus_c476eb2343.jpg
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 12:14:57 +0000"
-notes: "Koordinaten (48.051713, 7.903225) per Mapbox Reverse-Geocoding ermittelt; Bild stammt von der offiziellen Website der Gemeinde Heuweiler (fileadmin). Kontakt- und Öffnungszeiten laut offizieller Gemeindeseite."
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 12:14:57 +0000'
+notes: Koordinaten (48.051713, 7.903225) per Mapbox Reverse-Geocoding ermittelt; Bild
+  stammt von der offiziellen Website der Gemeinde Heuweiler (fileadmin). Kontakt-
+  und Öffnungszeiten laut offizieller Gemeindeseite.
 ---
-
 #### Beschreibung
 Das Gemeindehaus (Gemeindeverwaltung) Heuweiler ist das zentrale Verwaltungsgebäude der kleinen Gemeinde Heuweiler und bietet Bürgerservices, Verwaltungsbüros sowie Räumlichkeiten für kommunale Angelegenheiten. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten))
 

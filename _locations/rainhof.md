@@ -1,18 +1,23 @@
 ---
-title: "Rainhof (Heuweiler)"
-latitude: ""
-longitude: ""
+title: Rainhof (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Bauernhöfe
-description: "Bezeichnung für einen kleinen Hof / Flurnamen in der Gemarkung Heuweiler; keine eigenständige, online dokumentierte Hofadresse auffindbar."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:20:21 +0000"
-notes: "Bei Recherche wurde kein eigenständiger, öffentlich auffindbarer Betrieb oder eine postalisch registrierte Adresse 'Rainhof' in Heuweiler (PLZ 79194) gefunden. Der Begriff erscheint als Weg-/Flurname (z. B. 'Oberhalb Rainhof') in regionalen Wanderführern; es existiert keine eigene Website oder klar zuordenbare Postadresse im Internet. Als verlässliche Quellen für Heuweiler wurden Wikipedia und die Gemeindehomepage verwendet. Keine fiktiven Koordinaten angegeben."
+description: Bezeichnung für einen kleinen Hof / Flurnamen in der Gemarkung Heuweiler;
+  keine eigenständige, online dokumentierte Hofadresse auffindbar.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:20:21 +0000'
+notes: Bei Recherche wurde kein eigenständiger, öffentlich auffindbarer Betrieb oder
+  eine postalisch registrierte Adresse 'Rainhof' in Heuweiler (PLZ 79194) gefunden.
+  Der Begriff erscheint als Weg-/Flurname (z. B. 'Oberhalb Rainhof') in regionalen
+  Wanderführern; es existiert keine eigene Website oder klar zuordenbare Postadresse
+  im Internet. Als verlässliche Quellen für Heuweiler wurden Wikipedia und die Gemeindehomepage
+  verwendet. Keine fiktiven Koordinaten angegeben.
 ---
-
 #### Beschreibung
 Der Rainhof wird in der lokalen Flur- und Wanderwegsbezeichnung als kleiner Hofstandort/Flurname in der Gemarkung Heuweiler genannt; es handelt sich nicht um einen nachweisbaren, eigenständigen Gewerbebetrieb mit eigener Webseite oder öffentlich zugänglicher Postadresse.
 

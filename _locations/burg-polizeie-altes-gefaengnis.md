@@ -1,23 +1,30 @@
 ---
-title: "Burg (Polizeie, altes Gefängnis), Heuweiler"
-latitude: 48.0450
-longitude: 7.9033
+title: Burg (Polizeie, altes Gefängnis), Heuweiler
+latitude: 48.054696
+longitude: 7.905291
 category: Historische Gebäude
-description: "Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler — für diesen Eintrag konnten online keine verlässlichen Quellen zur genaueren Lokalisierung oder historischen Beschreibung des Objekts gefunden werden."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:25:03 +0000"
-notes: |
-  - Rechercheergebnis: Es konnten keine belastbaren Online-Quellen (z. B. Wikipedia, offizielle Denkmallisten, Gemeindeseiten) gefunden werden, die ein Objekt mit der exakten Bezeichnung "Burg (Polizeie, altes Gefängnis)" innerhalb der Gemarkung Heuweiler beschreiben oder eine Postadresse/Detailkoordination dazu angeben.
-  - Zur Orientierung wurden die Gemeindekoordinaten und die Anschrift der Gemeindeverwaltung genutzt (siehe Quellennachweise). German‑Wikipedia nennt die Gemeinde-Koordinaten 48.045 / 7.903333 und die Gemeindeverwaltung Dorfstraße 21, 79194 Heuweiler. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler))
-  - Mit dem Mapbox-Reverse-Geocoding-Tool wurde an den Koordinaten 48.045 / 7.903333 eine nahe Adresse ermittelt: Hinterheuweiler 11 (Koordinaten: 48.04533, 7.903262). (Mapbox-Toolausgabe, reverse geocode).  
-  - Bild/Website: Kein verifizierter Direktlink zu einem Bild des genannten Objekts gefunden; daher bleibt das Bildfeld leer.
-  - Quellen und relevante Suchseiten sind unten in den Referenzen aufgeführt.  
+description: Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler — für diesen
+  Eintrag konnten online keine verlässlichen Quellen zur genaueren Lokalisierung oder
+  historischen Beschreibung des Objekts gefunden werden.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:25:03 +0000'
+notes: "- Rechercheergebnis: Es konnten keine belastbaren Online-Quellen (z. B. Wikipedia,
+  offizielle Denkmallisten, Gemeindeseiten) gefunden werden, die ein Objekt mit der
+  exakten Bezeichnung \"Burg (Polizeie, altes Gefängnis)\" innerhalb der Gemarkung
+  Heuweiler beschreiben oder eine Postadresse/Detailkoordination dazu angeben.\n-
+  Zur Orientierung wurden die Gemeindekoordinaten und die Anschrift der Gemeindeverwaltung
+  genutzt (siehe Quellennachweise). German‑Wikipedia nennt die Gemeinde-Koordinaten
+  48.045 / 7.903333 und die Gemeindeverwaltung Dorfstraße 21, 79194 Heuweiler. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler))\n-
+  Mit dem Mapbox-Reverse-Geocoding-Tool wurde an den Koordinaten 48.045 / 7.903333
+  eine nahe Adresse ermittelt: Hinterheuweiler 11 (Koordinaten: 48.04533, 7.903262).
+  (Mapbox-Toolausgabe, reverse geocode).  \n- Bild/Website: Kein verifizierter Direktlink
+  zu einem Bild des genannten Objekts gefunden; daher bleibt das Bildfeld leer.\n-
+  Quellen und relevante Suchseiten sind unten in den Referenzen aufgeführt.  "
 ---
-
 #### Beschreibung
 Der Eintrag trägt den Namen "Burg (Polizeie, altes Gefängnis)" für Heuweiler, konnte jedoch während der Recherche nicht mit verlässlichen, öffentlich zugänglichen Quellen verifiziert oder georeferenziert werden; die Angaben basieren daher auf Gemeindeinformationen und offenen Kartendaten. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler))
 

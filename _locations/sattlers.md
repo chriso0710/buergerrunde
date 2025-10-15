@@ -1,18 +1,22 @@
 ---
-title: "Sattlers (Seilerhof / 'Sailerhof')"
-latitude: 48.0517
-longitude: 7.9031
+title: Sattlers (Seilerhof / 'Sailerhof')
+latitude: 48.054696
+longitude: 7.905291
 category: Bauernhöfe
-description: "Lokaler Bauernhof / Hofanwesen in Heuweiler, im Ort oft 'Sattler's' genannt (offiziell Seilerhof / Sailerhof)."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 09:09:46 +0000"
-notes: "‚Sattlers‘ ist im Ortals Bezeichnung für das Anwesen Seilerhof / Sailerhof; es konnten keine eindeutige offizielle Postadresse oder ein verifizierbarer Direktlink zu einem Bild speziell für ‚Sattlers‘ gefunden werden. Koordinaten entsprechen dem Gemeindemittelpunkt von Heuweiler (Wikipedia). Quellen: Gemeindewebseite, Wikipedia, lokale Ortsbeschreibung (freiburg-schwarzwald.de)."
+description: Lokaler Bauernhof / Hofanwesen in Heuweiler, im Ort oft 'Sattler's' genannt
+  (offiziell Seilerhof / Sailerhof).
+address: Heuweiler, Baden-Württemberg
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 09:09:46 +0000'
+notes: "‚Sattlers‘ ist im Ortals Bezeichnung für das Anwesen Seilerhof / Sailerhof;
+  es konnten keine eindeutige offizielle Postadresse oder ein verifizierbarer Direktlink
+  zu einem Bild speziell für ‚Sattlers‘ gefunden werden. Koordinaten entsprechen dem
+  Gemeindemittelpunkt von Heuweiler (Wikipedia). Quellen: Gemeindewebseite, Wikipedia,
+  lokale Ortsbeschreibung (freiburg-schwarzwald.de)."
 ---
-
 #### Beschreibung
 Sattlers ist die im Ort gebräuchliche Bezeichnung für das Hofanwesen, das offiziell als Seilerhof / Sailerhof bekannt ist; es liegt zwischen Vorderheuweiler und Hinterheuweiler und ist Teil der bäuerlich geprägten Ortsstruktur von Heuweiler. ([freiburg-schwarzwald.de](https://freiburg-schwarzwald.de/heuweiler5.htm?utm_source=openai))
 

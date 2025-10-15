@@ -1,18 +1,23 @@
 ---
-title: "Friedhof Heuweiler (Kirchberg)"
-latitude: 48.051361
-longitude: 7.904979
-category: "Religiöse Stätten"
-description: "Kleiner Gemeindefriedhof auf dem Kirchberg oberhalb der Pfarrkirche St. Remigius in Heuweiler."
-address: "Kirchberg 2a, 79194 Heuweiler, Deutschland"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:16:20 +0000"
-notes: "Bild konnte online nicht als eindeutiger Direktlink zu einem Friedhofsbild von Heuweiler (mit frei verfügbarer Bilddatei ≥300×300 px) gefunden werden; die angegebenen Koordinaten wurden durch eine Mapbox-Reverse-Geocoding-Abfrage (ausgehend von kartierten Koordinaten in der Nähe des Kirchbergs) ermittelt und lieferten die Adresse Kirchberg 2a. Quellen: Gemeinde-Website, Wikipedia, Outdooractive, Badische Zeitung; genaue Bildquelle fehlt."
+title: Friedhof Heuweiler (Kirchberg)
+latitude: 48.051295
+longitude: 7.904944
+category: Religiöse Stätten
+description: Kleiner Gemeindefriedhof auf dem Kirchberg oberhalb der Pfarrkirche St.
+  Remigius in Heuweiler.
+address: Kirchberg 2a, 79194 Heuweiler, Deutschland
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:16:20 +0000'
+notes: 'Bild konnte online nicht als eindeutiger Direktlink zu einem Friedhofsbild
+  von Heuweiler (mit frei verfügbarer Bilddatei ≥300×300 px) gefunden werden; die
+  angegebenen Koordinaten wurden durch eine Mapbox-Reverse-Geocoding-Abfrage (ausgehend
+  von kartierten Koordinaten in der Nähe des Kirchbergs) ermittelt und lieferten die
+  Adresse Kirchberg 2a. Quellen: Gemeinde-Website, Wikipedia, Outdooractive, Badische
+  Zeitung; genaue Bildquelle fehlt.'
 ---
-
 #### Beschreibung
 Der Friedhof von Heuweiler liegt idyllisch auf dem Kirchberg oberhalb der Pfarrkirche St. Remigius und ist die kommunale Begräbnisstätte der Gemeinde Heuweiler. ([freiburg-schwarzwald.de](https://freiburg-schwarzwald.de/heuweiler.htm?utm_source=openai))
 

@@ -1,18 +1,23 @@
 ---
-title: "Böllerschützen (Heuweiler)"
-latitude: 48.05167
-longitude: 7.90306
+title: Böllerschützen (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Veranstaltungsorte
-description: "Traditionelle Böllerschützen-Gruppe / Brauchtumsakteur, der bei Festen und kirchlichen Anlässen in Heuweiler vertreten ist (keine eigenständige Vereinsadresse online auffindbar)."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 16:42:56 +0000"
-notes: "Bei der Recherche wurde kein eigenständiger Verein oder eine offizielle Postadresse zu 'Böllerschützen' in Heuweiler im Internet gefunden. Die angegebenen Koordinaten entsprechen der Ortsmitte von Heuweiler (Wikipedia / Geohack) und wurden mit Mapbox-Reverse-Geocoding geprüft; für konkrete Kontakt- oder Terminfragen wird empfohlen, die Gemeinde Heuweiler oder örtliche Vereine (z. B. DJK Heuweiler) zu kontaktieren."
+description: Traditionelle Böllerschützen-Gruppe / Brauchtumsakteur, der bei Festen
+  und kirchlichen Anlässen in Heuweiler vertreten ist (keine eigenständige Vereinsadresse
+  online auffindbar).
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 16:42:56 +0000'
+notes: Bei der Recherche wurde kein eigenständiger Verein oder eine offizielle Postadresse
+  zu 'Böllerschützen' in Heuweiler im Internet gefunden. Die angegebenen Koordinaten
+  entsprechen der Ortsmitte von Heuweiler (Wikipedia / Geohack) und wurden mit Mapbox-Reverse-Geocoding
+  geprüft; für konkrete Kontakt- oder Terminfragen wird empfohlen, die Gemeinde Heuweiler
+  oder örtliche Vereine (z. B. DJK Heuweiler) zu kontaktieren.
 ---
-
 #### Beschreibung
 Die Bezeichnung "Böllerschützen (Heuweiler)" bezeichnet keine klar auffindbare, eigenständige Vereinsadresse; es handelt sich um die lokal gepflegte Tradition des Böllerschießens, wie sie in vielen süddeutschen Gemeinden bei Festen, Ehrensaluten und kirchlichen Anlässen praktiziert wird. ([pssb.org](https://www.pssb.org/tradition/boellerschuetzen/?utm_source=openai))
 

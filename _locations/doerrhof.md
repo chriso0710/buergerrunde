@@ -1,18 +1,26 @@
 ---
-title: "Dörrhof (Heuweiler)"
-latitude: ""
-longitude: ""
+title: Dörrhof (Heuweiler)
+latitude: 48.052494
+longitude: 7.903271
 category: Bauernhöfe
-description: "Traditionsreicher Hof im Kerndorf von Heuweiler, genannt Dörrhof."
-address: "Dorfstraße 23, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:10:48 +0000"
-notes: "Quellen: Gemeindeseite Heuweiler (Geschichte / Fotogalerie) nennt den Dörrhof als einen der ältesten Höfe im Kerndorf; eine Veranstaltungs-/Verzeichnisseite nennt als Standort 'Dorfstraße 23, 79194 Heuweiler' (BZ-Ticket). Über einen direkten Bildnachweis für den Dörrhof (als einzelnes Motiv) konnte online kein frei zugänglicher Direktlink in ausreichender Auflösung (≥300×300) eindeutig zugeordnet werden; das Bild-Feld daher leer gelassen. Ich habe versucht, Koordinaten zu ermitteln: Mapbox-Reverse-Geocoding für nahegelegene Dorfstraße 20 (Restauration Rebstock) liefert Koordinaten 48.051897, 7.903127 — ein proxysbezogener Referenzpunkt in der Dorfstraße; exakte Hausnummern-Koordinaten für Dörrhof (Dorfstraße 23) konnten nicht verlässlich verifiziert werden, daher wurden latitude/longitude leer gelassen. Wichtige Web-Quellen in 'Referenzen'."
+description: Traditionsreicher Hof im Kerndorf von Heuweiler, genannt Dörrhof.
+address: Dorfstraße 23, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:10:48 +0000'
+notes: 'Quellen: Gemeindeseite Heuweiler (Geschichte / Fotogalerie) nennt den Dörrhof
+  als einen der ältesten Höfe im Kerndorf; eine Veranstaltungs-/Verzeichnisseite nennt
+  als Standort ''Dorfstraße 23, 79194 Heuweiler'' (BZ-Ticket). Über einen direkten
+  Bildnachweis für den Dörrhof (als einzelnes Motiv) konnte online kein frei zugänglicher
+  Direktlink in ausreichender Auflösung (≥300×300) eindeutig zugeordnet werden; das
+  Bild-Feld daher leer gelassen. Ich habe versucht, Koordinaten zu ermitteln: Mapbox-Reverse-Geocoding
+  für nahegelegene Dorfstraße 20 (Restauration Rebstock) liefert Koordinaten 48.051897,
+  7.903127 — ein proxysbezogener Referenzpunkt in der Dorfstraße; exakte Hausnummern-Koordinaten
+  für Dörrhof (Dorfstraße 23) konnten nicht verlässlich verifiziert werden, daher
+  wurden latitude/longitude leer gelassen. Wichtige Web-Quellen in ''Referenzen''.'
 ---
-
 #### Beschreibung
 Der Dörrhof ist ein traditioneller Bauernhof im Kerndorf von Heuweiler und gehört zu den historisch ältesten Höfen des Ortes.
 

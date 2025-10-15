@@ -1,18 +1,21 @@
 ---
-title: "Kinderchor St. Remigius (Heuweiler)"
-latitude: 48.051936
-longitude: 7.904433
+title: Kinderchor St. Remigius (Heuweiler)
+latitude: 48.0521
+longitude: 7.905114
 category: Vereine
-description: "Lokaler Kinderchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste und Gemeindeveranstaltungen musikalisch mitgestaltet."
-address: "Kirchberg 4, 79194 Heuweiler"
-website: ""
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:58:34 +0000"
-notes: "Keine eigenständige offizielle Website oder separate Postadresse für den Kinderchor online gefunden; Eintrag verwendet die Adresse der Pfarrkirche St. Remigius (Kirchberg 4). Koordinaten stammen aus den Metadaten des Wikimedia‑Commons-Fotos der St.-Remigius-Kirche; für nahe Adressen wurde zusätzlich Mapbox-Reverse-Geocoding geprüft."
+description: Lokaler Kinderchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste
+  und Gemeindeveranstaltungen musikalisch mitgestaltet.
+address: Kirchberg 4, 79194 Heuweiler
+website: ''
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:58:34 +0000'
+notes: Keine eigenständige offizielle Website oder separate Postadresse für den Kinderchor
+  online gefunden; Eintrag verwendet die Adresse der Pfarrkirche St. Remigius (Kirchberg
+  4). Koordinaten stammen aus den Metadaten des Wikimedia‑Commons-Fotos der St.-Remigius-Kirche;
+  für nahe Adressen wurde zusätzlich Mapbox-Reverse-Geocoding geprüft.
 ---
-
 #### Beschreibung
 Der Kinderchor St. Remigius in Heuweiler ist ein ehrenamtlich organisiertes Chorangebot der katholischen Pfarrgemeinde St. Remigius und singt bei Familiengottesdiensten, Feiern (z. B. Erstkommunion, Weihnachtsfeiern) und Gemeindeveranstaltungen.
 

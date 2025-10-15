@@ -1,18 +1,21 @@
 ---
-title: "Vorderheuweiler (Heuweiler)"
-latitude: 48.051713
-longitude: 7.903225
-category: "Wohngebiete"
-description: "Ortsteil Vorderheuweiler der Gemeinde Heuweiler – ein kleines, überwiegend Wohn- und landwirtschaftlich geprägtes Wohngebiet im Breisgau."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein — CC BY-SA 3.0"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:35:55 +0000"
-notes: "Eintrag für den Ortsteil Vorderheuweiler (Ortsteil von Heuweiler). Postadresse und Rathaus-Angaben stammen von der offiziellen Gemeindeseite; Geo-Koordinaten für die Postadresse (Dorfstraße 21) wurden per Mapbox Reverse-Geocoding ermittelt (Ergebnis: 48.051713, 7.903225). Bild: Wikimedia Commons (St. Remigius, Heuweiler)."
+title: Vorderheuweiler (Heuweiler)
+latitude: 48.051706
+longitude: 7.903312
+category: Wohngebiete
+description: Ortsteil Vorderheuweiler der Gemeinde Heuweiler – ein kleines, überwiegend
+  Wohn- und landwirtschaftlich geprägtes Wohngebiet im Breisgau.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein — CC BY-SA 3.0
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:35:55 +0000'
+notes: 'Eintrag für den Ortsteil Vorderheuweiler (Ortsteil von Heuweiler). Postadresse
+  und Rathaus-Angaben stammen von der offiziellen Gemeindeseite; Geo-Koordinaten für
+  die Postadresse (Dorfstraße 21) wurden per Mapbox Reverse-Geocoding ermittelt (Ergebnis:
+  48.051713, 7.903225). Bild: Wikimedia Commons (St. Remigius, Heuweiler).'
 ---
-
 #### Beschreibung
 Vorderheuweiler ist der Haupt‑Ortsteil der kleinen Gemeinde Heuweiler im Landkreis Breisgau‑Hochschwarzwald und besteht überwiegend aus Wohnbebauung, einzelnen landwirtschaftlichen Betrieben und dörflicher Infrastruktur. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
 

@@ -1,18 +1,24 @@
 ---
-title: "Hinterheuweiler (Heuweiler)"
-latitude: 48.046696
-longitude: 7.901080
+title: Hinterheuweiler (Heuweiler)
+latitude: 48.044452
+longitude: 7.898955
 category: Wohngebiete
-description: "Kleiner Weiler/Hamlet (Ortsteil) von Heuweiler mit vorwiegend Wohnnutzung, Landwirtschaft und einigen Gasthöfen/Betrieben."
-address: "Hinterheuweiler, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg"
-image_copyright: "Andreas Schwarzkopf / CC BY-SA 3.0"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:37:58 +0000"
-notes: "Hinterheuweiler ist ein Ortsteil/Hamlet der Gemeinde Heuweiler und hat keine eigene 'Gemeinde-Postadresse' – Adressen lauten üblicherweise 'Hinterheuweiler <Hausnummer>, 79194 Heuweiler'. Als Referenzkoordinaten wurde mittels Mapbox-Reverse-Geocoding ein Punkt in Hinterheuweiler (Hinterheuweiler 17) ermittelt; zusätzlich liegen öffentliche Haltestellen-Koordinaten (Orangener Punkt) für Hinterheuweiler 12 und 28 vor. Quellen: Wikipedia (Heuweiler), Wikimedia Commons (Bild), Gemeinde Heuweiler, lokale Einträge (Gehrihof, Reit- & Fahrverein), Mapbox-Reverse-Geocode (intern benutzt)."
+description: Kleiner Weiler/Hamlet (Ortsteil) von Heuweiler mit vorwiegend Wohnnutzung,
+  Landwirtschaft und einigen Gasthöfen/Betrieben.
+address: Hinterheuweiler, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg
+image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:37:58 +0000'
+notes: 'Hinterheuweiler ist ein Ortsteil/Hamlet der Gemeinde Heuweiler und hat keine
+  eigene ''Gemeinde-Postadresse'' – Adressen lauten üblicherweise ''Hinterheuweiler
+  <Hausnummer>, 79194 Heuweiler''. Als Referenzkoordinaten wurde mittels Mapbox-Reverse-Geocoding
+  ein Punkt in Hinterheuweiler (Hinterheuweiler 17) ermittelt; zusätzlich liegen öffentliche
+  Haltestellen-Koordinaten (Orangener Punkt) für Hinterheuweiler 12 und 28 vor. Quellen:
+  Wikipedia (Heuweiler), Wikimedia Commons (Bild), Gemeinde Heuweiler, lokale Einträge
+  (Gehrihof, Reit- & Fahrverein), Mapbox-Reverse-Geocode (intern benutzt).'
 ---
-
 #### Beschreibung
 Hinterheuweiler ist der kleinere, ländlich geprägte Weiler/Ortsteil der Gemeinde Heuweiler (Breisgau‑Hochschwarzwald), bestehend aus Wohnhäusern, Höfen, Weinbergen und einzelnen Gewerbebetrieben. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 

@@ -1,18 +1,22 @@
 ---
-title: "Trachtenkapelle Heuweiler e.V."
-latitude: 48.05158
-longitude: 7.90295
+title: Trachtenkapelle Heuweiler e.V.
+latitude: 48.054801
+longitude: 7.912438
 category: Vereine
-description: "Ortsansässiger Musikverein (Trachtenkapelle) von Heuweiler, aktiv in Blasmusik, Brauchtumspflege und Dorfveranstaltungen."
-address: "Glottertalstraße 10, 79194 Heuweiler, Deutschland"
-website: "http://www.trachtenkapelle-heuweiler.de"
-image: "https://www.heuweiler.de/fileadmin/Dateien/Bilder/Fotos/R%C3%BCckblick/2021/Trachtenkapelle.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:11:15 +0000"
-notes: "Postadresse und Telefon laut offizieller Vereinsliste der Gemeinde Heuweiler; die Vereins-Website (trachtenkapelle-heuweiler.de) wird in Verzeichnissen genannt, war bei Abrufversuchen nicht erreichbar. Koordinaten (48.05158, 7.90295) wurden mit Mapbox-Reverse-Geocoding getestet als näherer Gemeindepunkt; keine verlässliche Hausnummer-Geokodierung für Glottertalstraße 10 über das verwendete Tool gefunden."
+description: Ortsansässiger Musikverein (Trachtenkapelle) von Heuweiler, aktiv in
+  Blasmusik, Brauchtumspflege und Dorfveranstaltungen.
+address: Glottertalstraße 10, 79194 Heuweiler, Deutschland
+website: http://www.trachtenkapelle-heuweiler.de
+image: https://www.heuweiler.de/fileadmin/Dateien/Bilder/Fotos/R%C3%BCckblick/2021/Trachtenkapelle.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:11:15 +0000'
+notes: Postadresse und Telefon laut offizieller Vereinsliste der Gemeinde Heuweiler;
+  die Vereins-Website (trachtenkapelle-heuweiler.de) wird in Verzeichnissen genannt,
+  war bei Abrufversuchen nicht erreichbar. Koordinaten (48.05158, 7.90295) wurden
+  mit Mapbox-Reverse-Geocoding getestet als näherer Gemeindepunkt; keine verlässliche
+  Hausnummer-Geokodierung für Glottertalstraße 10 über das verwendete Tool gefunden.
 ---
-
 #### Beschreibung
 Die Trachtenkapelle Heuweiler e.V. ist der örtliche Musikverein von Heuweiler, der traditionelle Blasmusik, konzertante Programme und die Pflege regionaler Trachtenkultur im Dorf organisiert und aufführt. ([heuweiler.de](https://www.heuweiler.de/leben-wohnen/vereinsliste?utm_source=openai))
 

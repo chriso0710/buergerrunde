@@ -1,18 +1,22 @@
 ---
-title: "Kirche St. Remigius, Heuweiler"
-latitude: 48.0519
-longitude: 7.9043
-category: "Religiöse Stätten"
-description: "Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar und seit dem 18. Jahrhundert Mittelpunkt der Gemeinde."
-address: "Kirchberg 6, 79194 Heuweiler, Deutschland"
-website: "https://www.an-der-glotter.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Foto: Rauenstein; Lizenz: CC BY-SA 3.0"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:40:00 +0000"
-notes: "Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die Seelsorgeeinheit 'An der Glotter' nennt Kirchberg 4 — hier wurde Kirchberg 6 als Postadresse gewählt, da die Mapbox-Reverse-Geocoding-Abfrage diese Nummer zurückgab (Koordinaten: 48.051942, 7.904279). Bild von Wikimedia Commons (Rauenstein, CC BY-SA 3.0). Quellenangaben und Abgleich in den Referenzen."
+title: Kirche St. Remigius, Heuweiler
+latitude: 48.051985
+longitude: 7.904412
+category: Religiöse Stätten
+description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar und
+  seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
+address: Kirchberg 6, 79194 Heuweiler, Deutschland
+website: https://www.an-der-glotter.de
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: 'Foto: Rauenstein; Lizenz: CC BY-SA 3.0'
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:40:00 +0000'
+notes: 'Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die Seelsorgeeinheit
+  ''An der Glotter'' nennt Kirchberg 4 — hier wurde Kirchberg 6 als Postadresse gewählt,
+  da die Mapbox-Reverse-Geocoding-Abfrage diese Nummer zurückgab (Koordinaten: 48.051942,
+  7.904279). Bild von Wikimedia Commons (Rauenstein, CC BY-SA 3.0). Quellenangaben
+  und Abgleich in den Referenzen.'
 ---
-
 #### Beschreibung des Ortes
 Die Kirche St. Remigius ist die römisch‑katholische Pfarrkirche von Heuweiler, ein barocker Saalbau auf dem Kirchberg, der das Ortsbild prägt und weithin sichtbar ist. ([heuweiler.de](https://www.heuweiler.de/leben-wohnen/kirchen))
 

@@ -1,21 +1,21 @@
 ---
 title: Merzenhof (Heuweiler)
-latitude: 48.04533
-longitude: 7.903262
+latitude: 48.054696
+longitude: 7.905291
 category: Bauernhöfe
-description: Historischer Hof (Merzenhof) im Kern von Heuweiler, Teil der traditionellen Hofstruktur des Ortes.
+description: Historischer Hof (Merzenhof) im Kern von Heuweiler, Teil der traditionellen
+  Hofstruktur des Ortes.
 address: Heuweiler, Baden-Württemberg
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:17:29 +0000"
-notes: |
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:17:29 +0000'
+notes: |-
   - Recherchequellen: Gemeinde Heuweiler (Geschichte, Fotogalerie), Wikipedia (DE/EN), regionale Beschreibungen (Weinland Breisgau, Freiburg-Schwarzwald).
   - Genaue postalische Einzeladresse für den Merzenhof konnte online nicht eindeutig verifiziert werden; deshalb wurde als Adresse "Heuweiler, Baden‑Württemberg" angegeben.
   - Geo-Koordinaten wurden mithilfe von Mapbox-Reverse-Geocoding in der Umgebung des Heuweiler-Ortszentrums ermittelt (Ergebnis: Hinterheuweiler 11 nahe Ortszentrum; Koordinaten 48.04533, 7.903262). Keine separate offizielle Website oder verlässliches, direkt verlinkbares Bild des konkreten Merzenhofs gefunden.
 ---
-
 #### Beschreibung des Ortes
 Der Merzenhof ist einer der ältesten Höfe im Kern von Heuweiler und gehört zur traditionellen Hofstruktur des Dorfes; er zählt zu den historischen landwirtschaftlichen Anwesen, die das Ortsbild prägen. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
 

@@ -1,18 +1,22 @@
 ---
 title: Litzelstahlerhof
-latitude: 48.049391
-longitude: 7.891814
+latitude: 48.049488
+longitude: 7.891728
 category: Bauernhöfe
-description: Historischer Einzelhof (Bauernhof) und Wohnplatz in der Gemarkung Heuweiler (Ortsteil/Lagepunkt Hinterheuweiler).
+description: Historischer Einzelhof (Bauernhof) und Wohnplatz in der Gemarkung Heuweiler
+  (Ortsteil/Lagepunkt Hinterheuweiler).
 address: Litzelstahlerhof 2, 79194 Heuweiler, Deutschland
-website: ""
+website: ''
 image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Lang%28en%29_Denztlinger_Bann_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Denzlingen_2.jpg
-image_copyright: Landesarchiv Baden-Württemberg / Generallandesarchiv Karlsruhe, CC BY 4.0
+image_copyright: Landesarchiv Baden-Württemberg / Generallandesarchiv Karlsruhe, CC
+  BY 4.0
 generated_by: gpt-5-mini
-generated_at: 2025-10-15 08:15:39 +0000
-notes: Koordinaten für "Litzelstahlerhof 2" wurden mittels Mapbox Reverse Geocoding ermittelt; keine offizielle eigene Website für den Hof gefunden (gemeindliche Website heuweiler.de). Bild ist eine historische Karte (Landesarchiv BW) auf Wikimedia Commons, zeigt Litzelstaler/Litzelstahler Hof in der Gemarkung Heuweiler.
+generated_at: 2025-10-15 08:15:39.000000000 +00:00
+notes: Koordinaten für "Litzelstahlerhof 2" wurden mittels Mapbox Reverse Geocoding
+  ermittelt; keine offizielle eigene Website für den Hof gefunden (gemeindliche Website
+  heuweiler.de). Bild ist eine historische Karte (Landesarchiv BW) auf Wikimedia Commons,
+  zeigt Litzelstaler/Litzelstahler Hof in der Gemarkung Heuweiler.
 ---
-
 #### Beschreibung
 
 Der Litzelstahlerhof ist ein historischer Einzelhof (Bauernhof / Wohnplatz) in der Gemarkung Heuweiler, gelegen im westlichen Bereich der Gemeinde nahe der Ausmündung eines Seitentals; er gehört zum weiträumigen Dorfbild von Heuweiler.

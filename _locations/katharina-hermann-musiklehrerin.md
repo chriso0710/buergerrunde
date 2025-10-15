@@ -1,18 +1,25 @@
 ---
-title: "Katharina Hermann, Musiklehrerin"
-latitude: ""
-longitude: ""
+title: Katharina Hermann, Musiklehrerin
+latitude: 48.054696
+longitude: 7.905291
 category: Vereine
-description: "Musiklehrerin und Chorleiterin aus Heuweiler, aktiv in lokalen Kulturprojekten und Chorarbeit."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.heuweiler.de"
-image: "https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:03:30 +0000"
-notes: "Keine verlässliche öffentliche Postadresse oder eigenes Impressum für 'Katharina Hermann, Musiklehrerin' im Internet gefunden; Einträge und Berichte zeigen ihr Engagement in Heuweiler (u.a. Chorgründung mit Michael Hermann). Offizielle Gemeindeadresse: Gemeindeverwaltung Heuweiler, Dorfstraße 21, 79194 Heuweiler (siehe Gemeinde-Website). Bei Bedarf kann die Gemeinde für Kontaktvermittlung angesprochen werden. Koordinaten für das Rathaus/Gemeindezentrum wurden nicht direkt über eine Forward-Geokodierung für eine personenbezogene Anschrift ermittelt; eine Reverse-Geokodierung in der Ortsmitte ergab nahe Koordinaten ~48.05158, 7.90295 (ungefährer Gemeinde-/Dorfmittelpunkt)."
+description: Musiklehrerin und Chorleiterin aus Heuweiler, aktiv in lokalen Kulturprojekten
+  und Chorarbeit.
+address: Heuweiler, Baden-Württemberg
+website: https://www.heuweiler.de
+image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:03:30 +0000'
+notes: 'Keine verlässliche öffentliche Postadresse oder eigenes Impressum für ''Katharina
+  Hermann, Musiklehrerin'' im Internet gefunden; Einträge und Berichte zeigen ihr
+  Engagement in Heuweiler (u.a. Chorgründung mit Michael Hermann). Offizielle Gemeindeadresse:
+  Gemeindeverwaltung Heuweiler, Dorfstraße 21, 79194 Heuweiler (siehe Gemeinde-Website).
+  Bei Bedarf kann die Gemeinde für Kontaktvermittlung angesprochen werden. Koordinaten
+  für das Rathaus/Gemeindezentrum wurden nicht direkt über eine Forward-Geokodierung
+  für eine personenbezogene Anschrift ermittelt; eine Reverse-Geokodierung in der
+  Ortsmitte ergab nahe Koordinaten ~48.05158, 7.90295 (ungefährer Gemeinde-/Dorfmittelpunkt).'
 ---
-
 #### Beschreibung
 Katharina Hermann ist in Heuweiler als Musiklehrerin und Chorleiterin bekannt und wirkt regelmäßig bei lokalen Kulturveranstaltungen mit; sie hat zusammen mit Michael Hermann den Chorprojekt-Ansatz „Flexsingers“ initiiert. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/kreuze-und-kleindenkmaeler-rueckblick/?utm_source=openai))
 

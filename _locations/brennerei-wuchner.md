@@ -1,25 +1,24 @@
 ---
 title: Brennerei Wuchner (Maidli Gin)
-latitude: 48.052504
-longitude: 7.904322
+latitude: 48.050396
+longitude: 7.901999
 category: Handwerk & Gewerbe
-description: Kleine, familiengeführte Hausbrennerei in Heuweiler, bekannt für den preisgekrönten "maidli GIN".
+description: Kleine, familiengeführte Hausbrennerei in Heuweiler, bekannt für den
+  preisgekrönten "maidli GIN".
 address: Dorfstraße 8a, 79194 Heuweiler, Deutschland
 website: https://www.maidli-gin.de
 image: 
 image_copyright: 
 generated_by: gpt-5-mini
-generated_at: 2025-10-15 10:51:22 +0000
-notes: >
-  Koordinaten stammen aus einer Mapbox Reverse-Geocode-Abfrage in der Umgebung von Heuweiler
-  (gefundenes Feature: Kirchberg 14 — 48.052504, 7.904322). Keine eindeutige, öffentlich
-  dokumentierte Geokoordinate für die genaue Hausnummer Dorfstraße 8a konnte mit dem
-  verfügbaren Forward-Geocoding / öffentlichen Einträgen verifiziert werden; Adresse und
-  Kontaktdaten basieren auf regionalen Verzeichnissen und Presseberichten. Bild-URL konnte
-  bei der Recherche nicht als geeigneter, direkt verlinkbarer Foto-Directlink (≥300×300 px)
-  verifiziert werden, daher bleibt das Bildfeld leer.
+generated_at: 2025-10-15 10:51:22.000000000 +00:00
+notes: 'Koordinaten stammen aus einer Mapbox Reverse-Geocode-Abfrage in der Umgebung
+  von Heuweiler (gefundenes Feature: Kirchberg 14 — 48.052504, 7.904322). Keine eindeutige,
+  öffentlich dokumentierte Geokoordinate für die genaue Hausnummer Dorfstraße 8a konnte
+  mit dem verfügbaren Forward-Geocoding / öffentlichen Einträgen verifiziert werden;
+  Adresse und Kontaktdaten basieren auf regionalen Verzeichnissen und Presseberichten.
+  Bild-URL konnte bei der Recherche nicht als geeigneter, direkt verlinkbarer Foto-Directlink
+  (≥300×300 px) verifiziert werden, daher bleibt das Bildfeld leer.'
 ---
-
 #### Beschreibung des Ortes
 Die Brennerei Wuchner (auch bekannt als Hausbrennerei Wuchner / Maidli GIN) ist ein kleiner, familiengeführter Betrieb in Heuweiler, der seit Generationen Obstbrände herstellt und seit einigen Jahren mit handgemachtem Gin (Maidli Gin) erfolgreich am Markt vertreten ist. ([marktschwaermer.de](https://marktschwaermer.de/de-DE/producers/22708/farm))
 

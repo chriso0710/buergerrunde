@@ -1,18 +1,25 @@
 ---
-title: "Bankhof (Heuweiler)"
-latitude: 48.041878
-longitude: 7.896633
+title: Bankhof (Heuweiler)
+latitude: 48.041912
+longitude: 7.896679
 category: Bauernhöfe
-description: "Kleiner Bauernhof / Hofstelle (Bankhof) im Weiler Hinterheuweiler, Gemeinde Heuweiler (Breisgau‑Hochschwarzwald)."
-address: "Hinterheuweiler 3, 79194 Heuweiler"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:44:32 +0000"
-notes: "Ort 'Bankhof' wurde in OpenStreetMap/Mapcarta als Bauernhofstelle identifiziert; für die exakten Koordinaten wurde eine Mapbox-Reverse-Geocoding-Abfrage (mcp_mapbox) auf die Karte‑Koordinaten durchgeführt und ergab Hinterheuweiler 3 (48.041878, 7.896633). Es konnte kein frei verfügbares, eindeutig Bankhof-zugeordnetes Foto (Direktlink ≥300×300 px) gefunden werden, daher blieb das Bildfeld leer. Angaben wurden aus den nachstehenden Quellen zusammengetragen; Adress-/Kontaktangaben für den Hof selbst konnten online nicht separat verifiziert werden und beruhen auf Geokodierung / kartografischen Einträgen."
+description: Kleiner Bauernhof / Hofstelle (Bankhof) im Weiler Hinterheuweiler, Gemeinde
+  Heuweiler (Breisgau‑Hochschwarzwald).
+address: Hinterheuweiler 3, 79194 Heuweiler
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:44:32 +0000'
+notes: Ort 'Bankhof' wurde in OpenStreetMap/Mapcarta als Bauernhofstelle identifiziert;
+  für die exakten Koordinaten wurde eine Mapbox-Reverse-Geocoding-Abfrage (mcp_mapbox)
+  auf die Karte‑Koordinaten durchgeführt und ergab Hinterheuweiler 3 (48.041878, 7.896633).
+  Es konnte kein frei verfügbares, eindeutig Bankhof-zugeordnetes Foto (Direktlink
+  ≥300×300 px) gefunden werden, daher blieb das Bildfeld leer. Angaben wurden aus
+  den nachstehenden Quellen zusammengetragen; Adress-/Kontaktangaben für den Hof selbst
+  konnten online nicht separat verifiziert werden und beruhen auf Geokodierung / kartografischen
+  Einträgen.
 ---
-
 #### Beschreibung
 Der "Bankhof" ist als einzelne Hofstelle / Bauernhof in Hinterheuweiler, dem ländlichen Ortsteil von Heuweiler (Landkreis Breisgau‑Hochschwarzwald), verzeichnet. ([mapcarta.com](https://mapcarta.com/de/W122867400?utm_source=openai))
 

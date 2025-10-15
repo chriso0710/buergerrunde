@@ -1,18 +1,21 @@
 ---
-title: "Freies Lastenrad Holly (LastenVelo Freiburg)"
-latitude: ""
-longitude: ""
+title: Freies Lastenrad Holly (LastenVelo Freiburg)
+latitude: 48.054469
+longitude: 7.909392
 category: Vereine
-description: "Kostenlos ausleihbares E-Lastenrad (Urban Arrow 'Holly'), betrieben von der Bürgerrunde Heuweiler und eingebunden im Ausleihnetz von LastenVelo Freiburg."
-address: "Am Flissert 4, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "https://buergerrunde.heuweiler.net/holly/"
-image: "https://buergerrunde.heuweiler.net/assets/images/klimamobil/holly1.jpg"
+description: Kostenlos ausleihbares E-Lastenrad (Urban Arrow 'Holly'), betrieben von
+  der Bürgerrunde Heuweiler und eingebunden im Ausleihnetz von LastenVelo Freiburg.
+address: Am Flissert 4, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: https://buergerrunde.heuweiler.net/holly/
+image: https://buergerrunde.heuweiler.net/assets/images/klimamobil/holly1.jpg
 image_copyright: "© Bürgerrunde Heuweiler e.V."
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:29:49 +0000"
-notes: "Versuch, exakte Geokoordinaten mit Mapbox-Geocoding zu finden, brachte kein genaues Treffer für 'Am Flissert 4' (Mapbox reverse-geocoding lieferte nahe Adressen); daher wurden Latitude/Longitude-Felder leer gelassen. Quellen: Bürgerrunde Heuweiler (Holly-Seite), LastenVelo Freiburg, Wikipedia Heuweiler, Gemeindeverwaltung Heuweiler."
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:29:49 +0000'
+notes: 'Versuch, exakte Geokoordinaten mit Mapbox-Geocoding zu finden, brachte kein
+  genaues Treffer für ''Am Flissert 4'' (Mapbox reverse-geocoding lieferte nahe Adressen);
+  daher wurden Latitude/Longitude-Felder leer gelassen. Quellen: Bürgerrunde Heuweiler
+  (Holly-Seite), LastenVelo Freiburg, Wikipedia Heuweiler, Gemeindeverwaltung Heuweiler.'
 ---
-
 #### Beschreibung
 Holly ist ein E‑Lastenrad (Typ Urban Arrow Family), das kostenfrei ausgeliehen werden kann und von der Bürgerrunde Heuweiler betrieben sowie ins Ausleihnetz von LastenVelo Freiburg eingebunden ist. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/holly/))
 

@@ -1,18 +1,24 @@
 ---
-title: "Kriegerdenkmal im Kirchenwald (Heuweiler)"
-latitude: 48.0508
-longitude: 7.9079
+title: Kriegerdenkmal im Kirchenwald (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Historische Gebäude
-description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, errichtet als Gedenkstätte für Gefallene.
+description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, errichtet
+  als Gedenkstätte für Gefallene.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:41:22 +0000"
-notes: "Koordinaten basieren auf öffentlich zugänglichen Karten-/Wanderbeschreibungen (Mapcarta / OpenStreetMap). Kein offizieller Straßenanschrift für das Denkmal gefunden; Bild (Fotoreportage Badische Zeitung, Fotograf: Andrea Steinhart) existiert, es konnte jedoch kein eindeutiger Direktlink zu einer frei verwendbaren Bilddatei (>=300×300 px) auf Wikimedia Commons oder ähnlichen freien Bildarchiven ermittelt werden, daher Image-Feld leer gelassen. Quellen: Gemeindeseite Heuweiler, Badische Zeitung, Mapcarta, Wikipedia."
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:41:22 +0000'
+notes: 'Koordinaten basieren auf öffentlich zugänglichen Karten-/Wanderbeschreibungen
+  (Mapcarta / OpenStreetMap). Kein offizieller Straßenanschrift für das Denkmal gefunden;
+  Bild (Fotoreportage Badische Zeitung, Fotograf: Andrea Steinhart) existiert, es
+  konnte jedoch kein eindeutiger Direktlink zu einer frei verwendbaren Bilddatei (>=300×300
+  px) auf Wikimedia Commons oder ähnlichen freien Bildarchiven ermittelt werden, daher
+  Image-Feld leer gelassen. Quellen: Gemeindeseite Heuweiler, Badische Zeitung, Mapcarta,
+  Wikipedia.'
 ---
-
 #### Beschreibung
 Das Kriegerdenkmal im Kirchenwald von Heuweiler ist ein Mahnmal in Form mehrerer Gedenksteine/Findlinge, das an die Gefallenen der Weltkriege erinnert und ruhig versteckt im Wald oberhalb des Ortes liegt. ([badische-zeitung.de](https://www.badische-zeitung.de/heuweilers-kriegerdenkmal-steht-versteckt-im-wald?utm_source=openai))
 

@@ -1,18 +1,23 @@
 ---
-title: "Sozial-Caritativer Förderverein St. Remigius e.V."
-latitude: 48.051942
-longitude: 7.904279
+title: Sozial-Caritativer Förderverein St. Remigius e.V.
+latitude: 48.051985
+longitude: 7.904412
 category: Vereine
-description: "Lokaler Förderverein zur Unterstützung der sozial‑caritativen Aufgaben der Pfarrgemeinde St. Remigius in Heuweiler."
-address: "Kirchberg 6, 79194 Heuweiler, Deutschland"
-website: ""
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein; Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0) / Wikimedia Commons"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:09:08 +0000"
-notes: "Keine eigenständige offizielle Website oder eindeutig ausgewiesene Postadresse des Fördervereins online gefunden; Vereinsaktivitäten und Spendenhandlungen sind in lokalen Presseberichten und auf der Gemeindeseite dokumentiert. Koordinaten stammen aus Wikimedia Commons (Kirche St. Remigius) und wurden per Mapbox-Reverse-Geocoding überprüft; Adresse entspricht der Kirchadresse (Kirchberg 6)."
+description: Lokaler Förderverein zur Unterstützung der sozial‑caritativen Aufgaben
+  der Pfarrgemeinde St. Remigius in Heuweiler.
+address: Kirchberg 6, 79194 Heuweiler, Deutschland
+website: ''
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein; Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA
+  3.0) / Wikimedia Commons
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:09:08 +0000'
+notes: Keine eigenständige offizielle Website oder eindeutig ausgewiesene Postadresse
+  des Fördervereins online gefunden; Vereinsaktivitäten und Spendenhandlungen sind
+  in lokalen Presseberichten und auf der Gemeindeseite dokumentiert. Koordinaten stammen
+  aus Wikimedia Commons (Kirche St. Remigius) und wurden per Mapbox-Reverse-Geocoding
+  überprüft; Adresse entspricht der Kirchadresse (Kirchberg 6).
 ---
-
 #### Beschreibung
 Der Sozial‑Caritative Förderverein St. Remigius e.V. ist ein lokaler Verein in Heuweiler, der die sozial‑caritativen Aufgaben und Projekte der katholischen Pfarrgemeinde St. Remigius ideell und materiell unterstützt. ([regionimblick.de](https://regionimblick.de/news-aus-der-region/denzlingen-voerstetten-und-reute/foerderverein-st-remigius-unterstuetzt-denzlinger-hospizgruppe))
 

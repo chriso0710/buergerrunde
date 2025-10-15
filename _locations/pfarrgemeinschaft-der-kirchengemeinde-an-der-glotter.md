@@ -1,18 +1,20 @@
 ---
 title: Pfarrgemeinschaft der Kirchengemeinde „An der Glotter“ — St. Remigius (Heuweiler)
-latitude: 48.0519
-longitude: 7.9043
+latitude: 48.051985
+longitude: 7.904412
 category: Religiöse Stätten
-description: Katholische Pfarrgemeinschaft (Seelsorgeeinheit „An der Glotter“) mit der Pfarrkirche St. Remigius auf dem Kirchberg in Heuweiler.
+description: Katholische Pfarrgemeinschaft (Seelsorgeeinheit „An der Glotter“) mit
+  der Pfarrkirche St. Remigius auf dem Kirchberg in Heuweiler.
 address: Kirchberg 6, 79194 Heuweiler, Deutschland
 website: https://an-der-glotter.de/
 image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
 image_copyright: Rauenstein / CC BY-SA 3.0
 generated_by: gpt-5-mini
-generated_at: 2025-10-14 18:36:30 +0000
-notes: "Koordinaten (48.051942, 7.904279) wurden per Mapbox-Reverse-Geocoding verifiziert; Bild stammt von Wikimedia Commons (CC BY-SA 3.0). Postadresse Kirchberg 6 bestätigt durch LEO-BW."
+generated_at: 2025-10-14 18:36:30.000000000 +00:00
+notes: Koordinaten (48.051942, 7.904279) wurden per Mapbox-Reverse-Geocoding verifiziert;
+  Bild stammt von Wikimedia Commons (CC BY-SA 3.0). Postadresse Kirchberg 6 bestätigt
+  durch LEO-BW.
 ---
-
 #### Beschreibung
 Die Pfarrgemeinschaft der Kirchengemeinde „An der Glotter“ umfasst mehrere Pfarreien im Glottertal; in Heuweiler steht die Pfarrkirche St. Remigius auf dem Kirchberg und bildet den örtlichen Mittelpunkt des katholischen Gemeindelebens. ([an-der-glotter.de](https://an-der-glotter.de/kirche-vor-ort/heuweiler/gottesdienste-kirche-st-remigius/die-pfarrkirche/?utm_source=openai))
 

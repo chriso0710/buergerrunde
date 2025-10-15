@@ -1,23 +1,23 @@
 ---
-title: "Orangener Punkt (Haltestellen) Heuweiler"
-latitude: 48.051897
-longitude: 7.903127
+title: Orangener Punkt (Haltestellen) Heuweiler
+latitude: 48.051706
+longitude: 7.903312
 category: Infrastruktur
-description: "Netz von Mitfahr‑Haltestellen (Orangener Punkt) in Heuweiler zur Förderung spontaner und geplanter Fahrgemeinschaften."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://buergerrunde.heuweiler.net/op/"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:54:25 +0000"
-notes: |
+description: Netz von Mitfahr‑Haltestellen (Orangener Punkt) in Heuweiler zur Förderung
+  spontaner und geplanter Fahrgemeinschaften.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://buergerrunde.heuweiler.net/op/
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:54:25 +0000'
+notes: |-
   - Die Aktion "Orangener Punkt" besteht aus mehreren Haltestellen in Heuweiler (siehe Liste im Text).
   - Als Postadresse wurde das Gemeindehaus / Rathaus Heuweiler (Dorfstraße 21, 79194 Heuweiler) verwendet (amtliche Kontaktangaben: heuweiler.de). Quelle: Gemeindeverwaltung Heuweiler. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))
   - Für die Geo‑Koordinaten der Postadresse wurde ein Mapbox Reverse‑Geocoding‑Abfrage genutzt; Mapbox lieferte als nächstliegende Hausadresse "Dorfstraße 20" mit Koordinaten 48.051897, 7.903127 (diese Koordinate ist im Frontmatter als Latitude/Longitude eingetragen). (Ergebnis der mcp_mapbox Reverse‑Geocoding‑Abfrage).
   - Primäre Informationsquelle zur Haltestellenliste und zum Konzept: Bürgerrunde Heuweiler e.V. (Seite "Orangener Punkt"). ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
   - Kein eindeutiger, frei verfügbarer Direktlink zu einem geeigneten Bild (>=300x300 px) der Haltestellen konnte sicher verifiziert werden; das Image‑Feld wurde daher leer gelassen.
 ---
-
 #### Beschreibung
 Der "Orangene Punkt" ist eine lokale Mitfahraktion in Heuweiler: markierte Haltestellen und eine Mitfahr‑Organisation, über die sich wartende Personen und bereitwillige Fahrende unkompliziert finden und spontan Fahrgemeinschaften bilden können. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
 

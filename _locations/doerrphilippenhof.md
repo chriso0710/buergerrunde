@@ -1,18 +1,24 @@
 ---
-title: "Dörrphilippenhof (Dörrhof)"
-latitude: ""
-longitude: ""
-category: "Bauernhöfe"
-description: "Historischer Hof im Kerndorf von Heuweiler (vermutlich identisch bzw. in der Überlieferung verwandt mit dem örtlich bekannten Dörrhof)."
-address: "Dorfstraße 23, 79194 Heuweiler"
-website: ""
-image: "https://www.heuweiler.de/fileadmin/_processed_/1/e/csm_D%C3%B6rr_fb2aad0f77.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:12:33 +0000"
-notes: "Die gesuchte Bezeichnung 'Dörrphilippenhof' konnte in öffentlich zugänglichen Quellen nicht eindeutig nachgewiesen werden. Die hier erstellte Eintragung basiert auf Erwähnungen des örtlichen Dörrhofs (historisch und in der Gemeindegeschichte) und auf Bildmaterial der Gemeinde Heuweiler; Adresseangabe stammt aus lokal gelisteten Einträgen. Genaue Geo-Koordinaten für die konkrete Hofadresse konnten nicht verlässlich mittels des verfügbaren Geocoding-Tools ermittelt werden; die latitude/longitude-Felder wurden leer gelassen. Quellen und Fundstellen sind am Ende aufgeführt."
+title: Dörrphilippenhof (Dörrhof)
+latitude: 48.052494
+longitude: 7.903271
+category: Bauernhöfe
+description: Historischer Hof im Kerndorf von Heuweiler (vermutlich identisch bzw.
+  in der Überlieferung verwandt mit dem örtlich bekannten Dörrhof).
+address: Dorfstraße 23, 79194 Heuweiler
+website: ''
+image: https://www.heuweiler.de/fileadmin/_processed_/1/e/csm_D%C3%B6rr_fb2aad0f77.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:12:33 +0000'
+notes: Die gesuchte Bezeichnung 'Dörrphilippenhof' konnte in öffentlich zugänglichen
+  Quellen nicht eindeutig nachgewiesen werden. Die hier erstellte Eintragung basiert
+  auf Erwähnungen des örtlichen Dörrhofs (historisch und in der Gemeindegeschichte)
+  und auf Bildmaterial der Gemeinde Heuweiler; Adresseangabe stammt aus lokal gelisteten
+  Einträgen. Genaue Geo-Koordinaten für die konkrete Hofadresse konnten nicht verlässlich
+  mittels des verfügbaren Geocoding-Tools ermittelt werden; die latitude/longitude-Felder
+  wurden leer gelassen. Quellen und Fundstellen sind am Ende aufgeführt.
 ---
-
 #### Beschreibung
 Der Eintrag bezeichnet einen historischen Bauernhof im Kerndorf von Heuweiler, der lokal als Dörrhof bekannt ist und in regionalen Ortsbeschreibungen als einer der ältesten Höfe des Dorfes genannt wird. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))
 

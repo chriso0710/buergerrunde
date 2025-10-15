@@ -1,18 +1,20 @@
 ---
-title: "Landfrauen Heuweiler e.V."
-latitude: 48.04533
-longitude: 7.903262
+title: Landfrauen Heuweiler e.V.
+latitude: 48.045366
+longitude: 7.903349
 category: Veranstaltungsorte
-description: "Ortsverein der Landfrauen in Heuweiler, aktiv in Gemeinschaftsveranstaltungen, Brauchtumspflege und Bildung."
-address: "Hinterheuweiler 11, 79194 Heuweiler, Deutschland"
-website: "https://landfrauen-heuweiler.jimdofree.com/"
-image: "https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 18:22:26 +0000"
-notes: "Adresse und Impressum entnommen von der Vereinsseite (Jimdo). Geo-Koordinaten (48.04533, 7.903262) wurden mittels Mapbox Reverse-Geocoding (mcp_mapbox) ermittelt. Bild stammt vom Jimdo-CDN (direkter Bildlink geprüft)."
+description: Ortsverein der Landfrauen in Heuweiler, aktiv in Gemeinschaftsveranstaltungen,
+  Brauchtumspflege und Bildung.
+address: Hinterheuweiler 11, 79194 Heuweiler, Deutschland
+website: https://landfrauen-heuweiler.jimdofree.com/
+image: https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 18:22:26 +0000'
+notes: Adresse und Impressum entnommen von der Vereinsseite (Jimdo). Geo-Koordinaten
+  (48.04533, 7.903262) wurden mittels Mapbox Reverse-Geocoding (mcp_mapbox) ermittelt.
+  Bild stammt vom Jimdo-CDN (direkter Bildlink geprüft).
 ---
-
 #### Beschreibung des Ortes
 Der Landfrauenverein Heuweiler (Landfrauen Heuweiler e.V.) ist ein lokaler Frauenverein mit Programmangeboten, Veranstaltungen und Aktivitäten im ländlichen Heuweiler; Vereinsanschrift: Hinterheuweiler 11, 79194 Heuweiler. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))
 

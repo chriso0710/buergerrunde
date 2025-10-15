@@ -1,18 +1,25 @@
 ---
-title: "Bühl (Heuweiler)"
-latitude: 48.05158
-longitude: 7.90295
+title: Bühl (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Wohngebiete
-description: "Kleiner Weiler / Siedlungsname im Gebiet der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald (ein separater Ort 'Bühl' online nicht eindeutig nachweisbar)."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.heuweiler.de"
-image: "https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:07:39 +0000"
-notes: "Bei der Recherche konnte kein eigenständiger Ortsteil namens 'Bühl' innerhalb der Gemeinde Heuweiler in offiziellen Quellen (inkl. Wikipedia und kommunaler Website) eindeutig nachgewiesen werden. Deshalb bezieht sich dieser Eintrag auf die Gemeinde Heuweiler / das Gebiet um Heuweiler; die angegebenen Koordinaten stammen aus einer Mapbox-Reverse-Geocode-Abfrage (Dorfstraße 19, 79194 Heuweiler: 48.05158 N, 7.90295 E). Bild stammt von der Fotogalerie der Gemeindeseite (Heuweiler). Quellentreffer: Heuweiler (Wikipedia), Heuweiler.de (Kontakt & Fotogalerie), Mapbox-Reverse-Geocode (siehe Notes)."
+description: Kleiner Weiler / Siedlungsname im Gebiet der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald
+  (ein separater Ort 'Bühl' online nicht eindeutig nachweisbar).
+address: Heuweiler, Baden-Württemberg
+website: https://www.heuweiler.de
+image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:07:39 +0000'
+notes: 'Bei der Recherche konnte kein eigenständiger Ortsteil namens ''Bühl'' innerhalb
+  der Gemeinde Heuweiler in offiziellen Quellen (inkl. Wikipedia und kommunaler Website)
+  eindeutig nachgewiesen werden. Deshalb bezieht sich dieser Eintrag auf die Gemeinde
+  Heuweiler / das Gebiet um Heuweiler; die angegebenen Koordinaten stammen aus einer
+  Mapbox-Reverse-Geocode-Abfrage (Dorfstraße 19, 79194 Heuweiler: 48.05158 N, 7.90295
+  E). Bild stammt von der Fotogalerie der Gemeindeseite (Heuweiler). Quellentreffer:
+  Heuweiler (Wikipedia), Heuweiler.de (Kontakt & Fotogalerie), Mapbox-Reverse-Geocode
+  (siehe Notes).'
 ---
-
 #### Beschreibung
 Bühl (in diesem Eintrag bezeichnet als lokal verwendeter Siedlungsname im Gebiet der Gemeinde Heuweiler) liegt im Norden von Freiburg im Breisgau und gehört zur kleinen Gemeinde Heuweiler im Landkreis Breisgau‑Hochschwarzwald. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 

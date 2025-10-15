@@ -1,18 +1,23 @@
 ---
-title: "Froschbächle (Heuweiler)"
-latitude: 48.04533
-longitude: 7.903262
+title: Froschbächle (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Naturdenkmäler
-description: "Kleines Tal und Quellbereich (Bachlauf) in der Gemarkung Heuweiler, das die Talwanne des Ortes entwässert."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:35:40 +0000"
-notes: "Keine eigenständige Postadresse oder offizielle Website für das Froschbächle gefunden; Bild direkt für 'Froschbächle' nicht auffindbar, darum image leer gelassen. Koordinaten stammen aus einer Mapbox-Reverse-Geocoding-Abfrage (ergebnisnahe Adresse: Hinterheuweiler 11; Koordinaten 48.04533, 7.903262) und wurden mit öffentlich verfügbaren Ortskoordinaten (Heuweiler) abgeglichen. Quellen: de.wikipedia, LEO-BW, Gemeinde-Website Heuweiler; Mapbox-Reverse-Geocode (mcp_mapbox) ergab die oben angegebenen Koordinaten/Adresse."
+description: Kleines Tal und Quellbereich (Bachlauf) in der Gemarkung Heuweiler, das
+  die Talwanne des Ortes entwässert.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:35:40 +0000'
+notes: 'Keine eigenständige Postadresse oder offizielle Website für das Froschbächle
+  gefunden; Bild direkt für ''Froschbächle'' nicht auffindbar, darum image leer gelassen.
+  Koordinaten stammen aus einer Mapbox-Reverse-Geocoding-Abfrage (ergebnisnahe Adresse:
+  Hinterheuweiler 11; Koordinaten 48.04533, 7.903262) und wurden mit öffentlich verfügbaren
+  Ortskoordinaten (Heuweiler) abgeglichen. Quellen: de.wikipedia, LEO-BW, Gemeinde-Website
+  Heuweiler; Mapbox-Reverse-Geocode (mcp_mapbox) ergab die oben angegebenen Koordinaten/Adresse.'
 ---
-
 #### Beschreibung des Ortes
 Das Froschbächle ist kein eigenständiger Ort im Sinne einer Anschrift, sondern ein kleines Tal/Quellgebiet und der namensgebende Bachlauf in der Gemarkung Heuweiler, das zusammen mit dem Taubental die nordwärts entwässernde Talstruktur des Gemeindegebiets bildet. ([leo-bw.de](https://www.leo-bw.de/detail-gis/-/Detail/details/ORT/labw_ortslexikon/8403/Heuweiler%2BFR?utm_source=openai))
 

@@ -1,20 +1,21 @@
 ---
 title: Freiwillige Feuerwehr Heuweiler
-latitude: ""
-longitude: ""
+latitude: 48.051623
+longitude: 7.901629
 category: Vereine
-description: Die Freiwillige Feuerwehr Heuweiler (FFW Heuweiler) ist die ehrenamtlich geführte Ortsfeuerwehr der Gemeinde Heuweiler und ist im Gerätehaus an der Gundelfinger Straße 11 untergebracht.
+description: Die Freiwillige Feuerwehr Heuweiler (FFW Heuweiler) ist die ehrenamtlich
+  geführte Ortsfeuerwehr der Gemeinde Heuweiler und ist im Gerätehaus an der Gundelfinger
+  Straße 11 untergebracht.
 address: Gundelfinger Straße 11, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de/unsere-gemeinde/feuerwehr
 image: https://www.heuweiler.de/fileadmin/_processed_/9/b/csm_Feuerwehr_11f78a8c6d.jpg
-image_copyright: ""
+image_copyright: ''
 generated_by: gpt-5-mini
-generated_at: 2025-10-15 12:06:37 +0000
-notes: |
+generated_at: 2025-10-15 12:06:37.000000000 +00:00
+notes: |-
   - Adresse und Kontaktdaten stammen von der offiziellen Gemeindeseite; genaue Geo-Koordinaten für die Hausnummer Gundelfinger Straße 11 konnten mit dem verfügbaren mapbox reverse-geocoding tool während der Recherche nicht eindeutig verifiziert werden; deshalb sind latitude/longitude leer gelassen.
   - Quellseiten: Gemeinde Heuweiler (Feuerwehr-Seite, Impressum) und Wikipedia-Eintrag Heuweiler; Bild von der Gemeinde-Webseite (direkter Bildlink).
 ---
-
 #### Beschreibung
 Die Freiwillige Feuerwehr Heuweiler ist die lokale, ehrenamtliche Feuerwehr der Gemeinde Heuweiler; das Gerätehaus und die Ansprechpartner sind auf der Gemeindeseite aufgeführt. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/feuerwehr))
 

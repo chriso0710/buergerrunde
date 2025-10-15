@@ -1,18 +1,22 @@
 ---
-title: "Messdiener St. Remigius (Heuweiler)"
-latitude: 48.051942
-longitude: 7.904279
+title: Messdiener St. Remigius (Heuweiler)
+latitude: 48.051985
+longitude: 7.904412
 category: Religiöse Stätten
-description: "Die Messdiener der Pfarrgemeinde St. Remigius sind die ehrenamtliche Altardienstgruppe der katholischen Gemeinde in Heuweiler."
-address: "Kirchberg 6, 79194 Heuweiler"
-website: "https://an-der-glotter.de/kirche-vor-ort/heuweiler/"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 18:33:52 +0000"
-notes: "Eintrag behandelt die Messdiener als Gruppierung an der Pfarrkirche St. Remigius (Kirchberg 6). Es existiert in Quellen eine leichte Abweichung der Hausnummer (Kirchberg 4 vs. 6); die hier angegebenen Koordinaten stammen von Reverse‑Geocoding (Mapbox) für den Kirchberg-Standort. 'Messdiener' bezeichnet primär eine Gruppe (kein eigenes Gebäude)."
+description: Die Messdiener der Pfarrgemeinde St. Remigius sind die ehrenamtliche
+  Altardienstgruppe der katholischen Gemeinde in Heuweiler.
+address: Kirchberg 6, 79194 Heuweiler
+website: https://an-der-glotter.de/kirche-vor-ort/heuweiler/
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 18:33:52 +0000'
+notes: Eintrag behandelt die Messdiener als Gruppierung an der Pfarrkirche St. Remigius
+  (Kirchberg 6). Es existiert in Quellen eine leichte Abweichung der Hausnummer (Kirchberg
+  4 vs. 6); die hier angegebenen Koordinaten stammen von Reverse‑Geocoding (Mapbox)
+  für den Kirchberg-Standort. 'Messdiener' bezeichnet primär eine Gruppe (kein eigenes
+  Gebäude).
 ---
-
 #### Beschreibung
 Die Messdiener St. Remigius sind die Ministrantengruppe der katholischen Pfarrgemeinde St. Remigius in Heuweiler; sie unterstützen die liturgischen Feiern und treffen sich zu Gruppenstunden und Aktionen. ([an-der-glotter.de](https://an-der-glotter.de/kirche-vor-ort/heuweiler/?utm_source=openai))
 

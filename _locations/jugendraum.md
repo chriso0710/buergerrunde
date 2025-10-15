@@ -1,18 +1,28 @@
 ---
-title: "Jugendraum Heuweiler"
-latitude: 48.0518
-longitude: 7.9047
+title: Jugendraum Heuweiler
+latitude: 48.051437
+longitude: 7.904522
 category: Vereine
-description: "Gemeindlicher Treffpunkt für Kinder und Jugendliche im Gebäudekomplex am Kirchberg (bei Kirchberghalle / Grundschule) in Heuweiler."
-address: "Kirchberg 2, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 08:27:36 +0000"
-notes: "Adresse 'Kirchberg 2, 79194 Heuweiler' ist in lokalen Verzeichnissen (Grundschule, Kirchberghalle) und Veranstaltungseinträgen als Standort für Kirchberghalle / Jugendraum angegeben. Exakte Hausnummern-Geokodierung: Mapbox-Reverse-Geocoding ergab nahe Werte für Kirchberg (z.B. Kirchberg 3 / 6 / 10); die oben angegebenen Koordinaten (48.0518, 7.9047) sind gerundet und entsprechen der Kirchberg-/Kirchen- bzw. Kirchberghallen-Nähe (Mapbox-Abfragen). Es konnte kein frei verfügbarer Direktlink zu einem spezifischen Foto des Jugendraums (als Direktbild-URL >=300×300 px) gefunden werden; daher ist das Bildfeld leer. Quellen: Gemeindeseite Heuweiler, Wikipedia Heuweiler, lokale Verzeichnisse / BZ-Einträge. Wenn Sie exakte Hausnummer-Koordinaten (z. B. für 'Am Kirchberg 2') benötigen, kann ich weitere Mapbox-Abfragen durchführen oder alternativ OpenStreetMap/Google-Maps-Koordinaten direkt ermitteln."
+description: Gemeindlicher Treffpunkt für Kinder und Jugendliche im Gebäudekomplex
+  am Kirchberg (bei Kirchberghalle / Grundschule) in Heuweiler.
+address: Kirchberg 2, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 08:27:36 +0000'
+notes: 'Adresse ''Kirchberg 2, 79194 Heuweiler'' ist in lokalen Verzeichnissen (Grundschule,
+  Kirchberghalle) und Veranstaltungseinträgen als Standort für Kirchberghalle / Jugendraum
+  angegeben. Exakte Hausnummern-Geokodierung: Mapbox-Reverse-Geocoding ergab nahe
+  Werte für Kirchberg (z.B. Kirchberg 3 / 6 / 10); die oben angegebenen Koordinaten
+  (48.0518, 7.9047) sind gerundet und entsprechen der Kirchberg-/Kirchen- bzw. Kirchberghallen-Nähe
+  (Mapbox-Abfragen). Es konnte kein frei verfügbarer Direktlink zu einem spezifischen
+  Foto des Jugendraums (als Direktbild-URL >=300×300 px) gefunden werden; daher ist
+  das Bildfeld leer. Quellen: Gemeindeseite Heuweiler, Wikipedia Heuweiler, lokale
+  Verzeichnisse / BZ-Einträge. Wenn Sie exakte Hausnummer-Koordinaten (z. B. für ''Am
+  Kirchberg 2'') benötigen, kann ich weitere Mapbox-Abfragen durchführen oder alternativ
+  OpenStreetMap/Google-Maps-Koordinaten direkt ermitteln.'
 ---
-
 #### Beschreibung
 Der Jugendraum in Heuweiler ist ein betreuter Treffpunkt für Kinder und Jugendliche im Ortszentrum (Kirchberg), der als offener Raum für Treffen, Aktionen und Angebote der Jugendarbeit dient.
 

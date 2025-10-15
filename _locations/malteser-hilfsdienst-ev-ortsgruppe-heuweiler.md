@@ -1,18 +1,25 @@
 ---
-title: "Malteser Hilfsdienst e.V. / Ortsgruppe Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
+title: Malteser Hilfsdienst e.V. / Ortsgruppe Heuweiler
+latitude: 48.054696
+longitude: 7.905291
 category: Infrastruktur
-description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, aktiv in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.malteser-heuweiler.de/"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein / CC BY‑SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 18:29:39 +0000"
-notes: "Offizielle lokale Website (www.malteser-heuweiler.de) wird in der Gemeindeverwaltung als Vereinshomepage geführt, war während der Recherche zeitweise nicht erreichbar. Konkrete Straßenadresse der Ortsgruppe wurde nicht öffentlich aufgeführt; die angegebenen Koordinaten (48.05158, 7.90295) stammen aus einer Reverse‑Geocoding‑Abfrage für das Ortszentrum / Dorfstraße in Heuweiler (Mapbox) und liegen im unmittelbaren Zentrum der Gemeinde; für Kontakt/Telefon/Fax siehe Vereinsliste der Gemeindeverwaltung. Quellen: Gemeindeverwaltung Heuweiler, Malteser Deutschland (Standortseite), Wikipedia Heuweiler, an-der-glotter (Seelsorge/Ortsgruppen‑Infos), Wikimedia Commons."
+description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, aktiv
+  in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
+address: Heuweiler, Baden-Württemberg
+website: https://www.malteser-heuweiler.de/
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein / CC BY‑SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 18:29:39 +0000'
+notes: 'Offizielle lokale Website (www.malteser-heuweiler.de) wird in der Gemeindeverwaltung
+  als Vereinshomepage geführt, war während der Recherche zeitweise nicht erreichbar.
+  Konkrete Straßenadresse der Ortsgruppe wurde nicht öffentlich aufgeführt; die angegebenen
+  Koordinaten (48.05158, 7.90295) stammen aus einer Reverse‑Geocoding‑Abfrage für
+  das Ortszentrum / Dorfstraße in Heuweiler (Mapbox) und liegen im unmittelbaren Zentrum
+  der Gemeinde; für Kontakt/Telefon/Fax siehe Vereinsliste der Gemeindeverwaltung.
+  Quellen: Gemeindeverwaltung Heuweiler, Malteser Deutschland (Standortseite), Wikipedia
+  Heuweiler, an-der-glotter (Seelsorge/Ortsgruppen‑Infos), Wikimedia Commons.'
 ---
-
 #### Beschreibung
 Der Eintrag beschreibt die Ortsgruppe Heuweiler des Malteser Hilfsdienstes e.V., eine lokale Ehrenamts‑Gliederung, die sich auf Sanitätsdienste, Seniorenarbeit und Erste‑Hilfe‑Einsätze im Dorf und der Umgebung konzentriert. ([malteser.de](https://www.malteser.de/standorte/heuweiler.html))
 

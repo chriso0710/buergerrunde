@@ -1,21 +1,20 @@
 ---
 title: Bürgermeisteramt / Gemeindeverwaltung Heuweiler
-latitude: 48.05158
-longitude: 7.90295
+latitude: 48.051706
+longitude: 7.903312
 category: Öffentliche Gebäude
 description: Sitz des Bürgermeisters und der Gemeindeverwaltung von Heuweiler (Gemeindehaus).
 address: Dorfstraße 21, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
 image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg
-image_copyright: ""
+image_copyright: ''
 generated_by: gpt-5-mini
-generated_at: 2025-10-14 19:01:07 +0000
-notes: |
+generated_at: 2025-10-14 19:01:07.000000000 +00:00
+notes: |-
   - Postadresse, Telefon und Öffnungszeiten stammen von der offiziellen Gemeindeseite (Fotogalerie / Kontakt & Öffnungszeiten) und dem Impressum der Gemeinde Heuweiler.
   - Für Geo-Koordinaten wurde ein Reverse-Geocoding-Versuch mit Mapbox durchgeführt; Mapbox lieferte als nächstliegende Adresse "Dorfstraße 19" mit Koordinaten 48.05158, 7.90295. Die offizielle Postadresse auf der Gemeindeseite ist jedoch Dorfstraße 21; die angegebenen Koordinaten in diesem Eintrag entsprechen dem nächsten adressierbaren Punkt, wie vom Geocoding-Tool zurückgegeben. Keine fiktiven Koordinaten verwendet.
   - Bild: Direktlink zur Bilddatei auf der offiziellen Website (Fotogalerie). Keine expliziten Urheberrechtsangaben auf der Bilddatei gefunden.
 ---
-
 #### Beschreibung
 Das Bürgermeisteramt / die Gemeindeverwaltung Heuweiler ist das öffentliche Verwaltungsgebäude der Gemeinde Heuweiler und beherbergt die Amtsstuben des Bürgermeisters sowie das Rathausbüro für Bürgeranliegen. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
 

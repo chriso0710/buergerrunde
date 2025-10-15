@@ -1,18 +1,22 @@
 ---
 title: Kath. Kindergarten Sonnenhügel
-latitude: 48.051361
-longitude: 7.904979
+latitude: 48.051295
+longitude: 7.904944
 category: Öffentliche Gebäude
-description: Kleiner zweigruppiger katholischer Kindergarten in Trägerschaft der Pfarrgemeinde St. Remigius mit familiärer Atmosphäre und pädagogischem Mix (Montessori-, Waldorf- und Waldpädagogik-Elemente).
+description: Kleiner zweigruppiger katholischer Kindergarten in Trägerschaft der Pfarrgemeinde
+  St. Remigius mit familiärer Atmosphäre und pädagogischem Mix (Montessori-, Waldorf-
+  und Waldpädagogik-Elemente).
 address: Kirchberg 2a, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.an-der-glotter.de/wir-bieten/kindertagesstaetten/kita-heuweiler-zum-sonnenhuegel/
 image: https://www.heuweiler.de/fileadmin/_processed_/0/e/csm_1_Kindergartenspende_e21e6b8760.jpeg
-image_copyright: ""
+image_copyright: ''
 generated_by: gpt-5-mini
-generated_at: 2025-10-15 08:31:59 +0000
-notes: "Adresse und Kontaktdaten wurden aus den offiziellen Seiten der Seelsorgeeinheit 'An der Glotter' und Gemeindeseiten entnommen; Koordinaten für Kirchberg 2a wurden mit öffentlich dokumentierten Koordinaten geprüft (Kitanetz) und mit Mapbox-Reverse-Geocoding verifiziert."
+generated_at: 2025-10-15 08:31:59.000000000 +00:00
+notes: Adresse und Kontaktdaten wurden aus den offiziellen Seiten der Seelsorgeeinheit
+  'An der Glotter' und Gemeindeseiten entnommen; Koordinaten für Kirchberg 2a wurden
+  mit öffentlich dokumentierten Koordinaten geprüft (Kitanetz) und mit Mapbox-Reverse-Geocoding
+  verifiziert.
 ---
-
 #### Beschreibung
 Der Katholische Kindergarten Sonnenhügel in Heuweiler ist eine zweigruppige Einrichtung (Pinguin-, Löwen- und Kleinkindgruppe) mit ca. 52 Plätzen, die ein christlich orientiertes, aber konfessionsoffenes pädagogisches Profil verfolgt. ([an-der-glotter.de](https://www.an-der-glotter.de/wir-bieten/kindertagesstaetten/kita-heuweiler-zum-sonnenhuegel/die-einrichtung/?utm_source=openai))
 

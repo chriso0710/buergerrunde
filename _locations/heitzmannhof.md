@@ -1,16 +1,17 @@
 ---
-title: "Heitzmannhof (Heuweiler)"
-latitude: ""
-longitude: ""
+title: Heitzmannhof (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Bauernhöfe
-description: "Kleiner landwirtschaftlicher Hof / Wegpunkt am Rand von Heuweiler (nicht eindeutig online dokumentiert)."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:28:57 +0000"
-notes: |
+description: Kleiner landwirtschaftlicher Hof / Wegpunkt am Rand von Heuweiler (nicht
+  eindeutig online dokumentiert).
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:28:57 +0000'
+notes: |-
   Recherche-Anmerkungen:
   - Nach Internetrecherche wurde kein eigenständiger, offiziell aufgeführter Eintrag (Postadresse oder eigene Website) für einen "Heitzmannhof" in Heuweiler gefunden.
   - Der Name "Heitzmannhof" taucht als Wegpunkt/Bezugspunkt in Wanderbeschreibungen (z. B. Schwarzwaldverein St. Peter) auf, siehe Referenzen unten. Quelle: Schwarzwaldverein (Vollmondwanderung), gefunden über web.run. ([schwarzwaldverein-st-peter.de](https://www.schwarzwaldverein-st-peter.de/Veranstaltung/vollmondwanderung/))
@@ -18,7 +19,6 @@ notes: |
   - Genutzte Hauptquellen: Wikipedia (Heuweiler), Gemeinde-Website Heuweiler, Schwarzwaldverein, lokale Hof- und Vereinsverzeichnisse. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
   - Bild: Kein verlässlicher Direktlink zu einem Bild des expliziten Hofes "Heitzmannhof" gefunden — Feld leer gelassen.
 ---
-
 #### Beschreibung des Ortes
 Der Heitzmannhof wird in lokalen Wanderbeschreibungen und als Hof-/Wegpunkt am Rand von Heuweiler erwähnt; es handelt sich offenbar um einen kleineren landwirtschaftlichen Betrieb bzw. Hof in der Umgebung von Heuweiler (nicht als eigenständiger Eintrag mit Postadresse oder Website auffindbar). ([schwarzwaldverein-st-peter.de](https://www.schwarzwaldverein-st-peter.de/Veranstaltung/vollmondwanderung/))
 

@@ -1,23 +1,24 @@
 ---
-title: "Neue Liste Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
+title: Neue Liste Heuweiler
+latitude: 48.054696
+longitude: 7.905291
 category: Vereine
-description: "Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:24:45 +0000"
-notes: >
-  Keine eigenständige Postadresse oder offizielle Website für die "Neue Liste" Heuweiler gefunden;
-  die Einträge beziehen sich auf die Gemeinderatsliste / Wählervereinigung innerhalb der Gemeinde Heuweiler.
-  Als allgemeine Kontaktadresse für Angelegenheiten rund um die Liste wurde die Gemeindeverwaltung Heuweiler (Dorfstraße 21, 79194 Heuweiler) herangezogen.
-  Koordinaten (latitude/longitude) wurden mit Mapbox Reverse-Geocoding verifiziert (Ergebnis nahe Dorfstraße 19 / 21, Heuweiler).
-  Wichtige Quellen: Gemeinde Heuweiler (Kontakt, Gemeinderat/Ausschüsse), Wikipedia Heuweiler, Berichterstattung zur Gemeinderatswahl 2024.
+description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:24:45 +0000'
+notes: 'Keine eigenständige Postadresse oder offizielle Website für die "Neue Liste"
+  Heuweiler gefunden; die Einträge beziehen sich auf die Gemeinderatsliste / Wählervereinigung
+  innerhalb der Gemeinde Heuweiler. Als allgemeine Kontaktadresse für Angelegenheiten
+  rund um die Liste wurde die Gemeindeverwaltung Heuweiler (Dorfstraße 21, 79194 Heuweiler)
+  herangezogen. Koordinaten (latitude/longitude) wurden mit Mapbox Reverse-Geocoding
+  verifiziert (Ergebnis nahe Dorfstraße 19 / 21, Heuweiler). Wichtige Quellen: Gemeinde
+  Heuweiler (Kontakt, Gemeinderat/Ausschüsse), Wikipedia Heuweiler, Berichterstattung
+  zur Gemeinderatswahl 2024.'
 ---
-
 #### Beschreibung
 Die "Neue Liste" ist eine lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler, die im Gemeinderat vertreten ist und kommunalpolitisch aktiv agiert. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/gemeinderat/ausschuesse?utm_source=openai))
 

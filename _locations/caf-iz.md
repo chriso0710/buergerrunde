@@ -1,18 +1,24 @@
 ---
-title: "Café iz"
-latitude: ""
-longitude: ""
-category: "Geschäfte & Gastronomie"
-description: "Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuweiler, betrieben von Ines Zschau."
-address: "Dorfstraße 22, 79194 Heuweiler"
-website: "https://cafe-iz.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:37:18 +0000"
-notes: "Bei der Generierung wurden die offizielle Website und das Impressum von Café iz (cafe-iz.de) sowie Berichte der Badischen Zeitung und Projektseiten zum Alt‑Vogtshof verwendet. Es wurde versucht, mit Mapbox-Reverse-Geocoding die genauen Koordinaten für Dorfstraße 22 zu finden; Mapbox lieferte nahegelegene Hausnummern (z. B. Dorfstraße 19: lat 48.05158, lon 7.90295 / routable point 48.051552, 7.903039), konnte aber keine explizite Enträge für Nr. 22 zurückgeben — daher sind die Koordinaten im Eintrag leer gelassen worden. Quellen und Hinweise siehe Referenzen."
+title: Café iz
+latitude: 48.052077
+longitude: 7.903343
+category: Geschäfte & Gastronomie
+description: Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuweiler,
+  betrieben von Ines Zschau.
+address: Dorfstraße 22, 79194 Heuweiler
+website: https://cafe-iz.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:37:18 +0000'
+notes: 'Bei der Generierung wurden die offizielle Website und das Impressum von Café
+  iz (cafe-iz.de) sowie Berichte der Badischen Zeitung und Projektseiten zum Alt‑Vogtshof
+  verwendet. Es wurde versucht, mit Mapbox-Reverse-Geocoding die genauen Koordinaten
+  für Dorfstraße 22 zu finden; Mapbox lieferte nahegelegene Hausnummern (z. B. Dorfstraße
+  19: lat 48.05158, lon 7.90295 / routable point 48.051552, 7.903039), konnte aber
+  keine explizite Enträge für Nr. 22 zurückgeben — daher sind die Koordinaten im Eintrag
+  leer gelassen worden. Quellen und Hinweise siehe Referenzen.'
 ---
-
 #### Beschreibung des Ortes
 Das Café iz ist ein kleines, gemütliches Café mit angeschlossenem Dorfladen im historischen Alt‑Vogtshof im Ortskern von Heuweiler; Betreiberin ist Ines Zschau. ([cafe-iz.de](https://cafe-iz.de/?utm_source=openai))
 

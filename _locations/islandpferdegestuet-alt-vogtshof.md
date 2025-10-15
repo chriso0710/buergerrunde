@@ -1,22 +1,22 @@
 ---
-title: "Islandpferdegestüt Alt-Vogtshof"
-latitude: ""
-longitude: ""
-category: "Bauernhöfe"
-description: "Islandpferdegestüt und Reitschule im Ort Heuweiler (Breisgau), bekannt unter dem Namen Alt‑Vogtshof."
-address: "Kirchberg 10, 79194 Heuweiler, Baden‑Württemberg, Deutschland"
-website: "http://www.islandpferdegestuet-alt-vogtshof.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg"
-image_copyright: "Wladyslaw Sojka (Taxiarchos228) — CC BY 3.0"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:20:24 +0000"
-notes: |
+title: Islandpferdegestüt Alt-Vogtshof
+latitude: 48.052003
+longitude: 7.904049
+category: Bauernhöfe
+description: Islandpferdegestüt und Reitschule im Ort Heuweiler (Breisgau), bekannt
+  unter dem Namen Alt‑Vogtshof.
+address: Kirchberg 10, 79194 Heuweiler, Baden‑Württemberg, Deutschland
+website: http://www.islandpferdegestuet-alt-vogtshof.de
+image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg
+image_copyright: Wladyslaw Sojka (Taxiarchos228) — CC BY 3.0
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:20:24 +0000'
+notes: |-
   - Adresse und Kontaktdaten (Kirchberg 10; Tel. 07666 9129611) konnten in Branchenverzeichnissen und Reitschul-Verzeichnissen bestätigt werden, vgl. Cavallo und Öffnungszeitenbuch. ([cavallo.de](https://www.cavallo.de/reitschultests/reitschulen-in-und-um-freiburg/?utm_source=openai))
   - Offizielle Website wurde in Verzeichnissen angegeben (www.islandpferdegestuet-alt-vogtshof.de), die Seite war beim Crawlen nicht erreichbar/geladen. ([cavallo.de](https://www.cavallo.de/reitschultests/reitschulen-in-und-um-freiburg/?utm_source=openai))
   - Versuch, die genauen Geo-Koordinaten für Kirchberg 10 zu bestimmen: Mapbox Reverse-Geocoding wurde mit den Gemeindekoordinaten (48.051667, 7.903056) aufgerufen; es lieferte als nächstliegende Adresse Dorfstraße 19 (48.05158, 7.90295). Es konnten keine verlässlichen, direkt zu Kirchberg 10 zuordenbaren Koordinaten über das verfügbare Geocoding/Wegpunkt‑Material gefunden werden, daher sind Latitude/Longitude leer gelassen. (Mapbox Reverse-Geocode-Ausgabe: Dorfstraße 19 — 48.05158, 7.90295).
   - Wichtige Quellen: Wikipedia (Heuweiler), Badische Zeitung, Hopp+Hofmann (Alt‑Vogtshof Projekt), Cavallo (Reitschul-Test), Wikimedia Commons (Bild). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 ---
-
 #### Beschreibung
 Das Islandpferdegestüt Alt‑Vogtshof ist ein lokaler Reitbetrieb/Islandpferdegestüt in Heuweiler (Breisgau), das Reitunterricht, Pensionsplätze und Veranstaltungen rund um Islandpferde anbietet. ([cavallo.de](https://www.cavallo.de/reitschultests/reitschulen-in-und-um-freiburg/?utm_source=openai))
 

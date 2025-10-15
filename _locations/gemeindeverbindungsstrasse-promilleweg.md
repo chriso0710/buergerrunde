@@ -1,19 +1,26 @@
 ---
 title: Gemeindeverbindungsstraße ("Promilleweg"), Heuweiler
-latitude: 48.051897
-longitude: 7.903127
+latitude: 48.054696
+longitude: 7.905291
 category: Straßen & Wege
-description: Lokale Gemeindeverbindungsstraße in Heuweiler (umgangssprachlich „Promilleweg“), vor allem als Nebenverbindung/Ausweichstrecke genutzt.
+description: Lokale Gemeindeverbindungsstraße in Heuweiler (umgangssprachlich „Promilleweg“),
+  vor allem als Nebenverbindung/Ausweichstrecke genutzt.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
 image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal_4.jpg
 image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0 (Wikimedia Commons)
 generated_by: gpt-5-mini
-generated_at: 2025-10-15 10:39:53 +0000
-notes: |
-  - Die Bezeichnung „Promilleweg“ ist in Deutschland häufig eine volkstümliche, nicht-offizielle Benennung für kleinere Verbindungswege; für Heuweiler konnte kein offizieller amtlicher Eintrag für eine Straße mit dem offiziellen Namen "Promilleweg" gefunden werden. Offizielle Gemeindeadresse und Kontaktinformationen stammen von der Gemeindehomepage bzw. dem Gemeindeverzeichnis; die oben angegebenen Koordinaten wurden bei der Recherche (Reverse-Geocoding / Lageprüfung in der Dorfstraße) bestätigt. Koordinaten basieren auf amtlichen/öffentlichen Einträgen in der Umgebung (Dorfstraße 20–21) und einer Mapbox-Reverse-Geocode-Abfrage; die eigentliche Gemeindeverbindungsstraße hat in öffentlich zugänglichen Verzeichnissen keine eigene Postanschrift.
+generated_at: 2025-10-15 10:39:53.000000000 +00:00
+notes: '- Die Bezeichnung „Promilleweg“ ist in Deutschland häufig eine volkstümliche,
+  nicht-offizielle Benennung für kleinere Verbindungswege; für Heuweiler konnte kein
+  offizieller amtlicher Eintrag für eine Straße mit dem offiziellen Namen "Promilleweg"
+  gefunden werden. Offizielle Gemeindeadresse und Kontaktinformationen stammen von
+  der Gemeindehomepage bzw. dem Gemeindeverzeichnis; die oben angegebenen Koordinaten
+  wurden bei der Recherche (Reverse-Geocoding / Lageprüfung in der Dorfstraße) bestätigt.
+  Koordinaten basieren auf amtlichen/öffentlichen Einträgen in der Umgebung (Dorfstraße
+  20–21) und einer Mapbox-Reverse-Geocode-Abfrage; die eigentliche Gemeindeverbindungsstraße
+  hat in öffentlich zugänglichen Verzeichnissen keine eigene Postanschrift.'
 ---
-
 #### Beschreibung
 Die als „Promilleweg“ bezeichnete Gemeindeverbindungsstraße in Heuweiler ist eine kleinere Ortsverbindungsstraße/Verbindungsweg auf der Gemarkung Heuweiler, die lokal als Neben- bzw. Schleichverbindung genutzt wird; die Bezeichnung „Promilleweg“ ist umgangssprachlich und nicht als offizieller Straßenname in amtlichen Verzeichnissen dokumentiert. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler))
 

@@ -1,18 +1,21 @@
 ---
-title: "Kirchenchor St. Remigius (Heuweiler)"
-latitude: 48.051942
-longitude: 7.904279
+title: Kirchenchor St. Remigius (Heuweiler)
+latitude: 48.051985
+longitude: 7.904412
 category: Vereine
-description: "Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste und kirchliche Feste musikalisch begleitet."
-address: "Kirchberg 6, 79194 Heuweiler"
-website: "https://an-der-glotter.de/fuer-mitmacher/kirchenmusik/kirchenchor-glottertal/"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein / CC BY-SA 3.0 (Wikimedia Commons)"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 12:11:28 +0000"
-notes: "Adressen und Informationen aus Gemeinde- und Dekanatsseiten; Bild (St. Remigius) von Wikimedia Commons geprüft (Direktlink). Geo-Koordinaten für Kirchberg 6 (48.051942, 7.904279) über Mapbox-Reverse-Geocoding verifiziert; Fallweise beziehen sich Kontaktinfos auf das Pfarrbüro der Seelsorgeeinheit 'An der Glotter'."
+description: Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste
+  und kirchliche Feste musikalisch begleitet.
+address: Kirchberg 6, 79194 Heuweiler
+website: https://an-der-glotter.de/fuer-mitmacher/kirchenmusik/kirchenchor-glottertal/
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein / CC BY-SA 3.0 (Wikimedia Commons)
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 12:11:28 +0000'
+notes: Adressen und Informationen aus Gemeinde- und Dekanatsseiten; Bild (St. Remigius)
+  von Wikimedia Commons geprüft (Direktlink). Geo-Koordinaten für Kirchberg 6 (48.051942,
+  7.904279) über Mapbox-Reverse-Geocoding verifiziert; Fallweise beziehen sich Kontaktinfos
+  auf das Pfarrbüro der Seelsorgeeinheit 'An der Glotter'.
 ---
-
 #### Beschreibung
 Der Kirchenchor St. Remigius ist die kirchliche Chorformation der Pfarrgemeinde St. Remigius in Heuweiler und gestaltet regelmäßig Gottesdienste und liturgische Feiern in der Pfarrkirche mit. ([an-der-glotter.de](https://an-der-glotter.de/fuer-mitmacher/kirchenmusik/kirchenchor-glottertal/?utm_source=openai))
 

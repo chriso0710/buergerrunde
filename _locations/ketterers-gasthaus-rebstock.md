@@ -1,18 +1,22 @@
 ---
-title: "Ketterer's Gasthaus Rebstock"
-latitude: 48.051897
-longitude: 7.903127
-category: "Geschäfte & Gastronomie"
-description: "Traditionelles Dorfwirtshaus in Heuweiler, bekannt für regionale Küche und Wildspezialitäten."
-address: "Dorfstraße 20, 79194 Heuweiler, Deutschland"
-website: "http://rebstock-heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 09:43:19 +0000"
-notes: "Postadresse und Kontakt aus der offiziellen Website (Datenschutz/Impressum). Exakte Koordinaten (48.051897, 7.903127) wurden per Mapbox Reverse-Geocoding überprüft; kein verlässlicher Direktlink zu einem Bild des Gasthauses gefunden, daher Bildfeld leer gelassen. Quellen: Rebstock-Website, lokale Branchenverzeichnisse, Heuweiler (Wikipedia), zusätzliche Geokodierung (tasda.de)."
+title: Ketterer's Gasthaus Rebstock
+latitude: 48.051906
+longitude: 7.903079
+category: Geschäfte & Gastronomie
+description: Traditionelles Dorfwirtshaus in Heuweiler, bekannt für regionale Küche
+  und Wildspezialitäten.
+address: Dorfstraße 20, 79194 Heuweiler, Deutschland
+website: http://rebstock-heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 09:43:19 +0000'
+notes: 'Postadresse und Kontakt aus der offiziellen Website (Datenschutz/Impressum).
+  Exakte Koordinaten (48.051897, 7.903127) wurden per Mapbox Reverse-Geocoding überprüft;
+  kein verlässlicher Direktlink zu einem Bild des Gasthauses gefunden, daher Bildfeld
+  leer gelassen. Quellen: Rebstock-Website, lokale Branchenverzeichnisse, Heuweiler
+  (Wikipedia), zusätzliche Geokodierung (tasda.de).'
 ---
-
 #### Beschreibung
 Ketterer's Gasthaus Rebstock ist ein traditionelles Dorfwirtshaus in Heuweiler mit regionaler, hausgemachter Küche und einem Schwerpunkt auf Wildgerichten. ([rebstock-heuweiler.de](https://www.rebstock-heuweiler.de/?utm_source=openai))
 

@@ -1,18 +1,24 @@
 ---
-title: "Gemeindeteam „St. Remigius Heuweiler“"
-latitude: 48.051936
-longitude: 7.904433
+title: Gemeindeteam „St. Remigius Heuweiler“
+latitude: 48.0521
+longitude: 7.905114
 category: Religiöse Stätten
-description: "Das Gemeindeteam der Pfarrgemeinde St. Remigius in Heuweiler (Kirchberg 4) betreut die katholische Gemeinde vor Ort und organisiert Gottesdienste und Gemeindeleben."
-address: "Kirchberg 4, 79194 Heuweiler, Deutschland"
-website: "https://www.an-der-glotter.de"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg"
-image_copyright: "Rauenstein / Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0) via Wikimedia Commons"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 18:39:11 +0000"
-notes: "Koordinaten stammen aus den Metadaten der Wikimedia-Commons-Fotodatei der Kirche (48.051936, 7.904433). Zusätzlich wurde eine Mapbox-Reverse-Geocode-Abfrage durchgeführt; diese gab eine nahe Adresse (Kirchberg 6, Koordinaten 48.051942, 7.904279) zurück — die offizielle Adresse der Kirche/Pfarrei wird in den Gemeindeseiten als Kirchberg 4, 79194 Heuweiler angegeben. Quellen und Bild-URL sind unten in den Referenzen aufgeführt."
+description: Das Gemeindeteam der Pfarrgemeinde St. Remigius in Heuweiler (Kirchberg
+  4) betreut die katholische Gemeinde vor Ort und organisiert Gottesdienste und Gemeindeleben.
+address: Kirchberg 4, 79194 Heuweiler, Deutschland
+website: https://www.an-der-glotter.de
+image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
+image_copyright: Rauenstein / Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA
+  3.0) via Wikimedia Commons
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 18:39:11 +0000'
+notes: Koordinaten stammen aus den Metadaten der Wikimedia-Commons-Fotodatei der Kirche
+  (48.051936, 7.904433). Zusätzlich wurde eine Mapbox-Reverse-Geocode-Abfrage durchgeführt;
+  diese gab eine nahe Adresse (Kirchberg 6, Koordinaten 48.051942, 7.904279) zurück
+  — die offizielle Adresse der Kirche/Pfarrei wird in den Gemeindeseiten als Kirchberg
+  4, 79194 Heuweiler angegeben. Quellen und Bild-URL sind unten in den Referenzen
+  aufgeführt.
 ---
-
 #### Beschreibung
 Das Gemeindeteam "St. Remigius Heuweiler" ist das ehrenamtlich-professionelle Leitungsteam der römisch‑katholischen Pfarrgemeinde St. Remigius in Heuweiler und koordiniert Gottesdienste, Gemeindearbeit und lokale Projekte. ([an-der-glotter.de](https://www.an-der-glotter.de/kirche-vor-ort/heuweiler/pfarrgemeinde-gemeindeteam/pfarrgemeinde/?utm_source=openai))
 

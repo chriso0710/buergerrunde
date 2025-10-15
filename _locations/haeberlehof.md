@@ -1,18 +1,27 @@
 ---
-title: "Häberlehof (Heuweiler)"
-latitude: 48.0516
-longitude: 7.9030
+title: Häberlehof (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
 category: Bauernhöfe
-description: "Historischer Hof in Vorderheuweiler, in der Ortsgeschichte als 'Häberlehof (Englers)' erwähnt."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 07:26:02 +0000"
-notes: "Quellenlage: Der Häberlehof wird namentlich in der Ortsgeschichte von Heuweiler genannt (‚Häberlehof (Englers)‘), es konnte jedoch keine eigenständige offizielle Website, keine Postanschrift des Hofes oder ein eindeutig dem Hof zuordenbares Direktbild im Internet (mit geeigneter Auflösung) gefunden werden. Für die Geo-Koordinaten wurde Mapbox Reverse-Geocoding auf die Gemeindekoordinaten von Heuweiler angewendet; Mapbox gab als nahe Adresse 'Dorfstraße 19, 79194 Heuweiler, Deutschland' mit Koordinaten (48.05158, 7.90295). Diese Koordinaten habe ich hier als repräsentative Position für den Ortseintrag verwendet, weil keine exakte Hofadresse öffentlich verfügbar war. Wichtige Quellen: Heuweiler Wikipedia und die Gemeindeverwaltung Heuweiler (Geschichte / Fotogalerie)."
+description: Historischer Hof in Vorderheuweiler, in der Ortsgeschichte als 'Häberlehof
+  (Englers)' erwähnt.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 07:26:02 +0000'
+notes: 'Quellenlage: Der Häberlehof wird namentlich in der Ortsgeschichte von Heuweiler
+  genannt (‚Häberlehof (Englers)‘), es konnte jedoch keine eigenständige offizielle
+  Website, keine Postanschrift des Hofes oder ein eindeutig dem Hof zuordenbares Direktbild
+  im Internet (mit geeigneter Auflösung) gefunden werden. Für die Geo-Koordinaten
+  wurde Mapbox Reverse-Geocoding auf die Gemeindekoordinaten von Heuweiler angewendet;
+  Mapbox gab als nahe Adresse ''Dorfstraße 19, 79194 Heuweiler, Deutschland'' mit
+  Koordinaten (48.05158, 7.90295). Diese Koordinaten habe ich hier als repräsentative
+  Position für den Ortseintrag verwendet, weil keine exakte Hofadresse öffentlich
+  verfügbar war. Wichtige Quellen: Heuweiler Wikipedia und die Gemeindeverwaltung
+  Heuweiler (Geschichte / Fotogalerie).'
 ---
-
 #### Beschreibung
 Der Häberlehof ist ein historischer Bauernhof im Kern von Heuweiler, in der örtlichen Geschichte als „Häberlehof (Englers)“ genannt. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 

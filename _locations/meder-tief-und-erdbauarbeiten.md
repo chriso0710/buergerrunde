@@ -1,18 +1,20 @@
 ---
-title: "Meder Tief- und Erdbauarbeiten"
-latitude: 48.049391
-longitude: 7.891814
+title: Meder Tief- und Erdbauarbeiten
+latitude: 48.049488
+longitude: 7.891728
 category: Handwerk & Gewerbe
 description: Kleiner regionaler Tiefbau- und Erdbau-Betrieb in Heuweiler (Litzelstahlerhof).
-address: "Litzelstahlerhof 2, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:05:29 +0000"
-notes: "Postadresse und Telefonnummer stammen aus dem Gemeinde‑Gewerbeeintrag; genaue Geo-Koordinaten wurden mit Mapbox Reverse Geocoding (mcp_mapbox tool) ermittelt und entsprechen Litzelstahlerhof 2. Keine offizielle Firmenwebsite oder direktes Bild (Direktlink) gefunden; Bildfeld leer gelassen."
+address: Litzelstahlerhof 2, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:05:29 +0000'
+notes: Postadresse und Telefonnummer stammen aus dem Gemeinde‑Gewerbeeintrag; genaue
+  Geo-Koordinaten wurden mit Mapbox Reverse Geocoding (mcp_mapbox tool) ermittelt
+  und entsprechen Litzelstahlerhof 2. Keine offizielle Firmenwebsite oder direktes
+  Bild (Direktlink) gefunden; Bildfeld leer gelassen.
 ---
-
 #### Beschreibung des Ortes
 Meder Tief- und Erdbauarbeiten ist ein lokal tätiges Tiefbauunternehmen in Heuweiler mit Sitz am Litzelstahlerhof 2, das vor allem Erdarbeiten und Wegebau in der Region anbietet. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/gewerbe?utm_source=openai))
 

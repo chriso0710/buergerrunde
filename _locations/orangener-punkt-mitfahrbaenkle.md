@@ -1,18 +1,21 @@
 ---
-title: "Orangener Punkt Mitfahrbänkle"
-latitude: 48.051498
-longitude: 7.900377
+title: Orangener Punkt Mitfahrbänkle
+latitude: 48.051544
+longitude: 7.900347
 category: Infrastruktur
-description: "Markierter Mitfahrpunkt (rot-orangene Mitfahrbank) am südlichen Ortsausgang von Heuweiler zur spontanen Bildung von Fahrgemeinschaften."
-address: "Gundelfinger Straße 22, 79194 Heuweiler, Baden-Württemberg, Deutschland"
-website: "https://buergerrunde.heuweiler.net/op/"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:56:23 +0000"
-notes: "Koordinaten (48.051498, 7.900377) wurden über das Mapbox-Reverse-Geocoding-Tool verifiziert; offizielle Informationen und Haltestellenliste stammen von der Bürgerrunde Heuweiler. Kein frei verfügbares Direktbild (≥300×300 px) für die spezifische Mitfahrbank gefunden; Feld 'image' daher leer."
+description: Markierter Mitfahrpunkt (rot-orangene Mitfahrbank) am südlichen Ortsausgang
+  von Heuweiler zur spontanen Bildung von Fahrgemeinschaften.
+address: Gundelfinger Straße 22, 79194 Heuweiler, Baden-Württemberg, Deutschland
+website: https://buergerrunde.heuweiler.net/op/
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:56:23 +0000'
+notes: Koordinaten (48.051498, 7.900377) wurden über das Mapbox-Reverse-Geocoding-Tool
+  verifiziert; offizielle Informationen und Haltestellenliste stammen von der Bürgerrunde
+  Heuweiler. Kein frei verfügbares Direktbild (≥300×300 px) für die spezifische Mitfahrbank
+  gefunden; Feld 'image' daher leer.
 ---
-
 #### Beschreibung
 Der "Orangene Punkt Mitfahrbänkle" ist eine rot-orangene Sitzbank mit Kennzeichnung (Mitfahrstelle) am Ortsausgang Heuweiler Richtung Gundelfingen, an der wartende Personen spontan von vorbeifahrenden Autofahrern mitgenommen werden können. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/))
 

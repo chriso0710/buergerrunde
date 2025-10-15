@@ -1,24 +1,32 @@
 ---
-title: "Messnerhaus, Heuweiler"
-latitude: ""
-longitude: ""
-category: "Historische Gebäude"
-description: "Messnerhaus in Heuweiler — ein historisch benanntes Gebäude/Sexton‑Haus; online keine verlässliche Quelle mit genauer Adresse oder Bild auffindbar."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 09:05:31 +0000"
-notes: |
-  Recherche-Notizen:
-  - Zielsuche: "Messnerhaus Heuweiler" ergab keine eindeutige, verlässliche Quelle mit Adresse oder offizieller Webseite für ein spezifisches „Messnerhaus“ in Heuweiler (gemeindeinterne Seiten und Wikipedia listen das Dorf und seine Höfe, nennen aber kein Messnerhaus als eigenständigen Eintrag).
-  - Gemeinde Heuweiler — offizielle Kontaktdaten und Impressum wurden geprüft (Dorfstraße 21, 79194 Heuweiler). ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/inhalt-impressum/impressum?utm_source=openai))
-  - Wikipedia-Artikel Heuweiler als Kontextquelle verwendet. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
-  - Mapbox (reverse geocoding) wurde zur Verifikation von Heuweiler‑Koordinaten verwendet; ein konkret benannter Eintrag "Messnerhaus" wurde damit nicht gefunden. Gefundene Beispieladresse nahe Ortsmittelpunkt: Hinterheuweiler 11 — Koordinaten 48.04533, 7.903262 (aus Mapbox Reverse‑Geocoding). (Ergebnis aus mcp_mapbox reverse_geocode_tool, nicht als Web.run‑Quelle). 
-  - Falls Sie eine lokale Schreibweise/alternative Bezeichnung oder ein Foto (z. B. Familienname, Hausnummer, früherer Nutzungsname) angeben können, kann ich gezielter suchen und die Front‑Matter Felder (Adresse, Koordinaten, Bild) ausfüllen.
+title: Messnerhaus, Heuweiler
+latitude: 48.054696
+longitude: 7.905291
+category: Historische Gebäude
+description: Messnerhaus in Heuweiler — ein historisch benanntes Gebäude/Sexton‑Haus;
+  online keine verlässliche Quelle mit genauer Adresse oder Bild auffindbar.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 09:05:31 +0000'
+notes: "Recherche-Notizen:\n- Zielsuche: \"Messnerhaus Heuweiler\" ergab keine eindeutige,
+  verlässliche Quelle mit Adresse oder offizieller Webseite für ein spezifisches „Messnerhaus“
+  in Heuweiler (gemeindeinterne Seiten und Wikipedia listen das Dorf und seine Höfe,
+  nennen aber kein Messnerhaus als eigenständigen Eintrag).\n- Gemeinde Heuweiler
+  — offizielle Kontaktdaten und Impressum wurden geprüft (Dorfstraße 21, 79194 Heuweiler).
+  ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/inhalt-impressum/impressum?utm_source=openai))\n-
+  Wikipedia-Artikel Heuweiler als Kontextquelle verwendet. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))\n-
+  Mapbox (reverse geocoding) wurde zur Verifikation von Heuweiler‑Koordinaten verwendet;
+  ein konkret benannter Eintrag \"Messnerhaus\" wurde damit nicht gefunden. Gefundene
+  Beispieladresse nahe Ortsmittelpunkt: Hinterheuweiler 11 — Koordinaten 48.04533,
+  7.903262 (aus Mapbox Reverse‑Geocoding). (Ergebnis aus mcp_mapbox reverse_geocode_tool,
+  nicht als Web.run‑Quelle). \n- Falls Sie eine lokale Schreibweise/alternative Bezeichnung
+  oder ein Foto (z. B. Familienname, Hausnummer, früherer Nutzungsname) angeben können,
+  kann ich gezielter suchen und die Front‑Matter Felder (Adresse, Koordinaten, Bild)
+  ausfüllen."
 ---
-
 #### Beschreibung des Ortes
 Das „Messnerhaus“ wird lokal häufig als Hausname für ein ehemaliges Sexton‑/Mesner‑Haus oder kleines Hofgebäude verwendet; für Heuweiler ließ sich online jedoch kein eigenständiger, verifizierbarer Eintrag oder Foto für ein konkretes Messnerhaus finden. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
 

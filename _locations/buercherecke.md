@@ -1,20 +1,27 @@
 ---
-title: "Bürcherecke (Heuweiler)"
-latitude: ""
-longitude: ""
-category: "Straßen & Wege"
-description: "Lokal gebräuchliche Bezeichnung für eine Straßenecke in Heuweiler; online nicht eindeutig dokumentiert."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:55:01 +0000"
-notes: >
-  Recherchekommentar: Der Begriff "Bürcherecke" konnte bei umfangreicher Online-Recherche nicht als offiziell benannter Ortsteil, Straße oder Landmarke in Heuweiler nachgewiesen werden. Als Referenz für Gemeindeinformationen wurde die Wikipedia-Seite zu Heuweiler sowie die offizielle Gemeindeseite verwendet. 
-  Für mögliche, nahegelegene Adressen wurde mit Mapbox-Reverse-Geocoding die Adresse Dorfstraße 20, 79194 Heuweiler (Koordinaten: 48.051897, 7.903127) ermittelt; diese Koordinate entspricht einem echten Haus in der Dorfstraße (z. B. Gasthaus Rebstock) und wurde nur zur Orientierung herangezogen. Es wurden keine belastbaren, offiziellen Postadresse(n) oder Bilddateien für eine eindeutig definierte "Bürcherecke" gefunden, daher sind Bild- und Adressfelder absichtlich leer gelassen.
+title: Bürcherecke (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
+category: Straßen & Wege
+description: Lokal gebräuchliche Bezeichnung für eine Straßenecke in Heuweiler; online
+  nicht eindeutig dokumentiert.
+address: Heuweiler, Baden-Württemberg
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:55:01 +0000'
+notes: 'Recherchekommentar: Der Begriff "Bürcherecke" konnte bei umfangreicher Online-Recherche
+  nicht als offiziell benannter Ortsteil, Straße oder Landmarke in Heuweiler nachgewiesen
+  werden. Als Referenz für Gemeindeinformationen wurde die Wikipedia-Seite zu Heuweiler
+  sowie die offizielle Gemeindeseite verwendet.  Für mögliche, nahegelegene Adressen
+  wurde mit Mapbox-Reverse-Geocoding die Adresse Dorfstraße 20, 79194 Heuweiler (Koordinaten:
+  48.051897, 7.903127) ermittelt; diese Koordinate entspricht einem echten Haus in
+  der Dorfstraße (z. B. Gasthaus Rebstock) und wurde nur zur Orientierung herangezogen.
+  Es wurden keine belastbaren, offiziellen Postadresse(n) oder Bilddateien für eine
+  eindeutig definierte "Bürcherecke" gefunden, daher sind Bild- und Adressfelder absichtlich
+  leer gelassen.'
 ---
-
 #### Beschreibung des Ortes
 Die "Bürcherecke" scheint eine lokal genutzte Bezeichnung für eine Straßenecke oder einen kleinen Treffpunkt im Dorf Heuweiler zu sein; eine offizielle Erwähnung oder Adresse dieses Namens ist online nicht auffindbar. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))
 

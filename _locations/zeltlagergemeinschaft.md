@@ -1,18 +1,24 @@
 ---
-title: "Zeltlagergemeinschaft Heuweiler"
-latitude: 48.05158
-longitude: 7.90295
+title: Zeltlagergemeinschaft Heuweiler
+latitude: 48.054696
+longitude: 7.905291
 category: Vereine
-description: "Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisiert Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine."
-address: "Heuweiler, Baden-Württemberg"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 12:13:20 +0000"
-notes: "Keine eigenständige offizielle Webseite oder spezifische Postanschrift für die 'Zeltlagergemeinschaft' in Heuweiler gefunden; die ZLG wird in der Auflistung der kirchlichen Gruppen der Region erwähnt. Für Orts-/Gemeinde-Informationen wurden die offizielle Gemeindeseite und Wikipedia genutzt. Die angegebenen Koordinaten (48.05158, 7.90295) stammen aus einer Mapbox-Reverse-Geocoding-Abfrage in der Nähe der Dorfstraße (konkreter Treffer: Dorfstraße 19) als repräsentative Lage im Ortszentrum von Heuweiler."
+description: Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisiert
+  Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine.
+address: Heuweiler, Baden-Württemberg
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 12:13:20 +0000'
+notes: 'Keine eigenständige offizielle Webseite oder spezifische Postanschrift für
+  die ''Zeltlagergemeinschaft'' in Heuweiler gefunden; die ZLG wird in der Auflistung
+  der kirchlichen Gruppen der Region erwähnt. Für Orts-/Gemeinde-Informationen wurden
+  die offizielle Gemeindeseite und Wikipedia genutzt. Die angegebenen Koordinaten
+  (48.05158, 7.90295) stammen aus einer Mapbox-Reverse-Geocoding-Abfrage in der Nähe
+  der Dorfstraße (konkreter Treffer: Dorfstraße 19) als repräsentative Lage im Ortszentrum
+  von Heuweiler.'
 ---
-
 #### Beschreibung
 Die Zeltlagergemeinschaft Heuweiler (ZLG) ist eine ehrenamtlich organisierte Gruppe, die in Verbindung mit kirchlichen und lokalen Vereinen Jugendlager und Freizeiten durchführt und damit generationsübergreifende Gemeinschaftserlebnisse ermöglicht. ([an-der-glotter.de](https://www.an-der-glotter.de/kirche-vor-ort/heuweiler/gruppen-und-verbaende/malteser-hilfsdienst-e-v/?utm_source=openai))
 

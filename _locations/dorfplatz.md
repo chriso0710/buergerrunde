@@ -1,18 +1,21 @@
 ---
-title: "Dorfplatz (Heuweiler)"
-latitude: 48.051897
-longitude: 7.903127
+title: Dorfplatz (Heuweiler)
+latitude: 48.051706
+longitude: 7.903312
 category: Veranstaltungsorte
-description: "Zentraler Dorfplatz in der Ortsmitte von Heuweiler (Bereich Rathaus/Dorfstraße), Treffpunkt und Veranstaltungsfläche für örtliche Feste."
-address: "Dorfstraße 21, 79194 Heuweiler"
-website: "https://www.heuweiler.de/"
-image: "https://www.heuweiler.de/fileadmin/_processed_/a/2/csm_Dorfstra%C3%9Fe_c519487cf9.jpg"
+description: Zentraler Dorfplatz in der Ortsmitte von Heuweiler (Bereich Rathaus/Dorfstraße),
+  Treffpunkt und Veranstaltungsfläche für örtliche Feste.
+address: Dorfstraße 21, 79194 Heuweiler
+website: https://www.heuweiler.de/
+image: https://www.heuweiler.de/fileadmin/_processed_/a/2/csm_Dorfstra%C3%9Fe_c519487cf9.jpg
 image_copyright: "© Gemeinde Heuweiler"
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-14 19:56:51 +0000"
-notes: "Koordinaten-Bestätigung: Die Dorfplatz-/Rathaus-Position wird in lokalen Quellen mit ca. 48.05186 / 7.90328 angegeben; die hier verwendeten Koordinaten (48.051897, 7.903127) wurden bei einer Reverse-Geocoding-Prüfung ermittelt. Offizielle Gemeindeadresse (Rathaus/Gemeindeverwaltung) laut Impressum: Dorfstraße 21, 79194 Heuweiler."
+generated_by: gpt-5-mini
+generated_at: '2025-10-14 19:56:51 +0000'
+notes: 'Koordinaten-Bestätigung: Die Dorfplatz-/Rathaus-Position wird in lokalen Quellen
+  mit ca. 48.05186 / 7.90328 angegeben; die hier verwendeten Koordinaten (48.051897,
+  7.903127) wurden bei einer Reverse-Geocoding-Prüfung ermittelt. Offizielle Gemeindeadresse
+  (Rathaus/Gemeindeverwaltung) laut Impressum: Dorfstraße 21, 79194 Heuweiler.'
 ---
-
 #### Beschreibung
 Der Dorfplatz in Heuweiler liegt im Ortszentrum am Bereich Rathaus/Dorfstraße und dient als zentraler Treffpunkt sowie Veranstaltungsfläche für Feste und kommunale Aktivitäten. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
 

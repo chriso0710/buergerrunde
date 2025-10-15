@@ -1,18 +1,25 @@
 ---
-title: "Bürgergenossenschaft Heuweiler eG"
-latitude: 48.0517
-longitude: 7.9031
+title: Bürgergenossenschaft Heuweiler eG
+latitude: 48.053123
+longitude: 7.904687
 category: Vereine
-description: "Lokale Bürgergenossenschaft zur Schaffung bezahlbaren Wohnraums und zur Stärkung der Nahversorgung (Projekt Alt‑Vogtshof / Dorfladen) in Heuweiler."
-address: "Im Mättle 6, 79194 Heuweiler"
-website: "https://www.genossenschaft-heuweiler.de/"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg"
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 11:41:41 +0000"
-notes: "Adressdaten und Kontakte stammen von der Website der Bürgergenossenschaft und der Gemeindeseite; ein Versuch, die exakten Haus‑Koordinaten für 'Im Mättle 6' zu finden, wurde unternommen: ich habe Mapbox Reverse-Geocoding verwendet und in einem Versuch mit nahegelegenen Koordinaten die Adresse 'Hinterheuweiler 11' (48.04533, 7.903262) zurückerhalten — ein exaktes Match für 'Im Mättle 6' war über das Tool nicht verfügbar. Deshalb wurden als repräsentative Koordinaten die Gemeindekoordinaten (Wikipedia) verwendet; genaue Hausnummern‑Koordinaten konnten nicht zweifelsfrei verifiziert werden."
+description: Lokale Bürgergenossenschaft zur Schaffung bezahlbaren Wohnraums und zur
+  Stärkung der Nahversorgung (Projekt Alt‑Vogtshof / Dorfladen) in Heuweiler.
+address: Im Mättle 6, 79194 Heuweiler
+website: https://www.genossenschaft-heuweiler.de/
+image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 11:41:41 +0000'
+notes: 'Adressdaten und Kontakte stammen von der Website der Bürgergenossenschaft
+  und der Gemeindeseite; ein Versuch, die exakten Haus‑Koordinaten für ''Im Mättle
+  6'' zu finden, wurde unternommen: ich habe Mapbox Reverse-Geocoding verwendet und
+  in einem Versuch mit nahegelegenen Koordinaten die Adresse ''Hinterheuweiler 11''
+  (48.04533, 7.903262) zurückerhalten — ein exaktes Match für ''Im Mättle 6'' war
+  über das Tool nicht verfügbar. Deshalb wurden als repräsentative Koordinaten die
+  Gemeindekoordinaten (Wikipedia) verwendet; genaue Hausnummern‑Koordinaten konnten
+  nicht zweifelsfrei verifiziert werden.'
 ---
-
 #### Beschreibung
 Die Bürgergenossenschaft Heuweiler eG ist eine lokal gegründete Genossenschaft, die sich der Schaffung von sozial verträglichem Wohnraum und der Sicherung der Nahversorgung (u. a. Alt‑Vogtshof mit Dorfladen/Dorfcafé) in Heuweiler widmet. ([genossenschaft-heuweiler.de](https://www.genossenschaft-heuweiler.de/ueber-uns))
 

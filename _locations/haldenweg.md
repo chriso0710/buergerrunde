@@ -1,18 +1,24 @@
 ---
-title: "Haldenweg (Heuweiler)"
-latitude: 48.0516
-longitude: 7.9029
-category: "Straßen & Wege"
-description: "Vermuteter Ortsname für eine Weg-/Straßenbezeichnung in der Gemeinde Heuweiler; in offiziellen Quellen nicht als eigenständige Straße nachweisbar."
-address: "Heuweiler, Baden-Württemberg"
-website: "https://www.heuweiler.de"
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:29:09 +0000"
-notes: "Bei der Recherche konnte kein Eintrag für eine Straße 'Haldenweg' in Heuweiler (PLZ 79194) in offiziellen Straßenverzeichnissen und auf der Gemeindeseite gefunden werden. Als Referenz-Koordinaten wurden die Ortskoordinaten / ein Punkt in Vorderheuweiler (Dorfstraße 19 / Umgebung) verwendet und mit Mapbox Reverse-Geocoding geprüft (Ergebnis: Dorfstraße 19 — 48.05158, 7.90295). Wenn Sie eine konkrete Hausnummer oder eine andere Quelle für 'Haldenweg' in Heuweiler haben, kann ich die Suche verfeinern und exakte Koordinaten ergänzen."
+title: Haldenweg (Heuweiler)
+latitude: 48.054696
+longitude: 7.905291
+category: Straßen & Wege
+description: Vermuteter Ortsname für eine Weg-/Straßenbezeichnung in der Gemeinde
+  Heuweiler; in offiziellen Quellen nicht als eigenständige Straße nachweisbar.
+address: Heuweiler, Baden-Württemberg
+website: https://www.heuweiler.de
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:29:09 +0000'
+notes: 'Bei der Recherche konnte kein Eintrag für eine Straße ''Haldenweg'' in Heuweiler
+  (PLZ 79194) in offiziellen Straßenverzeichnissen und auf der Gemeindeseite gefunden
+  werden. Als Referenz-Koordinaten wurden die Ortskoordinaten / ein Punkt in Vorderheuweiler
+  (Dorfstraße 19 / Umgebung) verwendet und mit Mapbox Reverse-Geocoding geprüft (Ergebnis:
+  Dorfstraße 19 — 48.05158, 7.90295). Wenn Sie eine konkrete Hausnummer oder eine
+  andere Quelle für ''Haldenweg'' in Heuweiler haben, kann ich die Suche verfeinern
+  und exakte Koordinaten ergänzen.'
 ---
-
 #### Beschreibung des Ortes
 Der Eintrag „Haldenweg“ bezieht sich auf eine vermutete Straßen- oder Wegbezeichnung innerhalb der Gemeinde Heuweiler; in den durchsuchten amtlichen Straßenverzeichnissen und auf der Gemeindehomepage konnte keine Straße mit diesem Namen für Heuweiler (PLZ 79194) bestätigt werden. ([germany-streets.openalfa.com](https://germany-streets.openalfa.com/postcodes/plz-79194-gundelfingen-heuweiler?utm_source=openai))
 

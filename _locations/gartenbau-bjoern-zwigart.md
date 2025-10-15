@@ -1,18 +1,22 @@
 ---
-title: "Gartenbau Björn Zwigart"
-latitude: ""
-longitude: ""
-category: "Handwerk & Gewerbe"
-description: "Kleiner Garten- und Landschaftsbau‑Betrieb in Hinterheuweiler (Gemeinde Heuweiler)."
-address: "Hinterheuweiler 17, 79194 Heuweiler, Deutschland"
-website: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:18:33 +0000"
-notes: "Postadresse und Telefonnummer stammen aus Einträgen im Telefon-/Branchenbuch; keine offizielle Firmenwebsite oder freies Direktbild (mind. 300×300) für 'Gartenbau Björn Zwigart' online gefunden. Exakte Geo-Koordinaten für Hinterheuweiler 17 konnten nicht verlässlich bestätigt werden; deshalb bleiben latitude/longitude leer. Genutzte Quellen: Das Örtliche (Eintrag), Wikipedia Heuweiler, Gemeindeseiten/Ortsverzeichnisse."
+title: Gartenbau Björn Zwigart
+latitude: 48.04681
+longitude: 7.901059
+category: Handwerk & Gewerbe
+description: Kleiner Garten- und Landschaftsbau‑Betrieb in Hinterheuweiler (Gemeinde
+  Heuweiler).
+address: Hinterheuweiler 17, 79194 Heuweiler, Deutschland
+website: ''
+image: ''
+image_copyright: ''
+generated_by: gpt-5-mini
+generated_at: '2025-10-15 10:18:33 +0000'
+notes: 'Postadresse und Telefonnummer stammen aus Einträgen im Telefon-/Branchenbuch;
+  keine offizielle Firmenwebsite oder freies Direktbild (mind. 300×300) für ''Gartenbau
+  Björn Zwigart'' online gefunden. Exakte Geo-Koordinaten für Hinterheuweiler 17 konnten
+  nicht verlässlich bestätigt werden; deshalb bleiben latitude/longitude leer. Genutzte
+  Quellen: Das Örtliche (Eintrag), Wikipedia Heuweiler, Gemeindeseiten/Ortsverzeichnisse.'
 ---
-
 #### Beschreibung
 Gartenbau Björn Zwigart ist ein lokaler Garten‑ und Landschaftsbau‑Betrieb im Weiler Hinterheuweiler der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald. ([dasoertliche.de](https://www.dasoertliche.de/Themen/Hinterheuweiler/Heuweiler-Seite-2.htm))
 
