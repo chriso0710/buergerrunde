@@ -140,9 +140,9 @@ authors:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-paginate  # disabled to remove /pageX pagination
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
@@ -168,9 +168,9 @@ jekyll-archives:
     tag: "/tag/:name/"
     category: "/category/:name/"
 
-# Pagination
-paginate: 6
-paginate_path: /page:num/
+# Pagination (disabled)
+# paginate: 6
+# paginate_path: /page:num/
 
 # Other
 markdown: kramdown

@@ -55,7 +55,8 @@ layout: default
         "longitude": {% if location.longitude and location.longitude != "" %}{{ location.longitude }}{% else %}null{% endif %},
         "category": {{ location.category | jsonify }},
         "description": {{ location.description | jsonify }},
-        "address": {{ location.address | jsonify }}
+        "address": {{ location.address | jsonify }},
+        "url": {{ location.url | jsonify }}
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
 ]
