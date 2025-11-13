@@ -7,9 +7,8 @@ description: Historischer Einzelhof (Bauernhof) und Wohnplatz in der Gemarkung H
   (Ortsteil/Lagepunkt Hinterheuweiler).
 address: Litzelstahlerhof 2, 79194 Heuweiler, Deutschland
 website: ''
-image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Lang%28en%29_Denztlinger_Bann_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Denzlingen_2.jpg
-image_copyright: Landesarchiv Baden-Württemberg / Generallandesarchiv Karlsruhe, CC
-  BY 4.0
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:15:39.000000000 +00:00
 notes: Koordinaten für "Litzelstahlerhof 2" wurden mittels Mapbox Reverse Geocoding

@@ -7,8 +7,8 @@ description: Lokaler Bauernhof / Hofanwesen in Heuweiler, im Ort oft 'Sattler's'
   (offiziell Seilerhof / Sailerhof).
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:09:46 +0000'
 notes: "‚Sattlers‘ ist im Ortals Bezeichnung für das Anwesen Seilerhof / Sailerhof;

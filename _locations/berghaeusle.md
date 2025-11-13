@@ -7,8 +7,8 @@ description: Kleiner Hof / Wohnplatz (Berghäusle) innerhalb der Gemeinde Heuwei
   im Breisgau.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:46:49 +0000'
 notes: 'Quellen: Wikipedia-Eintrag ''Berghäusle'' (Ortslage von Heuweiler) und Gemeinde-Website

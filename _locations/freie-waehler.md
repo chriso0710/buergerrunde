@@ -7,8 +7,8 @@ description: Lokale Wählergemeinschaft (Freie Wähler / FWG) und Fraktion im Ge
   von Heuweiler.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg
-image_copyright: 'Foto: Brian Kohn, CC BY‑SA 3.0 (Wikimedia Commons)'
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:27:52 +0000'
 notes: 'Keine eigenständige Postadresse oder offizielle Website für die lokale Freie

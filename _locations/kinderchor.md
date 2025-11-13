@@ -7,8 +7,8 @@ description: Lokaler Kinderchor der Pfarrgemeinde St. Remigius in Heuweiler, der
   und Gemeindeveranstaltungen musikalisch mitgestaltet.
 address: Kirchberg 4, 79194 Heuweiler
 website: ''
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:58:34 +0000'
 notes: Keine eigenständige offizielle Website oder separate Postadresse für den Kinderchor

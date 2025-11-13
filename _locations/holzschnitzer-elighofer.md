@@ -7,8 +7,8 @@ description: Traditioneller Holzschnitzer aus Heuweiler, aktiv in Restaurations-
   Kunstholzarbeiten sowie in ehrenamtlichen Dorfprojekten.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:24:10 +0000'
 notes: Bei der Recherche wurden keine offizielle Firmen-Website, keine verifizierte

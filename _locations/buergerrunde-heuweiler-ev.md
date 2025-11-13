@@ -7,8 +7,8 @@ description: Lokales Bürgerforum und eingetragener Verein in Heuweiler, das sic
   Klimaschutz, Mobilität, Naturschutz und Dorfgemeinschaft engagiert.
 address: Am Flissert 6, 79194 Heuweiler
 website: https://buergerrunde.heuweiler.net/
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein / CC BY‑SA 3.0
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 16:44:43 +0000'
 notes: 'Bei der Suche nach Geo-Koordinaten wurde das mapbox‑Geocoding (Reverse Geocode)

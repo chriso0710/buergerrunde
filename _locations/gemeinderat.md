@@ -7,8 +7,8 @@ description: Sitz und Arbeitsort des gewählten Gemeinderats der Gemeinde Heuwei
   (Rathausbüro im Gemeindehaus).
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.heuweiler.de
-image: https://www.heuweiler.de/fileadmin/_processed_/4/6/csm_Das_neue_Gemeindehaus_c296224baf.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:04:04 +0000'
 notes: 'Koordinaten wurden mit Mapbox-Reverse-Geocoding geprüft: Mapbox lieferte als

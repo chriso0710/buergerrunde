@@ -7,8 +7,8 @@ description: Lokaler Arbeitskreis zur Pflege, Gestaltung und Erhaltung des Dorfb
   von Heuweiler.
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.heuweiler.de/
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: 'Creative Commons BY-SA 3.0 — Foto: Rauenstein / Wikimedia Commons'
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 16:54:49 +0000'
 notes: |-

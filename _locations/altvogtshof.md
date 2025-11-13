@@ -7,8 +7,8 @@ description: Starkes, denkmalgeschütztes Gutshaus im Ortskern von Heuweiler, sa
   und als Wohngebäude mit Dorfladen/Café wiederbelebt.
 address: Dorfstraße 22, 79194 Heuweiler, Baden‑Württemberg
 website: https://www.genossenschaft-heuweiler.de
-image: https://regionimblick.de/templates/yootheme/cache/06/633fa3abc678f_Alt-Vogtshof_letzte_Arbeiten_am_Treppenturm-06733ed3.jpeg
-image_copyright: "© Wolfgang Amrein / Region im Blick"
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:42:44.000000000 +00:00
 notes: 'Bei der Suche nach Geo-Koordinaten für die konkrete Postadresse Dorfstraße

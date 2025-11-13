@@ -1,3 +1,10 @@
+---
+layout: page
+title: Alter Bildband
+permalink: /alterbildband
+search: false
+---
+
 # Vereine und Organisationen
 
 # Bildungswerk St. Remigius
@@ -8,7 +15,7 @@ Die Vortragsabende, die in der Regel am Donnerstagabend um 20 Uhr im Bürgerhaus
 
 Die Vorträge, Besichtigungen und Fahrten werden im Pfarrbrief, den „Gundelfinger Nachrichten“, in „von Haus zu Haus“ und auf Plakaten angekündigt.
 
-# Kontakt:
+Kontakt:
 
 Hans-G. Schwörer Bildungswerksleiter
 
@@ -89,7 +96,7 @@ Katharina Herrmann (Dirigentin): 07666913993
 
 Die Kirchliche Sozialstation gibt es bereits seit mehr als 40 Jahren in Heuweiler, getragen von den evangelischen und katholischen Kirchengemeinden der Region. Sie leistet menschenwürdige Pflege in der Geborgenheit der örtlichen Gemeinschaft mit einem professionellen Team aus Pflege- und Hauswirtschaftskräften, mit Alltagsbegleitern, die den christlichen Kirchen angehören und in der Region leben und durch ein „Junges Team“, junge Menschen im Bundesfreiwilligendienst oder im freiwilligem sozialem Jahr, die Begleit- und Betreuungsdienste oder Hilfe in Haus und Garten anbieten.
 
-# Die Leistungen in der Häuslichen Pflege, Hauswirtschaft und Alltagsbegleitung
+Die Leistungen in der Häuslichen Pflege, Hauswirtschaft und Alltagsbegleitung
 
 - Häusliche Pflege – täglich, pünktlich, freundlich
 - Vertretung pflegender Angehörige - Verhinderungspflege
@@ -113,15 +120,13 @@ eMail: gs3@sozialstation-boetzingen.de
 
 ---
 
-12
-
 # Landfrauen Heuweiler e.V.
 
 Wir, die Landfrauen Heuweiler, sind eine starke Gemeinschaft. Alle Frauen, die auf dem Land leben, sind bei uns herzlich willkommen, unabhängig von Alter, Beruf und Lebensform. Gemeinsam setzen wir Akzente für ein freundliches und soziales Miteinander und ein schönes Leben in unserer Dorfgemeinschaft.
 
 Unser Angebot beinhaltet Vorträge, Kurse und Ausflüge, sowie Engagement in unserem schönen Heuweiler. Wer mehr über uns Landfrauen wissen möchte, kann sich gerne an uns wenden. Neue Mitglieder sind herzlich willkommen.
 
-# Infos und Kontakte:
+Infos und Kontakte:
 
 Marion Über
 
@@ -227,9 +232,7 @@ Tel.: 07666/912062
 
 Siehe auch Kinderfest Reit- und Fahrverein Heuweiler (Jul.) (S. 71).
 
-# Sozial-Caritativer Förderverein St. Remigius
-
-# Heuweiler e.V.
+# Sozial-Caritativer Förderverein St. Remigius Heuweiler e.V.
 
 Der sozial-caritative Förderverein St. Remigius Heuweiler e.V. ist Teil der Pfarrgemeinde und hilft – ideell und materiell – bei wichtigen sozialen Aufgaben. Er finanziert:
 
@@ -261,12 +264,6 @@ Wer ein Blasinstrument oder Schlagzeugspielen erlernen oder Erlerntes wieder zum
 
 In der Jugendabteilung kann jeder ein Blasinstrument erlernen, der Spaß am Musizieren hat. Um erste Erfahrungen mit einem Instrument und der Musiktheorie zu sammeln, werden Blockflöten- und Bongokurse angeboten, danach Instrumentalunterricht an einem Holz- oder Blechblasinstrument. Der Unterricht findet bei einem professionellen Lehrer statt und führt zum Leistungsabzeichen. Ab dem Juniorabzeichen können die Auszubildenden im Jugendorchester mitspielen, ab dem Bronzeabzeichen im Gesamtorchester.
 
-Trachtenkapelle 1 Ganze Kapelle 2017
-
----
-
-# 17
-
 Das Musizieren im Jugendorchester lernen die Kinder und Jugendlichen das Zusammenspiel mit anderen, bei dem Spaß an der Musik und Gruppendynamik im Vordergrund stehen. Auftritte des Jugendorchesters sind unter anderem das Frühjahrskonzert, das Sommerkonzert im Kindergarten, die Begleitung des St. Martinsumzugs, auf dem Weihnachtsmarkt in Gundelfingen oder ein weihnachtliches Konzert im Dezember. Jedes Jahr im März findet das Jugendvorspiel in der Kirchberghalle Heuweiler statt, bei dem die Auszubildenden ihren Verwandten, Freunden und anderen Zuhörern ihr musikalisches Können zeigen dürfen. Damit Spiel, Spaß und Erlebnis nicht zu kurz kommen, gibt es jedes Jahr Freizeitaktivitäten, wie zum Beispiel Ausflüge, Minigolf, Eis essen, Spielenachmittage, Hüttenaufenthalte und Sommer- und Weihnachtsfeiern.
 
 Kontakt: www.trachtenkapelle-heuweiler.de
@@ -289,19 +286,15 @@ Kontakt: Otmar Maas, Gundelfinger Straße
 
 Die Zeltlagergemeinschaft (ZLG) wurde 1988 ins Leben gerufen, um Kindern und Jugendlichen einmal im Jahr eine gemeinsame Urlaubswoche außerhalb Heuweilers zu ermöglichen. Unter der Trägerschaft der katholischen Pfarrgemeinde St. Remigius Heuweiler und mit Unterstützung der Gemeinde und der örtlichen Vereine findet seitdem das Lager in der ersten Sommerferienwoche statt. Ursprünglich von Eltern der Zeltlagerteilnehmer organisiert, wird das Lager heute von jungen Erwachsenen aus Heuweiler und der Umgebung geleitet. Die Teamerinnen und Teamer der ZLG treffen sich regelmäßig zur Vorbereitung und Planung des Lagers und zu Fortbildungen im Bereich der Jugendarbeit.
 
-# Ziele
+Ziele
 
 Ziele der gemeinsamen Ferienwoche sind neben der Erweiterung des eigenen Erfahrungshorizonts vor allem die Förderung der Gemeinschaft der Jugend im Dorf und die Persönlichkeitsentwicklung der Teilnehmerinnen und Teilnehmer. Herzlich eingeladen zum Zeltlager sind Kinder und Jugendliche zwischen 8 und 16 Jahren; jenseits von konfessioneller, religiöser oder kultureller Sozialisation.
 
 Siehe auch Zeltlager (Aug.) (S. 72)
 
----
-
-19
-
 # Gemeinde &#x26; Verwaltung
 
-# Bürgermeister
+## Bürgermeister
 
 Liebe Mitbürgerinnen und Mitbürger, sehr geehrte Besucherinnen und Besucher unserer Gemeinde,
 
@@ -315,7 +308,7 @@ Mit herzlichen Grüßen
 
 Ihr Raphael Walz
 
-# Gemeinderat
+## Gemeinderat
 
 Der Gemeinderat ist die Vertretung der Bürgerinnen und Bürger und das oberste Organ der Gemeinde. Er entscheidet über alle grundsätzlichen Angelegenheiten der Gemeinde, soweit nicht der Bürgermeister dafür zuständig ist.
 
@@ -323,33 +316,29 @@ Der Gemeinderat Heuweiler besteht aus dem Bürgermeister als Vorsitzendem und 10
 
 Rolf Meyer 4 Gemeinderat
 
----
-
-20
-
-# Gemeindeverwaltung Heuweiler
+## Gemeindeverwaltung Heuweiler
 
 Die Gemeindeverwaltung in Heuweiler ist im Gemeindehaus am Dorfplatz zu finden. Direkt nach der schweren Eingangstür auf der rechten Seite befindet sich das Bürgerbüro, dahinter ist das Büro des Bürgermeisters. Das Personal der Gemeindeverwaltung in Heuweiler ist sehr überschaubar. Da ist zuerst der Bürgermeister Herr Walz, der im Jahr Mai 2015 ins Amt gewählt worden ist. Er ist Chef der Verwaltung. Der einzige Verwaltungsangestellte in Heuweiler war lange Zeit Herr Enderle, der bereits seit 1983 in der Verwaltung in Heuweiler angestellt war und im Frühjahr 2017 in den Ruhestand getreten ist. Daneben sind Frau Dilger, seit 1991, und Herr Kaltenbach, seit 1986, für die Liegenschaften der Gemeinde zuständig. Diese sind das Gemeindehaus, das Schulgebäude, die Turn- und Festhalle und der Kindergarten.
 
 Adresse: Gemeindehaus am Dorfplatz
 
-# Verwaltungsgemeinschaft Heuweiler &#x26; Gundelfingen
+## Verwaltungsgemeinschaft Heuweiler &#x26; Gundelfingen
 
 Die Gemeinde Heuweiler liegt in einer wunderschönen Lage am Westrand des Schwarzwaldes in der Breisgauer Bucht. Die reizvolle Landschaft am Eingang zum Glottertal, die Heuweiler umgibt, gehört zur Vorbergzone. Heuweiler zählt ca. 1.000 Einwohner und ist die kleinste selbständige Gemeinde unter den 50 Kommunen des Landkreises Breisgau-Hochschwarzwald. In den Stürmen der Kommunalreform Anfang der 70er Jahre konnte Heuweiler seine Eigenständigkeit bewahren, weil es mit der Nachbargemeinde Gundelfingen eine nun schon seit langem bewährte Verwaltungsgemeinschaft eingegangen ist. In dem 1972 in Kraft getretenen Vertrag über die vereinbarte Verwaltungsgemeinschaft sichern sich beide Gemeinden ein partnerschaftliches Miteinander. Dieses wird auch im täglichen Leben praktiziert. Zahlreiche Aufgaben werden durch die einheitliche Verwaltung geregelt, wie z.B. die Planung und Bauleitung örtlicher Hoch- und Tiefbaumaßnahmen, die Unterhaltung und Ausbau der Gewässer, die Abgaben-, Kassen- und Rechnungsgeschäfte, die Verkehrsförderung, die EDV, die technische Verwaltung öffentlicher Einrichtungen sowie die Erstellung des gemeinsamen Amtsblattes "Gundelfinger Nachrichten".
 
 Thomas Frank 2
 
-# Wahllisten
+## Wahllisten
 
 Alle fünf Jahre wird der Gemeinderat mit zehn Mitgliedern gewählt. In Heuweiler – eine der kleinsten selbstständigen Gemeinden des Landkreises – gibt es derzeit drei Wahllisten, in denen die Kandidatinnen und Kandidaten jeweils gemeinsam zur Wahl antreten: Die Freien Wähler, die Neue Liste und die Frauenliste. Die Listen sind keine politischen Parteien im Sinne des üblichen Parteienspektrums. In der Vergangenheit stellten sich in jeder Liste zumeist zehn Kandidatinnen und Kandidaten zur Wahl – bei rund 1000 Einwohnern ein beachtliches kommunalpolitisches Engagement von 3% der Dorfbevölkerung.
 
-# Frauenliste Heuweiler
+### Frauenliste Heuweiler
 
 In der Frauenliste engagierten sich bei der letzten Gemeinderatswahl 10 Frauen aus Heuweiler. Die Frauenliste will aktuelle Frauen- und Familienthemen im Gemeinderat vertreten und eine ausgewogene Verteilung der Geschlechter in politischen Entscheidungspositionen erreichen, damit alle Bedürfnisse der Gesellschaft vertreten werden. Ihre Themen sind u.A. bedarfsgerechte Betreuungsangebote von U3 bis jugendlich, Ausbau sicherer Verkehrsanbindungen zu den Nachbargemeinden (Radwege und Bus), kompetente Unterstützung der Jugendarbeit, Etablierung generationsübergreifender Hilfen zur Bewältigung der Aufgaben des täglichen Lebens, attraktive Gestaltung des Dorfes für Fußgänger, Umsetzung nachhaltiger Energiekonzepte.
 
 Weitere Informationen: www.frauenliste-heuweiler.de
 
-# Freie Wählergemeinschaft Heuweiler
+### Freie Wählergemeinschaft Heuweiler
 
 Bei der Freien Wählergemeinschaft engagierten sich bei der letzten Gemeinderatswahl 3 Frauen und 7 Männer aus Heuweiler. Den Freien Wählern liegt besonders der Erhalt unserer schönen Landschaft und des gewachsenen dörflichen Charakters, eine lebendige Dorfgemeinschaft in Vereinen, Gruppen und Kirchen, eine kinder-, jugend- und seniorenfreundliche Gemeinde, Bürgerbeteiligung und solide Finanzen am Herzen.
 
@@ -357,7 +346,7 @@ Weitere Informationen: www.freiewaehler-heuweiler.de
 
 ---
 
-# Neue Liste Heuweiler
+### Neue Liste Heuweiler
 
 Bei der letzten Gemeinderatswahl engagierten sich bei der letzten Gemeinderatswahl 1 Frau und 8 Männer aus Heuweiler. Die Neue Liste nennt sich unabhängig, engagiert und kreativ, sie ist stolz auf ihre Initiativen und ihre Mitwirkung im Gemeinderat, hat noch viele Ideen für Heuweiler und ist eine gute Mischung aus Altheuweilermern und Neubürgern, Alten und Jungen.
 
@@ -365,15 +354,9 @@ Wesentliche Themen, die die Neue Liste bewegt, ist der seit langem beständige W
 
 Weitere Informationen: www.neueliste-heuweiler.de
 
-# Neue Liste 1 Kandidaten
-
----
-
-# 26
-
 # Orte
 
-# Ortsteile
+## Ortsteile
 
 Auch wenn Heuweiler eigentlich ein kleines Dorf ist, so besteht es doch aus immerhin drei Ortsteilen: Neuhäuser, Vorder- und Hinterheuweiler. Auf der linken Bildseite ist Neuhäuser am nördlichen Dorfrand zu sehen, das an der alten Straße nach Glottertal liegt. Früher gab es an dieser Straße vier Gasthäuser, heute existieren noch die "Laube" und der "Grüne Baum". Seit gegen Ende des 19. Jahrhunderts wurden neben den Gasthäusern auch Wohngebäude errichtet, spricht man von Neuhäuser.
 
@@ -381,19 +364,15 @@ In der Bildmitte schließt sich Vorderheuweiler an, das heutige Kerndorf mit der
 
 Am rechten Bildrand sieht man den Beginn von Hinterheuweiler (leider etwas abgeschnitten). Der Ortsteil zieht sich nach Süden in die Länge bis hin zum Leheneck mit einer direkten Verbindung nach Wildtal und in Richtung Freiburg Zähringen. In Hinterheuweiler liegen die Einzelhöfe rechts und links der Straße.
 
-# Neubaugebiete
+## Neubaugebiete
 
 Heuweiler ist schon seit langer Zeit vom fortwährenden Wandel betroffen. Das Dorf, in dem früher nahezu ausschließlich Landwirtschaft betrieben wurde, hat sich im Laufe der Zeit stark verändert. Es sind nur noch wenige landwirtschaftliche Vollerwerbsbetriebe übrig geblieben. Das Dorf ist stark gewachsen; heute orientieren sich viele Bewohner beruflich in die umliegenden Gemeinden oder nach Freiburg.
 
 Das Dorfwachstum lässt sich gut an den Neubaugebieten ablesen, die in den letzten Dekaden erschlossen worden sind. Das Neueste „Am Flissert“ wurde zwischen 2008 und 2012 bebaut, das Neubaugebiet "Hinterheuweiler" wurde nur wenig früher in Verbindung mit der Renaturierung des Taubenbaches fertiggestellt. Der "Kirchberg" entstand um 2000, nachdem ein Feuer den Großteil des Altvogtshofes zerstört hatte. Davor gab es in den 90er Jahren „Weidweg“ und „Holzweg“ und Mitte der Achtziger die „Binde”. Zuvor entstand in den Siebzigern das Neubaugebiet „Im Mättle“, das Areal "Kandelstraße / Heldenacker" stammt aus den Sechzigern. Aber auch davor gab es schon Gebiete, in denen das Dorf gewachsen ist, wie der Ortsteil "Neuhäuser" namentlich belegt.
 
----
-
-# 27
-
 # Bauernhöfe
 
-# Altvogtshof
+## Altvogtshof
 
 Der Altvogtshof oder Altenvogtshof im Dorfzentrum ist der ehemalige Dinghof in Heuweiler. Der auf dem Hof eingesetzte Verwalter, der Meier, war für das Einziehen der Abgaben im Ort und die niedere Gerichtsbarkeit verantwortlich. Unter der damals auf dem Dorfplatz stehenden alten Linde wurden die Gerichtsverhandlungen (Ding oder Thing genannt) dreimal im Jahr abgehalten. Darüber hinaus war der Hof für das Halten des Fasel- oder Wucherviehs zuständig, die speziell zu Zuchtzwecken gehaltenen Vatertiere.
 
@@ -401,7 +380,7 @@ Die mit dem Hof verbundenen Familiennamen der Eigentümer sind Buchholzer, Spie�
 
 Adresse: Dorfplatz gegenüber dem Gemeindehaus
 
-# Bankhof
+## Bankhof
 
 Ursprünglich hieß der Hof "Hof am Froschbach" oder "Im Froschbach", benannt nach dem weiter unten verlaufenden Froschbächle. In den Kirchenbüchern finden sich die Familiennamen Eglin, Merz, Schill als Eigentümer des Hofs. Um 1840 gehörte der Hof der Familie Bank, die die alten Hofgebäude abriss und Haus und Scheuer an ihrem jetzigen Platz weiter oben am Hang wieder aufbaute. Aus dieser Zeit stammt auch der Name des Hofs. Seit 1872 ist der Hof im Besitz der Familie Kaltenbach, von 1879 bis 1905 gehörte auch das Berghäusle zum Bankhof.
 
@@ -409,9 +388,7 @@ Adresse: Familie Kaltenbach Hinterheuweiler
 
 ---
 
-# 28
-
-# Berghäusle (Berghüsli, Berghisli, Bergübers)
+## Berghäusle (Berghüsli, Berghisli, Bergübers)
 
 Das Berghäusle ist das höchstgelegene Wohnhaus in Heuweiler am Ende der Straße "Hinterheuweiler", dort ist auch die Quelle des Froschbächles, das später durch den Löschwasserteich fließt. Das Berghäusle hat eine bewegte Geschichte hinter sich, die sich aktuell nicht vollständig sondern nur punktuell ermitteln lässt. Es ging im Laufe der Zeit durch einige Hände.
 
@@ -423,7 +400,7 @@ Im Jahre 1765 wurde es als Viehhütte vom damaligen Bauern vom Gehrihof errichte
 
 Adresse: Hinterheuweiler 1
 
-# Birklehof
+## Birklehof
 
 Der Birklehof liegt etwas abseits den Hang hinauf in der großen Kehre der Straße Hinterheuweiler. Er ist einer der Höfe von Heuweiler, die glücklicherweise von einem Feuer verschont geblieben sind. Bis auf wenige Grundstücksverkäufe, 1830 eine Teilfläche und nach 1900 etwas Wegfläche, gibt es auch in dieser Hinsicht über den Birklehof nichts zu berichten.
 
@@ -431,15 +408,13 @@ Bis 1831 war der Hof Eigentum der Familie Birkle, nach denen er auch benannt ist
 
 Adresse: Hinterheuweiler 11
 
----
-
-# Dörrhof
+## Dörrhof
 
 Früher hieß der Hof "Widumhof" oder "Pfaffenhof". Er war im Besitz des Stiftes Waldkirch und wurde verpachtet. Mit den Pachterträgen konnte das Stift die Aufwendungen des Pfarrers in Heuweiler bestreiten. Wann genau das Stift Waldkirch den Hof veräußerte, ist nicht bekannt. Ab 1717 war er Eigentum der Familie Dörr, von der auch der heutige Name des Hofs stammt. Seit 1906 ist der Hof im Eigentum der Familie Schwehr, die landwirtschaftlichen Flächen sind weitgehend verpachtet. Bewirtschaftet wird nur noch wenig eigenes Land, vor allem Wald, Reben und der Blumenacker am Ortseingang aus Richtung Glottertal.
 
 Adresse: Dorfstraße Ecke Gundelfinger Straße
 
-# Dörrphilippenhof
+## Dörrphilippenhof
 
 Der Dörrphilippenhof steht unterhalb des Häberlehofes an der Dorfstraße in Richtung Hinterheuweiler. Zu ihm gehört die große Scheune, die längs an der Dorfstraße steht. Früher hieß der Hof „St. Trudperter Zinsgütlein“. Die Familiennamen auf dem Hof sind nach den Kirchenbüchern Eglin, Bank, Schill und später ein Phillip Dörr, nach dem der Hof benannt ist. 1911 übernahm die Familie Scherzinger den Hof.
 
@@ -449,13 +424,13 @@ Adresse: Dorfstr. 14
 
 ---
 
-# Gehrihof
+## Gehrihof
 
 Ursprünglich hieß der Hof „Trottenhof“ oder „Bei der Trotten“, vermutlich weil dort eine große Kelter oder Trotte stand. Zu dieser Zeit war wahrscheinlich Familie Merz Eigentümer des Hofs, später Familie Schill. Gegen 1765 errichtete der Bauer vom "Trottenhof" das Berghäusle, das wenige Jahre später vom Hof wieder abgetrennt wurde, um den Bau eines Wohnhauses neben dem Hof zu ermöglichen. Später wurde der Hof auch „Schillphilippenhof“ genannt, nach dem Namensträger Philipp Schill, der als Eigentümer 1843 durch einen Waldverkauf belegt ist. 1847 brannte der Hof ab und wurde an Georg Gehri verkauft, nach dem der Hof bis heute benannt ist. 1901 schlug der Blitz ein, und wieder brannte der Hof teilweise nieder. Seit 1921 ist die Familie Strecker Eigentümer des Gehrihofs.
 
 Adresse: Hinterheuweiler
 
-# Häberlehof (Turners Haldenhof)
+## Häberlehof (Turners Haldenhof)
 
 Die Geschichte des Häberlehofs lässt sich nur mit Lücken nachvollziehen. Der erste Beleg für den Hof an der Dorfstraße datiert auf das Jahr 1345, laut dem der Hof einer wohlhabenden Freiburg Familie namens Turner gehörte. Es ist bekannt, dass der Hof während des Dreißigjährigen Kriegs im 17Jh. einem Matthäus Singler gehörte, 1736 übergab Johann Kunz den Hof an Jakob Schindler. 1854 war Christian Silberer Eigentümer des Häberlehofs, der 1862 durch ein Feuer zerstört wird. Nach dem Großbrand wurde der Hof zerschlagen. Einzelne Grundstücke wurden verkauft, 1869 übernahm Hubert Blattmann das Wirtshaus "Rebstock", das damals noch zum Hof gehörte, 1875 brachte seine Tochter den Rebstock mit in die Ehe mit Franz Sales Rau. Den Resthof kaufte 1872 Johann Baptist Dörr, von dem ihn 1891 Familie Engler übernahm und bis heute besitzt. Heutzutage ist das meiste Land verpachtet und der Hof ein Wohnhaus.
 
@@ -463,7 +438,7 @@ Adresse: Dorfstraße 19
 
 ---
 
-# Heitzmannhof (Ziegelhof)
+## Heitzmannhof (Ziegelhof)
 
 Der frühere Winterhaldenhof war im 19Jh. Eigentum der Familie Über, die den Hof 1832 verkaufte, den Bindenacker aber behielt und dort ein neues Haus errichtete. Seitdem heißt der Bindenacker auch s'Bindenübers, der heutige Hof des Landschaftsgärtners Zwigart.
 
@@ -471,7 +446,7 @@ Der Käufer des Hofs errichtete dort eine Ziegelhütte, daher der Name Ziegelhof
 
 Adresse: Hinterheuweiler, in der großen Kehre
 
-# Litzelstahlerhof
+## Litzelstahlerhof
 
 Der Litzelstahlerhof war ursprünglich der größte Hof Heuweilers. Er liegt ein wenig ab vom Dorf in Richtung Gundelfingen bereits in der Ebene am Fuße des Schwarzwalds. Der Eigentümer war die Freiburger Familie Turner, später dann das Deutschordenshaus in Freiburg.
 
@@ -483,25 +458,19 @@ Adresse: Gundelfinger Straße, zwischen Heuweiler und Gundelfingen, auf dem "Pro
 
 ---
 
-# 32
-
-Merzenhof
+## Merzenhof
 
 Den Merzenhof findet man im Ortskern Heuweilers, am Kirchberg hinter dem Rathaus, bewohnt und bewirtschaftet von der Familie Scherzinger. Die Bewirtschaftung umfasst Rinder- und Schweinehaltung, den Wald, sowie Ackerbau und Grünland zur genfreien Futtergewinnung. Das Fleisch der Tiere wird zum Teil in Form von Fleisch- und Wursterzeugnissen aus hofeigener Herstellung direkt vor Ort vermarktet. Das Alter des Bauernhofs ist nur zu erahnen, die Aufzeichnungen aber gehen über Jahrhunderte zurück. Die Bezeichnung geht wie so oft aus dem Namen eines Besitzers hervor. Hubert Blattmann 11: Merzenhof hervor.
 
 Adresse: Kirchberg 1, hinter dem Gemeindehaus
 
-Rainhof
+## Rainhof
 
 In Hinterheuweiler, auf einer Anhöhe über der Talsohle, steht der Rainhof (früher auch: Auf dem Rain). Die Hofbezeichnung leitet sich von seiner Lage am Berghang ab. Beim Leheneck grenzen die Hofflächen an die Gemarkungen von Gundelfingen und Wildtal. Der Hof ist seit über 350 Jahren in Familienbesitz. Die Familie Scherzinger betreibt hier Landwirtschaft mit Kühen, Schweinen, Obstbau, Reben sowie Forstwirtschaft. Die Milch wird an die Schwarzwaldmilch in Freiburg abgeliefert. Selbsterzeugte Produkte wie z.B. Brot, Obst, Edelbrände, Dosenwurst und naturtrüber Apfelsaft von Streuobstwiesen werden immer freitagnachmittags auf dem Gundelfinger Wochenmarkt angeboten. Brennholz aus dem eigenen Wald kann ebenfalls geliefert werden.
 
 Kontakt: Familie Scherzinger, Hinterheuweiler 5, rainhof.heuweiler@t-online.de, Tel.: 07666/3271
 
----
-
-# 33
-
-"Burg" ('s Polizeie, altes Gefängnis)
+# "Burg" ('s Polizeie, altes Gefängnis)
 
 Das wunderschöne Fachwerkhaus auf dem Kirchberg kann auf eine über 200-jährige wechselvolle Geschichte zurückblicken. Erbaut 1810 war es zunächst lokaler Polizeiposten mit Arrestzelle, Rat- und unter anderem auch Schulhaus. Im Obergeschoss des Hauses wohnte der Lehrer und Bienenkenner Sailer, der mit seiner Tochter am Feldeleweg vom Blitz erschlagen wurde.
 
@@ -514,10 +483,6 @@ Heute ist das Gebäude Eigentum der Familie Blattmann. Adresse: Kirchberg, neben
 Die Bücherecke beim Fahrradständer des Gemeindehauses in Heuweiler ist auf der Basis einer privaten Initiative nach dem Vorbild anderer Bücherecken in den Nachbargemeinden entstanden. Das Regal hat Hr. Elighofer geschreinert. Die Bücherecke soll die Gelegenheit bieten, einfach und unkompliziert Bücher zu tauschen oder einfach nur weiter zu geben, falls diese im eigenen Regal nicht mehr zur Hand genommen werden.
 
 Ausleihen kann dort jeder, der vorbei kommt und Lust auf eines der angebotenen Bücher verspürt und lesen kann. Das Bücherregal ist eine neue Einrichtung in Heuweiler und vielleicht findet sich noch die eine oder andere helfende Hand zur Wartung und Pflege des Angebots. Adresse: Dorfplatz, direkt am Gemeindehaus.
-
----
-
-# 34
 
 # Dorfplatz, Dorfbrunnen, Bühl
 
@@ -577,8 +542,6 @@ Kontaktadresse: Jugend-heuweiler@googlegroups.de
 Adresse: Kirchberg im Schulgebäude gegenüber der Kirchberghalle
 
 ---
-
-# Kindergarten
 
 # Kindergarten Sonnenhügel
 
@@ -664,8 +627,6 @@ Adresse: Hinterheuweiler am Abzweig zum Rainhof, Gundelfinger Str. am Ortseingan
 
 ---
 
-# 41
-
 # Messnerhaus
 
 Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten Wohnhäuser in Heuweiler. Die auf dem Torbogen des Kellers eingemeißelte Jahreszahl 1704 wurde höchstwahrscheinlich aber erst beim Wiederaufbau oder einer späteren Sanierung angebracht. Ursprünglich wohnte der Messner in dem kleinen landwirtschaftlichen Anwesen, das er mit dem Kirchenacker, wohl neben seinen kirchlichen Pflichten, für den Pfarrer und für sich und seine Familie bewirtschaftete. Bis Mitte des 18.Jhd. bewohnte Familie Berthold das Haus. Die Messnertätigkeit wechselte zur Familie Ihringer, denen die Kirche das Haus am Anfang des 19. Jhd. verkaufte, wahrscheinlich war es in eher schlechtem Zustand. 1810 wurde das alte Messnerhäuschen, welches das Stift Waldkirch direkt an der Kirchhofmauer erbaut hatte, abgerissen und etwas abgesetzt das neue Haus mit diesen Baumaterialien errichtet. Die Ihringers verkauften es bald an Familie Dörr, diese später an Familie Über, von wo es durch Erbe zu Familie Bank und per Heirat zu Familie Strecker wechselte. Genannt wird das Haus "Strickers" nach einer früheren Bewohnerinnen, die angeblich so viel gestrickt hat. Heute ist das Haus im Eigentum der Familie Schwehr. Adresse: Kirchberg 5, direkt hinter der Kirche.
@@ -675,8 +636,6 @@ Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten Wohnhäuser i
 Seit 1790 steht das Pfarrhaus am Kirchberg, gebaut für den damaligen Pfarrer von Heuweiler. Davor wohnten die Pfarrer entweder im "Pfrundhäusle", von dem man nicht genau weiß, wo es sich befand, oder im Pfaffenhof, dem heutigen Dörrhof an der Dorfstraße. Nur zur Hälfte ist es unterkellert, Keller und Erdgeschoss sind mit Bruchsteinen gebaut. 1880 wurde das Haus umgebaut und mit Sandsteingewänden aufgestockt, zwischen 1917 und 1930 wurden Wasser- und Stromleitungen gelegt. 1970 kamen die beiden Garagen dazu. Wie fast alle Gebäude im "Kirchenstaat" - das sind die Kirche, das Hannehäusle, das alte Mesmerhaus und "die Burg" oder ´s Polizeie - ist auch das Pfarrhaus als Kulturdenkmal eingestuft. 2003 wurde es unter Beteiligung der Pfarrgemeinde Heuweiler vom Erzbischöflichen Ordinariat in Freiburg in Absprache mit dem Denkmalamt einer Generalsanierung unterzogen. Heute beherbergt das imposante Gebäude im wunderschönen großen Garten mit herrlicher Rundumaussicht im Erdgeschoss das Pfarrbüro und einen kleinen Versammlungsraum, das "Remigistüble", im oberen Stockwerk befindet sich die Pfarrerwohnung. Adresse: Kirchberg 4, hinter dem Messnerhaus.
 
 ---
-
-# 42
 
 # Sattlers
 
@@ -698,15 +657,13 @@ Adresse: Kirchberg
 
 ---
 
-# 43
-
 # Spielplätze
 
 In Heuweiler gibt es zwei öffentliche Spielplätze. Einer befindet sich beim Kindergartengelände am Kirchberg und der andere im Holzweg. Es sind unterschiedlich angelegte und der Größe entsprechend angemessen ausgestattete Spielplätze für alle Kindesalterstufen. Bänke für die erwachsenen Begleitpersonen bieten beide. Es gibt im Sommer Wasser-Matsch-Plätze. Der Grillplatz am Kindergarten steht allen offen, am besten nach Rücksprache mit den Erzieherinnen.
 
 Für das Wohngebiet Neuer Kirchberg ist ein weiterer kleiner Spielplatz eingerichtet.
 
-# Hubert Blattmann
+Hubert Blattmann
 
 Adresse: Am Ende des Kirchberg in Richtung Wald
 
@@ -716,7 +673,7 @@ Am Ende des Holzweg in Richtung Sportplatz
 
 Auf dem Sportgelände der DJK am nördlichen Rand Heuweilers trainieren die aktiven Fußballerinnen und Fußballer und tragen dort während der Saison auch ihre Heimspiele aus. Im Jahr 2007 konnte der Hartplatz der DJK saniert werden und eine neue Flutlichtanlage wurde gebaut. Im einladenden Sportheim wird bei allen Veranstaltungen bewirtet. Es wurde von den Mitgliedern in Eigenleistung errichtet und vor einigen Jahren in einer „72-Stunden-Aktion“ mit Hilfe der Malteser Jugend ausgebaut. Wer es für eigene Feiern nutzen will, kann dies beim Vorstand des DJK anfragen.
 
-# Martina Michaelis
+Martina Michaelis
 
 Adresse: Holzweg, am Waldrand
 
@@ -736,8 +693,6 @@ Adresse: Am Holzweg in Richtung Sportplatz
 
 ---
 
-# 45
-
 # Bänke
 
 Am Lehenkreuzacker
@@ -752,7 +707,7 @@ Thomas Frank 7: Bank an der Weggabel
 
 # Mobilität
 
-# Straßen
+## Straßen
 
 Die Straßen und Wege von Heuweiler kann man an fast drei Händen abzählen, nämlich 16:
 
@@ -772,7 +727,7 @@ Eine besondere Straße ist das "Biergässle", das es nur zur Fasnet gibt. Es ist
 
 In dieser Stichstraße wird gerne musiziert und besonders an Fasnet ist das sicherlich auch das eine oder andere Mal mit alkoholischen Getränken verbunden gewesen. Und so hat sich die Bezeichnung Biergässle eingebürgert, auch wenn dies kein offizieller Straßenname ist. Warum allerdings bei Google Maps die Straßenbezeichnung so hinterlegt ist, ist gänzlich unbekannt und kann vielleicht an Fasnet bei den dann Anwesenden erfragt werden.
 
-# ÖPNV
+## ÖPNV
 
 Heuweiler liegt an der Strecke der Buslinie 7205, die zwischen Denzlinger Bahnhof über Heuweiler nach Glottertal/St. Peter oder zum Kandel pendelt. Montags bis freitags zwischen 6 und 18 Uhr gibt es einen Halbstundentakt. In Denzlingen besteht Anschluss an die Nahverkehrszüge in Richtung Freiburg, Offenburg oder Elztal.
 
@@ -784,7 +739,7 @@ Information: http://www.heuweiler.de/gemeinde/oepnv.html
 
 ---
 
-# Behindertenfahrzeug
+## Behindertenfahrzeug
 
 Die Gemeinde Gundelfingen betreibt ein Fahrzeug, das auch von und für Heuweiler genutzt werden kann. Es ist so umgebaut, dass auch Rollstuhlfahrer bequem einsteigen und mitfahren können. Für das Fahrzeug stehen ehrenamtliche Fahrer zur Verfügung, für Heuweiler hat sich Herr Franz aus Hinterheuweiler bereit erklärt, den Fahrdienst zu unterstützen. Mit dem Auto soll es immobilen Bürgern jeden Alters ermöglicht werden, zum Arzt oder zum Krankenhaus reisen zu können, einen Einkauf zu tätigen oder am gesellschaftlichen Leben teilhaben zu können. Koordiniert wird das Angebot vom Pflegedienst Hornbruch in Gundelfingen.
 
@@ -800,11 +755,11 @@ hornbruch@hornbruch.de
 
 www.hornbruch.de
 
-# Radwege
+## Radwege
 
 Täler, Weinberge, Höhenzüge und Bergstraßen, so schwer wie Alpenpässe: Der Schwarzwald, der Kaiserstuhl und die Rheinebene bieten alle Zutaten für Traumtouren mit Tourenrad, Rennrad oder Mountainbike. Die Umgebung rund um Heuweiler zählt völlig zu Recht zu den schönsten Radgebieten Deutschlands. Hier lassen sich sowohl für Familien als auch für sportliche und trainierte Fahrer eine Menge Touren finden. Flach in der Rheinebene oder steil in die Berge. Die schweren Anstiege der Schwarzwaldgipfel können dabei auch schon mehr als 1000 Höhenmeter und zweistellige Steigungsprozente aufweisen. Es gibt auf den Touren eine Vielzahl von schönen Aussichten und Einkehrmöglichkeiten.
 
-# Ein paar Anregungen für Touren rund um Heuweiler:
+## Ein paar Anregungen für Touren rund um Heuweiler:
 
 Auf den Kandel über Glottertal oder Waldkirch, auf den Freiburger Hausberg, den Schauinsland, Simonswäldertal und Hexenloch, St. Peter, St. Märgen und Dreisamtal, Freiamt, Hochburg in Sexau, Kaiserstuhl und Breisach, über den Rhein ins Elsass, Föhrental, MTB Tour zum Streckereck, auf den Rosskopf oder zur Zähringer Burg, zum Mundenhof Freiburg. Karten-Empfehlung: ADFC-Regionalkarte Freiburg und Umgebung.
 
@@ -812,9 +767,9 @@ Website: http://www.schwarzwald-tourismus.info/entdecken/Rad-und-MTB
 
 ---
 
-# Fuß- und Wanderwege
+## Fuß- und Wanderwege
 
-# In und um Heuweiler
+### In und um Heuweiler
 
 Heuweiler gibt es 15-20 km markierte Wanderwege und weitere forstwirtschaftliche Wege, die für Wanderer nicht markiert sind. Vor mehr als 10 Jahren hat der Schwarzwaldverein die Wanderstrecken alle 300 Meter und an wichtigen Abzweigungen mit Wegweisern und mit Informationen über wichtige Entfernungen und die Meereshöhe versehen, dass es schwerfällt sich zu verlaufen.
 
@@ -826,7 +781,7 @@ Der überregionale Breisgauer Weinweg, der am Schlossberg in Freiburg beginnt un
 
 Kontakt: www.schwarzwaldverein.de
 
-# Hubert Blattmann 24: Fuß- und Wanderweg Haldenweg
+Hubert Blattmann 24: Fuß- und Wanderweg Haldenweg
 
 Der Haldenweg ist ein landwirtschaftlicher Nutzweg, der in Vorderheuweiler die Halde quert. Er führt von der Dorfstrasse unterhalb des Kirchbergs am Ende der Bergstraße entlang, durch Streuobstwiesen, an Obstplantagen und Pferdewiesen vorbei, bis er zwischen Zollplätzle und Spielplatz im Holzweg mündet.
 
@@ -836,13 +791,13 @@ Adresse: Dorfstraße Richtung Sportplatz
 
 ---
 
-# Malefikantenweg
+### Malefikantenweg
 
 Der rund 1200 Meter lange Malefikantenweg verbindet Heuweiler mit Gundelfingen. Er verlässt Heuweiler nach Westen und führt nach Gundelfingen. Für Radfahrerinnen und Radfahrer, die sich die enge Landstraße ("Promilleweg") nicht mit Autos, LKWs und Traktoren teilen wollen, ist der Weg eine sichere Alternative. Er ist teilweise unbefestigt und gänzlich unbeleuchtet, wodurch er in der dunklen Jahreszeit nicht sehr komfortabel ist. Sein Name deutet es an: im Mittelalter war diese Gegend sicher alles andere als idyllisch. Hier wurden traditionell die Missetäter (Malefikanten, im Lateinischen "Schlecht-Tuer") zum Galgenplatz gebracht. So heißt die Wiese neben dem Malefikantenweg auch folgerichtig die Galgenmatte.
 
 Adresse: Feldweg zwischen Heuweiler und Gundelfingen
 
-# Promilleweg
+### Promilleweg
 
 Die Ortsverbindungsstraße führt von Heuweiler über die Felder vorbei am unteren Brandweiher, am Litzelstahlerhof am Waldrand entlang nach Gundelfingen. Bekannt ist die Straße im Dorf als der Promilleweg, weil dort die Wahrscheinlichkeit von der Polizei kontrolliert zu werden, angeblich eher gering ist. Leider führt dieser Eindruck auch gelegentlich dazu, dass manche Autofahrer auf dieser Strecke sehr zügig unterwegs sind. Besonders die Außenkurve am Waldrand kurz nach dem Litzelstahlerhof hat es aber in sich. Sie ist eng und sehr wenig übersichtlich. Falls dann noch ein Radfahrer unterwegs ist, ist Vorsicht angebracht.
 
@@ -858,21 +813,21 @@ Am 9. Juni 2016 hat der Gemeinderat Heuweiler die von der Bürgerrunde Heuweiler
 
 Nachdem die Gemeinde Gundelfingen seit Oktober 2016 den Orangenen Punkt unterstützt, hat nun auch die Gemeinde Denzlingen im Juli 2017 zwei Haltestellen genehmigt.
 
-# Wie funktioniert der Orangene Punkt?
+Wie funktioniert der Orangene Punkt?
 
 Jeder (ab 18 Jahren) kann sich an die markierten Standorte stellen, warten und ggf. vorbeifahrende Autos auf sich aufmerksam machen. Hält jemand an, einfach Fahrtziel und Mitnahme abklären.
 
-# Was sind die Vorteile für unser Dorf?
+Was sind die Vorteile für unser Dorf?
 
 - ein einfaches und praktisch kostenloses Angebot zur Erhöhung der individuellen Mobilität und Reduktion des Verkehrsaufkommens im Dorf
 - Reduktion von klimaschädlichen Gasen sowie Lärmvermeidung
 - flexible Nutzung v.a. durch Personen/Familien/Haushalte ohne oder nur mit einem KFZ
 
-# Wie kann ich Mitglied werden?
+Wie kann ich Mitglied werden?
 
 Einfach per Mail an orangenerpunkt@heuweiler.net oder per Telefon 0176-21410319 Mitfahrer und Fahrerausweise beantragen.
 
-# Mitfahrstationen
+Mitfahrstationen
 
 ✔ Dorfausgang Richtung Denzlingen/Glottertal – Bushaltestelle in Heuweiler:
 ✔ Dorfausgang Richtung Gundelfingen beim Weidweg
@@ -889,7 +844,7 @@ Einfach per Mail an orangenerpunkt@heuweiler.net oder per Telefon 0176-21410319 
 ✔ Hauptstraße, direkt vor dem Rathaus
 ✔ Elzstraße, an der Bushaltestelle vor dem Einkaufszentrum (Rewe, Volksbank etc.)
 
-# Machen Sie mit!
+Machen Sie mit!
 
 Wir hoffen, dass sich im Laufe der Zeit auch "Mitfahr-Bekanntschaften" entwickeln. Sie können mit allen Mitgliedern über unsere Mailingliste op-buergerrunde-heuweiler@googlegroups.com gleichzeitig korrespondieren, ohne dass dabei Ihre eigene Mailadresse öffentlich wird. Für Smartphone-Besitzer besteht die Möglichkeit, einer Whatsapp-Gruppe teilzunehmen. Einfach Anruf oder SMS an: 0176-21410319. Dann können Sie jederzeit per Smartphone eine Mitfahrt anbieten oder nach einer Mitfahrgelegenheit suchen. Für weitere Informationen: buergerrunde.heuweiler.net/orangenerpunkt. Wir freuen uns auf Ihre Fragen, Ideen und Wünsche: Bürgerrunde Heuweiler-AG Bürger mobil, Burkhard Werner,
 
@@ -897,7 +852,7 @@ Wir hoffen, dass sich im Laufe der Zeit auch "Mitfahr-Bekanntschaften" entwickel
 
 # Geschäfte und Verkaufsstellen
 
-# Bäckerei-Konditorei-Café Schneider, Dorfladen
+## Bäckerei-Konditorei-Café Schneider, Dorfladen
 
 Bäckerei-Konditorei-Café Schneider
 
@@ -907,7 +862,7 @@ Dorfstraße 42
 
 Tel.: 07666/2254
 
-# Filiale Gundelfingen
+Filiale Gundelfingen
 
 Waldstraße 30
 
@@ -915,7 +870,7 @@ Waldstraße 30
 
 Tel.: 0761/580446
 
-# Frisör Schneider
+## Frisör Schneider
 
 Frisör Schneider
 
@@ -929,17 +884,13 @@ Schönbergstr. 35, 79285 Ebringen
 
 Tel. 07664-6558
 
-# Im Internet finden Sie uns unter:
+Im Internet finden Sie uns unter:
 
 www.frisoerschneider.de
 
 Wir beraten Sie gerne und professionell. Entspannen Sie sich bei uns, lassen Sie sich verwöhnen und erleben Sie bei einer Tasse Kaffee das Zusammenspiel von Natur und Schönheit. Wir freuen uns auf Sie.
 
-# Frisör Schneider 1 Das Frisör Team
-
----
-
-# GEHRIHOF
+## GEHRIHOF
 
 Der Gehrihof, gelegen am Ortsende von Heuweiler, liegt beschaulich zwischen seinen Rebbergen.
 
@@ -953,11 +904,11 @@ Unsere Qualitätsweine bieten wir Ihnen in drei verschiedenen Sortimentslinien a
 
 Gerne richten wir Ihre Feierlichkeiten, ab 20 Personen, in unserer Weinstube aus. Hier finden Sie Platz für bis zu 45 Gäste. Bitte kontaktieren Sie uns für eine Terminvereinbarung.
 
-# Unsere Öffnungszeiten
+Unsere Öffnungszeiten
 
 Wir freuen uns auf Ihren Besuch
 
-# WEINGUT | HOFLADEN
+WEINGUT | HOFLADEN
 
 Familie Strecker
 
@@ -969,7 +920,7 @@ Samstag 10.00 Uhr - 16.00 Uhr
 
 und nach telefonischer Absprache
 
-# WEINSTUBE
+WEINSTUBE
 
 Gesellschaften ab 20 Personen - nach Vereinbarung -
 
@@ -979,19 +930,17 @@ Gehrihof 1 Bilder &#x26; Logo
 
 ---
 
-53
-
-# Obsthof Blattmann
+## Obsthof Blattmann
 
 Maria und Hubert Blattmann betreiben in der Glottertalstraße einen Hofverkauf, in dem man täglich frisches Obst und Gemüse kaufen kann, saisonal kommt das natürlich aus eigenem Anbau aus Heuweiler. Hervorheben kann man den sauberen Feldsalat, die phantastischen Tomaten, über die man bei Blattmanns ausgiebig fachsimpeln kann, die leckeren Pfirsiche und ganzjährig knackige Äpfel. Regional bestens bekannt ist aber, dass es dort hervorragende Erdbeeren gibt. Darüber hinaus gibt es noch andere regionale Produkte, darunter den eigenen Apfelsaft, Schnaps aus eigener Brennerei und nicht zuletzt feine Marmelade von Oma Blattmann.
 
-# Adresse:
+Adresse:
 
 Glottertalstraße 8
 
 79194 Heuweiler
 
-# Öffnungszeiten
+Öffnungszeiten
 
 Mo-Fr: 10Uhr - 12Uhr und 15Uhr - 18Uhr30
 
@@ -999,7 +948,7 @@ Sa: 9Uhr - 12Uhr30
 
 Tel.: 07666/3668
 
-# Wuchner (Edelbrände, Liköre, Apfelsaft &#x26; saisonales Obst)
+## Wuchner (Edelbrände, Liköre, Apfelsaft &#x26; saisonales Obst)
 
 Die Familie Wuchner praktiziert schon seit über 100 Jahren die Kunst des „Obstbrennens“. Aus Äpfeln, Brombeeren, Mirabellen, Kirschen, Pflaumen oder Birnen werden mit viel Liebe und Sachkenntnis Obstbrände &#x26; Liköre hergestellt. Alle Früchte werden überwiegend selbst angebaut und sorgfältig ausgesucht und verarbeitet. Dabei macht die ganze Familie aktiv mit und wurde für ihre Arbeit schon vom Badischen Obst- und Kleinbrennerei Verband und auf der "Destillata" (internationalen Edelbrandmeisterschaft) prämiert. Alle Produkte können in der gemütlichen Probierstube ausprobiert werden. Auch Gruppen können eine „Schnapsprobe“ buchen.
 
@@ -1007,7 +956,7 @@ Alle zwei Jahre veranstaltet die Familie Wuchner ein für alle offenes Hoffest m
 
 Siehe auch: Wuchners Hoffest mit Livemusik (Sep.) (S. 73)
 
-# Kontakt:
+Kontakt:
 
 Markus Wuchner
 
@@ -1023,7 +972,7 @@ E-Mail: info@brennerei-wuchner.de
 
 # Restaurants, Hotels &#x26; Ferienwohnungen
 
-# Bäckerei-Konditorei-Café Schneider
+## Bäckerei-Konditorei-Café Schneider
 
 Dorfstraße 42
 
@@ -1031,7 +980,7 @@ Dorfstraße 42
 
 Tel.: 07666/2254
 
-# Hotel &#x26; Restaurant Laube
+## Hotel &#x26; Restaurant Laube
 
 Das Gebäude wurde im Jahre 1709 im Glottertal erbaut. 1858 wurde das Haus demontiert und in Heuweiler, Glottertalstraße wieder errichtet.
 
@@ -1059,7 +1008,7 @@ www.hotel-laube.de
 
 ---
 
-# Gasthof Grüner Baum
+## Gasthof Grüner Baum
 
 Gasthof Grüner Baum
 
@@ -1077,7 +1026,7 @@ E-Mail: info@gasthof-gruener-baum.de
 
 Internet: www.gasthof-gruener-baum.de
 
-# Öffnungszeiten
+Öffnungszeiten
 
 Montag bis Mittwoch ab 11.00 Uhr geöffnet
 
@@ -1089,11 +1038,11 @@ Samstags und Sonntags sowie Feiertags haben wir den ganzen Tag für Sie geöffne
 
 Warme Küche von: 11.30 Uhr bis 14.00 Uhr und von 17.30 Uhr bis 21.30 Uhr
 
-# Ketterer's Gasthaus Rebstock
+## Ketterer's Gasthaus Rebstock
 
 Essen ist ein Stück Lebensfreude. Im Alltag schenken wir diesem Aspekt manchmal zu wenig Aufmerksamkeit. Aber wer kennt sie nicht, die schönen Momente des Genießens! Mit Freunden lachend an einer reichgedeckten Tafel debattieren, das mitternächtliche Souper bei einem Rendezvous, im Kreise der Familie ein erster Gartenbrunch, wenn die ganz Kleinen vergnügt umhertollen. Sich gemeinsam an einen Tisch zu setzen, ist ein Moment der Ruhe und Entspannung. Wir schenken gegenseitige Aufmerksamkeit und gemeinsames Essen verbindet einfach. Ein Restaurantbesuch bietet zudem den Luxus, sich ganz auf den Moment des Genießens konzentrieren zu können. Aus dem Alltäglichen wird das Besondere. Wir laden Sie ein, sich das Besondere zu gönnen!
 
-# Öffnungszeiten
+Öffnungszeiten
 
 Dienstag bis Samstag ab 16:00 Uhr
 
@@ -1111,15 +1060,13 @@ Internet: www.rebstock-heuweiler.de
 
 ---
 
-Ferienwohnung
-
-# Ferienwohnung Fahrländer
+## Ferienwohnung Fahrländer
 
 Seit über dreißig Jahren bietet die Familie Fahrländer Erholung in zwei ruhig gelegenen Ferienwohnungen in Hinterheuweiler. In kurzer Zeit ist man am Leheneck und findet dort vielfache Wandermöglichkeiten vor.
 
 Für Gäste steht eine 80 qm große Terrasse (z.T. überdacht) mit Liegestuhl, Grill und Tischtennis zur Verfügung. Auf dieser Terrasse kann der Ferientag gemütlich ausklingen.
 
-# Fahrländer 1 Ferienwohnung Fahrländer
+Fahrländer 1 Ferienwohnung Fahrländer
 
 Kontakt: Annemarie Fahrländer
 
@@ -1131,7 +1078,7 @@ E-Mail: info@haus-fahrlaender.de
 
 Internet: www.haus-fahrlaender.de
 
-# Ferienwohnung „Schwarzwalddomicil am Glottertal“
+## Ferienwohnung „Schwarzwalddomicil am Glottertal“
 
 Im Neubaugebiet „Am Flissert“ haben wir 2015 diese Ferienwohnung in unserem Privathaus eröffnet. Wir haben darauf geachtet, die hellen Räumlichkeiten gleichzeitig modern und gemütlich einzurichten. Es dominieren Echtholzmöbel in Kombination mit roten und grauen Stoffen. Die Wohnung bietet viel Freiraum und lädt zum Entspannen ein.
 
@@ -1147,7 +1094,7 @@ Adresse: Am Flissert 12
 
 # Unternehmen
 
-# Gartenbau Björn Zwigart
+## Gartenbau Björn Zwigart
 
 Seit über 15 Jahren ist Björn Zwigart im Gartenbau und der Gartenpflege tätig. In dieser Zeit hat er viele Gärten angelegt und gepflegt, gehegt und umgestaltet. Zu seinen Spezialitäten gehören neben der Pflege und dem Schnitt von Bäumen und Sträuchern oder Stauden auch das Bauen und Pflastern mit Natur- oder Betonsteinen. Das passende Material kann er beschaffen oder unterstützt gerne bei der eigenen Beschaffung. Darüber hinaus bietet er Erdbewegungen aller Art an. Unter dem Motto "Zwigi lohnt sich immer" ist er fachkundig und kurzfristig einsatzbereit.
 
@@ -1161,7 +1108,7 @@ Tel.: 07666/4891
 
 0171/8669 287
 
-# Islandpferdegestüt Alt-Vogtshof
+## Islandpferdegestüt Alt-Vogtshof
 
 Auf dem Pferdegestüt Alt-Vogtshof von Reinhard Schwehr werden Islandpferde gezüchtet und verkauft. Zudem können Anfänger, Fortgeschrittene und Wiedereinsteiger Reitunterricht nehmen und geführte Ausritte genießen. Ab fünf Jahren können auch die Kleinsten voltigieren. Wer ein eigenes Pferd unterstellen möchte, kann eine Box mieten.
 
@@ -1181,9 +1128,7 @@ Website: www.islandpferdegestuet-alt-vogtshof.de
 
 ---
 
-# Landmaschinen
-
-Landmaschinen Stefan Zepner
+## Landmaschinen Stefan Zepner
 
 Wir sind Ihr kompetenter Partner für Landmaschinen und Motorgeräte in Heuweiler. Durch unsere langjährige Erfahrung können wir unserer Kundschaft ein möglichst umfangreiches Programm an guten, praxiserprobten und preisgünstigen Maschinen und Geräten namhafter Hersteller anbieten.
 
@@ -1199,7 +1144,7 @@ Dorfstraße 51, 79194 Heuweiler
 
 Tel.: 07666/2532
 
-# Schaffer's Partyservice
+## Schaffer's Partyservice
 
 Schaffers-Partyservice macht Ihre Veranstaltung in Heuweiler und Umgebung zum Erlebnis. Wir bieten für jeden Anlass und Geschmack das passende Buffet oder ofenfrische Menü. Ob Firmenfeste, Hochzeiten, Geburtstage oder sonstige Events, Ihre Wünsche als Kunde stehen dabei immer im Vordergrund.
 
@@ -1215,11 +1160,11 @@ http://schaffers-partyservice.de
 
 ---
 
-# Schreinerei Krüger
+## Schreinerei Krüger
 
 Wir, die Schreinerei Krüger, produzieren seit 50 Jahren für Sie individuelle Schlaf- und Wohnzimmer sowie die nur für Sie nach Ihren Vorstellungen geplante Küche. Die Böden sowie Ihre Fenster und Haustür als auch die Wohnungstüren werden für Sie erneuert oder renoviert. Die Schreinerei Krüger wurde vor 50 Jahren im Glottertal eröffnet, 1986 sind wir in die eigenen Betriebsräume hier in Heuweiler umgezogen.
 
-# Schreinerei Krüger 1 Werkstatt
+Schreinerei Krüger 1 Werkstatt
 
 Adresse: Schreinerei Krüger
 
@@ -1235,11 +1180,11 @@ www.krueger-schreinerei.de
 
 schreinerei-krueger@t-online.de
 
-# Tief- und Erdbauarbeiten Meder
+## Tief- und Erdbauarbeiten Meder
 
 Oberhalb vom Litzelstahlerhof liegt der Hof der Firma Meder Tiefbau. Seit 1977 bietet der Familienbetrieb alle Arten von Erdbauarbeiten an, zum Beispiel den Bau von Trockenmauern oder Waldwegen, den Aushub von Baugruben oder den Anschluss von Kanälen. Mit einer Sondergenehmigung der Gemeinde für die schmale Straße nach Gundelfingen starten eindrucksvolle Geräte vom Mederhof. Sie heißen Raupenhydraulikbagger, Kettendozer oder Walzenzug.
 
-# Kontakt: Firma Meder Tiefbau
+Kontakt: Firma Meder Tiefbau
 
 Litzelstahlerhof 2
 
@@ -1248,439 +1193,3 @@ Litzelstahlerhof 2
 Tel.: 07666/2416
 
 http://www.meder-tiefbau.de/
-
----
-
-# Veranstaltungen im Jahreslauf
-
-Auf der Heuweilermer Webseite http://www.heuweiler.de gibt es den aktuellen Veranstaltungskalender zum Download.
-
-# Neujahrsempfang (Jan.)
-
-Alle zwei Jahre veranstaltet die Gemeinde Heuweiler einen Neujahrsempfang in der Kirchberghalle, zu dem sich viele Dorfbewohner gerne einladen lassen. Auch neu Zugezogene sollen persönlich willkommen geheißen werden. Neben der allgemeinen Ankündigung im Gemeindeblättle werden die Neuheuweilermer auch schriftlich eingeladen. Zum Empfang sorgt die Trachtenkapelle für musikalische Begleitung. Angestoßen wird typischerweise mit einem Sekt vom Gehrihof und die Neujahrsbrezel liefert der Schneider Bäck. Ein besonderes Highlight ist der Zweijahresrückblick in Wort und Bild. Wenn es darum geht, eine Heuweilermerin oder einen Heuweilermer für ihr bzw. sein Engagement im Dorf zu würdigen, ist der Neujahrsempfang ein passender und würdiger Rahmen.
-
-Adresse: In der Kirchberghalle
-
-# Sternsinger (Jan.)
-
-Bei den Sternsingern können alle Kinder, egal welcher Konfession, ab der 3. Klasse mitmachen. Wir ziehen in der ersten Januarwoche von Tür zu Tür durch Heuweiler, bringen den Segen und sammeln Spenden für Not leidende Kinder in der ganzen Welt. Das Sternsingen ist ein alter Brauch, der bis ins Mittelalter zurückreicht. Als Könige gekleidet zogen Jungen durch die Gassen und spielten den Zug zur Krippe nach. Das Kindermissionswerk hat den Brauch 1958 durch die Sternsingeraktion wieder aufgegriffen und ihm ein neues Ziel gegeben. Heute ist das Sternsingen die weltweit größte Solidaritätsaktion von Kindern für Kinder.
-
-Bei ihren Hausbesuchen schreiben die Sternsinger den Segen mit gesegneter Kreide über die Türen: 20\*C+M+B+17. Der Stern steht für den Stern, dem die Weisen aus dem Morgenland gefolgt sind. Zugleich ist er Zeichen für Christus. Die Buchstaben C+M+B stehen für die lateinischen Worte „Christus Mansionem Benedicat“ – Christus segne dieses Haus. Die drei Kreuze bezeichnen den Segen: Im Namen des Vaters, des Sohnes und des Heiligen Geistes.
-
-Kontakt: Stephanie Wiehle, Wiehle-Heuweiler@t-online.de
-
----
-
-# 61
-
-# Hallenfußballturnier/Soccer Cup (Jan.)
-
-Neben dem jährlichen Jugendtag ist das Hallenfußballturnier eine wichtige Veranstaltung der Jugendabteilung des DJK. Im Jahre 2015 zum ersten Mal ausgerichtet, hat es sich sehr schnell zu einer schönen Veranstaltung für die Jugendmannschaften des DJK und den Mannschaften der umliegenden Gemeinden entwickelt. In der Winterzeit ist die klassische Zeit für die Fußballturniere in der Halle. Da die Kirchberghalle sich nur bedingt für ein Kinderfußballturnier eignet, wurde lange Zeit auf ein eigenes Hallenturnier verzichtet. Erst mit der Verwendung des Soccer Courts vom südbadischen Fußballverband, der in der Kirchberghalle aufgebaut werden kann, wurde eine Möglichkeit gefunden, die Halle für Spieler und Zuschauer gleichsam zu nutzen.
-
-Das Hallenturnier beginnt freitagabends mit Spiel- und Trainingsmöglichkeiten für die Jugendlichen der A-, B-, C- und D-Jugend und läuft dann eng getaktet am Samstag und am Sonntag für die Mannschaften der E-, F- und G-Jugend ab. Am Wochenende hat der DJK Heuweiler ca. 20 andere Jugendmannschaften zu Gast. Jede Spielerin und jeder Spieler erhält eine Medaille. Am Samstagabend gibt es noch eine Abendveranstaltung für Trainer und Betreuer der Jugendabteilung.
-
-Adresse: Kirchberghalle
-
-# Hemdglunki &#x26; Narrenbaum (Feb.)
-
-Am Abend des "schmotzige Dunschtig" findet der Hemdglunker- oder Hemdglunkiumzug in Heuweiler statt, bei dem auch der Narrenbaum aufgestellt wird. Der Umzug ist der Beginn der Fasnet in Heuweiler. In weißen Nachthemden, Schlafanzügen mit Nachtkappen, Schlafmützen oder rot-weiß bzw. blau-weiß gestreiften Strümpfen und Pullovern gekleidet, macht sich die Fasnetgesellschaft den Narrenbaum schleppend auf den Weg zum Bühl in der Dorfmitte, wo dann auch der Narrenbaum aufgestellt wird. Der Umzug geht durch die Ortsteile Neuhäuser und Vorderheuweiler, und die Trachtenkapelle gibt ihm mit ihrer Guggenmusik einen musikalischen Rahmen.
-
-Adresse: Umzug zum Dorfplatz
-
----
-
-# 62
-
-# Fasnet (Feb.)
-
-Die Heuweilermer Fasnet ist wahrlich eine urige Veranstaltung, die ihresgleichen sucht. Sie wird von den großen Vereinen gemeinsam ausgerichtet, und fast das ganze Dorf ist auf den Beinen.
-
-Los geht es mit dem Hemdglunki und dem Stellen des Narrenbaums am "schmotzige Dunschtig". Am darauf folgenden Sonntag ist der Fasnetsumzug mit anschließendem Narrentreiben.
-
-Der Umzug beginnt um 13 Uhr 30 in Hinterheuweiler, Treffpunkt ist am Gehrihof, wo es die ersten Tropfen zum Aufwärmen gibt. Alle Teilnehmer sammeln sich, die Trachtenkapelle spielt, eine Rede wird gehalten und vor allem werden die mitunter sehr fantasievollen Verkleidungen bewundert. Alle Kinder stromern durch die Menge und Kamelle und Bonbons fliegen.
-
-Irgendwann bricht der Umzug dann auf und alle gehen die Straße in Richtung Dorfplatz gemeinsam entlang, es gibt keine Zuschauer, alle sind der Umzug. Die erste Etappe endet in der Regel bei Familie Franz in der großen Kehre von Hinterheuweiler. Dort wird verweilt, die nächsten Runden zum Aufwärmen werden gereicht und die Trachtenkapelle spielt und die gleiche Rede wird gehalten und andere Kostüme, die man noch nicht gesehen hat, können bewundert werden. Die Kinder haben ihren Spaß und die Beutel füllen sich.
-
-Spätestens jetzt fällt einem auch der große Umzugswagen der Leheneckbestien auf, der sich dem Umzug angeschlossen hat. Bald setzt sich der Umzug wieder in Bewegung und es geht auf der zweiten Etappe bis zur Binde, wo es bei Familie Weiß wieder etwas zu trinken gibt. Auch hier spielt die Trachtenkapelle und es gibt wieder dieselbe Rede, der dann mancher schon nicht mehr so recht folgen kann. Sicher aber gibt es auch hier für die Kinder Bonbons zu jagen.
-
-Weiter gehts an der Binde entlang und am Biergässle vorbei. Der Umzug wächst durch die Anwohner, die sich anschließen und die dritte Etappe geht bis zum Wuchner in der Kurve der Dorfstraße, wo es nach dem langen Marsch endlich wieder Flüssigkeit gibt. Der Schnaps vom Wuchner ist gut und wahrscheinlich spielt die Trachtenkapelle auch und dieselbe Rede wird erneut gehalten. Vielleicht, im Rückblick lässt sich das nicht mehr mit Sicherheit sagen.
-
-Irgendwann sind dann alle plötzlich weitergegangen und der Wagen der Leheneckbestien macht die Musik-anlage an, dass die Scheiben wackeln und auch der Letzte schleppt sich den Berg zum Dorfplatz oder auch zur Festhalle hoch. Und da ist dann irgendwo noch lange das Narrentreiben.
-
-Adresse: Gehrihof bis Vorderheuweiler
-
----
-
-# Dorfkino (Frühjahr)
-
-Eine 2015 neu ins Leben gerufene Veranstaltung im Jahreskalender ist das von der Kultur AG der Heuweilermer Bürgerrunde organisierte Dorfkino. Bei bisherigen Veranstaltungen gab es Filme wie "Der große Gatsby" mit Leonardo diCaprio oder beim Themenabend Schule gleich zwei Filme, so dass für jeden etwas dabei war: "Die Feuerzangenbowle" und "Fack ju Göhte". Verbunden mit dem moderaten Eintritt ist auch eine kleine Verpflegung, die das Thema des Films unterstreicht, und natürlich Popcorn.
-
-Das Dorfkino findet mehrmals jährlich im Gemeindehaus statt. Die Termine finden sich auf der Webseite der Bürgerrunde buergerrunde.heuweiler.net/kino oder im Veranstaltungskalender unter www.heuweiler.de/veranstaltungskalender.html.
-
-Bürgerrunde Heuweiler 1 Dorfkino
-
-Adresse: Gemeindehaus
-
-Siehe auch: Bürgerrunde (S.8)
-
-# Kinder- und Teeniekleidermarkt / Flohmarkt (Mrz. &#x26; Okt.)
-
-Jedes Jahr findet im Frühjahr und im Herbst in der Kirchberghalle der traditionelle Kinder- und Teeniekleidermarkt statt. Nach Herzenslust können gut erhaltenen Kleider und auch Spielzeug gekauft und verkauft werden. Der Kinder- und Teeniekleidermarkt erfreut sich stets großer Beliebtheit. Seit Beginn wird die Organisation ehrenamtlich durchgeführt und von den verschiedenen Heuweilermer Vereinen unterstützt. Im regelmäßigen Wechsel kommt der Erlös des Getränke- und Kuchenverkaufs den Jugendabteilungen der unterstützenden Vereine zu Gute.
-
-Kontakt: Stephanie Wiehle, Wiehle-Heuweiler@t-online.de
-
-Adresse: Kirchberghalle
-
----
-
-# Scheibenschlagen (Mrz.)
-
-Schibi, schibi, schibo, wem sot die Schiibe go? Die Schiibe sollem so go. Und goht sie it, so gilt sie it. so kärt se keiner Jungfrau ned.
-
-Kurz nach der Fasnet klingt dieser Ruf wieder über die Wiese, wenn die Feuerwehr das Scheiben-schlagen veranstaltet. Kleine Holzscheiben werden an langen Stecken im Feuer angebrannt, so dass deren Rand glüht und dann mit dem Stecken überm Kopf schwingend und glutrote Bahnen in den Himmel zeichnend über den Scheibenbock ins Tal.
-
-Traditionell wird die erste Scheibe für Maria und die zweite für den Pfarrer geschlagen. Scheiben und Stecken können selbst mitgebracht oder auch vor Ort gekauft werden. Dazu gibt es einfache Speisen und Getränke und Lager- und Schwedenfeuer. Insgesamt ein uriger Brauch und vor allem ein großer gemeinschaftlicher Spaß. (S. Schiibeschlage unter https://als.wikipedia.org/wiki/Scheibenschlagen)
-
-Adresse: Hang oderhalb des Taubenbachs
-
-# Jugendvorspiel (Mrz.)
-
-Einmal im Jahr veranstaltet die Trachtenkapelle ein Vorspiel, bei dem alle Kinder und Jugendlichen, die ein Instrument lernen, einen Auftritt haben. Es spielen die ganz Kleinen, die neu mit Blockflöte oder Bongos angefangen haben und die Geübten, die bereits auf Orchesterinstrumente wie Klarinette, Horn oder Schlagzeug umgestiegen sind.
-
-Zum Abschluss spielt das Jugendorchester, bei dem diejenigen dabei sind, die schon etwas Erfahrung haben und die in diesem Rahmen an das Orchester der Trachtenkapelle herangeführt werden. Dazu gibt es Kaffee und Kuchen und im Anschluss können die Instrumente der Trachtenkapelle angeschaut und ausprobiert werden.
-
-Adresse: Kirchberghalle
-
----
-
-# 65
-
-# Palmsonntag (Apr.)
-
-Mit dem Palmsonntag beginnt in den christlichen Kirchen die Karwoche, in der der Einzug Jesu in Jerusalem gefeiert wird. Im Evangelium heißt es: „Am Tag darauf hörte die Volksmenge, die sich zum Fest eingefunden hatte, Jesus komme nach Jerusalem. Da nahmen sie Palmzweige, zogen hinaus, um ihn zu empfangen [...]“ (Joh 12.12)
-
-In vielen katholischen Kirchen ist es Brauch, „Palmen“ zu binden und bei der Palmprozession mitzutragen. Traditionell werden die Palmen hergestellt aus einem Nadelbaum, bei dem der Stamm bis auf vier bis sechs obere Astreihen entastet und geschält ist. Die Ästchen des untersten verbliebenen Astkranzes werden mit Seiden- oder Kreppapier umwickelt und nach unten zum Stamm gebogen und befestigt. Die oberen Äste werden mit Papierröschen oder mit Büscheln aus Seidenpapier oder Glanzpapierstreifen, den Flauderle, geschmückt, die Baumkrone verziert eine Fahne aus Glanzpapier.
-
-Die Kirchengemeinde versammelt sich mit ihren Palmen bei der Kirchberghalle, wo der Priester die Palmen und Palmzweige, die heute auch von den Ministranten hergestellt und verkauft werden, segnet. Anschließend zieht die Palmprozession unter frohen Gesängen in die Kirche ein. Früher waren die Palmen oft bis zu 8m hohe Bäume, heute sind sie bedeutend kleiner und werden vorwiegend von den Erstkommunionkindern getragen. Die Palmen werden zu Hause beim Haus aufgestellt. Früher hat man sie oft aus dem Speicherfenster heraus schauen lassen, weil sie vor Blitzschlag schützen sollten, und nach dem ersten Gewitter wieder eingeholt.
-
-Adresse: Kirchberghalle
-
-# Weißen Sonntag (Apr.)
-
-Früher wurden Erwachsene an Ostern getauft und zum Zeichen, dass sie mit der Taufe „Christus angezogen haben“, trugen sie für eine Woche weiße Gewänder. Diese wurden am folgenden Sonntag, dem „Weißen Sonntag“, wieder abgelegt. Traditionell wurden später an diesem Sonntag die Kinder zur Ersten heiligen Kommunion geführt. Die Kinder, die zur Erstkommunion gehen wollen, bereiten sich ein Vierteljahr in kleinen Gruppen auf die Erstkommunion vor und besuchen in dieser Zeit regelmäßig Gottesdienste insbesondere auch in der „Heiligen Woche“ von Palmsonntag bis Ostern.
-
-Am Tag der Erstkommunion werden die Mädchen und Jungen in Heuweiler unter den Klängen der Trachtenkapelle vom Pfarrhaus abgeholt und in die Kirche geleitet. Im Rahmen eines feierlichen Gottesdienstes treten sie dann erstmals an den „Tisch des Herrn“ und empfangen das heilige Brot. Dieser Tag ist nach der Taufe ein weiterer, bewusster Schritt hinein in eine Beziehung mit Gott und die Pfarrgemeinde.
-
----
-
-# Maiwecken (Mai)
-
-Am frühen Morgen des 1. Mai treffen sich die Schmerzfreien der Trachtenkapelle zum Maiwecken am ehemaligen Gasthaus Lamm, das letzte Haus auf der Glottertäler Straße in Richtung Glottertal. Nach einer kleinen Stärkung durch Kaffee zieht die Kapelle dann möglichst laut musizierend bis zu den hinteren Höfen am Leheneck durchs Dorf. Dabei wird sie an verschiedenen Stationen von Schlaflosen oder der frisch Geweckten willkommen geheißen und versorgt. Am Dorfplatz gibt es einen Stop, bei dem traditionell "Der Mai ist gekommen" vorgetragen wird. Zu dem Zeitpunkt weiß das allerdings das halbe Dorf bereits, während die andere Hälfte das recht bald erfahren wird.
-
-Adresse: Vom ehemaligen Lamm bis ins hinterste Hinterheuweiler
-
-# Frühjahrskonzert (Mai)
-
-Am dritten Samstag im Mai oder am Muttertags-samstag veranstaltet die Trachtenkapelle ihr jährliches Hauptkonzert, das in beiden Teilen vollständig von der Trachtenkapelle gegeben wird. An dem Konzert nimmt das gesamte Orchester mit 40 - 50 Musikern teil. Das Repertoire ist in der Regel sehr abwechslungsreich und reicht von klassischen Stücken für Blasorchester bis hin zu Filmmusik oder Rocklegenden, die plötzlich eine sehr interessante neue Variante durch die spezielle Umsetzung erhalten. Meist steht das Konzert unter einem Motto. Der Dirigent sucht passende Stücke zu diesem aus, die gefällig und zugleich konzertant sind. Das Jugenorchester spielt als Vorgruppe typischerweise zum Aufwärmen vorneweg. Die Konzerte sind stets sehr gut besucht und für das leibliche Wohl wird natürlich gesorgt.
-
-Adresse: Kirchberghalle
-
----
-
-# 67
-
-# Pfarrfest (Mai)
-
-Jedes Jahr im Mai feiert die Pfarrgemeinde St. Remigius nach dem Gottesdienst um die Kirche ein Fest. Wie bei anderen Veranstaltungen in Heuweiler kann man auch hier sehen, wie vielfältig das Gemeindeleben ist: Alle kirchlichen Vereine und Gruppierungen und die Trachtenkapelle unterstützen die Programmgestaltung schon im Vorfeld und sind beim Feiern aktiv dabei.
-
-In einem Programm aus einem der vergangenen Jahre konnte man zum Beispiel entnehmen: Sektempfang des Kirchenchors, Platzkonzert der Trachtenkapelle, Sportangebote des DJK, Kreativangebote des Kindergartens, Orgelspielen für Kinder, Ketten fädeln der Kleinkind- und Familiengottesdienstgruppe, eine Kirchenführung bis zum Dachboden und das Angebot der Malteser, den Blutdruck der Besucherinnen und Besucher zu messen.
-
-Auch für das leibliche Wohl ist bestens gesorgt. Wer seinen „kleinen“ Hunger stillen oder zu Kaffee und Kuchen verweilen möchte, ist herzlich eingeladen – unabhängig von der eigenen Konfession.
-
-Informationen zur Pfarrgemeinde, die zur katholischen Seelsorgeeinheit „An der Glotter“ gehört, findet man auf der Internetseite www.an-der-glotter.de.
-
-# Evangelischer Gottesdienst zu Christi Himmelfahrt (Jun.)
-
-Seit über 10 Jahren feiern wir um 10:30 Uhr einen evangelischen Gottesdienst in der Kirchberghalle. Der Gedanke war, dass wir einmal im Jahr etwas für die Evangelischen Gemeindemitglieder in Heuweiler anbieten, da die Gottesdienste ja üblicherweise in Glottertal und Denzlingen sind. Wir freuen uns aber auf Jeden, der zu unserem Gottesdienst kommt.
-
-Musikalisch werden wir meistens vom ev. Posaunenchor, die letzten zwei Jahre vom Denzilo, einer Musikergruppe, der auch der ev. Pfarrer Hr. Hartwig angehört, begleitet.
-
-Im Anschluss gibt es traditionell Schäufele mit selbstgemachten Kartoffelsalat sowie Kaffee und Kuchen.
-
-Kontakt: Susanne Geißler Tel.: 07666/2993
-
-Adresse: Kirchberghalle
-
----
-
-# Flurprozession
-
-# Christi Himmelfahrt (Jun.)
-
-Christi Himmelfahrt, „die Aufnahme des Herrn“, bezeichnet im christlichen Glauben die Rückkehr Jesu Christi in den Himmel. Das Fest wird 40 Tage nach Ostern gefeiert. Die Zeit vor dem Fest Christi Himmelfahrt verbindet sich in Liturgie und Brauchtum der römisch-katholischen Kirche mit Bitttagen oder Bittprozessionen. Sie fallen in die Zeit nach der Aussaat der meisten Feldfrüchte, im Glauben, dass nur mit Gottes Segen eine gute Ernte erzielt wird. Dieser Brauch ist in Heuweiler erhalten geblieben.
-
-Am Montag vor Christi Himmelfahrt geht die Bittprozession vom Zollplätzle am Holzweg durch den Kreuzwegle Kirchenwald zur Pfarrkirche und an Christi Himmelfahrt von der Kirche nach Hinterheuweiler. An drei Stationen, am Kreuz im Kreuzwegle, am Kreuz bei „Dettlingers“ und am Kreuz beim Dorfplatz wird angehalten, ein passendes Evangelium vorgelesen, gebetet und der Segen erteilt. Mit folgendem Lied beginnt die Prozession:
-
-Wohlauf mit hellem Singen, hinaus ins grüne Feld, Gott Lob und Ehr zu bringen, der es so wohl bestellt. Bis hierher half dein Segen; Herr führ es treu hinaus. Gib Sonnenschein und Regen, gib Brot in jedes Haus.
-
-# Herrgottstag Fronleichnam (Jun.)
-
-Fronleichnam ist ein Erinnerungsfest an die Einsetzung des Altarsakramentes, das zehn Tage nach Pfingsten feierlich begangen wird. Nach dem Festgottesdienst beginnt die Fronleichnamsprozession. Bei dieser Prozession wird der Leib des Herrn (althochdeutsch: Fron = Herr; lichnam = Leib) betend und singend durch die Gemeinde begleitet, um die Anliegen der Menschen unserer Gemeinde, der Gesunden und Kranken, der Jungen und Alten in Gottes Hand zu legen. Die Erstkommunikanten des Jahres begleiten den Traghimmel mit der Monstranz. Dahinter folgen die Familien mit Kleinkindern z.T. in Kinderwagen. Die katholischen Vereine DJK und Malteser zeigen an diesem Tag Flagge, Kirchenchor und Trachtenkapelle gestalten den Gottesdienst und die Prozession musikalisch mit.
-
-Der Prozessionsweg führt von der Kirche durch die Dorfstraße zum Gasthaus „Laube“, wo am Dorfeingang ein erster Altar steht. Durch Holzweg und Kandelstraße gelangt der Zug zum zweiten Altar an der Ecke zur Gartenstraße. Schließlich geht es wieder die Dorfstraße hinauf zur dritten Station beim Dörrhof. Unter Glockengeläut zieht die Prozession wieder zurück zur Kirche, wo die vierte Station gehalten wird und der Gottesdienst mit dem von Orgel und Musikverein begleiteten Lied „Großer Gott wir loben dich“ sein festliches Ende findet.
-
----
-
-# Jugendtag des DJK (Mai/Mai/Jun.)
-
-Der Jugendtag der Jugendabteilung der DJK Heuweiler ist die jährliche Großveranstaltung der Fußballjugend Heuweilers. Es ist das Ziel, dass an dieser Veranstaltung möglichst alle Kinder und Jugendlichen der DJK auf dem Platz stehen und an dieser Veranstaltung teilnehmen können. Es findet in der Regel ein Staffelturnier für die G- und die F-Jugend statt. Die Älteren der E- bis D-Jugend versuchen eines ihrer Staffelspiele auf diesen Tag auf den Heimplatz zu legen. Darüber hinaus sind die Älteren als Schiedsrichter oder beim Aufbau der Veranstaltung eingebunden.
-
-Die Aufgabe der Eltern ist es für das leibliche Wohl zu sorgen und den Kaffee- und Kuchenverkauf zu organisieren. Der Jugendtag ist eine Großveranstaltung für die Jugendabteilung, bei der ca. 20 verschiedene Vereinsmannschaften antreten.
-
-Adresse: Sportplatz
-
-# Dorfflohmarkt (Jun.)
-
-Antiquitäten, Bücher, Spielzeug, edles Geschirr und viele Kleider, Schottenmützen und Al-Capone-Anzüge, selbstgebasteltete Urlaubsandenken von Korsika, Dekoartikel, Wolle aus dem Strickkorb der Mutter, eine ganze Kiste Schwarz-Weiß Fotos. Eine Straße weiter Kasperletheater, Kinderfahrräder, Teleskop und Sportgeräte, eine Pelzmütze und eine schwarze Handtasche aus den 50er Jahren. Keine Ahnung, wer das braucht – aber manchmal kommen Leute, die genau das suchen.
-
-Beim Dorfflohmarkt in Heuweiler kann man alles finden. Im ganzen Dorf verteilt bauen die Bürger in ihren Carports und Garagen Flohmarktstände auf und nehmen am Dorfflohmarkt teil, den die Heuweilermer Bürgerrunde organisiert. Für die Besucher gibt es einen Flohmarkplan. Zur Stärkung gibt es bei vielen Kaffee und Kuchen und beim Gehrihof eine Weinprobe für die Dorf Flohmarktbesucher.
-
-Adresse: In ganz Heuweiler
-
----
-
-# 70
-
-# Rosskopflauf (Jun./Jul.)
-
-Der Rosskopflauf in Heuweiler ist nicht die erste Laufveranstaltung im Sportverein. Schon zum 45jährigen Jubiläum der DJK wurde die Heuweiler Meile gestartet, bei dem gedrechselte Holzpokale an die siegreichen Sportler überreicht wurden. 2004 zum nächsten großen Jubiläum wurde der Rosskopflauf geboren, dessen landschaftlich reizvolle Strecke seither Lauffans aus der ganzen Region nach Heuweiler lockt. Der Streckenrekord auf diesem anspruchsvollen Kurs liegt seit 2015 bei 1:09 Std.
-
-Nicht nur ambitionierte Bergläufer, die den Rosskopflauf gerne zur Vorbereitung auf die berühmten Bergläufe in der Schweiz nutzen, sind hier am Start. Auch versierte Hobbyläufer finden auf dem 18,4 km langen Rosskopfkurs oder dem schnellen 10 km - WildtalereckRun eine Herausforderung. Genauso können Genussläufer die Strecken mit den einmaligen Aussichtspunkten, auch als Walkingrunde, unter die Sohlen nehmen.
-
-Mit den Bambini-, Schüler- und Jugendläufen wird der Lauftag eröffnet. Mit Begeisterung ist der Nachwuchs am Start und – egal wie das Wetter sich zeigt: Laufen macht Spaß! In der Kirchberghalle werden dann alle Kinder mit einer Urkunde belohnt.
-
-# Bühlhock/Dorfhock (Jun.)
-
-Der Bühlhock oder auch Dorfhock wird gemeinsam von der Freiwilligen Feuerwehr und von der Trachtenkapelle veranstaltet. Die Veranstaltung unter dem Motto "Kumsch au, gell!!" findet in und vor der Kirchberghalle statt und bietet über zwei volle Tage ein rundes Programm mit Musik und Tanz und Speisen und Getränken. Typischerweise gibt es samstags abends eine Sommerparty mit Livemusik, einem Barbetrieb, geselligem Beisammensein und Tanz ab 19 Uhr.
-
-Sonntags mittags werden regionale Erzeugnisse zum Mittagessen angeboten und beim gewohnt reichhaltigen und üppigen Kuchenbuffett fällt die Auswahl schwer. Nicht nur das Jugendorchester der Trachtenkapelle spielt, sondern auch aus Nachbargemeinden eingeladene Kapellen. Darüber hinaus wird in der Regel ein buntes Kinderprogramm vorbereitet.
-
-Adresse: Kirchberghalle
-
----
-
-71
-
-# Sommerfest im Kindergarten (Jun.)
-
-Das jährliche Sommerfest im Kindergarten Sonnenhügel ist immer ein fröhliches Familienfest, zu dem außer den Familien der Kinder auch immer Vertreter der Kirchen- und der politischen Gemeinde und alle Bürgerinnen und Bürger Heuweilers eingeladen sind. Wir beginnen das Fest an einem Freitag Nachmittag in unserer Pfarrkirche St. Remigius mit dem Schulanfänger-Abschluss-Gottesdienst, den die Erzieherinnen mit den Kindern vorbereiten und gestalten. Anschließend wandern alle hoch zum Kindergarten-Spielplatz, wo - wie der Name schon andeutet - in den meisten Jahren die Sonne zum Fest scheint. Sollte es ausnahmsweise regnen, können wir immer in die Kirchberghalle ausweichen.
-
-Die Kinder begrüßen gemeinsam ihre Gäste mit einem Lied, viele Fotos werden geschossen, und anschließend sitzen Eltern, Großeltern, Verwandte und Freunde im Garten, reden und lachen miteinander und grillen an der Feuerstelle. Ein großes Salatbuffet stellen die Eltern zusammen, die Getränke besorgt der Kindergarten. Für die Kinder haben die Erzieherinnen unterschiedliche Kreativangebote vorbereitet, die eifrig angenommen werden. Eine frohe, freundliche, gelöste Stimmung und gute Laune herrschen den ganzen Nachmittag über. Am Schluss des Festes gegen Abend, wenn die Kinder müde werden, helfen die Eltern dankenswerterweise tatkräftig beim Abbau und Aufräumen.
-
-Im Sommer 2017 feierte der Kindergarten sein Silberjubiläum... 25 Jahre Sonnenhügel!
-
-# Adresse:
-
-Kindergarten am Kirchberg
-
-# Kinderfest Reit- und Fahrverein Heuweiler (Jul.)
-
-Das Kinderfest des Reit- und Fahrvereins Heuweiler findet im Sommer auf dem Hof und der großen Wiese der Familie Reichenbach in der Glottertalstraße statt. Einmal im Jahr veranstaltet der Reit- und Fahrverein eine Riesensause und es gibt ein großes und tolles Angebot für alle. Natürlich sind Kutschfahrten und Im-Kreis-Reiten für Kinder dabei, aber auch eine Hüpfburg und eine Rollenrutsche, manchmal auch ein kleines Karussell. Dann kann man natürlich den ganzen Hof der Familie Reichenbach und alle Tiere, die dort leben, besuchen.
-
-Bei der Kinderrallye über den ganzen Hof kann man an verschiedenen Stationen Stempel sammeln, die nachher gegen die entsprechende Menge Süßes eintauscht werden. Toll ist auch immer die "Hasenwette", bei der ein Hase sich für eins von drei Toren entscheiden muss.
-
-# Adresse:
-
-Hof der Familie Reichenbach, Zugang über Holzweg
-
-Siehe auch: Reit- und Fahrverein Heuweiler e.V. (S.15)
-
----
-
-# Zeltlager (Aug.)
-
-In der ersten Sommerferienwoche findet das alljährliche Zeltlager der Zeltlagergemeinschaft (ZLG) Heuweiler statt. Herzlich eingeladen hierzu sind Kinder und Jugendliche im Alter von 8 bis 16 Jahren. Gestaltet wird die Lagerwoche unter anderem mit zahlreichen Spielen, Workshops, Sport- und Bastelangeboten, Ausflügen, der abendlichen Lagerrunde am Lagerfeuer und vielen weiteren gemeinsamen Aktivitäten auf dem Lagerplatz. Die ZLG freut sich über rege Teilnahme und Interesse am Zeltlager.
-
-# Zeltlagergemeinschaft 1 Zeltlager
-
-# Sportwoche (Aug.)
-
-Im Anschluss an das Zeltlager findet seit einiger Zeit die Sportwoche der DJK statt. Sie ist eine Kinderferienbetreuung für Heuweilermer Kinder und Kinder aus den Nachbargemeinden. Bei der Anmeldung haben Kinder aus Heuweiler zwar erst einmal „Heimvorteil“, aber Kinder aus anderen Gemeinden sind ebenfalls sehr willkommen. Das Ferienangebot findet unter dem Motto "Sport-Spaß-Spiel" statt und richtet sich an Kinder im Alter zwischen 6 und 14 Jahren. Die Kinder sind den ganzen Tag draußen, also am Sportplatz oder im Wald unterwegs, bei schlechtem Wetter können sie in die Turnhalle ausweichen. Die Kinder sind verlässlich von 8 bis 16 Uhr betreut und es gibt eine Mittagversorgung im Vereinsheim mit frischen Zutaten und Gemüse und Salat durch Familie Dilger. Das alles zu moderaten Kosten.
-
-Kontakt: http://sportwoche.heuweiler.net Oder per Flyer, die vorher im Dorf ausliegen
-
----
-
-# Mariä Himmelfahrt (Aug.)
-
-Das Fest Mariä Himmelfahrt hat keinen direkten biblischen Ursprung, sondern wurde 1950 durch Papst Pius XII. initiert. Das Fest ist vergleichbar mit der jüdischen Tradition der Erntefeste (Pessach, Wochenfest und Laubhüttenfest) und wird nach der Getreideernte als Dankfest gefeiert.
-
-Der Legende nach hat man bei der Öffnung von Marias nur Rosen vorgefunden. Deshalb ist es in vielen katholischen Gemeinden Brauch, an diesem Tag einen Kräuterstrauß („Kriterbuschel“) in die Kirche zu tragen und dort segnen zu lassen.
-
-# Hubert Blattmann
-
-# Mariä Himmelfahrt Kräuterstrauß
-
-Der Kräuterstrauß besteht aus vielen verschiedenen einzelnen Heilkräutern, wie Schachtelhalm, Sauerampfer, Lavendel, Veilchen, Estragon, Oregano, Sellerie, Malve, Erika, Gerste, Hafer, Weizen, Kapuzinerkresse, Karottenkraut, Rahnenblätter, Basilikum, Brennnessel, Brombeerblätter, Minze usw.
-
-Früher wurde der Kräuterstrauß in Weihwasser getaucht und das Vieh besprengt. Er wird im Haus aufgehängt, wo er vor Feuer und anderen Katastrophen bis zum nächsten Jahr schützt.
-
-# Ökumenische Wanderung (Aug.)
-
-Seit ein paar Jahren treffen sich katholische und evangelische Gläubige an einem Sonntag im August um 15 Uhr auf dem Dorfplatz. Unter der fachkundigen Leitung von Ferdinand Elighofer machen wir eine kleine Wanderung, mit interessanten Geschichten, in und um Heuweiler. Auch die Pfarrer beider Konfessionen sind dabei.
-
-Gegen 16:30 treffen wir an der Schutzhütte ein, bei der einer der Pfarrer eine kurze Andacht hält. Danach klingt es bei einer Grillwurst und einem Ökumenische Viertele gemütlich aus.
-
-Federführend und Ansprechpartner für die evangelische Gemeinde in Heuweiler ist Susanne Geißler.
-
-Kontakt: Susanne Geißler Tel.: 07666/2993
-
----
-
-# Wuchners Hoffest
-
-# Wuchners Hoffest mit Livemusik (Sep.)
-
-"Wuchners Hoffest" am 10.09.2016 ab 14.00 Uhr
-
-Dorfstraße 8a
-
-Geboten werden:
-
-- Schaubrennen der Edelbrände
-- Cocktailbar
-- selbstgebackener Kuchen
-- Flammkuchen etc.
-- Traktorrundfahrten &#x26; Livemusik u.a. mit der Berliner Band "Leitplanke"
-
-Am 10.09.2016 ab 14.00 Uhr ist es wieder soweit. Wir freuen uns auf Ihren Besuch.
-
-# Kontakt:
-
-Markus Wuchner
-
-Dorfstraße 8a
-
-Tel.: 07666/8177
-
-E-Mail: info@brennerei-wuchner.de
-
-# Oktoberfest (Sep.)
-
-Mit einer zünftig geschmückten Kirchberghalle, bayrischer Atmosphäre und stimmungsvoller Musik wird seit 2004 in Heuweiler jedes Jahr Ende September das „Oktoberfest“ gefeiert. Wer in original bayrischer Tracht erscheint, erhält ermäßigten Eintritt, und so tragen viele Gäste Dirndl und Lederhosen.
-
-Neben dem Festbier stehen auch heimische Weine und Sekt vom Gehrihof, Weißwürste, Brezeln und weitere Angebote für die Besucher bereit.
-
-Adresse: Kirchberghalle
-
-# DJK
-
----
-
-# 75
-
-# Kinderbibeltag (Okt.)
-
-Seit 2014 lädt die Pfarrgemeinde die Heuweilermer Kinder im Herbst zu einem Kinderbibeltag ein. Der Tag wird von einem Team von Eltern mit Gemeinde-referentin Veronika Scherzinger vorbereitet. Jeder Bibeltag stellt eine bestimmte Bibelgeschichte in den Vordergrund. Er ist gestaltet mit einer bewährten Mischung von Erzählungen und Bildern zu dem jeweiligen biblischen Thema, der malerischen Umsetzung und noch weiteren Workshops und Basteleien, die auch mit nach Hause genommen werden dürfen. Nicht fehlen darf das Mittagessen mit heißen Würstchen, Laugengebäck und Obst.
-
-Im Schülergottesdienst am darauf folgenden Donnerstagabend bildet der Rückblick mit Dias einen gemeinsamen Abschluss des Kinderbibeltages, bei dem auch Gemaltes und Gebasteltes bewundert werden kann. Inzwischen sind es 20-30 teilnehmende Kinder; meist im Grundschulalter. Die Größeren bleiben dem Vorbereitungsteam als Jugendliche oft als Helfer erhalten.
-
-Kontakt: Veronika Scherzinger, scherzinger@an-der-glotter.de, Tel.: 07684/552
-
-# Patrozinium (Okt.)
-
-Patrozinium bezeichnet die Schutzherrschaft eines Patrons und auch das Patronatsfest, zu dem der Patron gefeiert wird. Die Heuweilermer Kirche führt als Schutzpatron den Heiligen St. Remigius und feiert am ersten Sonntag im Oktober das Patrozinium. Gefeiert wird mit einem Festgottesdienst, zu dessen Gelingen der Kirchenchor eine gesungene Messe und das Kinderchörle zwei Lieder beitragen. Im Anschluss ist die Gemeinde zum Sektempfang auf dem Kirchplatz eingeladen, bei dem auch die Trachtenkapelle ein Platzkonzert spielt. In früheren Jahren wurde anschließend das Pfarrfest gefeiert, das inzwischen aber auf einen Sonntag im Mai oder Juni verlegt wurde.
-
-Das hier abgebildete Altarbild der Heuweilermer Kirche zeigt Remigius von Reims bei der Taufe des Königs Chlodwig und seiner Gattin Chlothilde. Siehe auch Kirche (S. 38)
-
-Thomas Frank 13 Patrozinium
-
-Adresse: Kirche
-
----
-
-# Kilbi &#x26; Hammeltanz
-
-# Hammeltanz (Okt.)
-
-Ein Jahreshöhepunkt in Heuweiler ist mit Sicherheit der Hammeltanz. Es ist ein toller Spaß! Er findet einmal im Jahr vor voller Halle statt und ist Bestandteil der traditionellen Kilbi, die von der Trachtenkapelle ausgerichtet wird.
-
-Der Hammeltanz ist eine Verlosung. Bereits Wochen vorher können bei der Trachtenkapelle die Lose bezogen werden. Es sind kleine gerollte Lose mit einer Zahl. Es empfiehlt sich, diese alle zu öffnen, die Nummern aufsteigend zu sortieren und sich somit auf die Verlosung vorzubereiten.
-
-Am Abend der Verlosung geht es dann Schlag auf Schlag. Auf der Bühne ist ein üppiges Lager an Gewinnen aufgebaut. Die Losmeister haben Glücksfeen aus dem Publikum rekrutiert, die aus einer großen Tonne die Lose ziehen. Ein Losgewinn wird aus dem Lager genommen und die gezogenen Losnummer ausgerufen. Schnell müssen die Losnummern der eigenen Lose geprüft werden und, falls man das passende Los besitzt, muss man lautestmöglich "Hier" schreien. Sodann wird einem der Gewinn zugestellt und man muss das passende Los nachweisen.
-
-Das alles darf nicht zu lange dauern, da die Verlosung ja fortgesetzt wird, und es gilt, nichts zu verpassen. Der Hauptpreis des Abends ist stets ein lebender Hammel, der natürlich abends auch die Bühne betritt und dort meistens das hinterlässt, was man sich eher auf der Wiese als in der Festhalle wünscht.
-
-Früher war der Hammeltanz eine große Polonaise im Kreis. Sie führte über ein kleines Treppchen und derjenige, der oben auf dem Treppchen stand, sobald der Hammel mähte, war der Gewinner des Hammels. Am folgenden Sonntag gibt es Musik der Trachtenkapelle und klassisch wird Nudelsuppe und Schlachtplatte gereicht.
-
-Adresse: Kirchberghalle
-
-# Zunftabend der Leheneckbestien (Nov.)
-
-Wie es sich für jede ordentliche Fasnetzunft gehört, veranstalten auch die Leheneckbestien einen deftig-lauten Zunftabend. Die Leheneckbestien veranstalten ihren traditionellen Zunftabend jedes Jahr im November. Der ist dem Bekanntheitsgrad der Bestien angemessen gut besucht, es werden benachbarte Zünfte dazu eingeladen und kurz vor Jahresende rocken die Bestien mit Ihren Gästen und Freunden die Kirchberghalle bis in die frühen Morgenstunden.
-
-Adresse: Kirchberghalle
-
-Siehe auch: Leheneckbestien Heuweiler e.V. (S. Rolf Meyer 19 Zunftabend Leheneckbestien 12)
-
----
-
-# Ausstellung (Nov.)
-
-Am 20. November 2016 wurde die erste von der Bürgerrunde organisierte Kunstausstellung eröffnet. Der in Heuweiler lebende Künstler Wilfried Klausmann stellte unter dem Thema „Im Widerschein“ Ölbilder, Aquarelle und Radierungen im Gemeindehaus in Heuweiler aus. Im Anschluss an die Vernissage bot das „KunstCafé“ Möglichkeiten der Begegnung und des Austausches. Die vielbesuchte Ausstellung dauerte bis Ende Januar. Dies war der Auftakt zu weiteren von der Kultur-AG organisierten Ausstellungen.
-
-# „Kreuze und Kleindenkmäler in Heuweiler“
-
-Das Buch mit Fotos von Hubert Blattmann und Raphael Reichenbach und Texten von Ferdinand Elighofer wurde am 9. April 2017 im Gemeindehaus Heuweiler vorgestellt, begleitend dazu wurde die Fotoausstellung „Kreuze und Kleindenkmäler“ von H. Blattmann und R. Reichenbach eröffnet. Die Kultur-AG beabsichtigt 1-2 Kunstausstellungen pro Jahr zu veranstalten.
-
-Adresse: http://buergerrunde.heuweiler.net/ausstellung/
-
-# St. Martin (Nov.)
-
-Im November feiern Kinder und Eltern das Fest des Heiligen Martin, der als junger Soldat im 4. Jhd. in Tours seinen Mantel mit einem Bettler teilte. In Heuweiler sind viele Gruppierungen beteiligt: Kindergarten und Gemeindeteam sind die Veranstalter, die Jugendabteilung der Trachtenkapelle spielt Martinslieder während des Umzugs, die Feuerwehr sorgt für eine freie Straße und der Elternbeirat verkauft Laugengebäck und Grillwürste.
-
-Die Kinder treffen sich um 17.30 Uhr am Flissert mit ihren bunten Laternen (oder die älteren Kinder mit Taschenlampen). Vorneweg reitet St. Martin auf seinem echten Pferd, begleitet von seinem Diener und einem Pferdeführer, es folgt die Musik und anschließend die Kinder, Eltern, Freunde und Verwandte. Der Umzug zieht die Dorfstraße entlang bis zum Dorfplatz, den Kirchberg hoch bis zur Kirchberghalle. An einigen Stellen macht er Halt, die Kapelle spielt und die Menschen singen. Oben angekommen wird beim großen Martinsfeuer die Mantelteilung aufgeführt und eine kleine Andacht gefeiert, an deren Ende Körbe voll Martinswecken zum Teilen - die Hauptsache dieses Festes - ausgegeben werden. Wer mag, begibt sich anschließend in die Pausenhalle der Schule, wo es noch Gebäck, Tee und Glühwein gibt.
-
-# Kontakt
-
-Kindergarten Sonnenhügel
-
-Adresse: Kirchberg 2a
-
-Tel.: 07666/5461
-
-Email: kindergarten-heuweiler@t-online.de
-
----
-
-# Frauentragen (Dez.)
-
-Der alte christliche Brauch des Frauentragens kommt ursprünglich aus dem alpenländischen Raum. Dort wurden Marienbilder und -figuren oft kilometerweit auf die Berghöfe getragen und jeder war froh, „Maria“ einmal bei sich beherbergen zu dürfen. Dieser Brauch geht auf die biblische Geschichte zurück, in der Maria sich auf den Weg macht. Zuerst als Schwangere zu ihrer Cousine Elisabet, dann mit Josef zusammen der weite Gang nach Betlehem, wo sie keine Herberge fanden. Später als Familie die Flucht nach Ägypten, um der Drohung Herodes zu entgehen.
-
-Vor ein paar Jahren entstand die Idee, diesen Brauch auch in Heuweiler einzuführen. Die Pfarrgemeinde St. Remigius ließ die Figur von Susanne Vering, einer Bildhauerin aus Westfalen, herstellen. Schon im ersten Jahr war das Echo aus der Gemeinde überraschend groß. Besonders über den Kindergarten „Sonnenhügel“ fanden sich viele Familien, die gerne die Muttergottesfigur bei sich beherbergen wollten und mit ihren Kindern das Thema „Sich auf den Weg machen (müssen)“ im Advent aufgreifen wollten. Lied- und Textblätter sind immer beigefügt, so dass auch evtl. ein kleiner Hausgottesdienst gefeiert werden kann. Jeweils ab Mitte November werden Listen in der Kirche und dem Kindergarten zum Eintragen ausgehängt. Jeder Teilnehmer trägt dann die kleine Figur weiter zur nächsten Familie.
-
-Kontakt: Regina Schwörer, Dorfstraße 34, Tel.: 07666/1885
-
-# Adventskaffee der Landfrauen (1. Advent)
-
-Es ist fast schon Tradition, dass die Landfrauen Heuweiler — immer am 1. Advent — die Bevölkerung zum Adventskaffee einladen. In der schön geschmückten Halle können sich die Gäste bei Kaffee und Kuchen auf die Adventszeit einstimmen. Auf dem kleinen Weihnachtsmarkt werden von Anbietern aus Heuweiler handwerklich gefertigte Geschenke und selbstgemachte Leckereien verkauft.
-
-Adresse: Kirchberghalle
-
----
-
-# 79
-
-# Adventskonzert (Dez.)
-
-Das Adventskonzert der Trachtenkapelle findet stets anfang Dezember, meist am Samstag vor dem 2. Advent statt. Hierzu wird ein anderes Orchester eingeladen. Das Konzert gliedert sich in zwei Teile, der erste Teil wird von der Trachtenkapelle gespielt und der zweite Teil bestreitet der eingeladene Musikverein aus einer Gemeinde aus dem Umland. Passend zur Jahreszeit gibt es konzertante Winter-, aber nicht ausschließlich Weihnachtsmusik.
-
-Adresse: Kirchberghalle
-
-# Krippenspiel (Dez.)
-
-Jedes Jahr nach den Herbstferien werden die Dritt- und Viertklässler aus Heuweiler angeschrieben, sich an dem Krippenspiel zu beteiligen, welches jedes Jahr während des Familiengottesdiensts am Heilig Abend von der Pfarrgemeinde aufgeführt wird. Abhängig von der Anzahl der spielwilligen Kinder wird ein Stück herausgesucht und u.U. auch passend umgeschrieben. Danach fangen die wöchentlichen Proben an, denn Weihnachten ist nicht mehr fern. Musikbegleitung gibt es ebenso wie Kulissenbauer. Begleitet und auf den Familiengottesdienst abgestimmt wird das Krippenspiel durch die Gemeindereferentin Veronika Scherzinger. Die Proben werden unter ehrenamtlicher Anleitung, meistens von zwei Müttern durchgeführt. Am 24.12. ist die Aufregung bei den kleinen Akteuren natürlich groß, aber mit jugendlichem Elan und kindlichem Spielwitz wird das Krippenspiel jedes Jahr ein voller Erfolg.
-
-Adresse: Kirche
-
----

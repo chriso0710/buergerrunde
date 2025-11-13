@@ -7,8 +7,8 @@ description: Kleiner Bauernhof / Hofstelle (Bankhof) im Weiler Hinterheuweiler, 
   Heuweiler (Breisgau‑Hochschwarzwald).
 address: Hinterheuweiler 3, 79194 Heuweiler
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:44:32 +0000'
 notes: Ort 'Bankhof' wurde in OpenStreetMap/Mapcarta als Bauernhofstelle identifiziert;

@@ -8,8 +8,8 @@ description: Die Freiwillige Feuerwehr Heuweiler (FFW Heuweiler) ist die ehrenam
   Straße 11 untergebracht.
 address: Gundelfinger Straße 11, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de/unsere-gemeinde/feuerwehr
-image: https://www.heuweiler.de/fileadmin/_processed_/9/b/csm_Feuerwehr_11f78a8c6d.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 12:06:37.000000000 +00:00
 notes: |-

@@ -6,8 +6,8 @@ category: Vereine
 description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:24:45 +0000'
 notes: 'Keine eigenständige Postadresse oder offizielle Website für die "Neue Liste"

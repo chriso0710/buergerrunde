@@ -7,8 +7,8 @@ description: Das Gemeindehaus in Heuweiler ist Sitz der Gemeindeverwaltung und A
   für Bürgerservices.
 address: Dorfstraße 21, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de
-image: https://www.heuweiler.de/fileadmin/_processed_/4/6/csm_Das_neue_Gemeindehaus_c476eb2343.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 12:14:57 +0000'
 notes: Koordinaten (48.051713, 7.903225) per Mapbox Reverse-Geocoding ermittelt; Bild

@@ -8,8 +8,8 @@ description: Kostenlos ausleihbares E-Lastenrad 'Carlos' (LastenVelo Freiburg) i
   Freiburg.
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/
-image: https://buergerrunde.heuweiler.net/assets/images/klimamobil/supernova5.jpg
-image_copyright: Bürgerrunde Heuweiler e.V.
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 11:26:53 +0000'
 notes: 'Koordinaten (latitude/longitude) stammen aus einer Mapbox Reverse-Geocode-Abfrage;

@@ -7,8 +7,8 @@ description: Lokal gebräuchliche Bezeichnung für eine Straßenecke in Heuweile
   nicht eindeutig dokumentiert.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:55:01 +0000'
 notes: 'Recherchekommentar: Der Begriff "Bürcherecke" konnte bei umfangreicher Online-Recherche

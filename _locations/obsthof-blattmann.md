@@ -7,8 +7,8 @@ description: Hofladen und Obstbetrieb in Heuweiler mit saisonalem Angebot (Äpfe
   Beeren, Gemüse) und Hofverkauf.
 address: Glottertal Straße 8, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: ''
-image: https://www.heuweiler.de/fileadmin/Dateien/Bilder/Fotos/R%C3%BCckblick/2021/Blattmann.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:21:59 +0000'
 notes: Postadresse und Kontakt (Telefon) wurden aus lokalen Verzeichnissen und Badischer

@@ -7,8 +7,8 @@ description: Sportplatz mit Vereinsheim der DJK Heuweiler — zentrale Sport- un
   des Ortes.
 address: Glottertalstraße 11, 79194 Heuweiler
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:12:53 +0000'
 notes: 'Adresse des Sportplatzes laut Sportportalen: Glottertalstraße 11 (Spielstätte);

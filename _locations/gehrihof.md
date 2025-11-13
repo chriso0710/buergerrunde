@@ -6,8 +6,8 @@ category: Bauernhöfe
 description: Familiengeführter Hof mit Weingut, Hofladen und Weinstube in Hinterheuweiler.
 address: Hinterheuweiler 6, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: http://www.gehrihof.com
-image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg
-image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:22:13 +0000'
 notes: Bei der Generierung wurden lokale Quellen (Weinbauverband, Gemeinde-Webseite,

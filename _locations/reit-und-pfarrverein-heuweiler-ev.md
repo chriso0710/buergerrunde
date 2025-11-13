@@ -7,8 +7,8 @@ description: Pferdesportverein und Reitanlage in Hinterheuweiler (Gemeinde Heuwe
   Treffpunkt für Reitsport, Pensionspferde und lokale Veranstaltungen.
 address: Hinterheuweiler 14a, 79194 Heuweiler, Deutschland
 website: https://rfv-heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 18:42:07 +0000'
 notes: Koordinaten wurden durch eine Mapbox-Reverse-Geocoding-Abfrage bestätigt; offizielle

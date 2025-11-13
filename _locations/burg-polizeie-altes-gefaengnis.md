@@ -8,8 +8,8 @@ description: Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler — 
   historischen Beschreibung des Objekts gefunden werden.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 11:25:03 +0000'
 notes: "- Rechercheergebnis: Es konnten keine belastbaren Online-Quellen (z. B. Wikipedia,

@@ -7,8 +7,8 @@ description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar
   seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
 address: Kirchberg 6, 79194 Heuweiler, Deutschland
 website: https://www.an-der-glotter.de
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: 'Foto: Rauenstein; Lizenz: CC BY-SA 3.0'
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:40:00 +0000'
 notes: 'Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die Seelsorgeeinheit

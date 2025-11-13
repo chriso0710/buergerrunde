@@ -7,8 +7,8 @@ description: Lokaler Party- und Catering-Service in Heuweiler, der Buffets, Plat
   und Event-Betreuung für private und gewerbliche Feiern anbietet.
 address: Dorfstraße 9, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: http://schaffers-partyservice.de
-image: https://www.heuweiler.de/fileadmin/_processed_/a/2/csm_Dorfstra%C3%9Fe_c519487cf9.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:57:00 +0000'
 notes: 'Quellenlage: Adresse, Telefon und Website werden in lokalen Branchenbüchern

@@ -6,8 +6,8 @@ category: Öffentliche Gebäude
 description: Sitz des Bürgermeisters und der Gemeindeverwaltung von Heuweiler (Gemeindehaus).
 address: Dorfstraße 21, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
-image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:01:07.000000000 +00:00
 notes: |-

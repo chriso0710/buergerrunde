@@ -6,7 +6,7 @@ layout: default
 {% assign locationsByCategory = site.locations | group_by: 'category' | sort: 'name' %}
 {% for category in locationsByCategory %}
     <div class="section-title col-md-12 mt-4">
-        <h2 id="{{ category.name | replace: " ","-" }}">{{ category.name }}</h2>
+        <h2 id="{{ category.name | replace: " ","-" }}">{{ category.name }} ({{ category.items | size }})</h2>
     </div>
     
     {% assign sortedLocations = category.items | sort: 'title' %}

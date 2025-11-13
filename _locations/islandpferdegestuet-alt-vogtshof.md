@@ -7,8 +7,8 @@ description: Islandpferdegestüt und Reitschule im Ort Heuweiler (Breisgau), bek
   unter dem Namen Alt‑Vogtshof.
 address: Kirchberg 10, 79194 Heuweiler, Baden‑Württemberg, Deutschland
 website: http://www.islandpferdegestuet-alt-vogtshof.de
-image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Heuweiler-rosskopf.jpg
-image_copyright: Wladyslaw Sojka (Taxiarchos228) — CC BY 3.0
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:20:24 +0000'
 notes: |-

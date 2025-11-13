@@ -7,8 +7,8 @@ description: 'Kleiner Dorfplatz / Treffpunkt am Rand von Heuweiler (gem. lokale 
   ‚Freundschaftsplatz am Malefikantenweg‘), genutzt für Pflanzaktionen und Nachbarschaftstreffen.'
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de/
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:40:42 +0000'
 notes: Bei der Recherche wurde kein offizieller Postanschriftseintrag für den ‚Freundschaftsplatz‘

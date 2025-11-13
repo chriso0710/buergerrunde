@@ -7,8 +7,8 @@ description: Messnerhaus in Heuweiler — ein historisch benanntes Gebäude/Sext
   online keine verlässliche Quelle mit genauer Adresse oder Bild auffindbar.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:05:31 +0000'
 notes: "Recherche-Notizen:\n- Zielsuche: \"Messnerhaus Heuweiler\" ergab keine eindeutige,

@@ -7,8 +7,8 @@ description: Vermuteter Ortsname für eine Weg-/Straßenbezeichnung in der Gemei
   Heuweiler; in offiziellen Quellen nicht als eigenständige Straße nachweisbar.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:29:09 +0000'
 notes: 'Bei der Recherche konnte kein Eintrag für eine Straße ''Haldenweg'' in Heuweiler

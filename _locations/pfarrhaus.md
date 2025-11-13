@@ -7,8 +7,8 @@ description: Historisches Pfarrhaus der Pfarrei St. Remigius in Heuweiler (um 17
   erbaut), gelegen am Kirchberg neben der Pfarrkirche.
 address: Kirchberg 6, 79194 Heuweiler
 website: https://an-der-glotter.de/kirche-vor-ort/heuweiler/gottesdienste-kirche-st-remigius/die-pfarrkirche/
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:06:59 +0000'
 notes: 'Adresse und Koordinaten wurden anhand öffentlicher Quellen recherchiert (LEO-BW,

@@ -8,8 +8,8 @@ description: Ehrenamtlich betriebener Fahrdienst der Malteser-Ortsgruppe Heuweil
   Personen.
 address: Heuweiler, Baden-Württemberg
 website: https://www.malteser.de/standorte/heuweiler.html
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:11:32 +0000'
 notes: Auf den öffentlichen Seiten der Ortsgruppe Heuweiler wurde keine feste Straßen-/Hausadresse

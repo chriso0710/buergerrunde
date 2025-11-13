@@ -7,8 +7,8 @@ description: Kleine, gemeindenahe Jugendhütte in Heuweiler, die als Treffpunkt 
   lokale Jugend- und Vereinsaktivitäten dient.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:25:34 +0000'
 notes: 'Bei der Recherche konnte kein eigenständiger, offiziell ausgewiesener Eintrag

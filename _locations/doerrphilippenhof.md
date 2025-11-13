@@ -7,8 +7,8 @@ description: Historischer Hof im Kerndorf von Heuweiler (vermutlich identisch bz
   in der Überlieferung verwandt mit dem örtlich bekannten Dörrhof).
 address: Dorfstraße 23, 79194 Heuweiler
 website: ''
-image: https://www.heuweiler.de/fileadmin/_processed_/1/e/csm_D%C3%B6rr_fb2aad0f77.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:12:33 +0000'
 notes: Die gesuchte Bezeichnung 'Dörrphilippenhof' konnte in öffentlich zugänglichen

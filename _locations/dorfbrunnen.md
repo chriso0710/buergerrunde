@@ -6,7 +6,7 @@ category: Infrastruktur
 description: "Kleiner historischer Dorfbrunnen auf dem Dorfplatz (Dorfstraße) im Ortskern von Heuweiler."
 address: "Dorfplatz / Dorfstraße 20, 79194 Heuweiler"
 website: "https://www.heuweiler.de/"
-image: "https://www.heuweiler.de/fileadmin/_processed_/a/2/csm_Dorfstra%C3%9Fe_c519487cf9.jpg"
+image: ""
 image_copyright: ""
 generated_by: "gpt-5-mini"
 generated_at: "2025-10-15 07:05:04 +0000"

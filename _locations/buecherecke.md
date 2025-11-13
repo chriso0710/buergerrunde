@@ -8,8 +8,8 @@ description: Kleine, ortsnahe Büchertausch-/Leseecke für die Gemeinde Heuweile
   Gebäude).
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:02:29 +0000'
 notes: "- Bei der Recherche wurde kein eigenständiger, öffentlich zugänglicher Online-Nachweis

@@ -7,8 +7,8 @@ description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, err
   als Gedenkstätte für Gefallene.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:41:22 +0000'
 notes: 'Koordinaten basieren auf öffentlich zugänglichen Karten-/Wanderbeschreibungen

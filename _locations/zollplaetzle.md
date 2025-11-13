@@ -7,8 +7,8 @@ description: Kleiner öffentlicher Platz/Platzanlage in Heuweiler, der gelegentl
   für Dorfveranstaltungen genutzt wird.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:17:27 +0000'
 notes: Bei der Recherche konnte kein eigenständiges offizielles Impressum, keine postalische

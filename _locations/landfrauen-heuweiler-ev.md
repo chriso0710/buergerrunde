@@ -7,8 +7,8 @@ description: Ortsverein der Landfrauen in Heuweiler, aktiv in Gemeinschaftsveran
   Brauchtumspflege und Bildung.
 address: Hinterheuweiler 11, 79194 Heuweiler, Deutschland
 website: https://landfrauen-heuweiler.jimdofree.com/
-image: https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 18:22:26 +0000'
 notes: Adresse und Impressum entnommen von der Vereinsseite (Jimdo). Geo-Koordinaten

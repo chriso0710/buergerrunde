@@ -7,8 +7,8 @@ description: Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisier
   Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 12:13:20 +0000'
 notes: 'Keine eigenständige offizielle Webseite oder spezifische Postanschrift für

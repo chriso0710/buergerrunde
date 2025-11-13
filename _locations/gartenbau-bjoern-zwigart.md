@@ -7,8 +7,8 @@ description: Kleiner Garten- und Landschaftsbau‑Betrieb in Hinterheuweiler (Ge
   Heuweiler).
 address: Hinterheuweiler 17, 79194 Heuweiler, Deutschland
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:18:33 +0000'
 notes: 'Postadresse und Telefonnummer stammen aus Einträgen im Telefon-/Branchenbuch;

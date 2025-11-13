@@ -7,8 +7,8 @@ description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, a
   in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
 address: Heuweiler, Baden-Württemberg
 website: https://www.malteser-heuweiler.de/
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein / CC BY‑SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 18:29:39 +0000'
 notes: 'Offizielle lokale Website (www.malteser-heuweiler.de) wird in der Gemeindeverwaltung

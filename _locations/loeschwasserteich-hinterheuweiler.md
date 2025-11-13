@@ -7,8 +7,8 @@ description: Kleiner Löschwasserteich in Hinterheuweiler, genutzt als Löschwas
   und als Amphibien-/Naturobjekt im Ortsrand von Heuweiler.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:01:26 +0000'
 notes: 'Keine offizielle postalische Anschrift für den Löschwasserteich selbst gefunden;

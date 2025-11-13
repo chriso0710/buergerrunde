@@ -7,8 +7,8 @@ description: Geplantes Bürgerbus‑Projekt „Stadt‑Land‑Bus“ zur Verbess
   zwischen Gundelfingen, Heuweiler und Wildtal.
 address: Heuweiler, Baden-Württemberg
 website: https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus
-image: https://www.gundelfingen.de/fileadmin/_processed_/b/4/csm_Plakat_B%C3%BCrgerbus_c1c1beafa8.jpg
-image_copyright: "© Gemeinde Gundelfingen"
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:23:27 +0000'
 notes: |-

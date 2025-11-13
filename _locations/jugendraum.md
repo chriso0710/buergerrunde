@@ -7,8 +7,8 @@ description: Gemeindlicher Treffpunkt für Kinder und Jugendliche im Gebäudekom
   am Kirchberg (bei Kirchberghalle / Grundschule) in Heuweiler.
 address: Kirchberg 2, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:27:36 +0000'
 notes: 'Adresse ''Kirchberg 2, 79194 Heuweiler'' ist in lokalen Verzeichnissen (Grundschule,

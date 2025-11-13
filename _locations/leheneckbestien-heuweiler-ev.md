@@ -7,8 +7,8 @@ description: Narrenzunft aus Heuweiler, aktiv in der schwäbisch-alemannischen F
   und Veranstalter von Umzügen und Zunftabenden.
 address: Kirchberg 3, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://leheneckbestien-heuweiler.de
-image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Heuweiler_July_2013_-_panoramio.jpg
-image_copyright: pictures Jettcom — CC BY 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 18:26:15 +0000'
 notes: Adresse und Vereinsliste stammen von der offiziellen Gemeindeseite; Impressum

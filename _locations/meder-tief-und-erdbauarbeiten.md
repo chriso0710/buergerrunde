@@ -6,8 +6,8 @@ category: Handwerk & Gewerbe
 description: Kleiner regionaler Tiefbau- und Erdbau-Betrieb in Heuweiler (Litzelstahlerhof).
 address: Litzelstahlerhof 2, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:05:29 +0000'
 notes: Postadresse und Telefonnummer stammen aus dem Gemeinde‑Gewerbeeintrag; genaue

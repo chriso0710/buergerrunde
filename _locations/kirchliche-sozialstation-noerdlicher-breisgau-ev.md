@@ -7,8 +7,8 @@ description: Regionale, ökumenisch getragene ambulante Sozialstation mit lokale
   (Betreuungsgruppe, Beratung) für Heuweiler.
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.sozialstation-boetzingen.de
-image: https://www.sozialstation-boetzingen.de/wp-content/uploads/2025/09/sozialstation-boetzingen_nachhaltigkeit_achtsamkeit_regionale_pflege_fuer_2026_und_die_zukunft_2026.jpg
-image_copyright: "© Kirchliche Sozialstation Nördlicher Breisgau e.V."
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 17:06:38 +0000'
 notes: 'Hauptsitz der Sozialstation: Hauptstraße 25, 79268 Bötzingen (siehe Impressum).

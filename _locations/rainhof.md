@@ -7,8 +7,8 @@ description: Bezeichnung für einen kleinen Hof / Flurnamen in der Gemarkung Heu
   keine eigenständige, online dokumentierte Hofadresse auffindbar.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:20:21 +0000'
 notes: Bei Recherche wurde kein eigenständiger, öffentlich auffindbarer Betrieb oder

@@ -7,8 +7,8 @@ description: Künstlich angelegter Löschwasserteich in Vorderheuweiler zur Sich
   der Löschwasserversorgung und als kleines Stillgewässer im Ortsbereich.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:03:19 +0000'
 notes: |-

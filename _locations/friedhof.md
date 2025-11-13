@@ -7,8 +7,8 @@ description: Kleiner Gemeindefriedhof auf dem Kirchberg oberhalb der Pfarrkirche
   Remigius in Heuweiler.
 address: Kirchberg 2a, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:16:20 +0000'
 notes: 'Bild konnte online nicht als eindeutiger Direktlink zu einem Friedhofsbild

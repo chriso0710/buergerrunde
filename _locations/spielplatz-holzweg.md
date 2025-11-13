@@ -7,8 +7,8 @@ description: Kleiner öffentlicher Kinderspielplatz im Wohngebiet »Am Flissert�
   8) in Heuweiler.
 address: Holzweg 8, 79194 Heuweiler, Deutschland
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 12:23:56 +0000'
 notes: 'Adresse Spielplatz: Holzweg 8, 79194 Heuweiler (verschiedene lokale Verzeichnisse

@@ -7,8 +7,8 @@ description: Zentraler Dorfplatz in der Ortsmitte von Heuweiler (Bereich Rathaus
   Treffpunkt und Veranstaltungsfläche für örtliche Feste.
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.heuweiler.de/
-image: https://www.heuweiler.de/fileadmin/_processed_/a/2/csm_Dorfstra%C3%9Fe_c519487cf9.jpg
-image_copyright: "© Gemeinde Heuweiler"
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:56:51 +0000'
 notes: 'Koordinaten-Bestätigung: Die Dorfplatz-/Rathaus-Position wird in lokalen Quellen

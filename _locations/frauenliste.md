@@ -6,7 +6,7 @@ category: Vereine
 description: Lokale, parteiunabhängige Frauenliste (Wählervereinigung) in Heuweiler, vertreten im Gemeinderat.
 address: Gemeindeverwaltung Heuweiler, Dorfstraße 21, 79194 Heuweiler
 website: ""
-image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_b2cfb7076d.jpg
+image: ""
 image_copyright: ""
 generated_by: "gpt-5-mini"
 generated_at: "2025-10-14 19:26:14 +0000"

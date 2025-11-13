@@ -7,9 +7,8 @@ description: Lokaler Förderverein zur Unterstützung der sozial‑caritativen A
   der Pfarrgemeinde St. Remigius in Heuweiler.
 address: Kirchberg 6, 79194 Heuweiler, Deutschland
 website: ''
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein; Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA
-  3.0) / Wikimedia Commons
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:09:08 +0000'
 notes: Keine eigenständige offizielle Website oder eindeutig ausgewiesene Postadresse

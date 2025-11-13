@@ -6,8 +6,8 @@ category: Bauernhöfe
 description: Traditionsreicher Hof im Kerndorf von Heuweiler, genannt Dörrhof.
 address: Dorfstraße 23, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:10:48 +0000'
 notes: 'Quellen: Gemeindeseite Heuweiler (Geschichte / Fotogalerie) nennt den Dörrhof

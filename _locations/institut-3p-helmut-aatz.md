@@ -7,8 +7,8 @@ description: Beratungs- und Ausbildungsinstitut für Achtsamkeit, Resilienz und 
   Gesundheitsmanagement unter der Leitung von Helmut Aatz.
 address: Kirchberg 12, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.institut3p.de/
-image: https://www.institut3p.de/wp-content/uploads/2018/02/Seehstern_3419.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 11:06:03 +0000'
 notes: Postadresse und Kontaktdaten stammen aus dem Impressum der Instituts-Website;

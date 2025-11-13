@@ -7,8 +7,8 @@ description: Lokales Bürgernetz und Initiative der Bürgerrunde Heuweiler zur V
   Klimaschutz, Mobilität und Dorfgemeinschaft.
 address: Am Flissert 6, 79194 Heuweiler
 website: https://buergerrunde.heuweiler.net/
-image: https://www.heuweiler.de/fileadmin/Dateien/Teaserbilder/Aktuelles/2023_-_1._Quartal/b%C3%BCrgerrunde_Heuweiler.JPG
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 16:49:37 +0000'
 notes: 'Adresse laut Vereinsliste der Gemeinde: Am Flissert 6, 79194 Heuweiler (Vereinsliste).

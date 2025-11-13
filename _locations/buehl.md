@@ -7,8 +7,8 @@ description: Kleiner Weiler / Siedlungsname im Gebiet der Gemeinde Heuweiler im 
   (ein separater Ort 'Bühl' online nicht eindeutig nachweisbar).
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_aa3510eb16.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:07:39 +0000'
 notes: 'Bei der Recherche konnte kein eigenständiger Ortsteil namens ''Bühl'' innerhalb

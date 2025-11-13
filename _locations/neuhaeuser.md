@@ -6,8 +6,8 @@ category: Wohngebiete
 description: Kleiner Zinken (Weiler) der Gemeinde Heuweiler am Südrand des Glottertals.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: https://www.heuweiler.de/fileadmin/_processed_/1/0/csm_Heuweiler_Bild_1_b2cfb7076d.jpg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:31:02 +0000'
 notes: |-

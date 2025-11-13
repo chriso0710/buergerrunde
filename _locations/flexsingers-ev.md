@@ -7,8 +7,8 @@ description: Projektchor / neuer Gesangsverein in Heuweiler, gegründet 2025, de
   in Projekten und Konzerten auftritt.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 17:01:47 +0000'
 notes: 'Keine offizielle Vereinsadresse, keine eigenständige Website und kein eindeutiger

@@ -7,8 +7,8 @@ description: Die Messdiener der Pfarrgemeinde St. Remigius sind die ehrenamtlich
   Altardienstgruppe der katholischen Gemeinde in Heuweiler.
 address: Kirchberg 6, 79194 Heuweiler
 website: https://an-der-glotter.de/kirche-vor-ort/heuweiler/
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein, CC BY‑SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 18:33:52 +0000'
 notes: Eintrag behandelt die Messdiener als Gruppierung an der Pfarrkirche St. Remigius

@@ -7,8 +7,8 @@ description: Lokale Gemeindeverbindungsstraße in Heuweiler (umgangssprachlich �
   vor allem als Nebenverbindung/Ausweichstrecke genutzt.
 address: Heuweiler, Baden-Württemberg
 website: https://www.heuweiler.de
-image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal_4.jpg
-image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 10:39:53.000000000 +00:00
 notes: '- Die Bezeichnung „Promilleweg“ ist in Deutschland häufig eine volkstümliche,

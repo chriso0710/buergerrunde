@@ -7,8 +7,8 @@ description: Lokale Tanz- und Ausdrucksgruppe / Angebote für kreativen Tanz und
   in Heuweiler.
 address: Hinterheuweiler 4, 79194 Heuweiler
 website: https://www.tanz-herz-kreativitaet.de
-image: https://upload.wikimedia.org/wikipedia/commons/b/bf/Heuweiler%2C_Kirche_St._Remigius.jpg
-image_copyright: Rauenstein, CC BY-SA 3.0 (Wikimedia Commons)
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:13:57 +0000'
 notes: Die Anfrage bezog sich auf eine 'Tanzgruppe' in Heuweiler. Es existiert in

@@ -7,8 +7,8 @@ description: Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuw
   betrieben von Ines Zschau.
 address: Dorfstraße 22, 79194 Heuweiler
 website: https://cafe-iz.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 11:37:18 +0000'
 notes: 'Bei der Generierung wurden die offizielle Website und das Impressum von Café

@@ -8,8 +8,8 @@ description: Kleiner zweigruppiger katholischer Kindergarten in Trägerschaft de
   und Waldpädagogik-Elemente).
 address: Kirchberg 2a, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.an-der-glotter.de/wir-bieten/kindertagesstaetten/kita-heuweiler-zum-sonnenhuegel/
-image: https://www.heuweiler.de/fileadmin/_processed_/0/e/csm_1_Kindergartenspende_e21e6b8760.jpeg
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:31:59.000000000 +00:00
 notes: Adresse und Kontaktdaten wurden aus den offiziellen Seiten der Seelsorgeeinheit

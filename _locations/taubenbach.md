@@ -7,8 +7,8 @@ description: Kleiner Bachlauf und Gewässerbereich in Hinterheuweiler (Gemeinde 
   der lokal für Hochwasserschutzmaßnahmen relevant ist.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:33:57 +0000'
 notes: Taubenbach in Heuweiler ist kein eigenständiger Ort mit eigener Postadresse,

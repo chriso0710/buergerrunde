@@ -7,9 +7,8 @@ description: Beratender Ausschuss des Gemeinderats Heuweiler, zuständig für Em
   und Maßnahmen zum Klimaschutz.
 address: Dorfstraße 21, 79194 Heuweiler
 website: https://www.heuweiler.de
-image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal_4.jpg
-image_copyright: 'Foto: Andreas Schwarzkopf, Creative Commons BY‑SA 3.0 (Wikimedia
-  Commons)'
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:20:21 +0000'
 notes: 'Offizielle Adresse der Gemeindeverwaltung laut Impressum: Dorfstraße 21 (79194

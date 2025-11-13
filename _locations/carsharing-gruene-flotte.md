@@ -7,8 +7,8 @@ description: Stationsstandort der regionalen Carsharing-Anbieters „Grüne Flot
   dem Parkplatz des Gasthofs Grüner Baum in Heuweiler.
 address: Glottertalstraße 3, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://gruene-flotte.com/carsharing/
-image: https://buergerrunde.heuweiler.net/assets/images/klimamobil/gf-ford.jpg
-image_copyright: Bürgerrunde Heuweiler e.V.
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 10:25:57 +0000'
 notes: |-

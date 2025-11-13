@@ -7,8 +7,8 @@ description: Zentrale Turn- und Festhalle von Heuweiler für Vereinsleben, Kultu
   und Sportveranstaltungen.
 address: Kirchberg 2, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Kirchberghalle_in_Heuweiler.jpg
-image_copyright: Andreas Schwarzkopf / CC BY-SA 3.0
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:29:06 +0000'
 notes: Keine eigene, eigenständige Website für die Kirchberghalle gefunden; Eintrag

@@ -7,8 +7,8 @@ description: Historischer Hof in Vorderheuweiler, in der Ortsgeschichte als 'Hä
   (Englers)' erwähnt.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:26:02 +0000'
 notes: 'Quellenlage: Der Häberlehof wird namentlich in der Ortsgeschichte von Heuweiler

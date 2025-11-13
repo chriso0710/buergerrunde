@@ -7,8 +7,8 @@ description: Kleiner landwirtschaftlicher Hof / Wegpunkt am Rand von Heuweiler (
   eindeutig online dokumentiert).
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 07:28:57 +0000'
 notes: |-

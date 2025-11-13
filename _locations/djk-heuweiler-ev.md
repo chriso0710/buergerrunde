@@ -7,8 +7,8 @@ description: Sportverein (DJK) aus Heuweiler mit Sportplatz und Veranstaltungsan
   wie dem jährlichen Rosskopflauf.
 address: Dorfstraße 31a, 79194 Heuweiler
 website: https://www.djkheuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 16:51:29 +0000'
 notes: 'Quellen: Gemeindeverwaltung Heuweiler (Vereinsliste), DJK Diözesanverband

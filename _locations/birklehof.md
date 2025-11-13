@@ -7,8 +7,8 @@ description: 'Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heu
   Adresse: Hinterheuweiler 11.'
 address: Hinterheuweiler 11, 79194 Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:49:07 +0000'
 notes: 'Recherche-Ergebnisse: Die Adresse Birklehof (Hinterheuweiler 11) wurde in

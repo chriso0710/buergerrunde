@@ -7,8 +7,8 @@ description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remi
   in Heuweiler, das seit Jahrzehnten leersteht.
 address: Heuweiler, Baden-Württemberg
 website: ''
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 08:21:44 +0000'
 notes: 'Keine eigene offizielle Postadresse für das Hannehäusle im Internet gefunden;

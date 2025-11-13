@@ -7,8 +7,8 @@ description: Kleiner öffentlicher Spielplatz am Kirchberg in Heuweiler (nahe Ki
   Sonnenhügel und Kirchberghalle) für Kleinkinder und Familien.
 address: Kirchberg 2a, 79194 Heuweiler, Baden-Württemberg, Deutschland
 website: https://www.heuweiler.de
-image: ''
-image_copyright: ''
+image: ""
+image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 12:19:30 +0000'
 notes: |-
