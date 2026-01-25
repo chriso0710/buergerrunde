@@ -1,12 +1,9 @@
-# Use DecapBridge PKCE auth
+# Use DecapBridge classic auth
 backend:
   name: git-gateway
   repo: chriso0710/buergerrunde
   branch: master
-  auth_type: pkce
-  base_url: https://auth.decapbridge.com
-  auth_endpoint: /sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891/pkce
-  auth_token_endpoint: /sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891/token
+  identity_url: https://auth.decapbridge.com/sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891
   gateway_url: https://gateway.decapbridge.com
   commit_messages:
     create: 'Erstelle {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
@@ -14,13 +11,6 @@ backend:
     delete: 'Lösche {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
     uploadMedia: 'Lade "{{path}}" hoch - {{author-name}} via DecapBridge'
     deleteMedia: 'Lösche "{{path}}" - {{author-name}} via DecapBridge'
-
-# PKCE user info fields
-auth:
-  email_claim: email
-  first_name_claim: first_name
-  last_name_claim: last_name
-  avatar_url_claim: avatar_url
 
 # Publish mode
 publish_mode: simple
