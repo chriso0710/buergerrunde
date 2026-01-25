@@ -1,24 +1,25 @@
 ---
 title: Bürgerrunde Heuweiler e.V.
+category: Vereine
+description: Lokales Bürgerforum und eingetragener Verein in Heuweiler, das sich
+  für Klimaschutz, Mobilität, Naturschutz und Dorfgemeinschaft engagiert.
+address: Am Flissert 6, 79194 Heuweiler
 latitude: 48.054432
 longitude: 7.909479
-category: Veranstaltungsorte
-description: Lokales Bürgerforum und eingetragener Verein in Heuweiler, das sich für
-  Klimaschutz, Mobilität, Naturschutz und Dorfgemeinschaft engagiert.
-address: Am Flissert 6, 79194 Heuweiler
 website: https://buergerrunde.heuweiler.net/
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-14 16:44:43 +0000'
-notes: 'Bei der Suche nach Geo-Koordinaten wurde das mapbox‑Geocoding (Reverse Geocode)
-  verwendet; ein exakter Treffer für die Postadresse ''Am Flissert 6'' konnte nicht
-  eindeutig im Geocoder gefunden werden. Naheliegende, im Geocoder vorhandene Adressen
-  auf derselben Straße sind z. B. Am Flissert 1 (48.054633, 7.909000) und Am Flissert
-  8 (48.054661, 7.909549). Daher wurden die Felder latitude/longitude leer gelassen
-  (keine fiktiven Koordinaten). Quellen und Hinweise zu den verwendeten Seiten: Gemeindeverwaltung
-  Heuweiler (Vereinsliste), Bürgerrunde-Website, Wikipedia Heuweiler, Wikimedia Commons
-  (Bild).'
+generated_at: 2025-10-14 16:44:43 +0000
+notes: "Bei der Suche nach Geo-Koordinaten wurde das mapbox‑Geocoding (Reverse
+  Geocode) verwendet; ein exakter Treffer für die Postadresse 'Am Flissert 6'
+  konnte nicht eindeutig im Geocoder gefunden werden. Naheliegende, im Geocoder
+  vorhandene Adressen auf derselben Straße sind z. B. Am Flissert 1 (48.054633,
+  7.909000) und Am Flissert 8 (48.054661, 7.909549). Daher wurden die Felder
+  latitude/longitude leer gelassen (keine fiktiven Koordinaten). Quellen und
+  Hinweise zu den verwendeten Seiten: Gemeindeverwaltung Heuweiler
+  (Vereinsliste), Bürgerrunde-Website, Wikipedia Heuweiler, Wikimedia Commons
+  (Bild)."
 ---
 #### Beschreibung des Ortes
 Die Bürgerrunde Heuweiler e.V. ist ein seit 2016 aktiver, gemeinnütziger Verein und lokales Bürgerforum in Heuweiler, das Projekte und Veranstaltungen zu Klimaschutz, Mobilität, Naturschutz und Dorfgemeinschaft organisiert. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/))
