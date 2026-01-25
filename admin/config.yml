@@ -27,10 +27,6 @@ publish_mode: simple
 media_folder: "assets/images/locations"
 public_folder: "/assets/images/locations"
 
-# Media library configuration
-media_library:
-  max_file_size: 256000  # 250 KB in bytes (250 * 1024)
-
 # Site configuration
 site_url: https://buergerrunde.heuweiler.net
 display_url: https://buergerrunde.heuweiler.net

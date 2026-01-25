@@ -1,0 +1,7 @@
+# Netlify Image CDN für Location-Bilder
+# Verwendung: /assets/images/locations/w800/foto.jpg -> optimiert auf 800px Breite
+
+[[redirects]]
+  from = "/assets/images/locations/w:width/:file"
+  to = "/.netlify/images?url=/assets/images/locations/:file&w=:width&fit=contain"
+  status = 200

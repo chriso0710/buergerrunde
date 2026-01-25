@@ -14,7 +14,13 @@ layout: default
         <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
                 {% if location.image and location.image != '' %}
-                    <img src="{{ location.image }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;">
+                    {% assign img_parts = location.image | split: "/assets/images/locations/" %}
+                    {% if img_parts.size == 2 %}
+                        {% assign optimized_image = "/assets/images/locations/w300/" | append: img_parts[1] %}
+                    {% else %}
+                        {% assign optimized_image = location.image %}
+                    {% endif %}
+                    <img src="{{ optimized_image }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;">
                 {% else %}
                     <img src="{{ '/assets/images/location-placeholder.png' | relative_url }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;">
                 {% endif %}

@@ -11,6 +11,9 @@ layout: default
         <div class="mb-4">
             {% if page.image contains "://" %}
                 {% assign image_url = page.image %}
+            {% elsif page.image contains "/assets/images/locations/" %}
+                {% assign img_parts = page.image | split: "/assets/images/locations/" %}
+                {% assign image_url = "/assets/images/locations/w800/" | append: img_parts[1] %}
             {% else %}
                 {% capture image_url %}{{ page.image | prepend: site.baseurl }}{% endcapture %}
             {% endif %}
