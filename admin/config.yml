@@ -1,24 +1,26 @@
-# Backend configuration using DecapBridge
-# IMPORTANT: After creating your site at https://decapbridge.com/, replace YOUR_SITE_ID with the actual site ID
+# Use DecapBridge PKCE auth
 backend:
   name: git-gateway
   repo: chriso0710/buergerrunde
   branch: master
-  identity_url: https://auth.decapbridge.com/sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891
+  auth_type: pkce
+  base_url: https://auth.decapbridge.com
+  auth_endpoint: /sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891/pkce
+  auth_token_endpoint: /sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891/token
   gateway_url: https://gateway.decapbridge.com
+  commit_messages:
+    create: 'Erstelle {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+    update: 'Aktualisiere {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+    delete: 'Lösche {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+    uploadMedia: 'Lade "{{path}}" hoch - {{author-name}} via DecapBridge'
+    deleteMedia: 'Lösche "{{path}}" - {{author-name}} via DecapBridge'
 
-# Optional: Use local backend for development
-# To enable, run: npx decap-server
-# Uncomment the line below:
-# local_backend: true
-
-# Improved commit messages with author info
-commit_messages:
-  create: 'Erstelle {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
-  update: 'Aktualisiere {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
-  delete: 'Lösche {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
-  uploadMedia: 'Lade Datei "{{path}}" hoch - {{author-name}} via DecapBridge'
-  deleteMedia: 'Lösche Datei "{{path}}" - {{author-name}} via DecapBridge'
+# PKCE user info fields
+auth:
+  email_claim: email
+  first_name_claim: first_name
+  last_name_claim: last_name
+  avatar_url_claim: avatar_url
 
 # Publish mode
 publish_mode: simple
