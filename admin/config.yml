@@ -1,0 +1,151 @@
+# Backend configuration using DecapBridge
+# IMPORTANT: After creating your site at https://decapbridge.com/, replace YOUR_SITE_ID with the actual site ID
+backend:
+  name: git-gateway
+  repo: chriso0710/buergerrunde
+  branch: master
+  identity_url: https://auth.decapbridge.com/sites/f4e32f43-2a5e-4b2d-9ce0-1c473b269891
+  gateway_url: https://gateway.decapbridge.com
+
+# Optional: Use local backend for development
+# To enable, run: npx decap-server
+# Uncomment the line below:
+# local_backend: true
+
+# Improved commit messages with author info
+commit_messages:
+  create: 'Erstelle {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+  update: 'Aktualisiere {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+  delete: 'Lösche {{collection}} "{{slug}}" - {{author-name}} via DecapBridge'
+  uploadMedia: 'Lade Datei "{{path}}" hoch - {{author-name}} via DecapBridge'
+  deleteMedia: 'Lösche Datei "{{path}}" - {{author-name}} via DecapBridge'
+
+# Publish mode
+publish_mode: simple
+
+# Media files
+media_folder: "assets/images/locations"
+public_folder: "/assets/images/locations"
+
+# Media library configuration
+media_library:
+  name: default
+  config:
+    max_file_size: 256000  # 250 KB in bytes (250 * 1024)
+
+# Site configuration
+site_url: https://buergerrunde.heuweiler.net
+display_url: https://buergerrunde.heuweiler.net
+logo_url: https://buergerrunde.heuweiler.net/assets/images/br_logo.svg
+
+# Collections
+collections:
+  - name: "locations"
+    label: "Locations"
+    label_singular: "Location"
+    folder: "_locations"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    editor:
+      preview: false
+    fields:
+      - label: "Titel"
+        name: "title"
+        widget: "string"
+        required: true
+        hint: "Name des Ortes"
+
+      - label: "Kategorie"
+        name: "category"
+        widget: "select"
+        required: true
+        options:
+          - "Bauernhöfe"
+          - "Geschäfte & Gastronomie"
+          - "Handwerk & Gewerbe"
+          - "Historische Gebäude"
+          - "Infrastruktur"
+          - "Naturdenkmäler"
+          - "Öffentliche Gebäude"
+          - "Religiöse Stätten"
+          - "Straßen & Wege"
+          - "Veranstaltungsorte"
+          - "Vereine"
+          - "Wohngebiete"
+        hint: "Wähle die passende Kategorie"
+
+      - label: "Beschreibung"
+        name: "description"
+        widget: "text"
+        required: true
+        hint: "Kurze Beschreibung des Ortes (1-2 Sätze)"
+
+      - label: "Adresse"
+        name: "address"
+        widget: "string"
+        required: false
+        hint: "Vollständige Postadresse"
+
+      - label: "Breitengrad (Latitude)"
+        name: "latitude"
+        widget: "number"
+        value_type: "float"
+        step: 0.000001
+        required: false
+        hint: "GPS-Koordinate (z.B. 48.054432)"
+
+      - label: "Längengrad (Longitude)"
+        name: "longitude"
+        widget: "number"
+        value_type: "float"
+        step: 0.000001
+        required: false
+        hint: "GPS-Koordinate (z.B. 7.909479)"
+
+      - label: "Website"
+        name: "website"
+        widget: "string"
+        required: false
+        hint: "URL der offiziellen Website"
+
+      - label: "Bild"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Hauptbild des Ortes (max. 1024x768 Pixel, max. 250 KB)"
+        allow_multiple: false
+
+      - label: "Bildrechte / Copyright"
+        name: "image_copyright"
+        widget: "string"
+        required: false
+        hint: "Copyright-Vermerk für das Bild"
+
+      - label: "Generiert von"
+        name: "generated_by"
+        widget: "string"
+        required: false
+        default: "manual"
+        hint: "System oder Person, die den Eintrag erstellt hat"
+
+      - label: "Generiert am"
+        name: "generated_at"
+        widget: "datetime"
+        required: false
+        hint: "Zeitpunkt der Erstellung"
+        format: "YYYY-MM-DD HH:mm:ss ZZ"
+
+      - label: "Notizen"
+        name: "notes"
+        widget: "text"
+        required: false
+        hint: "Interne Notizen zu Quellen oder besonderen Hinweisen"
+
+      - label: "Inhalt"
+        name: "body"
+        widget: "markdown"
+        required: false
+        hint: "Detaillierter Inhalt mit Beschreibung, Geschichte, Besonderheiten etc."
