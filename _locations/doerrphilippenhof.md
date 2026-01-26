@@ -1,43 +1,19 @@
 ---
-title: Dörrphilippenhof (Dörrhof)
-latitude: 48.052494
-longitude: 7.903271
+title: Dörrphilippenhof
 category: Bauernhöfe
-description: Historischer Hof im Kerndorf von Heuweiler (vermutlich identisch bzw.
-  in der Überlieferung verwandt mit dem örtlich bekannten Dörrhof).
-address: Dorfstraße 23, 79194 Heuweiler
-website: ''
+description: "Historischer Hof im Kerndorf von Heuweiler "
+address: Dorfstraße 14, 79194 Heuweiler
+latitude: 48.0511325
+longitude: 7.9026015
+website: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 07:12:33 +0000'
-notes: Die gesuchte Bezeichnung 'Dörrphilippenhof' konnte in öffentlich zugänglichen
-  Quellen nicht eindeutig nachgewiesen werden. Die hier erstellte Eintragung basiert
-  auf Erwähnungen des örtlichen Dörrhofs (historisch und in der Gemeindegeschichte)
-  und auf Bildmaterial der Gemeinde Heuweiler; Adresseangabe stammt aus lokal gelisteten
-  Einträgen. Genaue Geo-Koordinaten für die konkrete Hofadresse konnten nicht verlässlich
-  mittels des verfügbaren Geocoding-Tools ermittelt werden; die latitude/longitude-Felder
-  wurden leer gelassen. Quellen und Fundstellen sind am Ende aufgeführt.
+generated_at: 2025-10-15 07:12:33 +0000
+notes: ""
 ---
-#### Beschreibung
-Der Eintrag bezeichnet einen historischen Bauernhof im Kerndorf von Heuweiler, der lokal als Dörrhof bekannt ist und in regionalen Ortsbeschreibungen als einer der ältesten Höfe des Dorfes genannt wird. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))
+Der Dörrphilippenhof steht unterhalb des Häberlehofes an der Dorfstraße in Richtung Hinterheuweiler. Zu ihm gehört die große Scheune, die längs an der Dorfstraße steht. Früher hieß der Hof „St. Trudperter Zinsgütlein“. Die
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-Der Hof gehört zu den traditionellen landwirtschaftlichen Betrieben, die das Ortsbild und die bäuerliche Prägung Heuweilers mitprägen; solche Höfe sind wichtig für lokale Landwirtschaft, Heimatpflege und die dörfliche Identität. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))
+Familiennamen auf dem Hof sind nach den Kirchenbüchern Eglin, Bank, Schill und später ein Phillip Dörr, nach dem der Hof benannt ist. 1911 übernahm die Familie Scherzinger den Hof. Ein Eintrag im Heuweilermer Totenbuch im Jahre 1718 belegt, dass Jakob Eglin in Waldkirch enthauptet wurde, nachdem er seine Frau im Glotterbach ertränkt hatte. Der Sage nach wurde das Verbechen nur entdeckt, weil Krähen sich auf dem Grab der bereits beerdigten Frau sammelten und laut schrien. Daraufhin wurde die Leiche exhumiert und untersucht.
 
-#### Geschichte
-In der Ortsgeschichte Heuweilers werden mehrere alte Höfe genannt (Merzenhof, Alt-Vogtshof, Häberlehof und der Dörrhof). Konkrete historische Texte zu einem speziellen Namen 'Dörrphilippenhof' konnten nicht gefunden werden; es gibt jedoch wiederkehrende Nennungen des Dörrhofs in lokalen Beschreibungen. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))
-
-#### Besonderheiten oder interessante Fakten
-- Der Hof (Dörrhof) wird in Ortsbeschreibungen als einer der ältesten Höfe des Kerndorfs aufgeführt und gehört damit zur historischen Struktur des Ortes. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))  
-- Ein Bild des Ortes / Hofs ist in der Fotogalerie der Gemeinde verfügbar (Direktlink im Frontmatter). ([heuweiler.de](https://www.heuweiler.de/fileadmin/_processed_/1/e/csm_D%C3%B6rr_fb2aad0f77.jpg))
-
-#### Wichtige Kontaktinfos
-- Adresse (örtlich gelistet): Dorfstraße 23, 79194 Heuweiler. (Einträge in regionalen Verzeichnissen/Veranstaltungslisten nennen diese Adresse für den Dörrhof.) ([bz-ticket.de](https://bz-ticket.de/doerrhof-heuweiler?utm_source=openai))  
-- Offizielle Gemeindeverwaltung Heuweiler (für Nachfragen zur Hofnutzung / Denkmalschutz / lokale Historie): Gemeindeverwaltung Heuweiler, Dorfstraße 21, 79194 Heuweiler; Telefon und Kontakt über die Gemeindewebsite. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
-
-#### Referenzen / Quellen
-- Gemeinde Heuweiler — Geschichte & Fotogalerie (Nennung der Höfe, Fotomaterial). ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/geschichte?utm_source=openai))  
-- Eintrag / Veranstaltungsseite mit gelisteter Adresse für "Dörrhof" (Dorfstraße 23). ([bz-ticket.de](https://bz-ticket.de/doerrhof-heuweiler?utm_source=openai))  
-- Wikipedia — Heuweiler (Ortsinformationen, Lage, Grunddaten). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))  
-- Bild (Fotodatei) auf der Gemeinde-Website (Direktlink, verwendet als Bildquelle im Eintrag). ([heuweiler.de](https://www.heuweiler.de/fileadmin/_processed_/1/e/csm_D%C3%B6rr_fb2aad0f77.jpg))
+Auch der Dörrphilippenhof wurde bei dem verheerenden Brand im Jahr 1862 in der Ortsmitte in Mitleidenschaft gezogen und die Hofgebäude zerstört. Wahrscheinlich wurden danach nicht mehr alle Gebäude wieder aufgebaut. Heute sind die landwirtschaftlichen Flächen verpachtet, lediglich Wald wird noch bewirtschaftet.
