@@ -1,3 +1,6 @@
+# German UI
+locale: de
+
 # Use DecapBridge classic auth
 backend:
   name: git-gateway
