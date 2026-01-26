@@ -20,7 +20,7 @@ description: >-
   Sohn Johann Heizmann, 1964 dessen Sohn Hubert Heizmann den Hof. Im Jahre 1998 wurde es von der
 
   Familie Buderer übernommen und wird seitdem als Wohnhaus benutzt.
-address: Heuweiler, Baden-Württemberg
+address: Heuweiler 1, 79194 Heuweiler
 latitude: 48.0371659
 longitude: 7.8999823
 website: ""
@@ -28,16 +28,7 @@ image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:46:49 +0000
-notes: "Quellen: Wikipedia-Eintrag 'Berghäusle' (Ortslage von Heuweiler) und
-  Gemeinde-Website Heuweiler. Keine eigenständige offizielle Website, keine
-  eindeutige Postadresse oder frei verfügbare Direktbild-URL für das einzelne
-  'Berghäusle' in Heuweiler gefunden. LEO-BW listet 'Berghäusle' als Wohnplatz
-  der Gemeinde. Zur Überprüfung von Gemeindeadressen wurden
-  Mapbox-Reverse-Geocoding‑Abfragen (nebenläufig) verwendet; Mapbox lieferte für
-  nahegelegene Adressen u.a. 'Kirchberg 2, 79194 Heuweiler' (Koordinaten
-  ~48.051544, 7.904671) und 'Dorfstraße 19, 79194 Heuweiler' (Koordinaten
-  ~48.05158, 7.90295) — diese Koordinaten beziehen sich auf genannte Adressen in
-  Vorderheuweiler, nicht explizit auf den Hof 'Berghäusle'."
+notes: ""
 ---
 #### Beschreibung des Ortes
 Das Berghäusle ist kein eigenständiger Ort im Sinne einer Gemeinde, sondern ein kleiner Hof / Wohnplatz (Ortslage) innerhalb der Gemeinde Heuweiler im Landkreis Breisgau-Hochschwarzwald. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Bergh%C3%A4usle?utm_source=openai))
