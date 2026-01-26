@@ -30,8 +30,8 @@ logo_url: https://buergerrunde.heuweiler.net/assets/images/br_logo.svg
 # Collections
 collections:
   - name: "locations"
-    label: "Locations"
-    label_singular: "Location"
+    label: "Orte"
+    label_singular: "Ort"
     folder: "_locations"
     create: true
     delete: true
