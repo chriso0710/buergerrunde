@@ -4,8 +4,8 @@ category: Bauernhöfe
 description: "Traditioneller Bauernhof / Wohnhaus (Bankhof) in Hinterheuweiler,
   Gemeinde Heuweiler, Adresse: Hinterheuweiler 2"
 address: Hinterheuweiler 2, 79194 Heuweiler
-latitude: 48.0401044
-longitude: 7.8978573
+latitude: 48.0403319
+longitude: 7.8979264
 website: ""
 image: ""
 image_copyright: ""
