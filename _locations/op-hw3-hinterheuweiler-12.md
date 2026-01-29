@@ -1,16 +1,18 @@
 ---
 title: OP HW 3 - Hinterheuweiler 12 Birklehof
-latitude: 48.045218
-longitude: 7.901805
 category: Infrastruktur
-description: Orangener Punkt Haltestelle HW 3 in Hinterheuweiler in der Kurve beim Birklehof.
+description: Orangener Punkt Haltestelle HW 3 in Hinterheuweiler in der Kurve
+  beim Birklehof.
 address: Hinterheuweiler 12, 79194 Heuweiler
+latitude: 48.0452681
+longitude: 7.9017884
 website: https://buergerrunde.heuweiler.net/op/
 image: ""
 image_copyright: ""
 generated_by: copilot
-generated_at: "2025-11-13"
-notes: Haltestelle in Hinterheuweiler an der Kurve über die Brücke am Taubenbach, eingerichtet im Juni 2016.
+generated_at: 2025-11-13
+notes: Haltestelle in Hinterheuweiler an der Kurve über die Brücke am
+  Taubenbach, eingerichtet im Juni 2016.
 ---
 
 #### Beschreibung
