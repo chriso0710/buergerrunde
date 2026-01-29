@@ -1,16 +1,18 @@
 ---
 title: OP HW 4 - Hinterheuweiler 28
-latitude: 48.048831
-longitude: 7.900958
 category: Infrastruktur
-description: Orangener Punkt Haltestelle HW 4 in Hinterheuweiler Richtung Ortsmitte bei Hausnummer 28.
+description: Orangener Punkt Haltestelle HW 4 in Hinterheuweiler Richtung
+  Ortsmitte bei Hausnummer 28.
 address: Hinterheuweiler 28, 79194 Heuweiler
+latitude: 48.049026
+longitude: 7.9010921
 website: https://buergerrunde.heuweiler.net/op/
 image: ""
 image_copyright: ""
 generated_by: copilot
-generated_at: "2025-11-13"
-notes: Zweite Haltestelle in Hinterheuweiler zwischen dem südlichen Ortsteil und der Ortsmitte, eingerichtet im Juni 2016.
+generated_at: 2025-11-13
+notes: Zweite Haltestelle in Hinterheuweiler zwischen dem südlichen Ortsteil und
+  der Ortsmitte, eingerichtet im Juni 2016.
 ---
 
 #### Beschreibung
