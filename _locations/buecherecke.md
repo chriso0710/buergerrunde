@@ -1,7 +1,7 @@
 ---
 title: Bücherecke (Heuweiler)
 category: Öffentliche Gebäude
-description: Kleine, ortsnahe Büchertausch-/Leseecke am Rathaus
+description: Kleine, ortsnahe Büchertauschecke am Rathaus
 address: Heuweiler, Baden-Württemberg
 latitude: 48.0518235
 longitude: 7.9033009
@@ -24,7 +24,5 @@ notes: >-
 #### Beschreibung
 
 Die "Bücherecke" in Heuweiler ist eine kleine, lokale Büchertausch- bzw. Leseecke
-
-#### Bedeutung für Heuweiler
 
 Solche Bücherecken dienen der Nahversorgung mit Büchern, fördern Lesekultur und Nachbarschaftsaustausch in kleinen Gemeinden; sie bieten niedrige Hürden zum Ausleihen, Tauschen oder Spenden von Büchern und stärken das kulturelle Leben vor Ort.
