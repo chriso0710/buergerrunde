@@ -1,8 +1,8 @@
 ---
 title: Bankhof (Heuweiler)
 category: Bauernhöfe
-description: "Traditioneller Bauernhof / Wohnhaus (Bankhof) in Hinterheuweiler,
-  Gemeinde Heuweiler, Adresse: Hinterheuweiler 2"
+description: Traditioneller Bauernhof und Wohnhaus (Bankhof) der Familie
+  Kaltenbach in Hinterheuweiler 2
 address: Hinterheuweiler 2, 79194 Heuweiler
 latitude: 48.0403319
 longitude: 7.8979264
