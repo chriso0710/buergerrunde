@@ -1,22 +1,23 @@
 ---
 title: Alt-Vogtshof (Alt‑Vogtshof, Heuweiler)
+category: Historische Gebäude
+description: Denkmalgeschütztes Gutshaus im Ortskern von Heuweiler, saniert und
+  als Wohngebäude mit Dorfladen/Café wiederbelebt.
+address: Dorfstraße 22, 79194 Heuweiler, Baden‑Württemberg
 latitude: 48.052077
 longitude: 7.903343
-category: Historische Gebäude
-description: Starkes, denkmalgeschütztes Gutshaus im Ortskern von Heuweiler, saniert
-  und als Wohngebäude mit Dorfladen/Café wiederbelebt.
-address: Dorfstraße 22, 79194 Heuweiler, Baden‑Württemberg
 website: https://www.genossenschaft-heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:42:44.000000000 +00:00
-notes: 'Bei der Suche nach Geo-Koordinaten für die konkrete Postadresse Dorfstraße
-  22 wurde das mapbox reverse-geocoding Tool verwendet; die Mapbox-Antwort enthielt
-  (auf nahegelegene Abfragen) die Hausnummer 20. Eine eindeutige, von Mapbox verifizierte
-  Koordinate für Nr. 22 konnte nicht ermittelt werden; daher wurden die latitude/longitude-Felder
-  freigelassen. Wichtige Quellen: Hopp+Hofmann Projektseite, Bürgergenossenschaft
-  Heuweiler, Region im Blick, Gemeinde Heuweiler, Café iz, Badische Zeitung, Wikipedia.'
+notes: "Bei der Suche nach Geo-Koordinaten für die konkrete Postadresse
+  Dorfstraße 22 wurde das mapbox reverse-geocoding Tool verwendet; die
+  Mapbox-Antwort enthielt (auf nahegelegene Abfragen) die Hausnummer 20. Eine
+  eindeutige, von Mapbox verifizierte Koordinate für Nr. 22 konnte nicht
+  ermittelt werden; daher wurden die latitude/longitude-Felder freigelassen.
+  Wichtige Quellen: Hopp+Hofmann Projektseite, Bürgergenossenschaft Heuweiler,
+  Region im Blick, Gemeinde Heuweiler, Café iz, Badische Zeitung, Wikipedia."
 ---
 #### Beschreibung des Ortes
 Der Alt‑Vogtshof ist ein markantes, historisch gewachsenes Hofgebäude im Ortskern von Heuweiler (Dorfstraße 22), das nach umfassender Sanierung wieder als Wohnhaus mit einem kleinen Dorfladen/Café im Untergeschoss genutzt wird. ([hopp-hofmann.de](https://hopp-hofmann.de/impressionen/projekt-heuweiler/))
