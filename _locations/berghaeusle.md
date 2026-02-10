@@ -1,8 +1,8 @@
 ---
 title: Berghäusle (Heuweiler)
 category: Bauernhöfe
-description: "Traditioneller Hof / Wohnhaus (Berghäusle) im Ortsteil
-  Hinterheuweiler von Heuweiler; Adresse: Hinterheuweiler 1."
+description: Traditioneller Hof / Wohnhaus (Berghäusle) der Familie Buderer in
+  Hinterheuweiler 1.
 address: Hinterheuweiler 1, 79194 Heuweiler
 latitude: 48.0371659
 longitude: 7.8999823
