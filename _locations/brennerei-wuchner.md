@@ -5,7 +5,7 @@ description: Kleine, familiengeführte Hausbrennerei in Heuweiler, bekannt für
   den preisgekrönten "maidli GIN".
 address: Dorfstraße 8a, 79194 Heuweiler, Deutschland
 latitude: 48.0501964
-longitude: 79023131
+longitude: 7.9023131
 website: https://www.maidli-gin.de
 image: ""
 image_copyright: ""
