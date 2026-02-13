@@ -1,7 +1,8 @@
 ---
 title: Gehrihof (Weingut Gehrihof)
 category: Bauernhöfe
-description: Familiengeführter Hof mit Weingut, Hofladen und Weinstube in Hinterheuweiler.
+description: Ehemals familiengeführter Hof mit Weingut, Hofladen und Weinstube
+  in Hinterheuweiler.
 address: Hinterheuweiler 6, 79194 Heuweiler
 latitude: 48.045062
 longitude: 7.899723
