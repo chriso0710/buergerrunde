@@ -1,7 +1,7 @@
 ---
 title: Heitzmannhof (Heuweiler)
 category: Bauernhöfe
-description: Kleiner landwirtschaftlicher Hof
+description: Früher landwirtschaftlicher Hof, heute Wohnhaus mit Pferdestall
 address: Hinterheuweiler 10, 79194 Heuweiler, Baden-Württemberg
 latitude: 48.0448139
 longitude: 7.9022072
