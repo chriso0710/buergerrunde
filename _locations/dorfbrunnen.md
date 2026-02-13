@@ -29,7 +29,7 @@ Der Brunnen dient heute vor allem als ortsbildprägendes Element und Treffpunkt 
 
 #### Geschichte
 
-Konkrete bauzeitliche Angaben zum Heuweiler-Dorfbrunnen werden in lokalen Quellen nicht ausführlich dokumentiert; wie in vielen südbadischen Dörfern wurde ein Dorfbrunnen traditionell als Wasserversorgungs- und Tränkestelle angelegt und später als Zier- und Denkmalobjekt erhalten. Orts- und kommunale Informationen zur Ortsmitte und Dorfentwicklung finden sich in der Gemeindedarstellung von Heuweiler. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
+Wie in vielen südbadischen Dörfern wurde ein Dorfbrunnen traditionell als Wasserversorgungs- und Tränkestelle angelegt und später als Zier- und Denkmalobjekt erhalten. Orts- und kommunale Informationen zur Ortsmitte und Dorfentwicklung finden sich in der Gemeindedarstellung von Heuweiler. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))
 
 #### Besonderheiten oder interessante Fakten
 
