@@ -1,8 +1,9 @@
 ---
 title: Rainhof
 category: Bauernhöfe
-description: Bauernhof mit Wohnhaus in Hinterheuweiler
-address: Hinterheuweiler 5, 79194 Heuweiler, Baden-Württemberg
+description: Traditioneller Bauernhof und Wohnhaus (Rainhof) der Familie
+  Scherzinger in Hinterheuweiler 5
+address: Hinterheuweiler 5, 79194 Heuweiler
 latitude: 48.0428981
 longitude: 7.8952515
 website: ""
