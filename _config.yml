@@ -9,7 +9,7 @@ url: "https://buergerrunde.heuweiler.net"
 google_analytics:
 disqus:
 mailchimp-list:
-include: ["_pages", "_redirects", "admin"]
+include: ["_pages", "_redirects", "admin", "google5178f951429296d3.html"]
 permalink: /:title/
 lang: de_DE
 
