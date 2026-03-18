@@ -5,6 +5,7 @@ event: 2015-11-26 19:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Jahresrückblick der Bürgerrunde, Gespräche mit dem Bürgermeister, Vereinsgründung und Terminplanung 2016."
 ---
 
 ### Agenda

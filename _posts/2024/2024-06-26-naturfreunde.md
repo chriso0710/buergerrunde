@@ -5,6 +5,7 @@ author: fg
 image: /assets/images/naturschutz/nf6.jpg
 event: 2024-07-15 20:00:00
 location: Rathaus
+description: "Die AG Naturfreunde stellt ihre Projekte vor: Streuobstwiesen, Amphibienschutz, Nistkästen und Biotoppflege in Heuweiler."
 ---
 
 ## Die AG Naturfreunde der Bürgerrunde Heuweiler stellt sich vor

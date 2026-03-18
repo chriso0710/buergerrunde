@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
 image: /assets/images/br_logo.svg
+description: "Bürgerrunde März 2020: Klimaschutz-Diskussion mit dem neuen Klimaschutzmanager David Matuschek und Vorbereitung der Gemeinderatspräsentation."
 ---
 ### Agenda
 

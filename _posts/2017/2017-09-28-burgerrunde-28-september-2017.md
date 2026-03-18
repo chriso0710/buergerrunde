@@ -5,7 +5,8 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
---- 
+description: "Terminplanung 2018, Weihnachtsbaumverbrennung, Fundraising-Bericht und Vorbereitung der Veranstaltung Alt werden im Dorf."
+---
 
 ### Agenda
 * Bürgerrunden in 2018

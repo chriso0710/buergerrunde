@@ -3,6 +3,7 @@ title: Offener Brief der AG Klima und Mobilität
 categories: [ Klimaschutz, Mobilität ]
 author: ad
 image: "/assets/images/klimamobil/konstruktion.jpg"
+description: Die AG Klima und Mobilität fordert einen Dorfentwicklungsplan mit Klimaneutralität, Photovoltaikpflicht und Mobilitätskonzepten.
 ---
 
 Sehr geehrter Herr Bürgermeister Walz,

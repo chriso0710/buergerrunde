@@ -5,6 +5,7 @@ event: 2015-09-24 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/klimamobil/myecar.jpg"
+description: "Vortrag von Matthias Lübke (Stadtmobil) über E-CarSharing und BürgerTaxi als Mobilitätslösung für kleine Gemeinden."
 ---
 
 * Teilnehmer: ca. 15 Heuweilermer

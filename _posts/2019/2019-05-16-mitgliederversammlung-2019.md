@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
 image: "/assets/images/br_logo.svg"
+description: Jahreshauptversammlung 2019 der Bürgerrunde Heuweiler mit Vorstandswahl, Finanzbericht und Vereinszielen.
 ---
 
 ### Tagesordnung

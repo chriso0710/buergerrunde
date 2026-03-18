@@ -5,6 +5,7 @@ author: cs
 image: /assets/images/neubuerger/fruehstueck.jpg
 location: Festwiese neben der Kirchberghalle
 event: 2023-07-23 10:00:00
+description: Einladung zum gemeinsamen Brunch auf der Festwiese am 23. Juli 2023 – jeder bringt sein Lieblingsfrühstück zum Teilen mit.
 ---
 Bürger:Innen Heuweilers treffen sich zum Brunch.
 

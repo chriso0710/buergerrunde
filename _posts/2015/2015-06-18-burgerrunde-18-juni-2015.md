@@ -5,6 +5,7 @@ event: 2015-06-18 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Berichte der AGs Bürger-Netzwerk, BürgerMobil, Kultur und Orte zum Kennenlernen sowie Terminplanung bis Jahresende."
 ---
 
 * Teilnehmer: ca. 15 BürgerInnen Heuweilers

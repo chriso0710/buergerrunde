@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Geschwindigkeitsanzeige, Mitfahrerbank, EU-Förderprojekte für den Orangenen Punkt und Feinstaub-Messung in Heuweiler."
 ---
 
 ### Agenda

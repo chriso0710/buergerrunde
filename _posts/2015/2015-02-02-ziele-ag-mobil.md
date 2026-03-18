@@ -3,6 +3,7 @@ title: Ziele und Themen der AG Bürger Mobil
 categories: [ Mobilität ]
 author: bw
 image: "/assets/images/br_logo.svg"
+description: "Ziele der AG Bürger Mobil: Verkehrsberuhigung, Aktion Orangener Punkt und E-Car-Sharing für Heuweiler."
 ---
 ## Unsere Ziele
 

@@ -5,6 +5,7 @@ event: 2016-07-07 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Verabschiedung der Vereinssatzung mit zahlreichen Änderungen und Diskussion zum Vereinsnamen der Bürgerrunde."
 ---
 
 * Teilnehmer: 10 Bürger Heuweilers

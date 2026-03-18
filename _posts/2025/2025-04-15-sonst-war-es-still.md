@@ -5,6 +5,7 @@ author: co
 image: /assets/images/kino/SWES.jpg
 event: 2025-05-07 19:30:00
 location: Rathaus
+description: Dorfkino zeigt den Dokumentarfilm zur Freiburger Bombennacht 1944, mit anschliessendem Gespräch mit dem Regisseur.
 ---
 
 ## Ein Film, der unter die Haut geht. Eine Erinnerung, die bleiben muss.

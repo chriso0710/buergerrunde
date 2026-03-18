@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Jugendhütte
 author: co
 image: "/assets/images/br_logo.svg"
+description: Mitgliederversammlung 2023 der Bürgerrunde Heuweiler mit Vorstandswahl, Finanzbericht und Ehrenamtspauschale.
 ---
 ### Tagesordnung
 

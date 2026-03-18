@@ -5,6 +5,7 @@ event: 2015-04-23 19:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Themensammlung, Abstimmung und Bildung von fünf Arbeitsgruppen zu Kino, Nachbarschaftshilfe, Mobilität und mehr."
 ---
 
 * Teilnehmer: ca. 20 BürgerInnen Heuweilers

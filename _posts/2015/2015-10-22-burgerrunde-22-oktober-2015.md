@@ -5,6 +5,7 @@ event: 2015-10-22 19:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Vortrag von BM Brügner aus Vörstetten über bürgerschaftliches Engagement und Tipps für die Vereinsgründung in Heuweiler."
 ---
 
 * Teilnehmer: ca. 15 Heuweilermer

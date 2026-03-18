@@ -3,6 +3,7 @@ title: "Rückblick: Ein stiller Film, der tief berührt"
 categories: [Kino]
 author: co
 image: /assets/images/kino/sonstwaresstill.jpg
+description: Rückblick auf die ausverkaufte Filmvorführung im Rathaus Heuweiler zum Gedenken 80 Jahre nach Kriegsende.
 ---
 
 ## „Sonst war es still“ im voll besetzten Rathaus Heuweiler

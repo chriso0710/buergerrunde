@@ -5,6 +5,7 @@ event: 2015-02-27 19:00:00
 location: Gemeindesaal, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Vortrag des Vörstettener Miteinander e.V. zur Vereinsgründung und erste Themensammlung der Bürgerrunde Heuweiler."
 ---
 
 ### Agenda

@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Planung des zweiten Dorfflohmarkts am 8. Juli mit Zusatzprogramm, Shuttle und Orangener-Punkt-Werbung."
 ---
 
 ### Agenda

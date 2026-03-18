@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Bürgerrunde Feb 2019: Dorfentwicklung, Genossenschaft, Dorfladen, Flüchtlingshilfe, Mobilität und Bürgerbus-Diskussion."
 ---
 
 ### Agenda

@@ -5,6 +5,7 @@ categories: [ Bürgerrunde, Weiterbildung, Klimaschutz ]
 location: Gemeindesaal, Rathaus
 author: co
 image: "/assets/images/klimamobil/solar.jpg"
+description: "Vortrag zu Photovoltaik, Stromspeichern und Eigenverbrauch im Eigenheim mit Referent Philip Maier aus Denzlingen."
 ---
 
 ### Photovoltaik und Stromspeicher im Eigenheim: Die wichtigsten Fragen und Antworten.

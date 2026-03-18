@@ -3,6 +3,7 @@ title: Dank an alle Sponsoren
 categories: [ Klimaschutz, Mobilität ]
 author: ad
 image: "/assets/images/klimamobil/carlos.jpg"
+description: "Dank an alle Sponsoren des freien Lastenrads Carlos, das seit einem Monat in Heuweiler erfolgreich ausgeliehen wird."
 ---
 Liebe Sponsoren und Möglichmacher:innen!
  

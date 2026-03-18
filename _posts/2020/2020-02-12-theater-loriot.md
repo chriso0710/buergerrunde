@@ -4,7 +4,8 @@ categories: [ Theater ]
 location: Gemeindesaal, Rathaus
 author: kf
 image: /assets/images/theater/loriot.jpg
-event: 
+event:
+description: "Das Theater Flügelschuh aus Denzlingen spielt Loriot-Sketche im Gemeindesaal – mit Nudelsuppe in der Pause. Termin: abgesagt."
 ---
 ABGESAGT - NEUER TERMIN VORAUSSICHTLICH IM HERBST
 

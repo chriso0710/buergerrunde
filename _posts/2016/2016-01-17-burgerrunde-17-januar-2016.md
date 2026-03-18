@@ -5,6 +5,7 @@ event: 2016-01-17 17:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Vorbereitung der Gemeinderatssitzung mit Präsentation der AGs Mobil, Kultur, Kennenlernen und Bürgernetz."
 ---
 
 ### Terminvorbereitung GR Sitzung am 18.02.2016

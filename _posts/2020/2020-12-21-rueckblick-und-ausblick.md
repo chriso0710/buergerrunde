@@ -3,6 +3,7 @@ title: Rückblick und Ausblick
 categories: [ Gemeinschaft, Ausstellung, Klimaschutz, Mobilität ]
 author: ad
 image: /assets/images/goodbye2020.jpg
+description: "Jahresrückblick 2020 der Bürgerrunde: Corona-Auswirkungen, Fortschritte bei der Radmobilität und Pläne für ein freies Lastenrad."
 ---
 Liebe FreundInnen der Bürgerrunde,
 das Jahr neigt sich dem Ende - ein Jahr, dessen Verlauf sich niemand von uns vor 12 Monaten hätte vorstellen können. 

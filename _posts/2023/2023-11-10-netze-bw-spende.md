@@ -5,6 +5,7 @@ author: co
 image: "/assets/images/verein/spende-netzebw.jpg"
 event: 2023-11-10 10:30:00
 location: Cafe IZ
+description: Netze BW spendet 149,24 Euro an die Bürgerrunde Heuweiler für die Aktion Mail statt Brief im Klimaschutz.
 ---
 #### Aktion „Zählerstand online erfassen“ - Wohltätige Projekte in Baden-Württemberg unterstützen und gemeinsam CO₂ einsparen
 

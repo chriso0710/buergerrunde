@@ -3,6 +3,7 @@ title: Familienmobilität im ländlichen Raum mit dem Fahrrad geht nicht? Doch!
 categories: [Mobilität]
 author: ad
 image: /assets/images/klimamobil/kiste-25000.jpg
+description: "Anne Dittrich berichtet, wie ihre Familie mit dem Lastenrad 25.000 km im ländlichen Raum zurückgelegt hat."
 ---
 
 Ein Kommentar und Aufruf von Anne Dittrich.

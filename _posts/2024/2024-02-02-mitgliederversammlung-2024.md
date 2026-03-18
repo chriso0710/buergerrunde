@@ -5,6 +5,7 @@ categories: [Bürgerrunde]
 location: Rathaus
 author: co
 image: "/assets/images/br_logo.svg"
+description: Jahreshauptversammlung 2024 der Bürgerrunde Heuweiler mit Vorstandswahl, Finanzbericht und Planung der Vereinsziele.
 ---
 
 ### Tagesordnung

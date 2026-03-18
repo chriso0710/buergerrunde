@@ -3,6 +3,7 @@ title: Herzlich Willkommen in Heuweiler!
 categories: [Bürgerrunde]
 author: co
 image: /assets/images/verein/postkarte-rosskopf.jpg
+description: Die Bürgerrunde begrüsst neue Bewohner in Heuweiler mit einer Postkarte und lädt zum Mitmachen ein.
 ---
 
 > Herzlich Willkommen in Heuweiler!

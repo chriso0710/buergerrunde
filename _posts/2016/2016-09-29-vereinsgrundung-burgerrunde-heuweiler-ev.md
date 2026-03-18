@@ -5,6 +5,7 @@ categories: [ Bürgerrunde ]
 location: Schulungsraum, Rathaus
 author: co
 image: "/assets/images/verein/gruendung.jpg"
+description: Die Bürgerrunde Heuweiler wird offiziell als eingetragener Verein gegründet.
 ---
 
 Die Bürgerrunde Heuweiler wird ein Verein. 

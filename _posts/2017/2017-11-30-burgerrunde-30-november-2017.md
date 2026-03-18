@@ -5,6 +5,7 @@ categories: [ Bürgerrunde, Weiterbildung, Gemeinschaft ]
 location: Gemeindesaal, Rathaus
 author: co
 image: "/assets/images/altwerden.jpg"
+description: "Vorträge zu Pflege, Notfallversorgung und ambulanten Wohngemeinschaften für ein gutes Altern in Heuweiler."
 ---
 
 ### Gut versorgt alt werden in Heuweiler- (k)ein Traum?

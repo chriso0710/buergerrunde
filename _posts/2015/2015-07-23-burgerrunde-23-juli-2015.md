@@ -5,6 +5,7 @@ event: 2015-07-23 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Gastvortrag des Bürgertreffs Gundelfingen über Vereinsgründung, Kino und Projekte sowie Austausch mit der Bürgerrunde."
 ---
 
 * Teilnehmer: ca. 15 BürgerInnen Heuweilers

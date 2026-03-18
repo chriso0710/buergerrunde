@@ -5,6 +5,7 @@ event: 2016-05-09 20:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Diskussion des Satzungsentwurfs, Namensfindung für den Verein und AG-Berichte zu Mobilität, Kultur und Kennenlernen."
 ---
 
 * Teilnehmer: ca. 10 Bürger Heuweilers

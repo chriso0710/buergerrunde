@@ -5,6 +5,7 @@ event: 2016-11-25 19:30:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Berichte der AGs, Orangener Punkt, Bildband Heuweiler, Gemeindezuschuss und Terminplanung 2017."
 ---
 
 ### Agenda

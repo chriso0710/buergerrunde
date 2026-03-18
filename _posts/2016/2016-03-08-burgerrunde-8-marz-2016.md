@@ -5,6 +5,7 @@ event: 2016-03-08 19:00:00
 location: Schulungsraum, Rathaus
 author: kh
 image: "/assets/images/br_logo.svg"
+description: "Vorbereitung der Vereinsgründung, Diskussion zu Vereinsname und Satzung sowie Berichte aus den Arbeitsgruppen."
 ---
 
 * Teilnehmer: ca. 10 Bürger Heuweilers

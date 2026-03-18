@@ -4,7 +4,8 @@ categories: [ Gemeinschaft ]
 author: dg
 image: "/assets/images/buergernetz/frauenfruehstueck.png"
 location: Gemeindesaal, Rathaus
-event: 
+event:
+description: Die AG Bürgernetz lädt alle Frauen in Heuweiler zum gemeinsamen Frühstück mit selbst mitgebrachten Leckereien ins Rathaus ein.
 ---
 ABGESAGT - NEUER TERMIN VORAUSSICHTLICH IM HERBST
 

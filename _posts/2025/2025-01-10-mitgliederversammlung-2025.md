@@ -5,6 +5,7 @@ categories: [Bürgerrunde]
 location: Rathaus
 author: co
 image: "/assets/images/br_logo.svg"
+description: Mitgliederversammlung 2025 der Bürgerrunde Heuweiler mit Vorstandswahl, Finanzbericht und Vereinszielen.
 ---
 
 ### Tagesordnung

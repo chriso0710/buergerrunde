@@ -3,6 +3,7 @@ title: Aufbau und Betrieb eines Bürgerbusses Gundelfingen - Heuweiler
 categories: [ Klimaschutz, Mobilität, Gemeinschaft ]
 author: bw
 image: "/assets/images/klimamobil/heuweilerbewegtsich.jpg"
+description: Konzept und Interessensbekundung der Bürgerrunde für eine Bürgerbuslinie zwischen Heuweiler und Gundelfingen.
 ---
 ### Bürgerrunde erneuert Interessensbekundung (Stand Jan. 2024)
 
