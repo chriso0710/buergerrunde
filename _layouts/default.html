@@ -11,6 +11,7 @@
     <title>{{ page.title }} | {{ site.name }}</title>
 
     {% seo %}
+    {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 
     <link
       rel="stylesheet"

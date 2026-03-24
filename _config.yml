@@ -220,3 +220,5 @@ defaults:
       type: "locations"
     values:
       layout: "page"
+      sitemap: false
+      robots: "noindex,nofollow"
