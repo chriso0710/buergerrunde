@@ -22,7 +22,7 @@ notes: "Hinterheuweiler ist ein Ortsteil/Hamlet der Gemeinde Heuweiler und hat
 ---
 #### Beschreibung
 
-Hinterheuweiler zieht sich nach Süden in die Länge bis zum Leheneck mit einer direkten Verbindung für Fussgänger, Radfahrer und landwirtschaftliche Fahrzeuge nach Wildtal und in Richtung Freiburg-Zähringen. Der Ortsteil verfügt über Wohnhäuser, Höfe, Weinberge, Pferdekoppeln und einzelnen Gewerbebetrieben. Durch den Ortsteil fließt der renaturierte Taubenbach. Am südlichen Ende ist ein Löschwasserteich künstlich angelegt.
+Hinterheuweiler zieht sich nach Süden in die Länge bis zum Leheneck mit einer direkten Verbindung für Fussgänger, Radfahrer und landwirtschaftlicher Fahrzeuge nach Wildtal und in Richtung Freiburg-Zähringen. Der Ortsteil verfügt u.a. über Wohnhäuser, Höfe, Weinberge, Pferdekoppeln und einzelnen Gewerbebetrieben. Durch den Ortsteil fließt der renaturierte Taubenbach. Am südlichen Ende ist ein Löschwasserteich künstlich angelegt.
 
 Ein Neubaugebiet entstand in den Jahren 2005-2012.
 
