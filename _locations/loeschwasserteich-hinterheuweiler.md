@@ -32,7 +32,7 @@ Der Teich stellt eine lokale Löschwasserquelle für die Feuerwehr zur Verfügun
 
 #### Besonderheiten oder interessante Fakten
 
-* Der Teich kann Amphibienlaichplatz und wichtige kleinräumige Naturoase sein; die Bürgerrunde dokumentiert Naturschutz- und Amphibien-Aktionen (z. B. Kröteninitiativen) auf ihrer Webseite. ([https://buergerrunde.heuweiler.net/amphibienschutz-2025/](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))  
+* Der Teich kann Amphibienlaichplatz und wichtige kleinräumige Naturoase sein; die Bürgerrunde dokumentiert Naturschutz- und Amphibien-Aktionen (z. B. Kröteninitiativen) auf ihrer Webseite. ([buergerrunde.heuweiler.net](https://www.heuweiler.de/unsere-gemeinde/fotogalerie))  
 * Viele Anwesen und Hofbetriebe in Hinterheuweiler befinden sich in unmittelbarer Umgebung des Weilers
 
 #### Wichtige Kontaktinfos
