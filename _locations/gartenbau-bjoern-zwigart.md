@@ -1,8 +1,7 @@
 ---
 title: Gartenbau Björn Zwigart
 category: Handwerk & Gewerbe
-description: Kleiner Garten- und Landschaftsbau‑Betrieb in Hinterheuweiler
-  (Gemeinde Heuweiler).
+description: "Kleiner Garten- und Landschaftsbau‑Betrieb in Hinterheuweiler "
 address: Hinterheuweiler 17, 79194 Heuweiler, Deutschland
 latitude: 48.046801
 longitude: 7.9010803
@@ -35,9 +34,3 @@ Als regionaler Handwerksbetrieb trägt Gartenbau Zwigart zur Pflege und Gestaltu
 
 * Branchen-/Telefonbucheintrag: Das Örtliche — Hinterheuweiler (Eintrag „Zwigart Björn“, Hinterheuweiler 17, Tel. 07666 48 91).\
   https://www.dasoertliche.de/Themen/Hinterheuweiler/Heuweiler-Seite-2.htm ([dasoertliche.de](https://www.dasoertliche.de/Themen/Hinterheuweiler/Heuweiler-Seite-2.htm))
-* Wikipedia: Heuweiler (Gemeindeinformationen, Gemeinde‑Website angegeben).\
-  https://en.wikipedia.org/wiki/Heuweiler ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))
-* Gemeindekoordinaten / GPS (Übersichtswerte für Heuweiler, zur Orientierung): laengengrad-breitengrad.de\
-  https://www.laengengrad-breitengrad.de/gps-koordinaten-von-heuweiler ([laengengrad-breitengrad.de](https://www.laengengrad-breitengrad.de/gps-koordinaten-von-heuweiler?utm_source=openai))
-* Gemeinde Heuweiler (offizielle Gemeindeseite, wie auf Wikipedia genannt):\
-  https://www.heuweiler.de ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))
