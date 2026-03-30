@@ -30,16 +30,16 @@ Die Frauenliste tritt in Heuweiler seit mehreren Kommunalwahlen an und konnte re
 
 #### Besonderheiten oder interessante Fakten
 
-* Die Frauenliste stellt aktuell Gemeinderatsmitglieder und ist in Ausschüssen vertreten (z. B. mit Mitgliedern in gemeinsamen Ausschüssen der Verwaltungsgemeinschaft). ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/gemeinderat/ausschuesse))  
+* Die Frauenliste stellt aktuell 3 Gemeinderatsmitglieder und ist in Ausschüssen vertreten (z. B. mit Mitgliedern in gemeinsamen Ausschüssen der Verwaltungsgemeinschaft). ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/gemeinderat/ausschuesse))  
 
 #### Wichtige Kontaktinfos
 
 * Für Anliegen, die die Frauenliste betreffen (z. B. Kontakt zu Gemeinderätinnen): über die Gemeindeverwaltung Heuweiler erreichbar: Gemeindeverwaltung Heuweiler, Dorfstraße 21, 79194 Heuweiler. Telefon: 07666 91345-0; Öffnungszeiten Rathausbüro: Mi 15:00–18:00, Fr 08:00–12:00. ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))  
-* E-Mail (Gemeinde): rathaus@heuweiler.de (für Weiterleitung an Gemeinderatsmitglieder / Fraktionen). ([blackforest-highlights.com](https://www.blackforest-highlights.com/poi/detail/rathaus-heuweiler-d76d7fc194?utm_source=openai))
+
+
 
 #### Referenzen / Quellen
 
 * Gemeinde Heuweiler — Ausschüsse / Gemeinderatsinformationen (Zuweisung von Gemeinderäten zur Frauenliste). ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/gemeinderat/ausschuesse))  
 * Gemeinde Heuweiler — Kontakt & Öffnungszeiten (Adresse Rathaus, Telefonnummer, Öffnungszeiten). ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))  
-* Heuweiler — Wikipedia (Allgemeine Infos zur Gemeinde, politische Verteilung). ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))  
-* Berichterstattung Wahlergebnisse (z. B. Cannstatter Zeitung / regionale Medien zur Gemeinderatswahl 2024). ([cannstatter-zeitung.de](https://www.cannstatter-zeitung.de/inhalt.gemeinderatswahl-2024-bw-heuweiler-wahlergebnis.2e11c856-bb28-483b-b995-ca2b8ed749f3.html?utm_source=openai))
+* Heuweiler — Wikipedia (Allgemeine Infos zur Gemeinde, politische Verteilung). ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
