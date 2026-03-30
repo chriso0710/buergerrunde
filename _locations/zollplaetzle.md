@@ -1,23 +1,25 @@
 ---
 title: Zollplätzle (Heuweiler)
-latitude: 48.054696
-longitude: 7.905291
-category: Veranstaltungsorte
-description: Kleiner öffentlicher Platz/Platzanlage in Heuweiler, der gelegentlich
-  für Dorfveranstaltungen genutzt wird.
+category: Historische Gebäude
+description: |+
+  Kleiner öffentlicher Platz/Platzanlage in Heuweiler.
+
 address: Heuweiler, Baden-Württemberg
-website: ''
+latitude: 48.053712
+longitude: 7.909437
+website: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 09:17:27 +0000'
-notes: Bei der Recherche konnte kein eigenständiges offizielles Impressum, keine postalische
-  Anschrift oder eindeutige Foto‑URL für das 'Zollplätzle' als eigenständige Einrichtung
-  gefunden werden. 'Zollplätzle' wird in Veranstaltungs- und Ortslisten als Platz
-  im Gemeindegebiet Heuweiler genannt (siehe Quellen). Offizielle Gemeindeinformationen
-  und Kontaktadressen für Heuweiler stammen von der Gemeindehomepage; allgemeine Ortsdaten
-  von Wikipedia und Geo‑Koordinaten‑Aggregatoren. Keine exakten Geo-Koordinaten für
-  das 'Zollplätzle' selbst gefunden; deshalb sind latitude/longitude leer gelassen.
+generated_at: 2025-10-15 09:17:27 +0000
+notes: Bei der Recherche konnte kein eigenständiges offizielles Impressum, keine
+  postalische Anschrift oder eindeutige Foto‑URL für das 'Zollplätzle' als
+  eigenständige Einrichtung gefunden werden. 'Zollplätzle' wird in
+  Veranstaltungs- und Ortslisten als Platz im Gemeindegebiet Heuweiler genannt
+  (siehe Quellen). Offizielle Gemeindeinformationen und Kontaktadressen für
+  Heuweiler stammen von der Gemeindehomepage; allgemeine Ortsdaten von Wikipedia
+  und Geo‑Koordinaten‑Aggregatoren. Keine exakten Geo-Koordinaten für das
+  'Zollplätzle' selbst gefunden; deshalb sind latitude/longitude leer gelassen.
 ---
 #### Beschreibung
 Das Zollplätzle ist ein kleiner öffentlicher Platz/Platzbereich in der Gemeinde Heuweiler (Kreis Breisgau-Hochschwarzwald), der in Veranstaltungslisten der Region als Veranstaltungsort genannt wird. ([bz-ticket.de](https://bz-ticket.de/zollplaetzle-heuweiler?utm_source=openai))
