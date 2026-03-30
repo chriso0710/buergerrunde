@@ -1,5 +1,5 @@
 ---
-title: Birklehof (Hinterheuweiler, Heuweiler)
+title: Birklehof (Heuweiler)
 category: Bauernhöfe
 description: Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heuweiler
 address: Hinterheuweiler 11, 79194 Heuweiler, Baden-Württemberg
