@@ -22,34 +22,22 @@ notes: "Hinterheuweiler ist ein Ortsteil/Hamlet der Gemeinde Heuweiler und hat
 ---
 #### Beschreibung
 
-Hinterheuweiler ist der kleinere, ländlich geprägte Weiler/Ortsteil der Gemeinde Heuweiler (Breisgau‑Hochschwarzwald), bestehend aus Wohnhäusern, Höfen, Weinbergen und einzelnen Gewerbebetrieben. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
+Hinterheuweiler zieht sich nach Süden in die Länge bis zum Leheneck mit einer direkten Verbindung für Fussgänger, Radfahrer und landwirtschaftliche Fahrzeuge nach Wildtal und in Richtung Freiburg-Zähringen. Der Ortsteil verfügt über Wohnhäuser, Höfe, Weinberge, Pferdekoppeln und einzelnen Gewerbebetrieben. Durch den Ortsteil fließt der renaturierte Taubenbach. Am südlichen Ende ist ein Löschwasserteich künstlich angelegt.
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-
-Als Ortsteil trägt Hinterheuweiler zur ländlichen Struktur und zur lokalen Landwirtschaft (Weinbau, Ackerbau) bei und beherbergt kleine Betriebe und Vereine, die zum kulturellen Leben der Gemeinde beitragen. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
-
-#### Geschichte
-
-Hinterheuweiler gehört historisch zur Gemeinde Heuweiler; die Region hat eine lange landwirtschaftliche Tradition und Verbindung zu Freiburg (z. B. historische Abgaben und lokale Wirtschaftsbeziehungen). Die Gemarkung Heuweiler (inkl. Hinterheuweiler) blieb im Laufe der Zeit überwiegend ländlich und hat nur geringfügige Siedlungszunahme erfahren. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
+Ein Neubaugebiet entstand in den Jahren 2005-2012.
 
 #### Besonderheiten oder interessante Fakten
 
-* Heuweiler liegt am Eingang zum Glottertal und bietet typische Schwarzwald‑/Reblandschaftsblicke; auf Wikimedia Commons gibt es Panoramaaufnahmen, die Hinterheuweiler mit dem Gehrihof zeigen (nützlich für Karte/Illustration). ([upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg))  
+* Heuweiler liegt am Eingang zum Glottertal und bietet typische Schwarzwald‑/Reblandschaftsblicke; auf Wikimedia Commons gibt es Panoramaaufnahmen, die Hinterheuweiler zeigen. ([upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg))  
 * Im lokalen Mitfahr-/Bürgersystem sind mehrere Haltepunkte in/bei Hinterheuweiler verzeichnet (z. B. Hinterheuweiler 12 und Hinterheuweiler 28) — nützlich für Mobilitätsinformationen in der Karte. Koordinaten der Haltepunkte sind öffentlich dokumentiert. ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
 
 #### Wichtige Kontaktinfos
 
-* Gemeinde Heuweiler (Rathaus) — Dorfstraße 21, 79194 Heuweiler\
-  Telefon: +49 7666 2280, E‑Mail: rathaus@heuweiler.de. (Offizielle Gemeindeseite: www.heuweiler.de) ([blackforest-highlights.com](https://www.blackforest-highlights.com/poi/detail/rathaus-heuweiler-d76d7fc194?utm_source=openai))
-
-  Reit- und Fahrverein Heuweiler e.V. — Hinterheuweiler 14A, 79194 Heuweiler\
-  Telefon/E‑Mail/Infos siehe Vereinseintrag; Website: https://rfv-heuweiler.de. (Pferdesport, Reitbetrieb, Vereinsaktivitäten). ([trabland.de](https://www.trabland.de/reit-und-fahrverein-heuweiler-ev?utm_source=openai))
+Gemeinde Heuweiler (Rathaus) — Dorfstraße 21, 79194 Heuweiler\
+Telefon: +49 7666 2280, E‑Mail: rathaus@heuweiler.de. (Offizielle Gemeindeseite: [www.heuweiler.de](https://www.heuweiler.de/startseite))
 
 #### Referenzen / Quellen
 
-* Heuweiler — Wikipedia (En): Gemeindeinformationen, Koordinaten, Offizielle Webseite. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))  
+* Heuweiler Offizielle Webseite: Gemeindeinformationen. ([heuweiler.de](https://www.heuweiler.de/startseite))  
 * Wikimedia Commons — Bild: "Heuweiler mit Wissereck am Eingang zum Glottertal, rechts Hinterheuweiler mit Gehrihof 2.jpg" (Direktlink zur Bilddatei). ([upload.wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/4/4e/Heuweiler_mit_Wissereck_am_Eingang_zum_Glottertal%2C_rechts_Hinterheuweiler_mit_Gehrihof_2.jpg))  
-* Reit- und Fahrverein Heuweiler e.V. — Eintrag mit Adresse Hinterheuweiler 14A. ([trabland.de](https://www.trabland.de/reit-und-fahrverein-heuweiler-ev?utm_source=openai))  
-
-  Ortsinitiative / Bürgerrunde Heuweiler — Liste 'Orangener Punkt' mit Haltestellen-Koordinaten in Hinterheuweiler (z. B. Hinterheuweiler 12 / 28). ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
-*
+* Ortsinitiative / Bürgerrunde Heuweiler — Liste 'Orangener Punkt' mit Haltestellen-Koordinaten in Hinterheuweiler (z. B. Hinterheuweiler 12 / 28). ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
