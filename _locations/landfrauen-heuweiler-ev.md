@@ -35,14 +35,7 @@ Der Ortsverein ist Teil des regionalen LandFrauenverbands (LandFrauenverband Sü
 
 * Ansprechpartnerin / vertretungsberechtigt: Marion Über. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
 * Adresse: Hinterheuweiler 11, 79194 Heuweiler, Deutschland. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* E‑Mail: \[email protected]. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* Webseite: https://landfrauen-heuweiler.jimdofree.com/. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))  
-* Telefon / Öffnungszeiten: auf der Vereinsseite nicht angegeben; für kommunale Angelegenheiten siehe Gemeindeverwaltung Heuweiler (Dorfstraße 21). ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))
 
 #### Referenzen / Quellen (URLs)
 
-* Vereinswebsite (LandFrauen Heuweiler, Startseite): https://landfrauen-heuweiler.jimdofree.com/ . ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))  
-* Impressum / Kontaktverein (LandFrauenverein Heuweiler, Impressum): https://landfrauen-heuweiler.jimdofree.com/about/ . ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* Direktes Bild (Jimdo CDN, geprüft als Direktlink): https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg . ([image.jimcdn.com](https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg))  
-* Gemeinde Heuweiler (offizielle Gemeindeseite / Kontakt & Öffnungszeiten): https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten . ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))  
-* Heuweiler — Wikipedia (Gemeindeinformation): https://de.wikipedia.org/wiki/Heuweiler . ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
+* Vereinswebsite (LandFrauen Heuweiler, Startseite): https://landfrauen-heuweiler.jimdofree.com/ . ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))
