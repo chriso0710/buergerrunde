@@ -23,10 +23,6 @@ notes: Taubenbach in Heuweiler ist kein eigenständiger Ort mit eigener
 
 Taubenbach bezeichnet in Heuweiler (Ortsteil Hinterheuweiler) einen kleinen Bachlauf und das unmittelbar angrenzende Gewässerumfeld
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-
-Der Taubenbach ist Teil des lokalen Gewässersystems und steht für wasserwirtschaftliche Belange (z. B. Hochwasserschutz, örtliche Entwässerung) im Ortsteil Hinterheuweiler; dies war Gegenstand kommunaler Entscheidungen zur Verlegung bzw. zu Schutzmaßnahmen. ([badische-zeitung.de](https://www.badische-zeitung.de/taubenbach-historischer-beschluss?utm_source=openai))
-
 #### Geschichte
 
 Umfangreiche Renaturierung und Hochwasserschutzarbeiten im Jahr 2009 ([badische-zeitung.de](<>))
