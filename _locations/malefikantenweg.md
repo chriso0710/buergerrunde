@@ -1,12 +1,11 @@
 ---
-title: Malefikantenweg mit Freundschaftsplatz
+title: "Malefikantenweg "
 category: Straßen & Wege
-description: "Der Malefikantenweg mit dem dazugehörigen Freundschaftsplatz ist
-  ein Feldweg, der in Teilen zur Gemarkung Denzlingen und Gundelfingen
-  gehört.        "
+description: "Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung
+  Denzlingen und Gundelfingen gehört.        "
 address: Malefikantenweg, 79194 Gundelfingen (Bereich Heuweiler), Baden‑Württemberg
-latitude: 48.056295
-longitude: 7.905464
+latitude: 48.053743
+longitude: 7.9115
 website: https://www.heuweiler.de
 image: ""
 image_copyright: ""
@@ -29,7 +28,6 @@ Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung Denzlingen und 
 Historisches, bis zurück ins frühe Mittelalter, rund um diesen Weg findet sich auf der Homepage der Neuen Liste  [https://www.neueliste-heuweiler.de/hochgericht-in-heuweiler/](<>)    
 
 
-Einweihung des neuen "Freundschaftsplatzes" und Baumpflanzaktion am Malefikantenweg durch die Bürgerrunde e.V. <https://buergerrunde.heuweiler.net/freundschaftsplatz-schild/>
 
 #### Referenzen / Quellen
 
