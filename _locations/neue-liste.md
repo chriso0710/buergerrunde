@@ -3,8 +3,8 @@ title: Neue Liste Heuweiler
 category: Vereine
 description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
 address: Heuweiler, Baden-Württemberg
-latitude: 48.053743
-longitude: 7.9115
+latitude: 48.05464
+longitude: 7.907321
 website: https://www.neueliste-heuweiler.de/
 image: ""
 image_copyright: ""
