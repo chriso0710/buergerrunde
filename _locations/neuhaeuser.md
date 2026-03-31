@@ -3,8 +3,8 @@ title: Neuhäuser (Heuweiler)
 category: Wohngebiete
 description: Kleiner Zinken (Weiler) der Gemeinde Heuweiler am Südrand des Glottertals.
 address: Heuweiler, Baden-Württemberg
-latitude: 48.053743
-longitude: 7.9115
+latitude: 48.055797
+longitude: 7.907827
 website: https://www.heuweiler.de
 image: ""
 image_copyright: ""
