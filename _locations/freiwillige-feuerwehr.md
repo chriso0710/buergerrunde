@@ -1,13 +1,12 @@
 ---
 title: Freiwillige Feuerwehr Heuweiler
-category: Vereine
+category: Öffentliche Gebäude
 description: Die Freiwillige Feuerwehr Heuweiler (FFW Heuweiler) ist die
   ehrenamtlich geführte Ortsfeuerwehr der Gemeinde Heuweiler und ist im
-  Gerätehaus in der Dorfstraße 21 untergebracht. Ihr aktueller Kommandant wohnt
-  in der Gundelfinger Straße 11, 79194 Heuweiler
-address: "Kommandant: Gundelfinger Straße 11, 79194 Heuweiler, Deutschland"
-latitude: 48.051623
-longitude: 7.901629
+  Gerätehaus in der Dorfstraße 21 untergebracht. I
+address: ""
+latitude: 48.051732
+longitude: 7.903429
 website: https://www.heuweiler.de/unsere-gemeinde/feuerwehr
 image: ""
 image_copyright: ""
@@ -35,7 +34,7 @@ Die Feuerwehr ist Teil der lokalen Vereins- und Gemeindestruktur; bei Einsätzen
 
 #### Besonderheiten oder interessante Fakten
 
-* Die Jugendfeuerwehr ist organisatorisch benannt und hat eigene Ansprechpartner (Jugendfeuerwehr Philip Heizler, Gartenstraße 1). ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/feuerwehr))  
+* Die Jugendfeuerwehr ist organisatorisch benannt und hat eigene Ansprechpartner 
 * Das Gerätehaus/der Feuerwehrstützpunkt ist in der Dorfstraße 21 integriert, zentrale Lage im Dorf; die Gemeinde veröffentlicht Bilder und Informationen zur Feuerwehr auf ihrer Website. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/feuerwehr))
 
 #### Wichtige Kontaktinfos
@@ -43,7 +42,7 @@ Die Feuerwehr ist Teil der lokalen Vereins- und Gemeindestruktur; bei Einsätzen
 * Kommandant: Hubert Wiehle.  
 * Adresse (Feuerwehr): Gundelfinger Straße 11, 79194 Heuweiler.  
 * Telefon (Feuerwehr): 07666 6389.  
-* Jugendfeuerwehr (Ansprechpartner): Philip Heizler, Gartenstraße 1, Tel. 07666 8505.  
+* Jugendfeuerwehr (Ansprechpartner): Philip Heizler,  Tel. 07666 8505.  
 * Gemeindeverwaltung (Allgemeine Auskunft / Rathaus): Dorfstraße 21, 79194 Heuweiler; Tel. 07666 91345-0; Öffnungszeiten Rathaus: Mi 15:00–18:00, Fr 08:00–12:00. ([heuweiler.de](https://www.heuweiler.de/unsere-gemeinde/feuerwehr))
 
 #### Referenzen / Quellen
