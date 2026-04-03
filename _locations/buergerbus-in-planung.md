@@ -7,8 +7,8 @@ description: >-
 
   Der ehrenamtlich betriebene Service macht wichtige Ziele der Region für alle nachhaltig erreichbar.
 address: Heuweiler, Baden-Württemberg
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.042249
+longitude: 7.866287
 website: https://stadtland-bus.de/
 image: ""
 image_copyright: ""
