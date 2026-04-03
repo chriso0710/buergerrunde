@@ -1,46 +1,29 @@
 ---
 title: Hannehäusle (Heuweiler)
-latitude: 48.054696
-longitude: 7.905291
 category: Historische Gebäude
-description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remigius
-  in Heuweiler, das seit Jahrzehnten leersteht.
+description: Kleines historisches Häuschen direkt unterhalb der Kirche St.
+  Remigius in Heuweiler, das seit Jahrzehnten leersteht.
 address: Heuweiler, Baden-Württemberg
-website: ''
+latitude: 48.051811
+longitude: 7.904116
+website: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 08:21:44 +0000'
-notes: 'Keine eigene offizielle Postadresse für das Hannehäusle im Internet gefunden;
-  die angegebenen Koordinaten stammen von einer Mapbox-Reverse-Geocoding-Abfrage nahe
-  der Kirche St. Remigius (Kirchberg 6). Es konnte kein verlässlicher Direktlink zu
-  einem frei nutzbaren Bild des Hannehäusle gefunden werden (Badische Zeitung zeigt
-  Fotos, ist aber nicht direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website,
-  Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW (Kirchenadresse).'
+generated_at: 2025-10-15 08:21:44 +0000
+notes: "Keine eigene offizielle Postadresse für das Hannehäusle im Internet
+  gefunden; die angegebenen Koordinaten stammen von einer
+  Mapbox-Reverse-Geocoding-Abfrage nahe der Kirche St. Remigius (Kirchberg 6).
+  Es konnte kein verlässlicher Direktlink zu einem frei nutzbaren Bild des
+  Hannehäusle gefunden werden (Badische Zeitung zeigt Fotos, ist aber nicht
+  direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website,
+  Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW
+  (Kirchenadresse)."
 ---
 #### Beschreibung des Ortes
-Das Hannehäusle ist ein kleines, schmuckes Häuschen in Ortsmitte von Heuweiler, unmittelbar unterhalb der Pfarrkirche St. Remigius; äußerlich farblich hervorgehoben, steht es jedoch seit Jahrzehnten leer und gilt lokal als sogenannter „Lost Place“. ([badische-zeitung.de](https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus?utm_source=openai))
+Das Hannehäusle muss zwischen 1790 und 1800 erbaut worden sein, in einem Ortsplan von 1781 ist es noch nicht verzeichnet. Es ist ein Fachwerkhaus, das bergseitig auf Fels gründet und talseitig ein Bruchsteinfundament hat. Das kleine Häuschen hat drei Etagen: den Keller, der talseitig einen ebenerdigen Ausgang hat, das Erdgeschoss mit kleiner Küche und Feuerstelle, einem Zimmer und einem Ausgang zur Kirche, und das Dachgeschoss mit Schlafplätzen. Nach 1915 lebten dort zeitweise bis zu 10 Personen, bis 1965 war das Hannehäusle bewohnt.
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-Das Hannehäusle gehört zum historischen Ortsbild und ist ein auffälliges Element des Kirchbergs; es ist vor allem von städtebaulichem und kulturellem Interesse, da es die dörfliche Struktur und ältere Wohnformen im Kern von Heuweiler sichtbar macht. Allgemeine Informationen zur Gemeinde Heuweiler sind auf der Gemeindeseite hinterlegt. ([heuweiler.de](https://www.heuweiler.de/?utm_source=openai))
+Ein angebautes Toilettenhäuschen, das von den Bewohnern und Kirchenbesuchern genutzt worden war, wurde 1970 abgerissen. 1981 wurde der Westgiebel erneuert, der Kamin abgetragen und die originalen Biberschwanzziegel ausgetauscht. Gegenwärtig ist das Häuschen im Besitz der Gemeinde, es ist stark baufällig und kann nur teilweise betreten werden, es gibt keine Versorgung mit Strom und Wasser.
 
-#### Geschichte
-Quellen berichten, dass das Häuschen mehrere Generationen bewohnt war und die letzten Bewohner Mitte der 1960er Jahre auszogen; seither blieb das Gebäude weitgehend ungenutzt, zeitweise renoviert von außen, im Innern aber verfallen. Die Kirche St. Remigius (Kirchberg 6) ist historisch und architektonisch das prägende Bauwerk des Ortes; das Hannehäusle liegt direkt unterhalb dieses Kirchplatzes. ([badische-zeitung.de](https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus?utm_source=openai))
+Benannt ist das kleine Häuschen nach Johann Birkle vom Birklehof und seiner Schweizer Frau Johanna. Die beiden haben sich in Spanien während des Spanischen Volksaufstandes getroffen, wo Johann als Soldat einer Badener Kompanie auf Seiten Napoleons kämpfte. 1813 heirateten sie in Spanien und nach ihrer Rückkehr wohnten sie in dem Häuschen.
 
-#### Besonderheiten oder interessante Fakten
-- Lokale Berichterstattung hebt die auffällige Farbgebung (lachsfarbener Anstrich, himmelblaue Fensterläden) und die zentrale Lage neben der Kirche hervor. ([badische-zeitung.de](https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus?utm_source=openai))  
-- Das Hannehäusle wird in Regionalberichten häufig als Beispiel für „kleine denkmalwerte Orte“ im dörflichen Gefüge genannt. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))
-
-#### Wichtige Kontaktinfos
-- Gemeindeverwaltung Heuweiler (für Anfragen zur Ortsentwicklung / Denkmalschutz): Gemeindehaus Heuweiler, Dorfstraße 21, 79194 Heuweiler; Tel.: 07666 91345‑0; E‑Mail: rathaus@heuweiler.de. Öffnungszeiten Rathausbüro: mittwochs 15:00–18:00, freitags 08:00–12:00 (bitte Website vor dem Besuch prüfen). ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))  
-- Kath. Pfarramt / St. Remigius (Kirchenkontakt, nahe Hannehäusle): Kirchberg (St. Remigius), 79194 Heuweiler; Telefon laut Einträgen: 07666 2285. ([leo-bw.de](https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/DOKUMENT/lad_denkmale/102482812/St%20Remigius%20Kirchberg%206%20Heuweiler?utm_source=openai))
-
-#### Referenzen / Quellen (URLs)
-- Gemeinde Heuweiler — Offizielle Website (Rathaus / Kontakt / Öffnungszeiten). ([heuweiler.de](https://www.heuweiler.de/?utm_source=openai))  
-  https://www.heuweiler.de  
-- Heuweiler — Wikipedia (allgemeine Ortsinformationen). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler?utm_source=openai))  
-  https://en.wikipedia.org/wiki/Heuweiler  
-- Badische Zeitung — Artikelserie / Beitrag zum Hannehäusle (Bericht über den Zustand und Historie; Fotos im Artikel). ([badische-zeitung.de](https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus?utm_source=openai))  
-  https://www.badische-zeitung.de/lost-place-in-heuweiler-die-letzten-bewohner-zogen-1965-aus  
-- LEO‑BW — Denkmal- / Kircheneintrag St. Remigius (Adresse Kirchberg 6). ([leo-bw.de](https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/DOKUMENT/lad_denkmale/102482812/St%20Remigius%20Kirchberg%206%20Heuweiler?utm_source=openai))  
-  https://www.leo-bw.de/web/guest/detail-gis/-/Detail/details/DOKUMENT/lad_denkmale/102482812/St%20Remigius%20Kirchberg%206%20Heuweiler
