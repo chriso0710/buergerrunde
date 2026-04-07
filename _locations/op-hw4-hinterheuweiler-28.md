@@ -1,6 +1,6 @@
 ---
 title: OP HW 4 - Hinterheuweiler 28
-category: Infrastruktur
+category: Mobilität
 description: Orangener Punkt Haltestelle HW 4 in Hinterheuweiler Richtung
   Ortsmitte bei Hausnummer 28.
 address: Hinterheuweiler 28

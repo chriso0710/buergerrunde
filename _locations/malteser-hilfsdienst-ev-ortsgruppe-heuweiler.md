@@ -2,7 +2,7 @@
 title: Malteser Hilfsdienst e.V. / Ortsgruppe Heuweiler
 latitude: 48.051677
 longitude: 7.903204
-category: Infrastruktur
+category: Vereine
 description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, aktiv
   in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
 address: ""

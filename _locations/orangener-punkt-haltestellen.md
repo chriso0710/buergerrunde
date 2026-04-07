@@ -2,7 +2,7 @@
 title: Orangener Punkt (Haltestellen)
 latitude: 48.051706
 longitude: 7.903312
-category: Infrastruktur
+category: Mobilität
 description: Netz von Mitfahr‑Haltestellen (Orangener Punkt) in Heuweiler zur Förderung
   spontaner und geplanter Fahrgemeinschaften.
 address: Dorfstraße 21

@@ -2,7 +2,7 @@
 title: OP HW 2 - Wiesenweg Ortsausgang Gundelfingen
 latitude: 48.051456
 longitude: 7.900926
-category: Infrastruktur
+category: Mobilität
 description: Orangener Punkt Haltestelle HW 2 am Dorfausgang Richtung Gundelfingen zwischen Wiesen- und Weidweg.
 address: Wiesenweg 1
 website: https://buergerrunde.heuweiler.net/op/

@@ -2,7 +2,7 @@
 title: Bushaltestelle Heuweiler Laube (ÖPNV)
 latitude: 48.056581
 longitude: 7.906305
-category: Infrastruktur
+category: Mobilität
 description: Reguläre ÖPNV-Bushaltestelle "Heuweiler Laube" an der Linie 7205 (SüdbadenBus),
   gelegen an der Glottertalstraße nahe dem ehemaligen Landhotel Laube.
 address: Glottertalstraße 1

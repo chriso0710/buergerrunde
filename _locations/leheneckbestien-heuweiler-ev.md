@@ -2,7 +2,7 @@
 title: Leheneckbestien Heuweiler e.V.
 latitude: 48.051808
 longitude: 7.904663
-category: Veranstaltungsorte
+category: Vereine
 description: Narrenzunft aus Heuweiler, aktiv in der schwäbisch-alemannischen Fasnet
   und Veranstalter von Umzügen und Zunftabenden.
 address: Kirchberg 3

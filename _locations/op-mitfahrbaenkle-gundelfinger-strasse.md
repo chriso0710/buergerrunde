@@ -2,7 +2,7 @@
 title: OP Mitfahrbänkle Gundelfinger Straße
 latitude: 48.051243
 longitude: 7.899418
-category: Infrastruktur
+category: Mobilität
 description: Rot-orangene Mitfahrbank am Ortsausgang Heuweiler Richtung Gundelfingen, gegenüber dem Löschteich.
 address: Gundelfinger Straße 22
 website: https://buergerrunde.heuweiler.net/op/

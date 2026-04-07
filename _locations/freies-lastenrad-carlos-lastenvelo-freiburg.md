@@ -1,6 +1,6 @@
 ---
 title: Freies Lastenrad Carlos (LastenVelo Freiburg)
-category: Infrastruktur
+category: Mobilität
 description: Kostenlos ausleihbares E-Lastenrad 'Carlos' (LastenVelo Freiburg)
   in Heuweiler, betrieben von der Bürgerrunde Heuweiler in Kooperation mit
   LastenVelo Freiburg.

@@ -2,7 +2,7 @@
 title: OP Dorfplatz/Rathaus
 latitude: 48.051860
 longitude: 7.903282
-category: Infrastruktur
+category: Mobilität
 description: Orangener Punkt Haltestelle am zentralen Dorfplatz direkt vor dem Rathaus Heuweiler, die achte und neueste Haltestelle.
 address: Dorfstraße 21
 website: https://buergerrunde.heuweiler.net/op/

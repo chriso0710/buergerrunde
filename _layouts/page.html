@@ -19,9 +19,41 @@ layout: default
             {% endif %}
             <img class="img-fluid" src="{{ image_url }}" alt="{{ page.title }}" style="max-height: 400px; object-fit: cover;">
         </div>
+    {% elsif page.collection == 'locations' %}
+        {% assign cat_icon = "fas fa-map-marker-alt" %}
+        {% assign cat_color = "gray" %}
+        {% for cat in site.data.categories.categories %}
+            {% if cat.name == page.category %}
+                {% assign cat_icon = cat.icon %}
+                {% assign cat_color = cat.color %}
+            {% endif %}
+        {% endfor %}
+        <div class="mb-4">
+            <div style="display: inline-flex; align-items: center; justify-content: center; width: 120px; height: 120px; border-radius: 50%; background-color: {{ cat_color }}; color: white;">
+                <i class="{{ cat_icon }}" style="font-size: 3rem;"></i>
+            </div>
+        </div>
+    {% endif %}
+
+    {% if page.collection == 'locations' %}
+    <div class="mb-4">
+        {% if page.address and page.address != '' %}
+        <p><i class="fas fa-map-marker-alt"></i> {{ page.address }}</p>
+        {% endif %}
+        {% if page.website and page.website != '' %}
+        <p><i class="fas fa-globe"></i> <a href="{{ page.website }}" target="_blank" rel="noopener">{{ page.website | remove: 'https://' | remove: 'http://' | remove_first: 'www.' | split: '/' | first }}</a></p>
+        {% endif %}
+    </div>
     {% endif %}
 
     <div class="article-post">
         {{content}}
     </div>
+
+    {% if page.collection == 'locations' %}
+    <hr>
+    <p class="text-muted small">
+        <i class="fas fa-info-circle"></i> Fehler entdeckt oder ein Foto für diesen Eintrag? Schreibt uns gerne an <a href="mailto:buergerrunde@heuweiler.net">buergerrunde@heuweiler.net</a>.
+    </p>
+    {% endif %}
 </section>

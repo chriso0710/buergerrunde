@@ -2,7 +2,7 @@
 title: Böllerschützen
 latitude: 48.051765
 longitude: 7.90727
-category: Veranstaltungsorte
+category: Vereine
 description: Traditionelle Böllerschützen-Gruppe / Brauchtumsakteur, der bei Festen
   und kirchlichen Anlässen in Heuweiler vertreten ist (keine eigenständige Vereinsadresse
   online auffindbar).

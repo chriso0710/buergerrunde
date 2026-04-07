@@ -2,7 +2,7 @@
 title: OP HW 5 - Dorfstraße Ecke Waldstraße
 latitude: 48.050546
 longitude: 7.902623
-category: Infrastruktur
+category: Mobilität
 description: Orangener Punkt Haltestelle HW 5 an der Dorfstraße 7, Ecke Waldstraße, derzeit Bus-Ersatzhaltestelle mit Sitzbank.
 address: Dorfstraße 7, Ecke Waldstraße
 website: https://buergerrunde.heuweiler.net/op/

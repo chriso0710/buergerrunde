@@ -2,7 +2,7 @@
 title: Carsharing Grüne Flotte
 latitude: 48.052105
 longitude: 7.901945
-category: Infrastruktur
+category: Mobilität
 description: "Stationsstandort der regionalen Carsharing-Anbieters „Grüne
   Flotte“. Der Stellplatz befindet sich in der Gundelfinger Str. 8 (Ecke
   Feldeleweg) in Heuweiler"

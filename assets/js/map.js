@@ -17,9 +17,21 @@ document.addEventListener('DOMContentLoaded', function() {
     // Store all markers for filtering
     let allMarkers = [];
     
+    // Parse coordinate value, handling comma as decimal separator
+    function parseCoord(value) {
+        if (value == null) return null;
+        if (typeof value === 'number') return value;
+        const parsed = parseFloat(String(value).replace(',', '.'));
+        return isNaN(parsed) ? null : parsed;
+    }
+
     // Create markers for each location
     locationsData.forEach(function(location) {
-        if (location.latitude && location.longitude) {
+        const lat = parseCoord(location.latitude);
+        const lng = parseCoord(location.longitude);
+        if (lat && lng) {
+            location.latitude = lat;
+            location.longitude = lng;
             const config = categoryConfig[location.category] || { color: 'gray', icon: 'fas fa-map-marker-alt' };
             
             const customIcon = L.divIcon({

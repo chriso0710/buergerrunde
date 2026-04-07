@@ -2,7 +2,7 @@
 title: Behindertenfahrzeug Malteser (Ortsgruppe Heuweiler)
 latitude: 48.051676
 longitude: 7.903179
-category: Vereine
+category: Mobilität
 description: Ehrenamtlich betriebener Fahrdienst der Malteser-Ortsgruppe Heuweiler
   mit speziell ausgestatteten Fahrzeugen zur Beförderung mobilitätseingeschränkter
   Personen.

@@ -2,7 +2,7 @@
 title: Freies Lastenrad Holly (LastenVelo Freiburg)
 latitude: 48.054469
 longitude: 7.909392
-category: Vereine
+category: Mobilität
 description: Kostenlos ausleihbares E-Lastenrad (Urban Arrow 'Holly'), betrieben von
   der Bürgerrunde Heuweiler und eingebunden im Ausleihnetz von LastenVelo Freiburg.
 address: Am Flissert 4
@@ -34,7 +34,3 @@ Das Rad „Holly“ wurde von der Bürgerrunde Heuweiler als zweites Dorf‑Last
 - Typ: Urban Arrow Family (geräumige Ladebox, für Kindertransport geeignet). 
 - Standortbeschreibung: nicht überdachte private Carportfläche vor dem Haus Am Flissert Nr. 4; Rad hat Zahlenschlösser und ein Ladeanschlusskabel vor Ort (Rückgabe bitte angesteckt lassen). 
 - Teil des regionalen, kostenfreien Sharing‑Netzes LastenVelo Freiburg — Registrierung und Buchung über LastenVelo erforderlich.
-
-#### Öffnungszeiten / Nutzung
-
-- Ausleihe: Buchbar über das LastenVelo Freiburg‑Reservierungssystem (online, flexibel, in der Regel 24/7 Buchungsmöglichkeit; tatsächliche Abhol‑/Rückgabezeiten richten sich nach der Buchungsbestätigung und den örtlichen Gegebenheiten). Bitte vor Nutzung Registrierung und Hinweise auf der LastenVelo‑Website beachten.

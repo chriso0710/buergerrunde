@@ -2,7 +2,7 @@
 title: OP HW 1 - Bushaltestelle Dorfausgang Glottertal
 latitude: 48.056895
 longitude: 7.906536
-category: Infrastruktur
+category: Mobilität
 description: Orangener Punkt Haltestelle HW 1 an der Bushaltestelle am Dorfausgang Richtung Denzlingen/Glottertal mit Sitzbank.
 address: Dorfstraße, Ecke Glottertalstraße
 website: https://buergerrunde.heuweiler.net/op/
