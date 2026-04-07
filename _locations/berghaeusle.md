@@ -1,9 +1,9 @@
 ---
-title: Berghäusle (Heuweiler)
+title: Berghäusle
 category: Bauernhöfe
 description: Traditioneller Hof / Wohnhaus (Berghäusle) der Familie Buderer in
   Hinterheuweiler 1.
-address: Hinterheuweiler 1, 79194 Heuweiler
+address: Hinterheuweiler 1
 latitude: 48.0371659
 longitude: 7.8999823
 website: ""
@@ -13,6 +13,12 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:46:49 +0000
 notes: ""
 ---
+#### Beschreibung
+
+Traditioneller Hof / Wohnhaus (Berghäusle) der Familie Buderer in Hinterheuweiler 1.
+
+#### Geschichte
+
 Das Berghäusle (auch Berghüsli, Berghisli, Bergübers) ist das höchstgelegene Wohnhaus in Heuweiler am Ende der Straße Hinterheuweiler, dort ist auch die Quelle des Froschbächles, das später durch den Löschwasserteich fließt. Das Berghäusle hat eine bewegte Geschichte hinter sich, die sich aktuell nicht vollständig sondern nur punktuell ermittlen lässt. Esging im Laufe der Zeit durch einige Hände.
 
 Im Jahre 1765 wurde es als Viehhütte vom damaligen Bauern vom Gehrihof errichtet. Um direkt neben seinem Hof ein Wohnhaus seine Kinder zu errichten (später der Schuhbur) dem Heitzmannhof 1769 Land und trug einen Teil des Berghäusles als Baumaterial ab. Der Bau wurde ihm 1774 gestattet.

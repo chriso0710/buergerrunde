@@ -3,7 +3,7 @@ title: Landfrauen Heuweiler e.V.
 category: Vereine
 description: Ortsverein der Landfrauen in Heuweiler, aktiv in
   Gemeinschaftsveranstaltungen, Brauchtumspflege und Bildung.
-address: Hinterheuweiler 11, 79194 Heuweiler, Deutschland
+address: Hinterheuweiler 11
 latitude: 48.045414
 longitude: 7.9033307
 website: https://landfrauen-heuweiler.jimdofree.com/
@@ -15,34 +15,19 @@ notes: Adresse und Impressum entnommen von der Vereinsseite (Jimdo).
   Geo-Koordinaten (48.04533, 7.903262) wurden mittels Mapbox Reverse-Geocoding
   (mcp_mapbox) ermittelt. Bild stammt vom Jimdo-CDN (direkter Bildlink geprüft).
 ---
-#### Beschreibung des Ortes
 
-Der Landfrauenverein Heuweiler (Landfrauen Heuweiler e.V.) ist ein lokaler Frauenverein mit Programmangeboten, Veranstaltungen und Aktivitäten im ländlichen Heuweiler; Vereinsanschrift: Hinterheuweiler 11, 79194 Heuweiler. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))
+#### Beschreibung
 
-#### Bedeutung / Verwendungszweck für Heuweiler
+Der Landfrauenverein Heuweiler (Landfrauen Heuweiler e.V.) ist ein lokaler Frauenverein mit Programmangeboten, Veranstaltungen und Aktivitäten im ländlichen Heuweiler; Vereinsanschrift: Hinterheuweiler 11, 79194 Heuweiler.
 
-Der Verein fördert Gemeinschaft, Brauchtumspflege, Bildungsangebote und Dorffeste; er ist Anlaufstelle für Koch- und Handwerkskurse, Ausflüge sowie lokale Veranstaltungen und stärkt das soziale Miteinander im Ort. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))
+#### Bedeutung
+
+Der Verein fördert Gemeinschaft, Brauchtumspflege, Bildungsangebote und Dorffeste; er ist Anlaufstelle für Koch- und Handwerkskurse, Ausflüge sowie lokale Veranstaltungen und stärkt das soziale Miteinander im Ort.
 
 #### Geschichte
 
-Der Ortsverein ist Teil des regionalen LandFrauenverbands (LandFrauenverband Südbaden) und wird lokal von Ehrenamtlichen organisiert; auf der Vereinsseite werden Vorstände und Aktivitäten dokumentiert (Impressum/Website). ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))
+Der Ortsverein ist Teil des regionalen LandFrauenverbands (LandFrauenverband Südbaden) und wird lokal von Ehrenamtlichen organisiert; auf der Vereinsseite werden Vorstände und Aktivitäten dokumentiert (Impressum/Website).
 
-#### Besonderheiten oder interessante Fakten
+#### Besonderheiten
 
-* Der Verein ist Mitglied im LandFrauenverband Südbaden und bietet regelmäßig Programme/Termine für Bewohnerinnen der Gemeinde an. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))  
-
-#### Wichtige Kontaktinfos
-
-* Ansprechpartnerin / vertretungsberechtigt: Marion Über. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* Adresse: Hinterheuweiler 11, 79194 Heuweiler, Deutschland. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* E‑Mail: \[email protected]. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* Webseite: https://landfrauen-heuweiler.jimdofree.com/. ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))  
-* Telefon / Öffnungszeiten: auf der Vereinsseite nicht angegeben; für kommunale Angelegenheiten siehe Gemeindeverwaltung Heuweiler (Dorfstraße 21). ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))
-
-#### Referenzen / Quellen (URLs)
-
-* Vereinswebsite (LandFrauen Heuweiler, Startseite): https://landfrauen-heuweiler.jimdofree.com/ . ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/))  
-* Impressum / Kontaktverein (LandFrauenverein Heuweiler, Impressum): https://landfrauen-heuweiler.jimdofree.com/about/ . ([landfrauen-heuweiler.jimdofree.com](https://landfrauen-heuweiler.jimdofree.com/about/))  
-* Direktes Bild (Jimdo CDN, geprüft als Direktlink): https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg . ([image.jimcdn.com](https://image.jimcdn.com/app/cms/image/transf/dimension%3D681x10000%3Aformat%3Djpg/path/s68ec34915e9949af/image/i9566e2bf172da262/version/1610636793/image.jpg))  
-* Gemeinde Heuweiler (offizielle Gemeindeseite / Kontakt & Öffnungszeiten): https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten . ([heuweiler.de](https://www.heuweiler.de/buerger-rathaus/verwaltung/kontakt-oeffnungszeiten?utm_source=openai))  
-* Heuweiler — Wikipedia (Gemeindeinformation): https://de.wikipedia.org/wiki/Heuweiler . ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
+* Der Verein ist Mitglied im LandFrauenverband Südbaden und bietet regelmäßig Programme/Termine für Bewohnerinnen der Gemeinde an.

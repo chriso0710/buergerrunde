@@ -2,9 +2,9 @@
 title: "Schreinerei Krüger"
 latitude: 48.055569
 longitude: 7.91086
-category: "Handwerk & Gewerbe"
+category: Handwerk & Gewerbe
 description: "Lokale Schreinerei in Heuweiler, spezialisiert auf Möbelbau, Innenausbau, Fenster und Haustüren."
-address: "Glotterstraße 9, 79194 Heuweiler"
+address: Glotterstraße 9
 website: "https://krueger-schreinerei.de/"
 image: ""
 image_copyright: ""
@@ -18,32 +18,18 @@ notes: |
 ---
 
 #### Beschreibung
-Die Schreinerei Krüger ist ein lokaler Tischlereibetrieb in Heuweiler (Glottertalstraße 9), der maßgefertigte Möbel, Innenausbau, Küchen, Parkettböden sowie Fenster- und Haustür-Lösungen anbietet. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))
 
-#### Bedeutung / Verwendungszweck für Heuweiler
-Als einer der verbliebenen Handwerksbetriebe im Ort trägt die Schreinerei Krüger zur lokalen wirtschaftlichen Vielfalt und zum Erhalt handwerklicher Kompetenz in der Gemeinde bei; sie bedient private Wohnungs- und Sanierungsaufträge sowie regionale Kunden im Umfeld von Freiburg und dem Breisgau. ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))
+Die Schreinerei Krüger ist ein lokaler Tischlereibetrieb in Heuweiler (Glottertalstraße 9), der maßgefertigte Möbel, Innenausbau, Küchen, Parkettböden sowie Fenster- und Haustür-Lösungen anbietet.
+
+#### Bedeutung
+
+Als einer der verbliebenen Handwerksbetriebe im Ort trägt die Schreinerei Krüger zur lokalen wirtschaftlichen Vielfalt und zum Erhalt handwerklicher Kompetenz in der Gemeinde bei; sie bedient private Wohnungs- und Sanierungsaufträge sowie regionale Kunden im Umfeld von Freiburg und dem Breisgau.
 
 #### Geschichte
-Die Schreinerei präsentiert sich als traditionsbewusster Meisterbetrieb mit moderner Werkstatt und Maschinenpark; auf der Firmenhomepage wird auf handwerkliche Tradition kombiniert mit moderner Technik verwiesen. Konkrete Gründungsdaten oder eine ausführliche Firmenhistorie werden auf der Website nicht detailliert dokumentiert. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))
 
-#### Besonderheiten oder interessante Fakten
-- Schwerpunkt auf maßgefertigten Einbaumöbeln, Küchen und Innenausbau — betont wird „Meisterhandwerk trifft moderne Technik“. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))  
-- Kleinbetrieb mit lokalem Einzugsgebiet; die Werkstatt wird als voll ausgestatteter Produktionsort für individuelle Aufträge dargestellt. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))
+Die Schreinerei präsentiert sich als traditionsbewusster Meisterbetrieb mit moderner Werkstatt und Maschinenpark; auf der Firmenhomepage wird auf handwerkliche Tradition kombiniert mit moderner Technik verwiesen. Konkrete Gründungsdaten oder eine ausführliche Firmenhistorie werden auf der Website nicht detailliert dokumentiert.
 
-#### Wichtige Kontaktinfos
-- Adresse: Glotterstraße 9, 79194 Heuweiler. ([krueger-schreinerei.de](https://krueger-schreinerei.de/kontakt/))  
-- Telefon: 07666 / 8366. ([krueger-schreinerei.de](https://krueger-schreinerei.de/kontakt/))  
-- E‑Mail: schreinerei-krueger@t-online.de. ([krueger-schreinerei.de](https://krueger-schreinerei.de/kontakt/))  
-- Website: https://krueger-schreinerei.de/. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))  
-- Öffnungszeiten: laut Branchenverzeichnis „montags bis freitags auf Anfrage“ (typisch: Termine nach Vereinbarung). ([dasoertliche.de](https://www.dasoertliche.de/Themen/Kr%C3%BCger-Schreinerei-Heuweiler-Glottertalstr))
+#### Besonderheiten
 
-Hinweis: Für genaue Termin-/Besuchszeiten am besten telefonisch oder per E‑Mail einen Termin vereinbaren. ([krueger-schreinerei.de](https://krueger-schreinerei.de/))
-
-#### Referenzen (Quellen)
-- Firmenwebsite Schreinerei Krüger — Hauptseite / Kontakt (Anschrift, Telefon, E‑Mail, Leistungen). ([krueger-schreinerei.de](https://krueger-schreinerei.de/))  
-- Branchenverzeichnis Landesfachverband Schreinerhandwerk / Eintrag Schreinerei Krüger (Bestätigung Adresse, Telefon, Homepage). ([schreiner-bw.de](https://www.schreiner-bw.de/tischler-schreiner-suche/krueger-schreinereiinh-elvira-rieder-e-k-heuweiler/?utm_source=openai))  
-- Das Örtliche — Branchenbucheintrag Krüger Schreinerei (Adresse, Öffnungszeiten-Angabe „auf Anfrage“). ([dasoertliche.de](https://www.dasoertliche.de/Themen/Kr%C3%BCger-Schreinerei-Heuweiler-Glottertalstr))  
-- Wikipedia / Gemeindeinformation Heuweiler (Kontext zur Gemeinde: Lage, PLZ, Charakter des Ortes). ([de.wikipedia.org](https://de.wikipedia.org/wiki/Heuweiler?utm_source=openai))  
-- Koordinaten-Hinweis: Lokale Mitfahrpunkt-/Bürgerrunden-Seite mit Koordinaten für Glottertalstraße-Abschnitt (zur Orientierung der Lage in der Straße). ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/op/?utm_source=openai))
-
-(Anmerkung: Geo-Koordinaten wurden zusätzlich per Mapbox Reverse-Geocoding geprüft — Ergebnis zeigte nahegelegene Hausnummern (z. B. Glottertal Straße 7a/7b) mit Koordinaten 48.055569, 7.91086; diese Mapbox-Abfrage wurde während der Recherche verwendet. Exaktes Hausnummern-Geocoding für Glottertalstraße 9 konnte mit den zugänglichen Diensten nicht eindeutig ermittelt; die im Frontmatter angegebenen Koordinaten sind deshalb eine Näherung.)
+- Schwerpunkt auf maßgefertigten Einbaumöbeln, Küchen und Innenausbau — betont wird „Meisterhandwerk trifft moderne Technik“. 
+- Kleinbetrieb mit lokalem Einzugsgebiet; die Werkstatt wird als voll ausgestatteter Produktionsort für individuelle Aufträge dargestellt.
