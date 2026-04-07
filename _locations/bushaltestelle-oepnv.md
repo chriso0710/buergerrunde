@@ -16,6 +16,7 @@ notes: Haltestellenname und Fahrplanhinweise stammen von der Gemeindeseite; Koor
   Bilddatei stammt von der Gemeindeseite Heuweiler. Falls exakte Haltestellenbezeichnung/Standort
   in Fahrplänen abweicht, bitte RVF/Südbadenbus prüfen.
 ---
+
 #### Beschreibung
 
 Die Bushaltestelle "Heuweiler Laube" ist die reguläre ÖPNV-Haltestelle im Norden von Heuweiler und wird von der Linie 7205 (SüdbadenBus / RVF) bedient.

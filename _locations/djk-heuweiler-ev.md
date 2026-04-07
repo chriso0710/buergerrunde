@@ -21,6 +21,7 @@ notes: 'Quellen: Gemeindeverwaltung Heuweiler (Vereinsliste), DJK Diözesanverba
   ≥300×300 px) für den DJK-Standort konnte bei der Recherche nicht zuverlässig gefunden;
   daher leer gelassen.'
 ---
+
 #### Beschreibung
 
 DJK Heuweiler e.V. ist der örtliche Sportverein in Heuweiler (Breisgau-Hochschwarzwald) mit Fußballmannschaften, Lauf-Veranstaltungen und Gemeinschaftsaktivitäten; der Verein wird in Vereinsverzeichnissen mit der Adresse Dorfstraße 31a, 79194 Heuweiler geführt.

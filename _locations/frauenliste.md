@@ -16,6 +16,7 @@ notes: >
   die Frauenliste im Gemeinderat ununterbrochen vertreten. Als Adresse ist die
   Vorsitzende der Frauenliste, Sonja Weiss hinterlegt.
 ---
+
 #### Beschreibung
 
 Die Frauenliste Heuweiler ist eine lokale, parteiunabhängige Wählerliste, die Frauen in kommunalen Gremien von Heuweiler vertritt und mit Sitzen im Gemeinderat vertreten ist.

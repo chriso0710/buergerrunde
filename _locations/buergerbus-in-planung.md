@@ -4,7 +4,6 @@ category: Infrastruktur
 description: >-
   Bürgerbus‑Projekt „Stadt‑Land‑Bus“ zur Verbesserung der Nahmobilität zwischen
   Gundelfingen und Heuweiler
-
   Der ehrenamtlich betriebene Service macht wichtige Ziele der Region für alle nachhaltig erreichbar.
 address: ""
 latitude: 48.042249
@@ -19,11 +18,10 @@ notes: >-
   Gundelfingen (Projektseite und Kontakt), Gemeindeseiten Heuweiler
   (Rathausadresse).
   ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
-
   - Es wurde kein eigenständiger, offizieller Websiteauftritt nur für den Bürgerbus gefunden; die Projektinformationen liegen auf der Gemeinde Gundelfingen / Vereinsunterlagen (Mitgliedsantrag). ([gundelfingen.de](https://www.gundelfingen.de/leben-wohnen/mobilitaet/buergerbus))
-
   - Für die Lagekoordinaten wurden die in Wikipedia angegebenen Gemeindekoordinaten (48.05167, 7.90306) als realistische Position für den Eintrag verwendet; ein Mapbox‑Reverse‑Geocode‑Check lieferte nahegelegene Adressen (z. B. Dorfstraße 19). Genauere Hauskoordinaten für ein noch nicht existierendes Projektzentrum liegen nicht vor. (Mapbox Reverse‑Geocode Ergebnis protokolliert). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 ---
+
 #### Beschreibung
 
 Das neue Bürgerbus‑Projekt „Stadt‑Land‑Bus“, das Gundelfingen und Heuweiler besser vernetzen und die Nahmobilität vor Ort stärken wird.

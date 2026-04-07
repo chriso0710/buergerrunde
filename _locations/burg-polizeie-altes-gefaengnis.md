@@ -3,8 +3,7 @@ title: Burg (Polizeie, altes Gefängnis)
 latitude: 48.051713
 longitude: 7.904707
 category: Historische Gebäude
-description: "Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler "
-
+description: "Historisches Fachwerkhaus auf dem Kirchberg, erbaut 1810 als Polizeiposten mit Arrestzelle, Rat- und Schulhaus."
 address: ""
 website: ''
 image: ""

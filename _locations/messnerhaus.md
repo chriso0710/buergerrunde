@@ -3,9 +3,7 @@ title: Messnerhaus
 latitude: 48.052109
 longitude: 7.904701
 category: Historische Gebäude
-description: "Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten
-  Wohnhäuser in Heuweiler."
-
+description: "Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten Wohnhäuser in Heuweiler."
 address: ""
 website: ''
 image: ""

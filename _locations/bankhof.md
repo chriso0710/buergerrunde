@@ -13,6 +13,7 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:44:32 +0000
 notes: ""
 ---
+
 #### Beschreibung
 
 Traditioneller Bauernhof und Wohnhaus (Bankhof) der Familie Kaltenbach in Hinterheuweiler 2

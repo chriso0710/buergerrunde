@@ -1,8 +1,7 @@
 ---
 title: Birklehof
 category: Bauernhöfe
-description: "Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von
-  Heuweiler; Adresse: Hinterheuweiler 11."
+description: "Traditioneller Bauernhof im Ortsteil Hinterheuweiler."
 address: Hinterheuweiler 11
 latitude: 48.0454348
 longitude: 7.9034343
@@ -12,9 +11,11 @@ image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:49:07 +0000
 notes: ""
----#### Beschreibung
+---
 
-Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heuweiler; Adresse: Hinterheuweiler 11.
+#### Beschreibung
+
+Der Birklehof liegt etwas abseits den Hang hinauf in der großen Kehre der Straße Hinterheuweiler. Er ist einer der Höfe von Heuweiler, die glücklicherweise von einem Feuer verschont geblieben sind.
 
 #### Geschichte
 

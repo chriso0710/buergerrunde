@@ -12,6 +12,7 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:28:57 +0000
 notes: ""
 ---
+
 #### Beschreibung
 
 Früher landwirtschaftlicher Hof, heute Wohnhaus mit Pferdestall

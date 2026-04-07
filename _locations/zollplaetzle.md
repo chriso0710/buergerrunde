@@ -5,7 +5,6 @@ longitude: 7.909437
 category: Veranstaltungsorte
 description: "|+
   Kleiner öffentlicher Platz/Platzanlage in Heuweiler."
-
 address: ""
 website: ''
 image: ""
@@ -20,6 +19,7 @@ notes: Bei der Recherche konnte kein eigenständiges offizielles Impressum, kein
   von Wikipedia und Geo‑Koordinaten‑Aggregatoren. Keine exakten Geo-Koordinaten für
   das 'Zollplätzle' selbst gefunden; deshalb sind latitude/longitude leer gelassen.
 ---
+
 #### Beschreibung
 
 Das Zollplätzle ist ein kleiner öffentlicher Platz/Platzbereich in der Gemeinde Heuweiler (Kreis Breisgau-Hochschwarzwald), der in Veranstaltungslisten der Region als Veranstaltungsort genannt wird.

@@ -19,6 +19,7 @@ notes: 'Keine eigenständige Postadresse oder offizielle Website für die "Neue 
   Heuweiler (Kontakt, Gemeinderat/Ausschüsse), Wikipedia Heuweiler, Berichterstattung
   zur Gemeinderatswahl 2024.'
 ---
+
 #### Beschreibung
 
 Die "Neue Liste" ist eine lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler, die im Gemeinderat vertreten ist und kommunalpolitisch aktiv agiert.

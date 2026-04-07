@@ -16,6 +16,7 @@ notes: 'Keine offizielle Vereinsadresse, keine eigenständige Website und kein e
   2025). Angaben basieren auf Lokalberichterstattung und Veranstaltungsankündigungen;
   daher wurden keine Geokoordinaten für eine Vereins-Postadresse ermittelt.'
 ---
+
 #### Beschreibung
 
 Die Flexsingers e.V. sind ein 2025 neu entstandener Projekt- und Freizeitchor in Heuweiler, der ein flexibles Konzept aus klassischen Chor- und Projektformaten verfolgt und bereits in Konzerten und Gemeindeveranstaltungen aufgetreten ist.

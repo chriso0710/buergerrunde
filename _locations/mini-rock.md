@@ -3,8 +3,7 @@ title: Mini‑Rock (Kinder‑Second‑Hand)
 latitude: 48.054324
 longitude: 7.905335
 category: Geschäfte & Gastronomie
-description: "Kleiner Kinder‑Second‑Hand‑Laden in Heuweiler "
-
+description: "Kleiner Kinder‑Second‑Hand‑Laden in Heuweiler"
 address: Heldenackerstraße
 website: https://www.minirock.rocks/
 image: https://www.minirock.rocks/wp-content/uploads/2022/11/cropped-cropped-cropped-mini_head_logo-1.jpg
@@ -21,6 +20,9 @@ notes: 'Quellenlage: Der Laden ''Mini‑Rock'' wurde in einem Rückblick der Bü
   Wikipedia Heuweiler, Bürgerrunde Heuweiler, Branchenverzeichnisse (Heldenackerstraße
   existiert).'
 ---
+
+#### Beschreibung
+
 In unserem kleinen, aber feinen KINDERLÄDELE legen wir großen Wert auf NACHHALTIGKEIT, QUALITÄT und ÜBERSICHTLICHKEIT. Alles ist ordentlich nach Kleidergröße und Art sortiert, so dass Ihr Euch schnell und einfach zurecht findet.
  
 

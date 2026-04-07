@@ -19,6 +19,7 @@ notes: 'Keine eigenständige offizielle Webseite oder spezifische Postanschrift 
   der Dorfstraße (konkreter Treffer: Dorfstraße 19) als repräsentative Lage im Ortszentrum
   von Heuweiler.'
 ---
+
 #### Beschreibung
 
 Die Zeltlagergemeinschaft Heuweiler (ZLG) ist eine ehrenamtlich organisierte Gruppe, die in Verbindung mit kirchlichen und lokalen Vereinen Jugendlager und Freizeiten durchführt und damit generationsübergreifende Gemeinschaftserlebnisse ermöglicht.

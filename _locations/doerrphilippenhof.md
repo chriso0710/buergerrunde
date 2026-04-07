@@ -1,7 +1,7 @@
 ---
 title: Dörrphilippenhof
 category: Bauernhöfe
-description: "Historischer Hof im Kerndorf von Heuweiler "
+description: "Historischer Hof im Kerndorf von Heuweiler"
 address: Dorfstraße 14
 latitude: 48.0511325
 longitude: 7.9026015
@@ -12,6 +12,7 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:12:33 +0000
 notes: ""
 ---
+
 #### Beschreibung
 
 Historischer Hof im Kerndorf von Heuweiler 

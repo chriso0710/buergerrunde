@@ -18,6 +18,7 @@ notes: 'Keine eigenständige Postadresse oder offizielle Website für das Frosch
   Ortskoordinaten (Heuweiler) abgeglichen. Quellen: de.wikipedia, LEO-BW, Gemeinde-Website
   Heuweiler; Mapbox-Reverse-Geocode (mcp_mapbox) ergab die oben angegebenen Koordinaten/Adresse.'
 ---
+
 #### Beschreibung
 
 Das Froschbächle ist kein eigenständiger Ort im Sinne einer Anschrift, sondern ein kleines Tal/Quellgebiet und der namensgebende Bachlauf in der Gemarkung Heuweiler, das zusammen mit dem Taubental die nordwärts entwässernde Talstruktur des Gemeindegebiets bildet.

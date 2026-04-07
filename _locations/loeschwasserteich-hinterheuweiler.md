@@ -22,6 +22,7 @@ notes: "Keine offizielle postalische Anschrift für den Löschwasserteich selbst
   ein eindeutig dem Löschwasserteich zuzuordnendes, frei zugängliches Direktfoto
   wurde jedoch nicht gefunden."
 ---
+
 #### Beschreibung
 
 Der Löschwasserteich Hinterheuweiler ist ein kleiner, künstlich angelegter Teich im Bereich des Weilers Hinterheuweiler (Gemeinde Heuweiler), der primär als Löschwasserreserve dient und gleichzeitig als Biotop für Amphibien und andere Kleintiere fungiert.

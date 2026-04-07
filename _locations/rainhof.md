@@ -13,6 +13,7 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:20:21 +0000
 notes: ""
 ---
+
 #### Beschreibung
 
 Traditioneller Bauernhof und Wohnhaus (Rainhof) der Familie Scherzinger in Hinterheuweiler 5

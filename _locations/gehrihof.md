@@ -13,6 +13,7 @@ generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:22:13 +0000
 notes: ""
 ---
+
 #### Beschreibung
 
 Traditioneller Bauernhof und Wohnhaus (Gehrihof) der Familie Michael Strecker in Hinterheuweiler 6

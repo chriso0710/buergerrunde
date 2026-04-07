@@ -20,6 +20,7 @@ notes: 'Keine verlässliche öffentliche Postadresse oder eigenes Impressum für
   für eine personenbezogene Anschrift ermittelt; eine Reverse-Geokodierung in der
   Ortsmitte ergab nahe Koordinaten ~48.05158, 7.90295 (ungefährer Gemeinde-/Dorfmittelpunkt).'
 ---
+
 #### Beschreibung
 
 Katharina Hermann ist in Heuweiler als Musiklehrerin und Chorleiterin bekannt und wirkt regelmäßig bei lokalen Kulturveranstaltungen mit; sie hat zusammen mit Michael Hermann den Chorprojekt-Ansatz „Flexsingers“ initiiert.

@@ -18,9 +18,9 @@ notes: >-
   Geo-Koordinaten für die Hausnummer Gundelfinger Straße 11 konnten mit dem
   verfügbaren mapbox reverse-geocoding tool während der Recherche nicht
   eindeutig verifiziert werden; deshalb sind latitude/longitude leer gelassen.
-
   - Quellseiten: Gemeinde Heuweiler (Feuerwehr-Seite, Impressum) und Wikipedia-Eintrag Heuweiler; Bild von der Gemeinde-Webseite (direkter Bildlink).
 ---
+
 #### Beschreibung
 
 Die Freiwillige Feuerwehr Heuweiler ist die lokale, ehrenamtliche Feuerwehr der Gemeinde Heuweiler; das Gerätehaus und die Ansprechpartner sind auf der Gemeindeseite aufgeführt.
