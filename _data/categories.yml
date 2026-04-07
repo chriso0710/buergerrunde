@@ -1,7 +1,7 @@
 categories:
   - name: "Bauernhöfe"
     color: "#8B4513"
-    icon: "fas fa-leaf"
+    icon: "fas fa-tractor"
     btn_class: "btn-outline-secondary"
   - name: "Öffentliche Gebäude"
     color: "#003366"

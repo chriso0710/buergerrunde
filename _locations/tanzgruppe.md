@@ -2,7 +2,7 @@
 title: Tanzgruppe Heuweiler (Tanz, Herz und Kreativität)
 latitude: 48.041624
 longitude: 7.895939
-category: Vereine
+category: Handwerk & Gewerbe
 description: Lokale Tanz- und Ausdrucksgruppe / Angebote für kreativen Tanz und Tanztherapie
   in Heuweiler.
 address: Hinterheuweiler 4
