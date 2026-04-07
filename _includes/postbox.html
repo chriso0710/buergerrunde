@@ -14,12 +14,13 @@ option_compact = false %} {% endif %}
           class="card-img-top lazyimg"
           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
           data-src="{{ image_url }}"
-          alt="{{ post.title }}" />
+          alt="{{ post.title | escape }}" />
         {% else %}
         <img
           class="card-img-top"
           src="{{ image_url }}"
-          alt="{{ post.title }}" />
+          alt="{{ post.title | escape }}"
+          loading="lazy" />
         {% endif %}
       </div>
     </a>

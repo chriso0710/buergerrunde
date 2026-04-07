@@ -59,9 +59,9 @@ archive: false
                 {% if site.lazyimages == "enabled" %}
                     <img class="featured-image img-fluid lazyimg"
                          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                         data-src="{{ image_url }}" alt="{{ page.title }}">
+                         data-src="{{ image_url }}" alt="{{ page.title | escape }}">
                 {% else %}
-                    <img class="featured-image img-fluid" src="{{ image_url }}" alt="{{ page.title }}">
+                    <img class="featured-image img-fluid" src="{{ image_url }}" alt="{{ page.title | escape }}" loading="lazy">
                 {% endif %}
             {% endif %}
             <!-- End Featured Image -->
@@ -82,7 +82,7 @@ archive: false
                         {% endif %}
                         <div class="card">
                             {% if item.img %}
-                                <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title }}">
+                                <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title | default: 'Verwandter Beitrag' | escape }}" loading="lazy">
                             {% endif %}
                             {% if item.title %}
                                 <div class="card-body">

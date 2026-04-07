@@ -4,7 +4,7 @@ title: Veranstaltungen
 ---
 
 <div class="section-title">
-    <h2><span>{{ page.title }}</span></h2>
+    <h1><span>{{ page.title }}</span></h1>
 </div>
 
 {% assign postsByYear = site.posts | sort: 'event' | reverse | group_by_exp:"post", "post.event | date: '%Y'"  %}
