@@ -2,7 +2,7 @@
 title: Trachtenkapelle Heuweiler e.V.
 latitude: 48.054801
 longitude: 7.912438
-category: Vereine
+category: Vereine & Gruppen
 description: Ortsansässiger Musikverein (Trachtenkapelle) von Heuweiler, aktiv in
   Blasmusik, Brauchtumspflege und Dorfveranstaltungen.
 address: Glottertalstraße 10

@@ -2,7 +2,7 @@
 title: Jugendraum Heuweiler
 latitude: 48.051437
 longitude: 7.904522
-category: Vereine
+category: Öffentliche Gebäude
 description: Gemeindlicher Treffpunkt für Kinder und Jugendliche im Gebäudekomplex
   am Kirchberg (bei Kirchberghalle / Grundschule) in Heuweiler.
 address: Kirchberg 2

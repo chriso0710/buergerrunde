@@ -2,7 +2,7 @@
 title: Jugendhütte Heuweiler
 latitude: 48.050804
 longitude: 7.907678
-category: Vereine
+category: Veranstaltungsorte
 description: Kleine, gemeindenahe Jugendhütte in Heuweiler, die als Treffpunkt für
   lokale Jugend- und Vereinsaktivitäten dient.
 address: ""

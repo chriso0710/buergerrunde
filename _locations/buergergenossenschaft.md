@@ -2,12 +2,12 @@
 title: Bürgergenossenschaft Heuweiler eG
 latitude: 48.053123
 longitude: 7.904687
-category: Vereine
+category: Vereine & Gruppen
 description: Lokale Bürgergenossenschaft zur Schaffung bezahlbaren Wohnraums und zur
   Stärkung der Nahversorgung (Projekt Alt‑Vogtshof / Dorfladen) in Heuweiler.
 address: Im Mättle 6
 website: https://www.genossenschaft-heuweiler.de/
-image: ""
+image: https://static.wixstatic.com/media/fe68f3_719e3abbc99f4a71917a8df67aaf5e59~mv2.png
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 11:41:41 +0000'

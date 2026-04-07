@@ -47,7 +47,7 @@ categories:
     color: "#1E90FF"
     icon: "fas fa-shuttle-van"
     btn_class: "btn-outline-primary"
-  - name: "Vereine"
+  - name: "Vereine & Gruppen"
     color: "#2ECC71"
     icon: "fas fa-users"
     btn_class: "btn-outline-success"

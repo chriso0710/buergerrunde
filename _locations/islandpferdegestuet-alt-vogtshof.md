@@ -2,7 +2,7 @@
 title: Islandpferdegestüt Alt-Vogtshof
 latitude: 48.052003
 longitude: 7.904049
-category: Bauernhöfe
+category: Handwerk & Gewerbe
 description: Islandpferdegestüt und Reitschule im Ort Heuweiler (Breisgau), bekannt
   unter dem Namen Alt‑Vogtshof.
 address: Kirchberg 10

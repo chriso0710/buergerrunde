@@ -20,7 +20,7 @@ layout: default
                     {% else %}
                         {% assign optimized_image = location.image %}
                     {% endif %}
-                    <img src="{{ optimized_image }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;">
+                    <img src="{{ optimized_image }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: contain; background: #fff; padding: 10px;">
                 {% else %}
                     <img src="{{ '/assets/images/location-placeholder.png' | relative_url }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;">
                 {% endif %}

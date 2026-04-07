@@ -2,7 +2,7 @@
 title: Neue Liste Heuweiler
 latitude: 48.05464
 longitude: 7.907321
-category: Vereine
+category: Vereine & Gruppen
 description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
 address: ""
 website: https://www.neueliste-heuweiler.de/

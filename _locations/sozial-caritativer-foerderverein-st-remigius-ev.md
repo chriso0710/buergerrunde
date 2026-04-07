@@ -2,7 +2,7 @@
 title: Sozial-Caritativer Förderverein St. Remigius e.V.
 latitude: 48.051985
 longitude: 7.904412
-category: Vereine
+category: Vereine & Gruppen
 description: Lokaler Förderverein zur Unterstützung der sozial‑caritativen Aufgaben
   der Pfarrgemeinde St. Remigius in Heuweiler.
 address: Kirchberg 6

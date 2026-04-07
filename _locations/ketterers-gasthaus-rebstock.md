@@ -7,7 +7,7 @@ description: Traditionelles Dorfwirtshaus in Heuweiler, bekannt für regionale K
   und Wildspezialitäten.
 address: Dorfstraße 20
 website: http://rebstock-heuweiler.de
-image: ""
+image: https://www.rebstock-heuweiler.de/.cm4all/uproc.php/0/.logo_5001_61639588.jpg/picture-1200
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:43:19 +0000'

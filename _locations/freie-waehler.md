@@ -2,7 +2,7 @@
 title: Freie Wählergemeinschaft Heuweiler
 latitude: 48.051702
 longitude: 7.903561
-category: Vereine
+category: Vereine & Gruppen
 description: Lokale Wählergemeinschaft (Freie Wähler / FWG) und Fraktion im Gemeinderat
   von Heuweiler.
 address: ""

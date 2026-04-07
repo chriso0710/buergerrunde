@@ -2,7 +2,7 @@
 title: Sportplatz und Vereinsheim der DJK Heuweiler
 latitude: 48.054066
 longitude: 7.911084
-category: Vereine
+category: Veranstaltungsorte
 description: Sportplatz mit Vereinsheim der DJK Heuweiler — zentrale Sport- und Begegnungsstätte
   des Ortes.
 address: Glottertalstraße 11

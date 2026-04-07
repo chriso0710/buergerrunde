@@ -2,7 +2,7 @@
 title: DJK Heuweiler e.V.
 latitude: 48.053743
 longitude: 7.9115
-category: Vereine
+category: Vereine & Gruppen
 description: Sportverein (DJK) aus Heuweiler mit Sportplatz und Veranstaltungsangeboten
   wie dem jährlichen Rosskopflauf.
 address: Dorfstraße 31a

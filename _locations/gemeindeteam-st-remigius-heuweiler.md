@@ -2,7 +2,7 @@
 title: Gemeindeteam „St. Remigius Heuweiler“
 latitude: 48.0521
 longitude: 7.905114
-category: Religiöse Stätten
+category: Vereine & Gruppen
 description:
   Das Gemeindeteam der Pfarrgemeinde St. Remigius in Heuweiler (Kirchberg
   4) betreut die katholische Gemeinde vor Ort und organisiert Gottesdienste und Gemeindeleben.

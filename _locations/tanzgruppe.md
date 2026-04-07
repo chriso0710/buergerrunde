@@ -7,7 +7,7 @@ description: Lokale Tanz- und Ausdrucksgruppe / Angebote für kreativen Tanz und
   in Heuweiler.
 address: Hinterheuweiler 4
 website: https://www.tanz-herz-kreativitaet.de
-image: ""
+image: https://www.tanz-herz-kreativitaet.de/joomla1.7/templates/tanz-herz-stimme/images/head/logo.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-14 19:13:57 +0000'

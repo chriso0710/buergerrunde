@@ -1,13 +1,13 @@
 ---
 title: Bürgerrunde Heuweiler e.V.
-category: Vereine
+category: Vereine & Gruppen
 description: Lokales Bürgerforum und eingetragener Verein in Heuweiler, das sich
   für Klimaschutz, Mobilität, Naturschutz und Dorfgemeinschaft engagiert.
 address: Am Flissert 6
 latitude: 48.054432
 longitude: 7.909479
 website: https://buergerrunde.heuweiler.net/
-image: ""
+image: https://buergerrunde.heuweiler.net/assets/images/br_logo.svg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 16:44:43 +0000

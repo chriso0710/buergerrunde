@@ -1,6 +1,6 @@
 ---
 title: Freiwillige Feuerwehr Heuweiler
-category: Vereine
+category: Vereine & Gruppen
 description: Die Freiwillige Feuerwehr Heuweiler (FFW Heuweiler) ist die
   ehrenamtlich geführte Ortsfeuerwehr der Gemeinde Heuweiler und ist im
   Gerätehaus in der Dorfstraße 21 untergebracht. Ihr aktueller Kommandant wohnt

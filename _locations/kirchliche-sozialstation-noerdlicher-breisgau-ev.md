@@ -2,7 +2,7 @@
 title: Kirchliche Sozialstation Nördlicher Breisgau e.V. (Angebote in Heuweiler)
 latitude: 48.051706
 longitude: 7.903312
-category: Öffentliche Gebäude
+category: Vereine & Gruppen
 description: Regionale, ökumenisch getragene ambulante Sozialstation mit lokalen Angeboten
   (Betreuungsgruppe, Beratung) für Heuweiler.
 address: Dorfstraße 21

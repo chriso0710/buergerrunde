@@ -1,6 +1,6 @@
 ---
 title: Reit- und Fahrverein Heuweiler e.V.
-category: Vereine
+category: Vereine & Gruppen
 description: Pferdesportverein in Hinterheuweiler
 address: Hinterheuweiler 14a
 latitude: 48.045945

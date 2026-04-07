@@ -1,6 +1,6 @@
 ---
 title: Landfrauen Heuweiler e.V.
-category: Vereine
+category: Vereine & Gruppen
 description: Ortsverein der Landfrauen in Heuweiler, aktiv in
   Gemeinschaftsveranstaltungen, Brauchtumspflege und Bildung.
 address: Hinterheuweiler 11

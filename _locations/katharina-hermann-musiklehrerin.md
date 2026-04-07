@@ -2,7 +2,7 @@
 title: Katharina Hermann, Musiklehrerin
 latitude: 48.054641
 longitude: 7.908989
-category: Vereine
+category: Handwerk & Gewerbe
 description: Musiklehrerin und Chorleiterin aus Heuweiler, aktiv in lokalen Kulturprojekten
   und Chorarbeit.
 address: ""

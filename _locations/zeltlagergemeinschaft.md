@@ -2,7 +2,7 @@
 title: Zeltlagergemeinschaft Heuweiler
 latitude: 48.051898
 longitude: 7.904202
-category: Vereine
+category: Vereine & Gruppen
 description: Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisiert
   Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine.
 address: ""

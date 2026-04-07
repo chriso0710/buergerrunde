@@ -2,7 +2,7 @@
 title: Kinderchor St. Remigius
 latitude: 48.0521
 longitude: 7.905114
-category: Vereine
+category: Vereine & Gruppen
 description: Lokaler Kinderchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste
   und Gemeindeveranstaltungen musikalisch mitgestaltet.
 address: Kirchberg 4

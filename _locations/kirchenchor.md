@@ -2,7 +2,7 @@
 title: Kirchenchor St. Remigius
 latitude: 48.051985
 longitude: 7.904412
-category: Vereine
+category: Vereine & Gruppen
 description: Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste
   und kirchliche Feste musikalisch begleitet.
 address: Kirchberg 6

@@ -2,7 +2,7 @@
 title: Messdiener St. Remigius
 latitude: 48.051985
 longitude: 7.904412
-category: Religiöse Stätten
+category: Vereine & Gruppen
 description: Die Messdiener der Pfarrgemeinde St. Remigius sind die ehrenamtliche
   Altardienstgruppe der katholischen Gemeinde in Heuweiler.
 address: Kirchberg 6

@@ -2,7 +2,7 @@
 title: Dorfbild-Arbeitskreis Heuweiler
 latitude: 48.051706
 longitude: 7.903312
-category: Infrastruktur
+category: Vereine & Gruppen
 description: Lokaler Arbeitskreis zur Pflege, Gestaltung und Erhaltung des Dorfbildes
   von Heuweiler.
 address: Dorfstraße 21

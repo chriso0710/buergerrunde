@@ -6,7 +6,7 @@ category: Handwerk & Gewerbe
 description: "Lokale Schreinerei in Heuweiler, spezialisiert auf Möbelbau, Innenausbau, Fenster und Haustüren."
 address: Glotterstraße 9
 website: "https://krueger-schreinerei.de/"
-image: ""
+image: https://krueger-schreinerei.de/wp-content/uploads/2022/09/logo-krueger.png
 image_copyright: ""
 generated_by: "gpt-5-mini"
 generated_at: "2025-10-15 10:01:14 +0000"
