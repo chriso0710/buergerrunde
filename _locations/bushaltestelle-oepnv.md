@@ -1,7 +1,7 @@
 ---
 title: Bushaltestelle Heuweiler Laube (ÖPNV)
-latitude: 48.055786
-longitude: 7.909527
+latitude: 48.056581
+longitude: 7.906305
 category: Infrastruktur
 description: Reguläre ÖPNV-Bushaltestelle "Heuweiler Laube" an der Linie 7205 (SüdbadenBus),
   gelegen an der Glottertalstraße nahe dem ehemaligen Landhotel Laube.
@@ -16,7 +16,6 @@ notes: Haltestellenname und Fahrplanhinweise stammen von der Gemeindeseite; Koor
   Bilddatei stammt von der Gemeindeseite Heuweiler. Falls exakte Haltestellenbezeichnung/Standort
   in Fahrplänen abweicht, bitte RVF/Südbadenbus prüfen.
 ---
-
 #### Beschreibung
 
 Die Bushaltestelle "Heuweiler Laube" ist die reguläre ÖPNV-Haltestelle im Norden von Heuweiler und wird von der Linie 7205 (SüdbadenBus / RVF) bedient.

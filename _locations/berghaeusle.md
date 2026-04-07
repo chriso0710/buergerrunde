@@ -12,8 +12,7 @@ image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:46:49 +0000
 notes: ""
----
-#### Beschreibung
+---#### Beschreibung
 
 Traditioneller Hof / Wohnhaus (Berghäusle) der Familie Buderer in Hinterheuweiler 1.
 

@@ -1,7 +1,7 @@
 ---
 title: Freie Wählergemeinschaft Heuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051702
+longitude: 7.903561
 category: Vereine
 description: Lokale Wählergemeinschaft (Freie Wähler / FWG) und Fraktion im Gemeinderat
   von Heuweiler.
@@ -20,17 +20,4 @@ notes: 'Keine eigenständige Postadresse oder offizielle Website für die lokale
 
 #### Beschreibung
 
-Die Freie Wählergemeinschaft Heuweiler (Freie Wähler / FWG) ist eine lokale, parteiunabhängige Wählervereinigung, die als Liste/Fraktion in der Gemeinderatspolitik von Heuweiler aktiv ist.
-
-#### Bedeutung
-
-Die Freien Wähler vertreten lokalpolitische Interessen ohne Parteienbindung und sind in der Gemeinderatsarbeit (Sachthemen, Ortsentwicklung, Bürgeranliegen) eine wichtige Kraft im kleinen Gemeinderat von Heuweiler; bei der Kommunalwahl 2024 erreichte die Freie Wählerliste Sitze im Gemeinderat.
-
-#### Geschichte
-
-Die Freie Wählergemeinschaft erscheint regelmäßig als Wählerliste bei Gemeinderatswahlen in Heuweiler; aktuelle Wahlergebnisse und die Sitzverteilung werden auf der Gemeindezentrale / in amtlichen Bekanntmachungen veröffentlicht. Konkrete Gründungsdaten einer eigenständigen Vereinsorganisation (z. B. eingetragener Verein mit eigener Adresse) konnten online nicht gefunden werden; die Gruppe agiert vorwiegend als kommunale Wählerliste/Fraktion.
-
-#### Besonderheiten
-
-- Die Freien Wähler in Heuweiler treten als lokale Wählergemeinschaft (FW/FWG) und nicht zwingend als eingetragener Verein mit eigener Geschäftsstelle auf; daher existiert häufig keine separate Postadresse oder Website für die Gruppierung. 
-- Bei den Kommunalwahlen 2024 erzielte die Freie Wähler‑Liste rund ein Drittel der Stimmen und mehrere Sitze im Gemeinderat (s. Veröffentlichungen der Gemeinde / Wahlbekanntmachungen).
+Bei der Freien Wählergemeinschaft engagierten sich bei der letzten Gemeinderatswahl 3 Frauen und 7 Männer aus Heuweiler. Den Freien Wählern liegt besonders der Erhalt unserer schönen Landschaft und des gewachsenen dörflichen Charakters, eine lebendige Dorfgemeinschaft in Vereinen, Gruppen und Kirchen, eine kinder-, jugend- und seniorenfreundliche Gemeinde, Bürgerbeteiligung und solide Finanzen am Herzen.

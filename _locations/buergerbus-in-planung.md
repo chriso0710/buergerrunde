@@ -7,8 +7,8 @@ description: >-
 
   Der ehrenamtlich betriebene Service macht wichtige Ziele der Region für alle nachhaltig erreichbar.
 address: ""
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.042249
+longitude: 7.866287
 website: https://stadtland-bus.de/
 image: ""
 image_copyright: ""
@@ -24,7 +24,6 @@ notes: >-
 
   - Für die Lagekoordinaten wurden die in Wikipedia angegebenen Gemeindekoordinaten (48.05167, 7.90306) als realistische Position für den Eintrag verwendet; ein Mapbox‑Reverse‑Geocode‑Check lieferte nahegelegene Adressen (z. B. Dorfstraße 19). Genauere Hauskoordinaten für ein noch nicht existierendes Projektzentrum liegen nicht vor. (Mapbox Reverse‑Geocode Ergebnis protokolliert). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Heuweiler))
 ---
-
 #### Beschreibung
 
 Das neue Bürgerbus‑Projekt „Stadt‑Land‑Bus“, das Gundelfingen und Heuweiler besser vernetzen und die Nahmobilität vor Ort stärken wird.

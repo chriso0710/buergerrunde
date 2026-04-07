@@ -1,7 +1,7 @@
 ---
 title: Löschwasserteich Vorderheuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051629
+longitude: 7.899229
 category: Infrastruktur
 description: Künstlich angelegter Löschwasserteich in Vorderheuweiler zur Sicherstellung
   der Löschwasserversorgung und als kleines Stillgewässer im Ortsbereich.
@@ -19,17 +19,8 @@ notes: |-
 
 #### Beschreibung
 
-Der Löschwasserteich Vorderheuweiler ist ein kleines, künstlich angelegtes Stillgewässer im Bereich des Ortes Vorderheuweiler (Gemeinde Heuweiler) und dient primär der Sicherstellung der Löschwasserversorgung für die örtliche Feuerwehr; zugleich stellt er ein habitat-ähnliches Gewässer dar.
+Der Löschwasserteich Vorderheuweiler ist ein kleines, künstlich angelegtes Stillgewässer im Bereich des Ortes Vorderheuweiler (Gemeinde Heuweiler) und dient primär der Sicherstellung der Löschwasserversorgung für die örtliche Feuerwehr; zugleich stellt er ein habitat-ähnliches Gewässer dar. 2001 wurde ein zweiter Löschwasserteich am Taubenbach, in den das Froschbächle unterhalb des Gehrihofs mündet, angelegt. Er befindet sich direkt am Ortseingang an der Gundelfinger Str.
 
 #### Bedeutung
 
 Als Löschwasserteich sichert der Teich die Wasserversorgung bei Brandeinsätzen in einem ländlich geprägten Ort, in dem Hydrantenabstände und -kapazitäten begrenzt sein können. Zusätzlich kann ein solcher Teich ökologisch wertvoll für Amphibien, Insekten und Vögel sein und lokale Naherholung (Spaziergänge am Ufer) unterstützen.
-
-#### Geschichte
-
-Konkrete historische Angaben zum Löschwasserteich Vorderheuweiler konnten in den öffentlich zugänglichen Quellen nicht gefunden werden. Allgemein wurden Löschwasserteiche in vielen Dörfern des Breisgaus im 19. und 20. Jahrhundert als einfache Vorratsbehälter für den Feuerlöschdienst angelegt; später wurden viele instand gesetzt oder funktional modernisiert. Informationen zur Gemeinde Heuweiler und zu den Ortsteilen (Vorderheuweiler, Hinterheuweiler etc.) finden sich in der Wikipedia und auf der Gemeindehomepage.
-
-#### Besonderheiten
-
-- Löschwasserteiche sind Teil der kommunalen Infrastruktur des vorbeugenden Brandschutzes und oft in der Nähe von Feuerwehrzufahrten oder Wegen angelegt. (Allgemeine Nutzung von Löschwasserteichen als Infrastruktur.) 
-- Heuweiler hat seinen dörflichen Charakter weitgehend bewahrt; die Gemeinde besteht aus mehreren Wohnplätzen, darunter Vorderheuweiler, was die Bedeutung lokaler Infrastruktur (Feuerwehr, Wasserversorgung) unterstreicht.

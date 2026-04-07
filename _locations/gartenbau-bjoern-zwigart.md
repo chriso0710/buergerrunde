@@ -18,7 +18,6 @@ notes: "Postadresse und Telefonnummer stammen aus Einträgen im
   werden; deshalb bleiben latitude/longitude leer. Genutzte Quellen: Das
   Örtliche (Eintrag), Wikipedia Heuweiler, Gemeindeseiten/Ortsverzeichnisse."
 ---
-
 #### Beschreibung
 
 Gartenbau Björn Zwigart ist ein lokaler Garten‑ und Landschaftsbau‑Betrieb im Weiler Hinterheuweiler der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald.

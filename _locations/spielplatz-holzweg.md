@@ -1,7 +1,7 @@
 ---
 title: Spielplatz Holzweg
-latitude: 48.054453
-longitude: 7.908547
+latitude: 48.053855
+longitude: 7.90925
 category: Infrastruktur
 description: Kleiner öffentlicher Kinderspielplatz im Wohngebiet »Am Flissert« (Holzweg
   8) in Heuweiler.
@@ -18,7 +18,6 @@ notes: 'Adresse Spielplatz: Holzweg 8, 79194 Heuweiler (verschiedene lokale Verz
   Feld ''image'' deshalb leer gelassen. Quellen: Wikipedia, Gemeinde-Website, Spielplatz-Verzeichnisse,
   Mapcarta, Badische Zeitung (lokale Einträge).'
 ---
-
 #### Beschreibung
 
 Der Spielplatz Holzweg ist ein kleiner öffentlicher Kinderspielplatz im Wohngebiet „Am Flissert“ in Heuweiler (Holzweg 8) und bietet Spielgeräte für Kleinkinder und Familien im Ortsbereich.

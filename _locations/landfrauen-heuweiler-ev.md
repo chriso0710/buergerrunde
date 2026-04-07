@@ -15,7 +15,6 @@ notes: Adresse und Impressum entnommen von der Vereinsseite (Jimdo).
   Geo-Koordinaten (48.04533, 7.903262) wurden mittels Mapbox Reverse-Geocoding
   (mcp_mapbox) ermittelt. Bild stammt vom Jimdo-CDN (direkter Bildlink geprüft).
 ---
-
 #### Beschreibung
 
 Der Landfrauenverein Heuweiler (Landfrauen Heuweiler e.V.) ist ein lokaler Frauenverein mit Programmangeboten, Veranstaltungen und Aktivitäten im ländlichen Heuweiler; Vereinsanschrift: Hinterheuweiler 11, 79194 Heuweiler.

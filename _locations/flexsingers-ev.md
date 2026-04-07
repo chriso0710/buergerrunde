@@ -1,7 +1,7 @@
 ---
 title: Flexsingers e.V.
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.054531
+longitude: 7.909055
 category: Veranstaltungsorte
 description: Projektchor / neuer Gesangsverein in Heuweiler, gegründet 2025, der flexibel
   in Projekten und Konzerten auftritt.
@@ -16,7 +16,6 @@ notes: 'Keine offizielle Vereinsadresse, keine eigenständige Website und kein e
   2025). Angaben basieren auf Lokalberichterstattung und Veranstaltungsankündigungen;
   daher wurden keine Geokoordinaten für eine Vereins-Postadresse ermittelt.'
 ---
-
 #### Beschreibung
 
 Die Flexsingers e.V. sind ein 2025 neu entstandener Projekt- und Freizeitchor in Heuweiler, der ein flexibles Konzept aus klassischen Chor- und Projektformaten verfolgt und bereits in Konzerten und Gemeindeveranstaltungen aufgetreten ist.

@@ -23,17 +23,11 @@ notes: "Hinterheuweiler ist ein Ortsteil/Hamlet der Gemeinde Heuweiler und hat
 
 #### Beschreibung
 
-Hinterheuweiler ist der kleinere, ländlich geprägte Weiler/Ortsteil der Gemeinde Heuweiler (Breisgau‑Hochschwarzwald), bestehend aus Wohnhäusern, Höfen, Weinbergen und einzelnen Gewerbebetrieben.
+Hinterheuweiler zieht sich nach Süden in die Länge bis zum Leheneck mit einer direkten Verbindung für Fussgänger, Radfahrer und landwirtschaftlicher Fahrzeuge nach Wildtal und in Richtung Freiburg-Zähringen. Der Ortsteil verfügt u.a. über Wohnhäuser, Höfe, Weinberge, Pferdekoppeln und einzelnen Gewerbebetrieben. Durch den Ortsteil fließt der renaturierte Taubenbach. Am südlichen Ende ist ein Löschwasserteich künstlich angelegt.
 
-#### Bedeutung
-
-Als Ortsteil trägt Hinterheuweiler zur ländlichen Struktur und zur lokalen Landwirtschaft (Weinbau, Ackerbau) bei und beherbergt kleine Betriebe und Vereine, die zum kulturellen Leben der Gemeinde beitragen.
-
-#### Geschichte
-
-Hinterheuweiler gehört historisch zur Gemeinde Heuweiler; die Region hat eine lange landwirtschaftliche Tradition und Verbindung zu Freiburg (z. B. historische Abgaben und lokale Wirtschaftsbeziehungen). Die Gemarkung Heuweiler (inkl. Hinterheuweiler) blieb im Laufe der Zeit überwiegend ländlich und hat nur geringfügige Siedlungszunahme erfahren.
+Ein Neubaugebiet entstand in den Jahren 2005-2012.
 
 #### Besonderheiten
 
-* Heuweiler liegt am Eingang zum Glottertal und bietet typische Schwarzwald‑/Reblandschaftsblicke; auf Wikimedia Commons gibt es Panoramaaufnahmen, die Hinterheuweiler mit dem Gehrihof zeigen (nützlich für Karte/Illustration). 
+* Heuweiler liegt am Eingang zum Glottertal und bietet typische Schwarzwald‑/Reblandschaftsblicke; auf Wikimedia Commons gibt es Panoramaaufnahmen, die Hinterheuweiler zeigen. 
 * Im lokalen Mitfahr-/Bürgersystem sind mehrere Haltepunkte in/bei Hinterheuweiler verzeichnet (z. B. Hinterheuweiler 12 und Hinterheuweiler 28) — nützlich für Mobilitätsinformationen in der Karte. Koordinaten der Haltepunkte sind öffentlich dokumentiert.

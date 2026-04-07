@@ -1,7 +1,7 @@
 ---
 title: Neue Liste Heuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.05464
+longitude: 7.907321
 category: Vereine
 description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
 address: ""
@@ -19,7 +19,6 @@ notes: 'Keine eigenständige Postadresse oder offizielle Website für die "Neue 
   Heuweiler (Kontakt, Gemeinderat/Ausschüsse), Wikipedia Heuweiler, Berichterstattung
   zur Gemeinderatswahl 2024.'
 ---
-
 #### Beschreibung
 
 Die "Neue Liste" ist eine lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler, die im Gemeinderat vertreten ist und kommunalpolitisch aktiv agiert.

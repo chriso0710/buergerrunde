@@ -1,7 +1,7 @@
 ---
 title: Kriegerdenkmal im Kirchenwald
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.050674
+longitude: 7.908063
 category: Historische Gebäude
 description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, errichtet
   als Gedenkstätte für Gefallene.
@@ -22,17 +22,6 @@ notes: 'Koordinaten basieren auf öffentlich zugänglichen Karten-/Wanderbeschre
 
 #### Beschreibung
 
-Das Kriegerdenkmal im Kirchenwald von Heuweiler ist ein Mahnmal in Form mehrerer Gedenksteine/Findlinge, das an die Gefallenen der Weltkriege erinnert und ruhig versteckt im Wald oberhalb des Ortes liegt.
+Das sog. Kriegerdenkmal, eigentlich ein Mahnmal für den Frieden, steht an einem eher ungewöhnlichen Ort. Nicht wie allgemein üblich in der Ortsmitte, sondern im Kirchenwald wurde es 1934 festlich eingeweiht. Ein großer Findling aus Yach trägt die Namen der im ersten Weltkrieg gefallenen Soldaten aus Heuweiler. Aus den beiden kleineren Findlingen entfernte man in den 50er Jahren die Namen der Heimkehrer aus dem ersten Weltkrieg und schlug dafür die Namen der Gefallenen des zweiten Weltkrieges ein. Der Vermissten von 1939 bis 1945 wird auf einem vierten Stein gedacht.
 
-#### Bedeutung
-
-Das Denkmal dient als lokaler Erinnerungsort für Volkstrauer- und Gedenkfeiern und ist ein stiller Erinnerungsort für die Gemeinde sowie ein historischer Punkt auf örtlichen Wander- und Naturwegen. Es wird in lokalen Wanderbeschreibungen und Veranstaltungslisten als Sehenswürdigkeit genannt.
-
-#### Geschichte
-
-Das genaue Errichtungsdatum des Heuweiler Kriegerdenkmals wird in lokalen Berichten nicht immer detailliert genannt; die Anlage besteht aus mehreren Findlingen (der größte Findling stammte laut Bericht aus Yach) und wurde bei einer Einweihung mit Bürgerfest der Gemeinde übergeben. Die lokale Berichterstattung (Badische Zeitung) beschreibt das Mahnmal und seine Bedeutung für Heuweiler.
-
-#### Besonderheiten
-
-- Das Denkmal steht versteckt im so genannten Kirchenwald (Kirchenwald / Kirchberg) oberhalb des Ortes und ist daher nicht unmittelbar an einer Straßenadresse zu finden. 
-- In Wander- und Freizeitbeschreibungen wird die Gedenkstätte als „Gefallenendenkmal“ bzw. War Memorial Stones / War Memorial Stones–Platz gelistet und als Rastplatz / Aussichtspunkt in der Umgebung genannt.
+Thomas Frank 6 Kriegerdenkmal Zum Gedenken an alle Opfer von Krieg, Verfolgung und Terror veranstaltet die Gemeindeverwaltung an diesem schönen Platz bei dem großen modernen Holzkreuz und der Jugendhütte - unter Mitwirkung der Trachtenkapelle, des Kirchenchores und der Ehrengarde der Feuerwehr - alle zwei Jahre am Volkstrauertag eine kleine Feier.

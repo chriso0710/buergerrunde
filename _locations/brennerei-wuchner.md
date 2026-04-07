@@ -25,16 +25,10 @@ notes: "Koordinaten stammen aus einer Mapbox Reverse-Geocode-Abfrage in der
 
 Die Brennerei Wuchner (auch bekannt als Hausbrennerei Wuchner / Maidli GIN) ist ein kleiner, familiengeführter Betrieb in Heuweiler, der seit Generationen Obstbrände herstellt und seit einigen Jahren mit handgemachtem Gin (Maidli Gin) erfolgreich am Markt vertreten ist.
 
-#### Bedeutung
-
-Die Brennerei trägt zur regionalen Direktvermarktung und zum kulinarischen Profil Heuweilers bei: sie bietet handwerklich erzeugte Spirituosen, beteiligt sich an Hofveranstaltungen (z. B. Hoffeste) und bringt lokal geprägte Produkte (Gin, Edelbrände) in die regionale Gastronomie und den Einzelhandel.
-
 #### Geschichte
 
-Die Familie Wuchner betreibt seit über 100 Jahren Obstbrennerei-Tradition; die heutige Produktion von Maidli GIN ist eine jüngere Produktinnovation (seit ca. 2016 als Marken-/Produktauftritt dokumentiert), die auf der langen Brenntradition aufbaut und regional Auszeichnungen erhielt.
+Die Familie Wuchner praktiziert schon seit über 100 Jahren die Kunst des „Obstbrennens“. Aus Äpfeln, Brombeeren, Mirabellen, Kirschen,Pflaumen oder Birnen werden mit viel Liebe und Sachkenntnis Obstbrände & Liköre hergestellt. Alle Früchte werden überwiegend selbst angebaut und sorgfältig ausgesucht und verarbeitet. Dabei macht die ganze Familie aktiv mit und wurde für ihre Arbeit schon vom Badischen Obst- und Kleinbrennerei Verband und auf der "Destillata" (internationalen Edelbrandmeisterschaft ) prämiert. Alle Produkte können in der gemütlichen Probierstube ausprobiert werden. Auch Gruppen können eine „Schnapsprobe" buchen.
 
 #### Besonderheiten
 
-* Maidli GIN gibt es in mehreren Blends (u. a. Blend 01–03 sowie Fass-Editionen) und wird in kleinen Chargen hergestellt. 
-* Die Brennerei setzt auf handwerkliche Verfahren (z. B. Holzfeuerung beim Brennen) und regionale Rohware. 
-* Die Familie veranstaltet gelegentlich Hoffeste mit Führungen und Verkostungen, die Besucher aus der Region anziehen.
+* Alle zwei Jahre veranstaltet die Familie Wuchner ein für alle offenes Hoffest mit Livemusik. Es gibt eine Cocktailbar, wo die Edelbrände zu leckeren & edlen Cocktails verzaubert werden, für Ihr kulinarisches Wohl wird auch mit Kaffee, Kuchen & kleinen Imbissen gesorgt. Sehr beliebt ist auch die Kutschfahrt durch die Streuobstwiesen in Heuweiler.

@@ -1,7 +1,7 @@
 ---
 title: Holzschnitzer Ferdinand Elighofer
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.053345
+longitude: 7.905273
 category: Handwerk & Gewerbe
 description: Traditioneller Holzschnitzer aus Heuweiler, aktiv in Restaurations- und
   Kunstholzarbeiten sowie in ehrenamtlichen Dorfprojekten.
@@ -24,17 +24,10 @@ notes: Bei der Recherche wurden keine offizielle Firmen-Website, keine verifizie
 
 #### Beschreibung
 
-Der Eintrag beschreibt den lokalen Holzschnitzer Ferdinand Elighofer aus Heuweiler, der als versierter Handwerksbetrieb und Restaurator in Dorfprojekten genannt wird.
+Herr Elighofer, der Heuweilermer Holzschnitzer ist mit Sicherheit eine Heuweilermer Institution. Nach Lehre und Walz und langer Schaffenszeit in Bayern hat Hr. Elighofer ca. 40 Jahre lang seine Holzschnitzerwerkstatt in Heuweiler betrieben und ist als Schnitzer und Bildhauer aktiv gewesen. Inzwischen ist er als Holzschnitzer im Ruhestand, empfängt aber immer noch regelmäßig Kindergruppen aus Kindergärten und Grundschulen aus der Umgebung und zeigt ihnen den Spaß und die Freude am Umgang mit dem Werkstoff Holz. Die Heuweilermer Kinder kommen üblicherweise im letzten Kindergartenjahr vor der Einschulung vorbei und schauen dem Schnitzer auf die Finger.
+
+Besonders erwähnenswert ist auch, das Hr. Elighofer in fast ganz Südbaden bekannt ist als Schnitzer für vorzügliche Larven, die Holzmasken, die zu den Hexen und Ungeheuern der Alemannischen Fasnet gehören. So fertigte er auch die Larven der Leheneckbestien und verwirklichte damit nach eigener Auskunft einen langgehegten Traum. Als ehemaliger Gemeinderat ist er, was die Geschichte des Dorfes und der Pfarrkirche betrifft, ein sehr kenntnisreicher Ansprechpartner, und so war er eine wichtige Quelle auch für diese Publikation.
 
 #### Bedeutung
 
 Als regionaler Handwerker unterstützt Elighofer lokale Kultur- und Heimatpflegeprojekte (z. B. Anfertigung/Restaurierung von Bildstöcken und kleindenkmalpflegerischen Arbeiten) und ist in kirchlichen bzw. gemeindlichen Gruppen aktiv; damit leistet er einen wichtigen Beitrag zur Erhaltung regionaler Kunsthandwerkstraditionen.
-
-#### Geschichte
-
-Konkrete historische Angaben zur Person bzw. Betriebsgründung von "Holzschnitzer Elighofer" konnten online nicht gefunden werden. Lokale Vereins- und Pfarrseiten dokumentieren jedoch jüngere Projekte (z. B. Neuanfertigung eines Bildstocks, Übergabe Ende 2021 / Ausstellung 2022). Damit erscheint Elighofer als aktiver, gegenwärtiger Handwerksakteur in Heuweiler.
-
-#### Besonderheiten
-
-- Beteiligung an Heimat- und Denkmalschutzprojekten (Neuanfertigung eines Bildstocks für Gundelfingen/Wildtal). 
-- Engagement in Gemeindearbeit / Pfarrgemeinde und örtlichen Initiativen (Mitglied im Gemeindeteam / Ehrenamt).

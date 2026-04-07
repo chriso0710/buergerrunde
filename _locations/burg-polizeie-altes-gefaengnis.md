@@ -1,11 +1,10 @@
 ---
 title: Burg (Polizeie, altes Gefängnis)
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051713
+longitude: 7.904707
 category: Historische Gebäude
-description: Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler — für diesen
-  Eintrag konnten online keine verlässlichen Quellen zur genaueren Lokalisierung oder
-  historischen Beschreibung des Objekts gefunden werden.
+description: "Benannter Ort 'Burg (Polizeie, altes Gefängnis)' in Heuweiler "
+
 address: ""
 website: ''
 image: ""
@@ -28,17 +27,8 @@ notes: "- Rechercheergebnis: Es konnten keine belastbaren Online-Quellen (z. B. 
 
 #### Beschreibung
 
-Der Eintrag trägt den Namen "Burg (Polizeie, altes Gefängnis)" für Heuweiler, konnte jedoch während der Recherche nicht mit verlässlichen, öffentlich zugänglichen Quellen verifiziert oder georeferenziert werden; die Angaben basieren daher auf Gemeindeinformationen und offenen Kartendaten.
+Das wunderschöne Fachwerkhaus auf dem Kirchberg kann auf eine über 200-jährige wechselvolle Geschichte zurückblicken. Erbaut 1810 war es zunächst lokaler Polizeiposten mit Arrestzelle, Rat- und unter anderem auch Schulhaus. Im Obergeschoss des Hauses wohnte der Lehrer und Bienenkenner Sailer, der mit seiner Tochter am Feldeleweg vom Blitz erschlagen wurde.
 
-#### Bedeutung
+1879 verkauft die Gemeinde das Gebäude an den Schuhmacher Karl Klausmann. 1889 wurde es von Familie Über vom Birklehof ersteigert. Wilhelm Über (1862-1926) war Schuhmacher und Hubert Blattmann ‘s Polizeidiener und auch sein Sohn Franz Josef Über (1891-1965) war neben seiner Tätigkeit als Landwirt als Polizeidiener in Heuweiler aktiv. Sie waren zuständig für die Arrestzelle und sorgten für Ordnung. Dies prägte den auch heute in Heuweiler bekannten Namen “’s Polizeie“. Franz Josef verkündete noch jeden Sonntag auf der Treppe des Rebstock-Wirtshauses die neuesten Bekanntmachungen, ging mit der Schelle durchs Dorf und sorgte für Ordnung.
 
-Sollte ein derartiges historisches Gebäude existieren, wäre seine Bedeutung lokal vermutlich als Zeugnis früherer Verwaltungs‑, Polizei‑ oder Justizfunktionen (z. B. Arrestlokal, Gefängnisturm) zu sehen. Für Heuweiler liegen jedoch keine belastbaren Hinweise vor, dass ein bekanntes Gebäude mit dieser Bezeichnung im Ort allgemein als Sehenswürdigkeit geführt wird. (Recherchen ergaben keine Einträge in kommunalen oder enzyklopädischen Quellen).
-
-#### Geschichte
-
-Es konnten keine primären oder sekundären Quellen zur Geschichte eines Objekts namens "Burg (Polizeie, altes Gefängnis)" in Heuweiler gefunden werden. Das Gemeindewiki und die offiziellen Seiten führen als örtliche Sehenswürdigkeit vorwiegend die barocke Kirche St. Remigius auf; ein historisches Gefängnis oder eine Burg innerhalb der Gemarkung Heuweiler ist dort nicht genannt. Daher konnte keine historische Rekonstruktion oder Datierung vorgenommen werden.
-
-#### Besonderheiten
-
-- Keine verifizierbaren Besonderheiten für das spezifisch benannte Objekt online auffindbar. 
-- In der näheren Umgebung (Region Roßkopf / Gundelfingen) gibt es Burg‑/Turmruinen wie die Ruine der Burg Zähringen, die in Karten und lokalhistorischen Sammlungen erwähnt werden; diese liegen nahe Heuweiler, gehören jedoch nicht zur Gemeinde Heuweiler selbst. Hinweis zur regionalen Einordnung: Burg Zähringen wird in regionalen Karten/Archiven genannt.
+Heute ist das Gebäude Eigentum der Familie Blattmann.

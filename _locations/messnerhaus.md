@@ -1,10 +1,11 @@
 ---
 title: Messnerhaus
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.052109
+longitude: 7.904701
 category: Historische Gebäude
-description: Messnerhaus in Heuweiler — ein historisch benanntes Gebäude/Sexton‑Haus;
-  online keine verlässliche Quelle mit genauer Adresse oder Bild auffindbar.
+description: "Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten
+  Wohnhäuser in Heuweiler."
+
 address: ""
 website: ''
 image: ""
@@ -30,17 +31,4 @@ notes: "Recherche-Notizen:\n- Zielsuche: \"Messnerhaus Heuweiler\" ergab keine e
 
 #### Beschreibung
 
-Das „Messnerhaus“ wird lokal häufig als Hausname für ein ehemaliges Sexton‑/Mesner‑Haus oder kleines Hofgebäude verwendet; für Heuweiler ließ sich online jedoch kein eigenständiger, verifizierbarer Eintrag oder Foto für ein konkretes Messnerhaus finden.
-
-#### Bedeutung
-
-Wenn vorhanden, sind Messnerhäuser in ländlichen Gemeinden traditionell mit kirchlichen Funktionen (Wohnhaus des Mesners / Sakristans) oder als historische Hofstellen verbunden und tragen zum dörflichen Bild und zur lokalen Identität bei. Für Heuweiler konnten keine spezifischen Informationen zur aktuellen Nutzung des hier genannten Messnerhauses online nachgewiesen werden.
-
-#### Geschichte
-
-Heuweiler selbst hat eine lange Geschichte und nennt in Quellen mehrere alte Höfe und Ortsteile; die Pfarr‑/Kirchengeschichte des Ortes reicht bis ins 13. Jahrhundert (Kirche St. Remigius), weshalb Hausnamen wie „Messnerhaus“ regional plausibel sind, konkrete historische Daten zu einem Messnerhaus in Heuweiler fanden sich jedoch nicht in den geprüften Online‑Quellen.
-
-#### Besonderheiten
-
-- In vielen Gemeinden des Breisgaus bezeichnet „Messnerhaus“ traditionell das Wohnhaus des Mesners; solche Hausnamen sind oft nur lokal dokumentiert (z. B. in Katasterunterlagen, Denkmallisten, Gemeindearchiven oder Ortschroniken), nicht immer aber online auffindbar. 
-- Die Gemeinde Heuweiler pflegt eine kompakte Online‑Präsenz mit Kontaktdaten, Mitteilungsblatt und lokalen Gewerbeeinträgen; detaillierte Einträge zu einzelnen historisch benannten Wohnhäusern fehlen dort im öffentlichen Webauftritt.
+Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten Wohnhäuser in Heuweiler. Die auf dem Torbogen des Kellers eingemeißelte Jahreszahl 1704 wurde höchstwahrscheinlich aber erst beim Wiederaufbau oder einer späteren Sanierung angebracht. Ursprünglich wohnte der Messner in dem kleinen landwirtschaftlichen Anwesen, das er mit dem Kirchenacker, wohl neben seinen kirchlichen Pflichten, für den Pfarrer und für sich und seine Familie bewirtschaftete. Bis Mitte des 18.Jhd. bewohnte Familie Berthold das Haus. Die Messnertätigkeit wechselte zur Familie Ihringer, denen die Kirche das Haus am Anfang des 19. Jhd. verkaufte, wahrscheinlich war es in eher schlechtem Zustand. 1810 wurde das alte Messnerhäuschen, welches das Stift Waldkirch direkt an der Kirchhofmauer erbaut hatte, abgerissen und etwas abgesetzt das neue Haus mit diesen Baumaterialien errichtet. Die Ihringers verkauften es bald an Familie Dörr, diese später an Familie Über, von wo es durch Erbe zu Familie Bank und per Heirat zu Familie Strecker wechselte. Genannt wird das Haus “Strickers” nach einer früheren Bewohnerinnen, die angeblich so viel gestrickt hat. Heute ist das Haus im Eigentum der Familie Schwehr.

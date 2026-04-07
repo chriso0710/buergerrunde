@@ -1,7 +1,7 @@
 ---
 title: Hannehäusle
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051811
+longitude: 7.904116
 category: Historische Gebäude
 description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remigius
   in Heuweiler, das seit Jahrzehnten leersteht.
@@ -21,17 +21,8 @@ notes: 'Keine eigene offizielle Postadresse für das Hannehäusle im Internet ge
 
 #### Beschreibung
 
-Das Hannehäusle ist ein kleines, schmuckes Häuschen in Ortsmitte von Heuweiler, unmittelbar unterhalb der Pfarrkirche St. Remigius; äußerlich farblich hervorgehoben, steht es jedoch seit Jahrzehnten leer und gilt lokal als sogenannter „Lost Place“.
+Das Hannehäusle muss zwischen 1790 und 1800 erbaut worden sein, in einem Ortsplan von 1781 ist es noch nicht verzeichnet. Es ist ein Fachwerkhaus, das bergseitig auf Fels gründet und talseitig ein Bruchsteinfundament hat. Das kleine Häuschen hat drei Etagen: den Keller, der talseitig einen ebenerdigen Ausgang hat, das Erdgeschoss mit kleiner Küche und Feuerstelle, einem Zimmer und einem Ausgang zur Kirche, und das Dachgeschoss mit Schlafplätzen. Nach 1915 lebten dort zeitweise bis zu 10 Personen, bis 1965 war das Hannehäusle bewohnt.
 
-#### Bedeutung
+Ein angebautes Toilettenhäuschen, das von den Bewohnern und Kirchenbesuchern genutzt worden war, wurde 1970 abgerissen. 1981 wurde der Westgiebel erneuert, der Kamin abgetragen und die originalen Biberschwanzziegel ausgetauscht. Gegenwärtig ist das Häuschen im Besitz der Gemeinde, es ist stark baufällig und kann nur teilweise betreten werden, es gibt keine Versorgung mit Strom und Wasser.
 
-Das Hannehäusle gehört zum historischen Ortsbild und ist ein auffälliges Element des Kirchbergs; es ist vor allem von städtebaulichem und kulturellem Interesse, da es die dörfliche Struktur und ältere Wohnformen im Kern von Heuweiler sichtbar macht. Allgemeine Informationen zur Gemeinde Heuweiler sind auf der Gemeindeseite hinterlegt.
-
-#### Geschichte
-
-Quellen berichten, dass das Häuschen mehrere Generationen bewohnt war und die letzten Bewohner Mitte der 1960er Jahre auszogen; seither blieb das Gebäude weitgehend ungenutzt, zeitweise renoviert von außen, im Innern aber verfallen. Die Kirche St. Remigius (Kirchberg 6) ist historisch und architektonisch das prägende Bauwerk des Ortes; das Hannehäusle liegt direkt unterhalb dieses Kirchplatzes.
-
-#### Besonderheiten
-
-- Lokale Berichterstattung hebt die auffällige Farbgebung (lachsfarbener Anstrich, himmelblaue Fensterläden) und die zentrale Lage neben der Kirche hervor. 
-- Das Hannehäusle wird in Regionalberichten häufig als Beispiel für „kleine denkmalwerte Orte“ im dörflichen Gefüge genannt.
+Benannt ist das kleine Häuschen nach Johann Birkle vom Birklehof und seiner Schweizer Frau Johanna. Die beiden haben sich in Spanien während des Spanischen Volksaufstandes getroffen, wo Johann als Soldat einer Badener Kompanie auf Seiten Napoleons kämpfte. 1813 heirateten sie in Spanien und nach ihrer Rückkehr wohnten sie in dem Häuschen.

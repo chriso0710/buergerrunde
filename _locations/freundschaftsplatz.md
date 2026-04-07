@@ -1,7 +1,7 @@
 ---
 title: Freundschaftsplatz
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.057303
+longitude: 7.90218
 category: Veranstaltungsorte
 description: 'Kleiner Dorfplatz / Treffpunkt am Rand von Heuweiler (gem. lokale Quellen:
   ‚Freundschaftsplatz am Malefikantenweg‘), genutzt für Pflanzaktionen und Nachbarschaftstreffen.'
@@ -19,7 +19,6 @@ notes: Bei der Recherche wurde kein offizieller Postanschriftseintrag für den �
   benachbarte Adressen (z. B. Hinterheuweiler 11) — keine eindeutige Postadresse für
   den Freundschaftsplatz selbst.
 ---
-
 #### Beschreibung
 
 Der Freundschaftsplatz in Heuweiler ist ein kleiner, informeller Dorfplatz / Treffpunkt am Ortsrand, der in lokalen Veranstaltungsankündigungen als „Freundschaftsplatz am Malefikantenweg“ genannt wird und für Pflanzaktionen und nachbarschaftliche Treffen genutzt wird.

@@ -1,7 +1,7 @@
 ---
 title: Merzenhof
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051328
+longitude: 7.903421
 category: Bauernhöfe
 description: Historischer Hof (Merzenhof) im Kern von Heuweiler, Teil der traditionellen
   Hofstruktur des Ortes.
@@ -19,17 +19,4 @@ notes: |-
 
 #### Beschreibung
 
-Der Merzenhof ist einer der ältesten Höfe im Kern von Heuweiler und gehört zur traditionellen Hofstruktur des Dorfes; er zählt zu den historischen landwirtschaftlichen Anwesen, die das Ortsbild prägen.
-
-#### Bedeutung
-
-Als historischer Bauernhof ist der Merzenhof Teil des ländlich geprägten Erbes Heuweilers und trägt zur Identität des Dorfkerns bei; solche Höfe sind heute häufig (teilweise weiterhin) landwirtschaftlich genutzt, dienen als Wohn- und Betriebsstandorte und prägen das kulturelle Landschaftsbild.
-
-#### Geschichte
-
-Die Geschichte Heuweilers ist eng mit seinen Höfen verbunden; im Ortskern gruppieren sich die ältesten Höfe (u. a. Merzenhof, Alt-Vogtshof, Häberlehof, Dörrhof), die das Dorf seit Jahrhunderten prägen. Detaillierte historische Einzelangaben zum Merzenhof selbst (z. B. Baujahr, Eigentümerfolgen) sind online nicht eindeutig dokumentiert verfügbar.
-
-#### Besonderheiten
-
-- Der Merzenhof gehört zu den im Ortsbild erwähnten ältesten Höfen von Heuweiler und ist damit Teil des historisch-landwirtschaftlichen Erbes der Gemeinde. 
-- Heuweiler hat seinen dörflichen Charakter weitgehend erhalten; die Höfe um das Kerndorf sind dafür mitverantwortlich.
+Den Merzenhof findet man im Ortskern Heuweilers, am Kirchberg hinter dem Rathaus, bewohnt und bewirtschaftet von der Familie Scherzinger. Die Bewirtschaftung umfasst Rinder- und Schweinehaltung, den Wald, sowie Ackerbau und Grünland zur genfreien Futtergewinnung. Das Fleisch der Tiere wird zum Teil in Form von Fleisch- und Wursterzeugnissen aus hofeigener Herstellung direkt vor Ort vermarktet. Das Alter des Bauernhofs ist nur zu erahnen, die Aufzeichnungen aber gehen über Jahrhunderte zurück. Die Bezeichnung geht wie so oft aus dem Namen eines Besitzers hervor.

@@ -23,13 +23,9 @@ notes: "Quellenlage: Adresse, Telefon und Website werden in lokalen
 
 #### Beschreibung
 
-Schaffer's Partyservice ist ein lokaler Catering- und Partyservice in Heuweiler (Dorfstraße 9), der Buffets, Platten und Veranstaltungsbetreuung für Hochzeiten, Geburtstage, Firmenfeiern und andere Anlässe anbietet.
+Schaffer's Partyservice ist ein lokaler Catering- und Partyservice in Heuweiler, der Buffets, Platten und Veranstaltungsbetreuung für Hochzeiten, Geburtstage, Firmenfeiern und andere Anlässe anbietet. 
+Alle Speisen sind hausgemacht und werden für den Anlass frisch hergestellt.
 
 #### Bedeutung
 
 Als regionaler Anbieter ergänzt Schaffer's Partyservice das gastronomische Angebot der kleinen Gemeinde und deckt Feierlichkeiten im Ort und Umgebung ab — wichtig für Dorfgemeinschaft, private Feiern und lokale Veranstaltungen.
-
-#### Besonderheiten
-
-* Der Betrieb wird in regionalen Verzeichnissen als etablierter Partyservice für Heuweiler und Umgebung geführt; Online-Bewertungen (einträge in Google und lokalen Portalen) sind überwiegend positiv verzeichnet. 
-* Standort in der Dorfstraße nahe Ortskern / Rathaus; die Gemeinde betreibt eine Fotogalerie mit Aufnahmen aus der Dorfstraße (ein Bild der Dorfstraße steht als Direktlink zur Verfügung).

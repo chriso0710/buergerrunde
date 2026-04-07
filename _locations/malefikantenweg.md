@@ -1,9 +1,11 @@
 ---
 title: "Malefikantenweg"
-latitude: 48.05158
-longitude: 7.90295
+latitude: 48.053307
+longitude: 7.886083
 category: Straßen & Wege
-description: "Kleiner Feldweg / Flurstück am Rand von Heuweiler, bekannt als Standort eines Selbsternte‑Blumenfelds (Kornzept) in der Umgebung von Gundelfingen/Heuweiler."
+description: "Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung
+  Denzlingen und Gundelfingen gehört.        "
+
 address: Malefikantenweg
 website: "https://www.heuweiler.de"
 image: ""
@@ -15,17 +17,8 @@ notes: "Malefikantenweg ist als Flur-/Wegname in OSM/Regionalverzeichnissen aufg
 
 #### Beschreibung
 
-Der Malefikantenweg ist ein kleiner Feld- bzw. Wirtschaftsweg am westlichen Rand des Heuweiler/Gundelfinger Gemeindebereichs, der in der Region vor allem als Standort für ein Selbsternte‑Blumenfeld bekannt ist.
-
-#### Bedeutung
-
-Der Weg dient landwirtschaftlichen Nutzungen (Ackerflächen, Blumenfeld) und Freizeitangeboten wie dem Selbsternte‑Blumenfeld der Gärtnerei Kornzept, wodurch er zur regionalen Direktvermarktung und Naherholung beiträgt.
+Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung Denzlingen und Gundelfingen gehört. Während er auf der Gemarkung Heuweiler durchgehend geteert ist, ist er auf dem Denzlinger Teil als Schotterweg ausgebaut, genauso wie seine Verlängerung auf Gundelfinger Gemarkung. Er wird von Fußgängern, Radfahrern und Reitern zwischen den Dörfern stark frequentiert. Ebenso dient er als Zufahrt für die landwirtschaftliche Nutzung der umliegenden Felder und Äcker.
 
 #### Geschichte
 
-Der Malefikantenweg selbst erscheint nicht als historisch bedeutsame Straße in den Hauptquellen; er ist vielmehr Teil des agrarisch geprägten Umfelds um Heuweiler/Gundelfingen, das seit jeher landwirtschaftlich genutzt wird (kontextuell: Heuweiler als kleines, ländlich geprägtes Dorf). Für allgemeine Ortsgeschichte und Siedlungsentwicklung zu Heuweiler siehe Wikipedia Eintrag zur Gemeinde.
-
-#### Besonderheiten
-
-- An der Stelle betreibt die Saatgut‑ und Blumengärtnerei Kornzept ein buntes Schnittblumenfeld mit Selbsternteangeboten, was regional als besonderes Bildungs‑ und Direktvermarktungsprojekt hervorsticht. 
-- Die Straßenbezeichnung „Malefikantenweg“ kommt in Deutschland mehrfach vor (u. a. Stockach), hier bezieht sie sich auf die Flur in der 79194‑Region (Gundelfingen / Heuweiler).
+Historisches, bis zurück ins frühe Mittelalter, rund um diesen Weg findet sich auf der Homepage der Neuen Liste

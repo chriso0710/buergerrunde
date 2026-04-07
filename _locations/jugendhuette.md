@@ -1,7 +1,7 @@
 ---
 title: Jugendhütte Heuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.050804
+longitude: 7.907678
 category: Vereine
 description: Kleine, gemeindenahe Jugendhütte in Heuweiler, die als Treffpunkt für
   lokale Jugend- und Vereinsaktivitäten dient.
@@ -25,17 +25,4 @@ notes: 'Bei der Recherche konnte kein eigenständiger, offiziell ausgewiesener E
 
 #### Beschreibung
 
-Die Jugendhütte in Heuweiler ist ein kleiner, einfacher Treffpunkt (Hütte/Unterstand) für Jugendliche und vereinsnahe Veranstaltungen im Umfeld des Dorfes.
-
-#### Bedeutung
-
-Die Hütte dient als informeller Treffpunkt für Jugendgruppen, Vereinsaktivitäten (z. B. der örtlichen Sport- und Musikvereine) und als Ergänzung zu den Sportanlagen (Waldstadion/DJK-Anlage), wodurch sie zur lokalen Jugendarbeit und Gemeinschaftspflege beiträgt.
-
-#### Geschichte
-
-Es konnte keine eigenständige historische Dokumentation zur 'Jugendhütte' Heuweiler online gefunden werden; Jugendangebote und -treffs werden traditionell über lokale Vereine wie DJK Heuweiler oder die Jugendfeuerwehr organisiert, und viele Dorfhütten in der Region entstanden im Zusammenhang mit Vereins- und Sportplatzinfrastruktur.
-
-#### Besonderheiten
-
-- In kleinen Gemeinden wie Heuweiler werden Jugendtreffs häufig nicht als eigenständige Einrichtung mit eigener Webseite geführt, sondern über Vereinsseiten bzw. die Gemeindeverwaltung koordiniert. 
-- Der nächstnahe, offiziell benannte Sportplatz heißt „Waldstadion“ und ist Standort vieler Vereinsaktivitäten (DJK Heuweiler). Ein Jugendtreff/Hütte ist oft dem Sportgelände oder Vereinsgelände zuzuordnen.
+Im Jahr 1998 entstand durch Eigenarbeit von Jugendlichen aus dem Dorf und Unterstützung durch Günter Herbstritt sowie der Schirmherrschaft von Pfarrer Franz Gluitz und Ferdinand Elighofer die Jugendhütte im Kirchenwald. Jörg Berthold, Andreas Berthold, Steven Schmid, Stefan Trefzer, Stefan Krämer, Clemens Dilger, Fred Dohmen (Die Hüttenbauer) und viele junge Helfer und Helferinnen haben mit dem Bau ihrer Jugendhütte eine Lücke zwischen Kinderzeltlager und Erwachsensein geschlossen. Lange Zeit wurde der Jahrestag der Jugendhütte mit der Bevölkerung am Vatertag gefeiert. Die Jugendhütte eignet sich hervorragend für Kinder- oder andere Geburtstagsfeiern.

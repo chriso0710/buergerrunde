@@ -20,17 +20,6 @@ notes: Koordinaten wurden durch eine Mapbox-Reverse-Geocoding-Abfrage bestätigt
 
 #### Beschreibung
 
-Der Reit- und Fahrverein Heuweiler e.V. ist ein lokaler Pferdesportverein mit Reitanlage und Pensionsbetrieb in Hinterheuweiler der Gemeinde Heuweiler; er dient dem Reitsport, der Pferdehaltung und als Veranstaltungsort für Vereinsaktivitäten.
-
-#### Bedeutung
-
-Der Verein bietet Reit- und Fahrmöglichkeiten, Stellplätze für Pferde (Pensionsbetrieb) sowie ein soziales und sportliches Angebot für Einwohner und Reitsportinteressierte in der Region; er ist Teil des Vereinslebens der Gemeinde und nutzt die ländliche Infrastruktur von Hinterheuweiler.
+Der *Reit- und Fahrverein Heuweiler* bietet ein breit gefächertes Angebot in den Bereichen Reiten, Fahren und Voltigieren. 
 
 **Wichtige Kontaktinfos**
-
-* Website: (in Verzeichnissen hinterlegt; während der Recherche zeitweise nicht erreichbar). 
-
-* Vereinsvorstand (laut Gemeindeverzeichnis): Vorstandsvorsitzender Thomas Bitzenhofer. 
- trabland.de
-
- )

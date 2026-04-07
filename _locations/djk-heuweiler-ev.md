@@ -1,7 +1,7 @@
 ---
 title: DJK Heuweiler e.V.
-latitude: 48.054067
-longitude: 7.903606
+latitude: 48.053743
+longitude: 7.9115
 category: Vereine
 description: Sportverein (DJK) aus Heuweiler mit Sportplatz und Veranstaltungsangeboten
   wie dem jährlichen Rosskopflauf.
@@ -21,7 +21,6 @@ notes: 'Quellen: Gemeindeverwaltung Heuweiler (Vereinsliste), DJK Diözesanverba
   ≥300×300 px) für den DJK-Standort konnte bei der Recherche nicht zuverlässig gefunden;
   daher leer gelassen.'
 ---
-
 #### Beschreibung
 
 DJK Heuweiler e.V. ist der örtliche Sportverein in Heuweiler (Breisgau-Hochschwarzwald) mit Fußballmannschaften, Lauf-Veranstaltungen und Gemeinschaftsaktivitäten; der Verein wird in Vereinsverzeichnissen mit der Adresse Dorfstraße 31a, 79194 Heuweiler geführt.

@@ -1,7 +1,7 @@
 ---
 title: Katharina Hermann, Musiklehrerin
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.054641
+longitude: 7.908989
 category: Vereine
 description: Musiklehrerin und Chorleiterin aus Heuweiler, aktiv in lokalen Kulturprojekten
   und Chorarbeit.
@@ -20,7 +20,6 @@ notes: 'Keine verlässliche öffentliche Postadresse oder eigenes Impressum für
   für eine personenbezogene Anschrift ermittelt; eine Reverse-Geokodierung in der
   Ortsmitte ergab nahe Koordinaten ~48.05158, 7.90295 (ungefährer Gemeinde-/Dorfmittelpunkt).'
 ---
-
 #### Beschreibung
 
 Katharina Hermann ist in Heuweiler als Musiklehrerin und Chorleiterin bekannt und wirkt regelmäßig bei lokalen Kulturveranstaltungen mit; sie hat zusammen mit Michael Hermann den Chorprojekt-Ansatz „Flexsingers“ initiiert.

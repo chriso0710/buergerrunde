@@ -1,7 +1,7 @@
 ---
 title: Zeltlagergemeinschaft Heuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051898
+longitude: 7.904202
 category: Vereine
 description: Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisiert
   Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine.
@@ -19,7 +19,6 @@ notes: 'Keine eigenständige offizielle Webseite oder spezifische Postanschrift 
   der Dorfstraße (konkreter Treffer: Dorfstraße 19) als repräsentative Lage im Ortszentrum
   von Heuweiler.'
 ---
-
 #### Beschreibung
 
 Die Zeltlagergemeinschaft Heuweiler (ZLG) ist eine ehrenamtlich organisierte Gruppe, die in Verbindung mit kirchlichen und lokalen Vereinen Jugendlager und Freizeiten durchführt und damit generationsübergreifende Gemeinschaftserlebnisse ermöglicht.

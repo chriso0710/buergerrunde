@@ -1,10 +1,12 @@
 ---
 title: Carsharing Grüne Flotte
-latitude: 48.055867
-longitude: 7.906937
+latitude: 48.052105
+longitude: 7.901945
 category: Infrastruktur
-description: Stationsstandort der regionalen Carsharing-Anbieters „Grüne Flotte“ auf
-  dem Parkplatz des Gasthofs Grüner Baum in Heuweiler.
+description: "Stationsstandort der regionalen Carsharing-Anbieters „Grüne
+  Flotte“. Der Stellplatz befindet sich in der Gundelfinger Str. 8 (Ecke
+  Feldeleweg) in Heuweiler"
+
 address: Glottertalstraße 3
 website: https://gruene-flotte.com/carsharing/
 image: ""
@@ -16,7 +18,6 @@ notes: |-
   - Koordinaten (latitude/longitude) wurden mit Mapbox-Reverse-Geocoding ermittelt; Mapbox lieferte als nächstliegende Adressauflösung Glottertalstraße 3 (PLZ 79194) — Mapbox gab bei der Formatierung "79194 Denzlingen" aus, während lokale Adressangaben den Ort als Heuweiler führen. Zur Referenz: Wohnmobil-Atlas listet GPS-Koordinaten für den Parkplatz gegenüber dem Grüner Baum (48°03'22.0"N 7°54'28.4"E). ([wohnmobil-atlas.de](https://www.wohnmobil-atlas.de/wohnmobilstellplatz-am-gasthof-gruener-baum/?utm_source=openai))
   - Bildquelle: Direktlink zur Foto-Datei auf der Website der Bürgerrunde Heuweiler (gf-ford.jpg). ([buergerrunde.heuweiler.net](https://buergerrunde.heuweiler.net/assets/images/klimamobil/gf-ford.jpg))
 ---
-
 #### Beschreibung
 
 Der Eintrag beschreibt den stationsbasierten Carsharing-Standort der Grünen Flotte in Heuweiler: ein dauerhaft stationiertes Fahrzeug (u. a. ein Ford Fiesta) auf dem Parkplatz des ehemaligen Gasthofs Grüner Baum, Glottertalstraße 3.

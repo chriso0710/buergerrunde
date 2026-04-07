@@ -1,7 +1,7 @@
 ---
 title: Bühl
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051794
+longitude: 7.903522
 category: Wohngebiete
 description: Kleiner Weiler / Siedlungsname im Gebiet der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald
   (ein separater Ort 'Bühl' online nicht eindeutig nachweisbar).
@@ -23,17 +23,4 @@ notes: 'Bei der Recherche konnte kein eigenständiger Ortsteil namens ''Bühl'' 
 
 #### Beschreibung
 
-Bühl (in diesem Eintrag bezeichnet als lokal verwendeter Siedlungsname im Gebiet der Gemeinde Heuweiler) liegt im Norden von Freiburg im Breisgau und gehört zur kleinen Gemeinde Heuweiler im Landkreis Breisgau‑Hochschwarzwald.
-
-#### Bedeutung
-
-Als (sehr) kleine Siedlung oder Flurbezeichnung ist Bühl Teil der ländlichen Struktur Heuweilers; solche Einzelhöfe und Weiler tragen zur landwirtschaftlichen Nutzung, Identität und Ortsbild der Gemeinde bei und sind Teil des lokalen Wohn‑ und Lebensraums. (Allgemeine Gemeinde‑ und Ortsstruktur: Heuweiler).
-
-#### Geschichte
-
-Heuweiler selbst hat eine lange Geschichte (Erwähnung des Kirchenbaus u.ä.), die dörflich‑landwirtschaftlich geprägt ist; spezifische historische Angaben zu einer Siedlung namens „Bühl“ innerhalb Heuweilers konnten in den verfügbaren Online‑Quellen nicht eindeutig gefunden werden. Daher sind über die Historie eines eigenständigen Ortes „Bühl (Heuweiler)“ keine verlässlichen Online‑Quellen nachweisbar.
-
-#### Besonderheiten
-
-- Heuweiler hat seinen ländlichen Charakter weitgehend bewahrt; die Gemeinde besteht aus Vorderheuweiler, Hinterheuweiler, Neuhäusern und mehreren Einzelhöfen/Farmen (z. B. Berghäusle, Litzelstahlerhof). Ein gesonderter, in amtlichen Quellen aufgeführter Ortsteil "Bühl" wurde nicht bestätigt. 
-- Luftbild‑ und Ortsaufnahmen der Gemeinde (für Visualisierung) sind auf der offiziellen Gemeindeseite verfügbar; ein direkt verlinkbares Luftbild wurde als Bildquelle verwendet.
+Der Bühl ist die obere Begrenzung des Dorfplatzes, auf dem zur Fasnet der Narrenbaum und zu Weihnachten der große Weihnachtsbaum aufgestellt wird.

@@ -1,7 +1,7 @@
 ---
 title: Böllerschützen
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051765
+longitude: 7.90727
 category: Veranstaltungsorte
 description: Traditionelle Böllerschützen-Gruppe / Brauchtumsakteur, der bei Festen
   und kirchlichen Anlässen in Heuweiler vertreten ist (keine eigenständige Vereinsadresse
@@ -21,17 +21,7 @@ notes: Bei der Recherche wurde kein eigenständiger Verein oder eine offizielle 
 
 #### Beschreibung
 
-Die Bezeichnung "Böllerschützen (Heuweiler)" bezeichnet keine klar auffindbare, eigenständige Vereinsadresse; es handelt sich um die lokal gepflegte Tradition des Böllerschießens, wie sie in vielen süddeutschen Gemeinden bei Festen, Ehrensaluten und kirchlichen Anlässen praktiziert wird.
+Das Böllerschießen ist seit guten 150 Jahren eine feste und laute Tradition in Heuweiler. Eine Gruppe von Böllerschützen findet sich alljährlich zu Fronleichnam zusammen und beschallt von der Wiese an der Jugendhütte in Richtung Halde das Dorf mit enormen Böllerschlägen. Die Böller sind große und schwere und antike geschmiedete Eisenzylinder, die mit Schwarzpulver und Papier, gut zusammengepresst, gefüllt und mit einem Korken verschlossen werden. Gezündet werden die Böller elektrisch und aus sicherer Entfernung.
 
-#### Bedeutung
+Die Schützen stehen per Funkgerät im Kontakt mit der Feuerwehr, die ihnen auf diesem Weg mitteilt, wann die Böller gezündet werden können.
 
-Das Böllerschießen ist Teil des Brauchtumsrepertoires (z. B. bei Dorf- und Vereinsfesten, kirchlichen Feiern, Ehrensaluten). In einer kleinen Gemeinde wie Heuweiler werden solche Traditionen meist von Vereinsabteilungen oder befreundeten Böllergruppen aus der Region übernommen und stärken das Gemeinschaftsgefühl bei Feierlichkeiten.
-
-#### Geschichte
-
-Konkrete historische Informationen zu einer eigenen Böllergruppe in Heuweiler konnten online nicht gefunden werden. Generell reicht die dokumentierte Tradition des Böllerschießens in Süddeutschland bis ins 14.–15. Jahrhundert zurück; heutige Gruppen sind oft Abteilungen von Schützen- oder Heimatvereinen. Für Heuweiler lassen sich Hinweise auf Vereinsleben und aktive Vereine finden (z. B. DJK Heuweiler), über die lokale Brauchtumsaktivitäten koordiniert werden könnten.
-
-#### Besonderheiten
-
-- Es wurde kein eigenständiger Internetauftritt oder offizielle Postadresse für eine "Böllerschützen"-Gruppe in Heuweiler gefunden; Böllerschützen-Aktivitäten könnten daher als Teil anderer Vereine oder als Gastauftritt aus der Umgebung stattfinden. 
-- Rechtlicher Hinweis: Böllerschießen unterliegt Vorschriften (z. B. Erlaubnis nach §27 Sprengstoffgesetz und regelmäßiger Beschuss der Geräte); in Deutschland sind Böllergruppen zumeist organisiert und arbeiten mit den örtlichen Behörden zusammen.

@@ -1,11 +1,11 @@
 ---
 title: Sattlers (Seilerhof / 'Sailerhof')
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.0495
+longitude: 7.901034
 category: Bauernhöfe
 description: Lokaler Bauernhof / Hofanwesen in Heuweiler, im Ort oft 'Sattler's' genannt
   (offiziell Seilerhof / Sailerhof).
-address: ""
+address: Dorfstraße 2, Heuweiler
 website: https://www.heuweiler.de
 image: ""
 image_copyright: ""
@@ -20,17 +20,6 @@ notes: "‚Sattlers‘ ist im Ortals Bezeichnung für das Anwesen Seilerhof / Sa
 
 #### Beschreibung
 
-Sattlers ist die im Ort gebräuchliche Bezeichnung für das Hofanwesen, das offiziell als Seilerhof / Sailerhof bekannt ist; es liegt zwischen Vorderheuweiler und Hinterheuweiler und ist Teil der bäuerlich geprägten Ortsstruktur von Heuweiler.
+Das gedrungene Haus mit dem weit herunter gezogenen Dach ist im Ort bekannt als Sattlers oder auch Sailers. Erbaut wurde es laut Inschrift im Türbalken im Jahre 1787 vom Sigristen Ihringer, der später das Messnerhaus erworben hat. Zuvor wohnte er wohl in einem kleinen Häuschen unterhalb des Merzenhofs und tauschte dieses Land mit dem Merzenbauern gegen ein Stück von dessen Väsacker. An dieser Stelle errichtete er dann das neue Haus, das entgegen der weit verbreiteten Ansicht im Dorf wohl nicht das wieder errichtete Haus ist, das zuvor unterhalb des Merzenhofs gestanden hat.
 
-#### Bedeutung
-
-Das Anwesen ist eines der traditionellen landwirtschaftlichen Gehöfte in Heuweiler und trägt zum ländlichen Ortsbild und zur lokalen Identität bei; Heuweiler wird allgemein als kleine, landwirtschaftlich geprägte Gemeinde beschrieben.
-
-#### Geschichte
-
-Laut örtlicher Darstellung (freiburg-schwarzwald.de) wurde das inzwischen als „Sattler's“ bezeichnete Anwesen (Seilerhof / Sailerhof) historisch am heutigen Standort mit einem Hausbestandteil aus dem 18. Jahrhundert (Inschrift 1787) erwähnt; das Haus soll früher an anderer Stelle gestanden und wieder aufgebaut worden sein.
-
-#### Besonderheiten
-
-- Im Dorf wird das Anwesen oft „Sattler’s“ genannt, teils auch „Sailer’s“ (Familienname Sailer), wodurch lokale Bezeichnung und offizieller Hofname auseinanderfallen. 
-- Der Hof ist für seinen traditionellen Baustil und (laut Lokalbericht) den üppigen Blumenschmuck bekannt, der in lokalen Bildberichten hervorgehoben wird.
+Als seine Tochter im Jahre 1803 Remigius Sailer heiratet, der Sattler ist, erhält sie von ihrem Vater das Haus. Seitdem heisst das Haus Sailers oder richtiger eher Sattlers und bis vor kurzer Zeit wurde das Haus von Familie Sailer bewohnt.

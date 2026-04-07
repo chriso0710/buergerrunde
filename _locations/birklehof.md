@@ -12,8 +12,7 @@ image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:49:07 +0000
 notes: ""
----
-#### Beschreibung
+---#### Beschreibung
 
 Traditioneller Hof (Bauernhof) im Ortsteil Hinterheuweiler von Heuweiler; Adresse: Hinterheuweiler 11.
 

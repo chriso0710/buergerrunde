@@ -23,16 +23,3 @@ notes: Die Anfrage bezog sich auf eine 'Tanzgruppe' in Heuweiler. Es existiert i
 #### Beschreibung
 
 Die Tanzgruppe "Tanz, Herz und Kreativität" bietet in Heuweiler kreative Tanz‑ und Ausdrucksangebote sowie tanztherapeutische Sitzungen und Gruppenarbeit an; Schwerpunkte sind freies Tanzen, Ausdruckstanz und kreative Therapie.
-
-#### Bedeutung
-
-Als lokales Angebot fördert die Tanzgruppe kulturelles Leben, Gemeinschaft und Gesundheitsförderung im kleinen Dorf; sie ergänzt das Vereins- und Kulturangebot (neben Musik‑ und Trachtenvereinen, Feuerwehr etc.) und bietet Treffpunkt und Weiterbildungsmöglichkeiten für Bewohnerinnen und Bewohner.
-
-#### Geschichte
-
-Konkrete historische Angaben zur Gründung einer formellen Tanzgruppe in Heuweiler sind online nicht ausführlich dokumentiert; das Angebot „Tanz, Herz und Kreativität“ wird als lokale Praxis / Gruppentreffen geführt (Privatpraxis / Gruppenangebote; zeitliche Details werden auf der Anbieter-Website genannt). Für die Geschichte und Entwicklung der Gemeinde Heuweiler siehe die Ortsbeschreibung.
-
-#### Besonderheiten
-
-- Das Angebot verbindet Tanz, Ausdruck und therapeutische Elemente (kreative Leibtherapie, Tanztherapie). 
-- Heuweiler ist eine sehr kleine Gemeinde zwischen Freiburg und Emmendingen (PLZ 79194) mit ausgeprägtem Vereinsleben — die Gemeindeseite listet mehrere Vereine und Initiativen.

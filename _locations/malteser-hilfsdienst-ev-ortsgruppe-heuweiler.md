@@ -1,7 +1,7 @@
 ---
 title: Malteser Hilfsdienst e.V. / Ortsgruppe Heuweiler
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.051677
+longitude: 7.903204
 category: Infrastruktur
 description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, aktiv
   in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
@@ -23,18 +23,10 @@ notes: 'Offizielle lokale Website (www.malteser-heuweiler.de) wird in der Gemein
 
 #### Beschreibung
 
-Der Eintrag beschreibt die Ortsgruppe Heuweiler des Malteser Hilfsdienstes e.V., eine lokale Ehrenamts‑Gliederung, die sich auf Sanitätsdienste, Seniorenarbeit und Erste‑Hilfe‑Einsätze im Dorf und der Umgebung konzentriert.
+Seit über 50 Jahren (seit 1966) sind die Malteser in Heuweiler aktiv. Es gibt in der Ortsgliederung eine Kindergruppe und eine Jugendgruppe. Die San-Fit-Gruppe trifft sich einmal monatlich, übt für Sanitätsdienste und bildet sich weiter. Sowohl bei Sportveranstaltungen in Heuweiler und Umgebung (Heimspiele der DJK, Rosskopflauf, Radrennen) als auch bei Großveranstaltungen leisten die Malteser einen wichtigen Dienst.
 
-#### Bedeutung
+Die Gruppe „Soziales Ehrenamt“ bereitet die monatlichen Seniorennachmittage und Tagesfahrten vor. Wöchentlich einmal trifft sich die Sitztanzgruppe, in der Senioren gemeinsam Bewegungsübungen trainieren und sich dadurch geistig und körperlich fit halten. Unterstützt wird die Arbeit von über 70 passiven Mitgliedern, die finanziell, moralisch und aktiv fördern.
 
-Die Malteser in Heuweiler stellen ehrenamtliche Sanitätsdienste bei Veranstaltungen, unterstützen als Helfer‑vor‑Ort (First Responder) und organisieren soziale Angebote wie Seniorennachmittage, Sitztanz und Besuchsdienste — wichtige ergänzende Infrastruktur in der ländlichen Gemeinde.
+Das Wappen der Malteser zeigt das achtspitzige weiße Kreuz auf rotem Grund. Die acht Spitzen des Kreuzes weisen einerseits auf die acht Seligkeiten der Bergpredigt hin, andererseits erinnern sie an die Weisungen Jesu: Hungernde speisen, Dürstende tränken, Obdachlose beherbergen, Nackte bekleiden, Trauernde trösten, Hilflose beschützen, Kranke pflegen, Tote begraben.
 
-#### Geschichte
-
-Die Malteser sind seit Jahrzehnten in Heuweiler aktiv; lokale Quellen nennen eine Präsenz seit den 1960er Jahren. Die Ortsgruppe ist in lokale kirchliche und soziale Strukturen eingebunden und übernahm z. B. Aufgaben im Bereich Seniorenarbeit (Referat Soziales Ehrenamt).
-
-#### Besonderheiten
-
-- Die Ortsgruppe betreibt neben Sanitätsdiensten auch ein stark ausgeprägtes soziales Ehrenamt (Seniorentreffen, Ausflüge, Sitztanz). 
-- Heuweiler selbst ist eine kleine Gemeinde zwischen Freiburg und Emmendingen (Koordinaten Gemeindezentrum: 48.05167; 7.90306). 
-- Die Gemeindeverwaltung listet die Ortsgruppe mit Telefon und Fax sowie einer lokalen Website (www.malteser-heuweiler.de), wobei die lokale Seite zeitweise nicht erreichbar war.
+Wir freuen uns über jeden und jede, der/die bei uns aktiv mitmachen möchte. Und über all, die unsere Arbeit fördern, ob als passives Mitglied oder als Fördermitglied. Deshalb meinen wir: Packen Sie mit an!

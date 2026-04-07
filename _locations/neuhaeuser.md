@@ -1,7 +1,7 @@
 ---
 title: Neuhäuser
-latitude: 48.054696
-longitude: 7.905291
+latitude: 48.055797
+longitude: 7.907827
 category: Wohngebiete
 description: Kleiner Zinken (Weiler) der Gemeinde Heuweiler am Südrand des Glottertals.
 address: ""
@@ -15,7 +15,6 @@ notes: |-
   - Für Geo-Koordinaten wurde Mapbox Reverse-Geocoding verwendet; Mapbox lieferte als nächstliegende Hausadresse "Dorfstraße 19, 79194 Heuweiler" mit Koordinaten 48.05158, 7.90295 (daher sind die angegebenen Koordinaten in der Front-Matter aus Mapbox-Ergebnis abgeleitet und betreffen die Rathaus-/Dorfstraßennähe, nicht eine eigene Postadresse von Neuhäuser).
   - Bild: Luftbild / Ortspanorama von Heuweiler (offizielle Gemeindeseite). Direkter Bildlink geprüft (siehe image-Feld).
 ---
-
 #### Beschreibung
 
 Neuhäuser ist ein kleiner Zinken / Weiler der Gemeinde Heuweiler (Breisgau‑Hochschwarzwald) und liegt an der alten Glottertäler Landstraße südlich des Gemeindezentrums.

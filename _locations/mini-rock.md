@@ -1,13 +1,13 @@
 ---
 title: Mini‑Rock (Kinder‑Second‑Hand)
-latitude: 48.054843
-longitude: 7.906118
+latitude: 48.054324
+longitude: 7.905335
 category: Geschäfte & Gastronomie
-description: Kleiner Kinder‑Second‑Hand‑Laden in Heuweiler (eröffnete laut örtlicher
-  Berichterstattung in der Heldenackerstraße).
+description: "Kleiner Kinder‑Second‑Hand‑Laden in Heuweiler "
+
 address: Heldenackerstraße
 website: https://www.minirock.rocks/
-image: ""
+image: https://www.minirock.rocks/wp-content/uploads/2022/11/cropped-cropped-cropped-mini_head_logo-1.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: '2025-10-15 09:19:12 +0000'
@@ -21,20 +21,11 @@ notes: 'Quellenlage: Der Laden ''Mini‑Rock'' wurde in einem Rückblick der Bü
   Wikipedia Heuweiler, Bürgerrunde Heuweiler, Branchenverzeichnisse (Heldenackerstraße
   existiert).'
 ---
+In unserem kleinen, aber feinen KINDERLÄDELE legen wir großen Wert auf NACHHALTIGKEIT, QUALITÄT und ÜBERSICHTLICHKEIT. Alles ist ordentlich nach Kleidergröße und Art sortiert, so dass Ihr Euch schnell und einfach zurecht findet.
+ 
 
-#### Beschreibung
+ **ÖFFNUNGSZEITEN:**
 
-Mini‑Rock ist ein lokaler Kinder‑Second‑Hand‑Laden in Heuweiler, der in einem Bericht der Bürgerrunde Heuweiler als neuer Laden in der Heldenackerstraße erwähnt wurde.
-
-#### Bedeutung
-
-Der Laden bietet Familien in der kleinen Gemeinde eine nachhaltige Angebotsmöglichkeit für gebrauchte Kinderkleidung und -ausstattung, stärkt lokale Nahversorgung und fördert Tausch/Kreislaufwirtschaft in der Dorfgemeinschaft.
-
-#### Geschichte
-
-Der Laden wurde in einem Rückblick zur Dorfflohmarkt‑Veranstaltung als Neueröffnung genannt; nähere historische Details zur Gründung, Betreiber*innen oder Eröffnungsdatum sind in öffentlich zugänglichen Quellen nicht dokumentiert.
-
-#### Besonderheiten
-
-- Erwähnung als Teil des Dorfflohmarkt‑Rahmenprogramms in Heuweiler, was auf lokale Verankerung und Beteiligung an Gemeindeereignissen hinweist. 
-- Heuweiler ist eine kleine, überwiegend dörfliche Gemeinde im Breisgau‑Hochschwarzwald mit ausgeprägtem Vereins‑ und Nachbarschaftsleben; lokale Geschäfte wie Mini‑Rock tragen zur Stärkung dieses Gefüges bei.
+Mo / Di / Do / Sa   9-12 Uhr
+ 
+Mi  15-18 Uhr
