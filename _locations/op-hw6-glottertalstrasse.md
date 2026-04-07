@@ -6,6 +6,7 @@ category: Mobilität
 description: Orangener Punkt Haltestelle HW 6 an der Glottertalstraße 7, die sechste Haltestelle in Heuweiler.
 address: Glottertalstraße 7
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

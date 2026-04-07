@@ -6,7 +6,8 @@ category: Bauernhöfe
 description: Lokaler Bauernhof / Hofanwesen in Heuweiler, im Ort oft 'Sattler's' genannt
   (offiziell Seilerhof / Sailerhof).
 address: Dorfstraße 2
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

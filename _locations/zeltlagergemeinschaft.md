@@ -7,6 +7,7 @@ description: Ehrenamtliche Zeltlagergemeinschaft (ZLG) aus Heuweiler, organisier
   Jugendlager und Freizeitaktivitäten in und für die Kirchengemeinde/Ortsvereine.
 address: ""
 website: https://an-der-glotter.de/fuer-mitmacher/kinder-und-jugend/zeltlagergemeinschaft-zlg-heuweiler/
+email: info@an-der-glotter.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

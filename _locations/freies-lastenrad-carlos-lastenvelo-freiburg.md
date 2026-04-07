@@ -8,6 +8,7 @@ address: Dorfstraße 21
 latitude: 48.0518347
 longitude: 7.9032817
 website: https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/
+email: info@lastenvelofreiburg.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

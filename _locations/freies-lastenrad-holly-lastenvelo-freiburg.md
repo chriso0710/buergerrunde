@@ -7,6 +7,7 @@ description: Kostenlos ausleihbares E-Lastenrad (Urban Arrow 'Holly'), betrieben
   der Bürgerrunde Heuweiler und eingebunden im Ausleihnetz von LastenVelo Freiburg.
 address: Am Flissert 4
 website: https://buergerrunde.heuweiler.net/holly/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

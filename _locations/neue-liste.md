@@ -6,6 +6,7 @@ category: Vereine & Gruppen
 description: Lokale Wählerliste / politische Gruppierung in der Gemeinde Heuweiler.
 address: ""
 website: https://www.neueliste-heuweiler.de/
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

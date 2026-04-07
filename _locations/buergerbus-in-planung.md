@@ -6,6 +6,7 @@ address: ""
 latitude: 48.042249
 longitude: 7.866287
 website: https://stadtland-bus.de/
+email: info@stadtland-bus.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

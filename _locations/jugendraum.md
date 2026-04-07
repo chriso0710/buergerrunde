@@ -7,6 +7,7 @@ description: Gemeindlicher Treffpunkt für Kinder und Jugendliche im Gebäudekom
   am Kirchberg (bei Kirchberghalle / Grundschule) in Heuweiler.
 address: Kirchberg 2
 website: https://www.heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

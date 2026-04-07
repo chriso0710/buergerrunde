@@ -7,6 +7,7 @@ address: Hinterheuweiler 6
 latitude: 48.045062
 longitude: 7.899723
 website: http://www.gehrihof.com
+email: gehrihof@t-online.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

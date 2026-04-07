@@ -7,6 +7,7 @@ address: Dorfstraße 19
 latitude: 48.0516435
 longitude: 7.9028885
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

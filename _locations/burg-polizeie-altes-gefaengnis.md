@@ -6,6 +6,7 @@ category: Historische Gebäude
 description: "Historisches Fachwerkhaus auf dem Kirchberg, erbaut 1810 als Polizeiposten mit Arrestzelle, Rat- und Schulhaus."
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

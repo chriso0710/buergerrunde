@@ -6,6 +6,7 @@ address: Hinterheuweiler 14a
 latitude: 48.045945
 longitude: 7.901286
 website: https://rfv-heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

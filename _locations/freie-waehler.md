@@ -7,6 +7,7 @@ description: Lokale Wählergemeinschaft (Freie Wähler / FWG) und Fraktion im Ge
   von Heuweiler.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

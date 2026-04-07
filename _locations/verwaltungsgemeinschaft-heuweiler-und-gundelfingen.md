@@ -7,6 +7,7 @@ description: Verwaltungsstelle/Gemeindehaus von Heuweiler im Rahmen der Verwaltu
   mit Gundelfingen.
 address: Dorfstraße 21
 website: https://www.heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

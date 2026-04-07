@@ -8,6 +8,7 @@ description: Traditionelle Böllerschützen-Gruppe / Brauchtumsakteur, der bei F
   online auffindbar).
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

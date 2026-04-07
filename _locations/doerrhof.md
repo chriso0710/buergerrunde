@@ -5,7 +5,8 @@ longitude: 7.903271
 category: Bauernhöfe
 description: Traditionsreicher Hof im Kerndorf von Heuweiler, genannt Dörrhof.
 address: Dorfstraße 23
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

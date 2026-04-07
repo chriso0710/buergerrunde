@@ -7,6 +7,7 @@ address: Am Flissert 6
 latitude: 48.054432
 longitude: 7.909479
 website: https://buergerrunde.heuweiler.net/
+email: buergerrunde@heuweiler.net
 image: https://buergerrunde.heuweiler.net/assets/images/br_logo.svg
 image_copyright: ""
 generated_by: gpt-5-mini

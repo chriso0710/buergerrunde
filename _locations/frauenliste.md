@@ -7,6 +7,7 @@ address: Sonja Weiss, Hinterheuweiler 22
 latitude: 48.04809
 longitude: 7.900754
 website: https://frauenliste-heuweiler.de/
+email: info@frauenliste-heuweiler.de
 image: https://frauenliste-heuweiler.de/wp-content/uploads/2019/03/logo-frauenliste-sm.png
 image_copyright: ""
 generated_by: gpt-5-mini

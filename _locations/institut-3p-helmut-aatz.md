@@ -7,6 +7,7 @@ description: Beratungs- und Ausbildungsinstitut für Achtsamkeit, Resilienz und 
   Gesundheitsmanagement unter der Leitung von Helmut Aatz.
 address: Kirchberg 12
 website: https://www.institut3p.de/
+email: aatz@institut3p.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

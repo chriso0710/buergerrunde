@@ -6,7 +6,8 @@ category: Religiöse Stätten
 description: Kleiner Gemeindefriedhof auf dem Kirchberg oberhalb der Pfarrkirche St.
   Remigius in Heuweiler.
 address: Kirchberg 2a
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

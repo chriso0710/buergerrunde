@@ -7,6 +7,7 @@ description: Zentrale Turn- und Festhalle von Heuweiler für Vereinsleben, Kultu
   und Sportveranstaltungen.
 address: Kirchberg 2
 website: https://www.heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

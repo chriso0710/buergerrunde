@@ -5,7 +5,8 @@ longitude: 7.907827
 category: Wohngebiete
 description: Kleiner Zinken (Weiler) der Gemeinde Heuweiler am Südrand des Glottertals.
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

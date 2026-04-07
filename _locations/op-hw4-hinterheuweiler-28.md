@@ -7,6 +7,7 @@ address: Hinterheuweiler 28
 latitude: 48.049026
 longitude: 7.9010921
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

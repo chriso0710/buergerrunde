@@ -6,6 +6,7 @@ address: Hinterheuweiler 10
 latitude: 48.0448139
 longitude: 7.9022072
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

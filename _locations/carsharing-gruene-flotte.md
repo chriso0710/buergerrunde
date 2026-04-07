@@ -8,6 +8,7 @@ description: "Stationsstandort der regionalen Carsharing-Anbieters „Grüne
   Feldeleweg) in Heuweiler"
 address: Gundelfinger Straße 8
 website: https://gruene-flotte.com/carsharing/
+email: info@gruene-flotte-carsharing.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

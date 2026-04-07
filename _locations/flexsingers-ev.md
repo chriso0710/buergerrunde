@@ -7,6 +7,7 @@ description: Projektchor / neuer Gesangsverein in Heuweiler, gegründet 2025, de
   in Projekten und Konzerten auftritt.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

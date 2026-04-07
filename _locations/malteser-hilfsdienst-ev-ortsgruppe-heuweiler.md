@@ -7,6 +7,7 @@ description: Ehrenamtliche Ortsgruppe des Malteser Hilfsdienstes in Heuweiler, a
   in Sanitätsdiensten, Seniorenarbeit und als Helfer‑vor‑Ort.
 address: ""
 website: https://www.malteser-heuweiler.de/
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

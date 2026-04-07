@@ -7,6 +7,7 @@ address: Dorfstraße 22
 latitude: 48.052077
 longitude: 7.903343
 website: https://www.genossenschaft-heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

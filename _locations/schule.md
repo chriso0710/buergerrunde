@@ -6,6 +6,7 @@ category: Öffentliche Gebäude
 description: Außenstelle der Johann-Peter-Hebel-Grundschule Gundelfingen in Heuweiler; Grundschulunterricht für die Kinder der Gemeinde.
 address: Am Kirchberg 2
 website: https://www.heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

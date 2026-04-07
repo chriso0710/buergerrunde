@@ -7,6 +7,7 @@ address: ""
 latitude: 48.0458322
 longitude: 7.9004772
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

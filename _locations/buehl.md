@@ -6,7 +6,8 @@ category: Wohngebiete
 description: Kleiner Weiler / Siedlungsname im Gebiet der Gemeinde Heuweiler im Breisgau‑Hochschwarzwald
   (ein separater Ort 'Bühl' online nicht eindeutig nachweisbar).
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -7,6 +7,7 @@ description: "|+
   Kleiner öffentlicher Platz/Platzanlage in Heuweiler."
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

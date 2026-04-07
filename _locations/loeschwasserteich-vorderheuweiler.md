@@ -6,7 +6,8 @@ category: Infrastruktur
 description: Künstlich angelegter Löschwasserteich in Vorderheuweiler zur Sicherstellung
   der Löschwasserversorgung und als kleines Stillgewässer im Ortsbereich.
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

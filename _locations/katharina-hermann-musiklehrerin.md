@@ -6,7 +6,8 @@ category: Handwerk & Gewerbe
 description: Musiklehrerin und Chorleiterin aus Heuweiler, aktiv in lokalen Kulturprojekten
   und Chorarbeit.
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

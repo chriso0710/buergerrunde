@@ -6,7 +6,8 @@ category: Vereine & Gruppen
 description: Lokaler Arbeitskreis zur Pflege, Gestaltung und Erhaltung des Dorfbildes
   von Heuweiler.
 address: Dorfstraße 21
-website: https://www.heuweiler.de/
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

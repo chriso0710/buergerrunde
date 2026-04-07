@@ -6,6 +6,7 @@ category: Handwerk & Gewerbe
 description: Kleiner regionaler Tiefbau- und Erdbau-Betrieb in Heuweiler (Litzelstahlerhof).
 address: Litzelstahlerhof 2
 website: https://meder-tiefbau.de/
+email: martin.meder@online.de
 image: http://meder-tiefbau.de/wp-content/uploads/2020/04/logo.jpg
 image_copyright: ""
 generated_by: gpt-5-mini

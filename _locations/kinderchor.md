@@ -7,6 +7,7 @@ description: Lokaler Kinderchor der Pfarrgemeinde St. Remigius in Heuweiler, der
   und Gemeindeveranstaltungen musikalisch mitgestaltet.
 address: Kirchberg 4
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

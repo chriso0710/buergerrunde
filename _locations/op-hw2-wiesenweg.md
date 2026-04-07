@@ -6,6 +6,7 @@ category: Mobilität
 description: Orangener Punkt Haltestelle HW 2 am Dorfausgang Richtung Gundelfingen zwischen Wiesen- und Weidweg.
 address: Wiesenweg 1
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

@@ -6,7 +6,8 @@ category: Historische Gebäude
 description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, errichtet
   als Gedenkstätte für Gefallene.
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

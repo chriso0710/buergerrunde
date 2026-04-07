@@ -7,6 +7,7 @@ description: Kleines, familiär geführtes Hotel Garni in Heuweiler (Hotel Garni
   Bank) mit Frühstücksangebot und wenigen Zimmern.
 address: Holzweg 5
 website: http://www.hotel-garni-heuweiler.de
+email: info@hotel-garni-heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

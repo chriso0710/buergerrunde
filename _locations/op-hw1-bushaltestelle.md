@@ -6,6 +6,7 @@ category: Mobilität
 description: Orangener Punkt Haltestelle HW 1 an der Bushaltestelle am Dorfausgang Richtung Denzlingen/Glottertal mit Sitzbank.
 address: Dorfstraße, Ecke Glottertalstraße
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

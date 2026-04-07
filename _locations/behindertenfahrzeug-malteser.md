@@ -8,6 +8,7 @@ description: Ehrenamtlich betriebener Fahrdienst der Malteser-Ortsgruppe Heuweil
   Personen.
 address: ""
 website: https://www.malteser.de/standorte/heuweiler.html
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

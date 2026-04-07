@@ -6,6 +6,7 @@ category: Mobilität
 description: Orangener Punkt Haltestelle HW 5 an der Dorfstraße 7, Ecke Waldstraße, derzeit Bus-Ersatzhaltestelle mit Sitzbank.
 address: Dorfstraße 7, Ecke Waldstraße
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

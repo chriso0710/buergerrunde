@@ -6,7 +6,8 @@ category: Straßen & Wege
 description: "Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung
   Denzlingen und Gundelfingen gehört.        "
 address: Malefikantenweg
-website: "https://www.heuweiler.de"
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: "gpt-5-mini"

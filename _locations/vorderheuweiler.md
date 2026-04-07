@@ -6,7 +6,8 @@ category: Wohngebiete
 description: Ortsteil Vorderheuweiler der Gemeinde Heuweiler – ein kleines, überwiegend
   Wohn- und landwirtschaftlich geprägtes Wohngebiet im Breisgau.
 address: Dorfstraße 21
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

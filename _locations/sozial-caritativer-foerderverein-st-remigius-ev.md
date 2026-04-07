@@ -7,6 +7,7 @@ description: Lokaler Förderverein zur Unterstützung der sozial‑caritativen A
   der Pfarrgemeinde St. Remigius in Heuweiler.
 address: Kirchberg 6
 website: https://www.an-der-glotter.de/kirche-vor-ort/heuweiler/soziale-einrichtungen/sozial-caritativer-foerderverein/
+email: info@an-der-glotter.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -6,7 +6,8 @@ description: Kleiner Löschwasserteich in Hinterheuweiler, genutzt als
 address: ""
 latitude: 48.0423803
 longitude: 7.8966181
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

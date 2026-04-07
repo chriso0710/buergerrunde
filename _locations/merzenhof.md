@@ -7,6 +7,7 @@ description: Historischer Hof (Merzenhof) im Kern von Heuweiler, Teil der tradit
   Hofstruktur des Ortes.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

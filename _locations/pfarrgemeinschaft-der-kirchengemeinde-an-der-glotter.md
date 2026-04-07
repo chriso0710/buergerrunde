@@ -7,6 +7,7 @@ description: Katholische Pfarrgemeinschaft (Seelsorgeeinheit â€žAn der Glotterâ€
   der Pfarrkirche St. Remigius auf dem Kirchberg in Heuweiler.
 address: Kirchberg 6
 website: https://an-der-glotter.de/
+email: info@an-der-glotter.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

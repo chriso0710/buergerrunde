@@ -7,6 +7,7 @@ address: Dorfstraße 9
 latitude: 48.050371
 longitude: 7.902696
 website: http://schaffers-partyservice.de
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

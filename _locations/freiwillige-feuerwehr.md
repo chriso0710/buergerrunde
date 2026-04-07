@@ -9,6 +9,7 @@ address: Gundelfinger Straße 11
 latitude: 48.051732
 longitude: 7.903429
 website: https://www.heuweiler.de/unsere-gemeinde/feuerwehr
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -7,7 +7,8 @@ description:
   Das Gemeindeteam der Pfarrgemeinde St. Remigius in Heuweiler (Kirchberg
   4) betreut die katholische Gemeinde vor Ort und organisiert Gottesdienste und Gemeindeleben.
 address: Kirchberg 4
-website: https://www.an-der-glotter.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

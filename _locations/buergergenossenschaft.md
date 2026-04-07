@@ -7,6 +7,7 @@ description: Lokale Bürgergenossenschaft zur Schaffung bezahlbaren Wohnraums un
   Stärkung der Nahversorgung (Projekt Alt‑Vogtshof / Dorfladen) in Heuweiler.
 address: Im Mättle 6
 website: https://www.genossenschaft-heuweiler.de/
+email: rathaus@heuweiler.de
 image: https://static.wixstatic.com/media/fe68f3_719e3abbc99f4a71917a8df67aaf5e59~mv2.png
 image_copyright: ""
 generated_by: gpt-5-mini

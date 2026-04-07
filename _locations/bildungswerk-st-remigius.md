@@ -7,7 +7,8 @@ description:
   Kirchlich getragenes Bildungswerk der Pfarrgemeinde St. Remigius in Heuweiler
   für Vorträge, Kurse und Gemeindeveranstaltungen.
 address: Kirchberg 4
-website: https://www.an-der-glotter.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -7,6 +7,7 @@ description: Narrenzunft aus Heuweiler, aktiv in der schwäbisch-alemannischen F
   und Veranstalter von Umzügen und Zunftabenden.
 address: Kirchberg 3
 website: https://leheneckbestien-heuweiler.de
+email: info@leheneckbestien-heuweiler.de
 image: https://leheneckbestien-heuweiler.de/wp-content/uploads/2024/05/Logo-breit-140x44mm-pdf.jpg
 image_copyright: ""
 generated_by: gpt-5-mini

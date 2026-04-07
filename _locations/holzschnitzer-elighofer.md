@@ -7,6 +7,7 @@ description: Traditioneller Holzschnitzer aus Heuweiler, aktiv in Restaurations-
   Kunstholzarbeiten sowie in ehrenamtlichen Dorfprojekten.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

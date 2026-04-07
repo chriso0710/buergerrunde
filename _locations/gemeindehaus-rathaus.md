@@ -6,6 +6,7 @@ category: Öffentliche Gebäude
 description: "Das Gemeindehaus (Rathaus) Heuweiler ist die zentrale Verwaltungsstelle der Gemeinde und Standort für Bürgerservice, Gemeinderatssitzungen und Gemeindeveranstaltungen."
 address: Dorfstraße 21
 website: "https://www.heuweiler.de"
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: "gpt-5-mini"

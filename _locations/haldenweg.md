@@ -6,7 +6,8 @@ category: Straßen & Wege
 description: Vermuteter Ortsname für eine Weg-/Straßenbezeichnung in der Gemeinde
   Heuweiler; in offiziellen Quellen nicht als eigenständige Straße nachweisbar.
 address: ""
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

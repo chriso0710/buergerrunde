@@ -6,7 +6,8 @@ description: Kleiner historischer Dorfbrunnen auf dem Dorfplatz (Dorfstraße) im
 address: Dorfplatz / Dorfstraße 20
 latitude: 48.0519604
 longitude: 7.9033387
-website: https://www.heuweiler.de/
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

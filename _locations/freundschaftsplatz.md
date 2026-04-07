@@ -6,7 +6,8 @@ category: Veranstaltungsorte
 description: 'Kleiner Dorfplatz / Treffpunkt am Rand von Heuweiler (gem. lokale Quellen:
   ‚Freundschaftsplatz am Malefikantenweg‘), genutzt für Pflanzaktionen und Nachbarschaftstreffen.'
 address: ""
-website: https://www.heuweiler.de/
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

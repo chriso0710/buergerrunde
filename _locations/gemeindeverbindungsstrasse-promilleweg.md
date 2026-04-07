@@ -6,7 +6,8 @@ description: Lokale Gemeindeverbindungsstraße in Heuweiler (umgangssprachlich
 address: ""
 latitude: 48.052124
 longitude: 7.894621
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

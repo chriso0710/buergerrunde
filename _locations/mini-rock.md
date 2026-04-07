@@ -6,6 +6,7 @@ category: Geschäfte & Gastronomie
 description: "Kleiner Kinder‑Second‑Hand‑Laden in Heuweiler"
 address: Heldenackerstraße
 website: https://www.minirock.rocks/
+email: caroline@minirock.rocks
 image: https://www.minirock.rocks/wp-content/uploads/2022/11/cropped-cropped-cropped-mini_head_logo-1.jpg
 image_copyright: ""
 generated_by: gpt-5-mini

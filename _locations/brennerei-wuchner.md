@@ -7,6 +7,7 @@ address: Dorfstraße 8a
 latitude: 48.0501964
 longitude: 7.9023131
 website: https://www.maidli-gin.de
+email: info@maidli-gin.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

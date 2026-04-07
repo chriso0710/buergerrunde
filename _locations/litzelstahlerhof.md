@@ -7,6 +7,7 @@ description: Historischer Einzelhof (Bauernhof) und Wohnplatz in der Gemarkung H
   (Ortsteil/Lagepunkt Hinterheuweiler).
 address: Litzelstahlerhof 2
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

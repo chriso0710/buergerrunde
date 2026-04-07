@@ -7,6 +7,7 @@ address: Hinterheuweiler 17
 latitude: 48.046801
 longitude: 7.9010803
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -7,6 +7,7 @@ address: Hinterheuweiler 2
 latitude: 48.0403319
 longitude: 7.8979264
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

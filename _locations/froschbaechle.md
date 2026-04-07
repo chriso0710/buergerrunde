@@ -7,6 +7,7 @@ description: Kleines Tal und Quellbereich (Bachlauf) in der Gemarkung Heuweiler,
   die Talwanne des Ortes entwässert.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

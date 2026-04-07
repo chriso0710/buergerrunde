@@ -6,6 +6,7 @@ category: Historische Gebäude
 description: "Das Gebäude zwischen Kirche und Pfarrhaus ist eines der ältesten Wohnhäuser in Heuweiler."
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

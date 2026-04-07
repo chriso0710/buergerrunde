@@ -6,6 +6,7 @@ category: Mobilität
 description: Orangener Punkt Haltestelle am zentralen Dorfplatz direkt vor dem Rathaus Heuweiler, die achte und neueste Haltestelle.
 address: Dorfstraße 21
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: copilot

@@ -7,6 +7,7 @@ description: Reguläre ÖPNV-Bushaltestelle "Heuweiler Laube" an der Linie 7205 
   gelegen an der Glottertalstraße nahe dem ehemaligen Landhotel Laube.
 address: Glottertalstraße 1
 website: https://www.heuweiler.de/unsere-gemeinde/anfahrt-lage-oepnv
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

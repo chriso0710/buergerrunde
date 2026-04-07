@@ -7,6 +7,7 @@ description: Sportplatz mit Vereinsheim der DJK Heuweiler — zentrale Sport- un
   des Ortes.
 address: Glottertalstraße 11
 website: https://www.djkheuweiler.de
+email: vorstand@djkheuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

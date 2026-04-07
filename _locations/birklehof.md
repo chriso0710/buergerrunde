@@ -6,6 +6,7 @@ address: Hinterheuweiler 11
 latitude: 48.0454348
 longitude: 7.9034343
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

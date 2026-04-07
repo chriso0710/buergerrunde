@@ -7,6 +7,7 @@ description: Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottes
   und kirchliche Feste musikalisch begleitet.
 address: Kirchberg 6
 website: https://an-der-glotter.de/fuer-mitmacher/kirchenmusik/kirchenchor-glottertal/
+email: info@an-der-glotter.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

@@ -7,6 +7,7 @@ description: Hofladen und Obstbetrieb in Heuweiler mit saisonalem Angebot (Äpfe
   Beeren, Gemüse) und Hofverkauf.
 address: Glottertal Straße 8
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

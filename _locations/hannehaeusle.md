@@ -7,6 +7,7 @@ description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remi
   in Heuweiler, das seit Jahrzehnten leersteht.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

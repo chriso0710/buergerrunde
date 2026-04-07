@@ -7,6 +7,7 @@ address: Hinterheuweiler 11
 latitude: 48.045414
 longitude: 7.9033307
 website: https://landfrauen-heuweiler.jimdofree.com/
+email: landfrauenheuweiler@gmail.com
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

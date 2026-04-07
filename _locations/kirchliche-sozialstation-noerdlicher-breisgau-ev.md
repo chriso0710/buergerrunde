@@ -7,6 +7,7 @@ description: Regionale, ökumenisch getragene ambulante Sozialstation mit lokale
   (Betreuungsgruppe, Beratung) für Heuweiler.
 address: Dorfstraße 21
 website: https://www.sozialstation-boetzingen.de
+email: kontakt@sozialstation-boetzingen.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

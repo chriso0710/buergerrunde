@@ -7,6 +7,7 @@ description: Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuw
   betrieben von Ines Zschau.
 address: Dorfstraße 22
 website: https://cafe-iz.de
+email: info@cafe-iz.de
 image: http://cafe-iz.de/wp-content/uploads/2022/07/logo-cafe-iz-basic.png
 image_copyright: ""
 generated_by: gpt-5-mini

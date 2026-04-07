@@ -7,6 +7,7 @@ description: Kleine, gemeindenahe Jugendhütte in Heuweiler, die als Treffpunkt 
   lokale Jugend- und Vereinsaktivitäten dient.
 address: ""
 website: ''
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

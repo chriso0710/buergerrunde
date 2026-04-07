@@ -6,7 +6,8 @@ category: Religiöse Stätten
 description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar und
   seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
 address: Kirchberg 6
-website: https://www.an-der-glotter.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

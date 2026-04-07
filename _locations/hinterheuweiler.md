@@ -6,7 +6,8 @@ description: Kleiner Weiler (Ortsteil) von Heuweiler mit vorwiegend Wohnnutzung,
 address: Hinterheuweiler
 latitude: 48.044452
 longitude: 7.898955
-website: https://www.heuweiler.de
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

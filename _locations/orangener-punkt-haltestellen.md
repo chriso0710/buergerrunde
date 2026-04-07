@@ -7,6 +7,7 @@ description: Netz von Mitfahr‑Haltestellen (Orangener Punkt) in Heuweiler zur 
   spontaner und geplanter Fahrgemeinschaften.
 address: Dorfstraße 21
 website: https://buergerrunde.heuweiler.net/op/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

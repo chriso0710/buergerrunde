@@ -6,6 +6,7 @@ address: Dorfstraße 14
 latitude: 48.0511325
 longitude: 7.9026015
 website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

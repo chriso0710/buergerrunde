@@ -7,6 +7,7 @@ description: Ortsansässiger Musikverein (Trachtenkapelle) von Heuweiler, aktiv 
   Blasmusik, Brauchtumspflege und Dorfveranstaltungen.
 address: Glottertalstraße 10
 website: http://www.trachtenkapelle-heuweiler.de
+email: rathaus@heuweiler.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

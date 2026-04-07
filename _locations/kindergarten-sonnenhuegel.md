@@ -8,6 +8,7 @@ description: Kleiner zweigruppiger katholischer Kindergarten in Trägerschaft de
   und Waldpädagogik-Elemente).
 address: Kirchberg 2a
 website: https://www.an-der-glotter.de/wir-bieten/kindertagesstaetten/kita-heuweiler-zum-sonnenhuegel/
+email: info@an-der-glotter.de
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini

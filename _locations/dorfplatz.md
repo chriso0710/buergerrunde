@@ -6,7 +6,8 @@ description: Zentraler Dorfplatz in der Ortsmitte von Heuweiler (Bereich
 address: Dorfstraße 21
 latitude: 48.0518641
 longitude: 7.903442
-website: https://www.heuweiler.de/
+website: ""
+email: ""
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
