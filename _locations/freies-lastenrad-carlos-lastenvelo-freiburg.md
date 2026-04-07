@@ -7,8 +7,8 @@ description: Kostenlos ausleihbares E-Lastenrad 'Carlos' (LastenVelo Freiburg)
 address: Dorfstraße 21
 latitude: 48.0518347
 longitude: 7.9032817
-website: https://www.lastenvelofreiburg.de/ausleihen-lastenvelo-21/
-email: info@lastenvelofreiburg.de
+website: https://buergerrunde.heuweiler.net/carlos/
+email: buergerrunde@heuweiler.net
 image: ""
 image_copyright: ""
 generated_by: gpt-5-mini
