@@ -1,4 +1,5 @@
 <!-- begin post -->
+{% unless post.hidden %}
 {% if include.compact %} {% assign option_compact = true %} {% else %} {% assign
 option_compact = false %} {% endif %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -82,4 +83,5 @@ option_compact = false %} {% endif %}
     </div>
   </div>
 </div>
+{% endunless %}
 <!-- end post -->

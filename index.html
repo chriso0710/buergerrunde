@@ -35,10 +35,8 @@ title: Home
     <h1><span>{{ site.static.featured }}</span></h1>
   </div>
   <div class="row listrecent">
-    {% for post in filtered_posts limit: 12 %} 
-      {% if post.hidden != true %} 
-        {% include postbox.html %} 
-      {% endif %} 
+    {% for post in filtered_posts limit: 12 %}
+        {% include postbox.html %}
     {% endfor %}
   </div>
 </section>

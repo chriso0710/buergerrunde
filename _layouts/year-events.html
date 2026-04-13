@@ -14,6 +14,7 @@ title: Veranstaltungen
 </div>
 <ul>
     {% for post in year.items %}
+        {% unless post.hidden %}
         {% if post.event %}
             <li>
                 <span class="badge badge-danger">{{ post.event | german_datetime }}</span>
@@ -21,6 +22,7 @@ title: Veranstaltungen
                 | {{ post.location }}
             </li>
         {% endif %}
+        {% endunless %}
     {% endfor %}
 </ul>
 {% endfor %}

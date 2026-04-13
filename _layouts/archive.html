@@ -15,14 +15,16 @@ title: Archiv
     </div>
     <ul>
     {% for post in year.items %}
+        {% unless post.hidden %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
-        {% if post.author %} 
-            {% assign author = site.authors[post.author] %} 
-            {{ author.display_name }} 
-        {% endif %} 
-        {{ post.date | german_date }} 
+        {% if post.author %}
+            {% assign author = site.authors[post.author] %}
+            {{ author.display_name }}
+        {% endif %}
+        {{ post.date | german_date }}
+        {% endunless %}
     {% endfor %}
     </ul>
 {% endfor %}

@@ -12,7 +12,7 @@ var documents = [
     "title": "{{ page.title | escape }}",
     "body": "{{ page.content | markdownify | strip_html | strip_newlines | escape }}"
     {% assign counter = counter | plus: 1 %}
-    }, {% endif %}{% endfor %}{% for page in site.posts %}
+    }, {% endif %}{% endfor %}{% for page in site.posts %}{% unless page.hidden %}
     {
     "id": {{ counter }},
     "url": "{{ page.url | prepend: site.baseurl }}",
@@ -20,7 +20,7 @@ var documents = [
     "body": "{{ page.content | markdownify | strip_html | strip_newlines | escape }}"
     {% assign counter = counter | plus: 1 %}
     }
-    {% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+    {% if forloop.last %}{% else %}, {% endif %}{% endunless %}{% endfor %}
     ];
 
 var idx = lunr(function () {
