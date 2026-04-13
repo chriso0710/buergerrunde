@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 5 - Dorfstraße Ecke Waldstraße
 latitude: 48.050546
 longitude: 7.902623

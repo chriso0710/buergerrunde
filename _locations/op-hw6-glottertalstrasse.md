@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 6 - Glottertalstraße 7
 latitude: 48.055651
 longitude: 7.910905

@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 4 - Hinterheuweiler 28
 category: Mobilität
 description: Orangener Punkt Haltestelle HW 4 in Hinterheuweiler Richtung

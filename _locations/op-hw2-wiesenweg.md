@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 2 - Wiesenweg Ortsausgang Gundelfingen
 latitude: 48.051456
 longitude: 7.900926

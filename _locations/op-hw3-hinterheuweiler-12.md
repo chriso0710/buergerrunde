@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 3 - Hinterheuweiler 12 Birklehof
 category: Mobilität
 description: Orangener Punkt Haltestelle HW 3 in Hinterheuweiler in der Kurve

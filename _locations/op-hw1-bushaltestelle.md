@@ -1,4 +1,5 @@
 ---
+published: false
 title: OP HW 1 - Bushaltestelle Dorfausgang Glottertal
 latitude: 48.056895
 longitude: 7.906536
