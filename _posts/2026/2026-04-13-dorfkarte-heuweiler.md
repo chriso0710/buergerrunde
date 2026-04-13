@@ -18,4 +18,4 @@ Das Redaktionsteam -- Andreas Fritz, Holger Gutmann, Jan Müller und Christian O
 - **Fotos:** Für die meisten Einträge fehlen noch Bilder. Wenn ihr passende Fotos habt und die **Bildrechte** daran besitzt (also selbst aufgenommen), freuen wir uns sehr darüber. Bitte gebt bei der Zusendung an, welcher Ort abgebildet ist und wer das Foto gemacht hat.
 - **Fehlende Orte:** Kennt ihr einen Ort, der noch nicht auf der Karte ist? Auch Hinweise auf fehlende Einträge nehmen wir gerne entgegen.
 
-Schickt uns eure Korrekturen, Fotos und Hinweise einfach per E-Mail an [buergerrunde@heuweiler.net](mailto:buergerrunde@heuweiler.net). Vielen Dank!
+Schickt uns eure Korrekturen, Fotos und Hinweise einfach per E-Mail an [dorfkarte@heuweiler.net](mailto:dorfkarte@heuweiler.net). Vielen Dank!
