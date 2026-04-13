@@ -4,7 +4,8 @@ title: Archiv
 ---
 
 <div class="section-title">
-  <h1><span>{{ page.title }}</span> ({{ site.posts.size }})</h1>
+  {% assign visible_posts = site.posts | where_exp: "p", "p.hidden != true" %}
+  <h1><span>{{ page.title }}</span> ({{ visible_posts.size }})</h1>
 </div>
 
 {% include search-lunr.html %} 

@@ -6,26 +6,30 @@ title: Home
 {% assign today_unix = 'now' | date: '%s' | plus: 0 %} 
 {% if page.url == "/" %}
   {% assign filtered_posts = "" | split: ',' %} 
-  {% for post in site.posts %} 
-    {% if post.event %} 
-      {% assign event_unix = post.event | date: '%s' | plus: 0 %} 
-      {% if event_unix >= today_unix or post.featured %} 
-        {% assign filtered_posts = filtered_posts | push: post %} 
-      {% endif %} 
-    {% endif %} 
-  {% endfor %} 
-  
-  {% assign filtered_posts = filtered_posts | sort: 'event' %} 
+  {% for post in site.posts %}
+    {% unless post.hidden %}
+    {% if post.event %}
+      {% assign event_unix = post.event | date: '%s' | plus: 0 %}
+      {% if event_unix >= today_unix or post.featured %}
+        {% assign filtered_posts = filtered_posts | push: post %}
+      {% endif %}
+    {% endif %}
+    {% endunless %}
+  {% endfor %}
+
+  {% assign filtered_posts = filtered_posts | sort: 'event' %}
 
   {% for post in site.posts %}
-    {% if post.event %} 
-      {% assign event_unix = post.event | date: '%s' | plus: 0 %} 
-      {% if event_unix < today_unix and post.featured == nil %} 
-        {% assign filtered_posts = filtered_posts | push: post %} 
-      {% endif %} 
-    {% else %} 
-      {% assign filtered_posts = filtered_posts | push: post %} 
-    {% endif %} 
+    {% unless post.hidden %}
+    {% if post.event %}
+      {% assign event_unix = post.event | date: '%s' | plus: 0 %}
+      {% if event_unix < today_unix and post.featured == nil %}
+        {% assign filtered_posts = filtered_posts | push: post %}
+      {% endif %}
+    {% else %}
+      {% assign filtered_posts = filtered_posts | push: post %}
+    {% endif %}
+    {% endunless %}
   {% endfor %} 
     
 {% endif %}
@@ -46,6 +50,6 @@ title: Home
   <span class="navigation" role="navigation">
     {{ site.static.older_articles }}
     <a href="{{ site.baseurl }}/archive">{{ site.static.archive }}</a>
-    ({{ site.posts.size }})
+    ({% assign visible_posts = site.posts | where_exp: "p", "p.hidden != true" %}{{ visible_posts.size }})
   </span>
 </div>

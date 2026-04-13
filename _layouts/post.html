@@ -144,11 +144,11 @@ archive: false
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.next.url %}
+            {% if page.next.url and page.next.hidden != true %}
             <a class="next d-block col-md-6" href="{{ site.baseurl }}{{page.next.url}}">&laquo; {{page.next.title}}</a>
             {% endif %}
-            {% if page.previous.url %}
-            <a class="prev d-block col-md-6 text-lg-right" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}} &raquo;</a>
+            {% if page.previous.url and page.previous.hidden != true %}
+            <a class="prev d-block col-md-6 text-lg-right ml-auto" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}} &raquo;</a>
             {% endif %}
             <div class="clearfix"></div>
             </div>
