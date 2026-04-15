@@ -1,6 +1,6 @@
 ---
 title: "Die interaktive Dorfkarte von Heuweiler"
-categories: [Gemeinschaft]
+categories: [Gemeinschaft, Weiterbildung]
 author: co
 image: "/assets/images/dorfkarte.png"
 hidden: true
