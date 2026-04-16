@@ -1,8 +1,37 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
+
+:root {
+  /* Farben */
+  --color-primary: #f74d36;
+  --color-text: rgba(0, 0, 0, 0.8);
+  --color-text-muted: rgba(0, 0, 0, 0.44);
+  --color-text-light: rgba(0, 0, 0, 0.5);
+  --color-text-secondary: rgba(0, 0, 0, 0.6);
+  --color-white: #fff;
+  --color-border: #ddd;
+  --color-border-light: rgba(0, 0, 0, 0.05);
+  --color-bg-gray: #fafafa;
+  --color-bg-dark: #222;
+  --color-gray: #999;
+  --color-gray-light: #eaeaea;
+  --color-gray-medium: #666;
+  --color-overlay: rgba(0, 0, 0, 0.75);
+  --color-border-medium: rgba(0, 0, 0, 0.09);
+  --color-shadow: rgba(0, 0, 0, 0.15);
+  --color-bg-loading: #f2f2f2;
+
+  /* Schriften */
+  --font-sans: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-sans-full: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: monospace, sans-serif;
+}
 @media screen and (min-width: 1500px) {
   html {
     font-size: 18px;
@@ -16,35 +45,35 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-  color: #f74d36;
+  color: var(--color-primary);
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #f74d36;
+  color: var(--color-primary);
   text-decoration: none;
 }
 
 pre {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  border: #e3edf3 1px solid;
+  border: var(--color-border) 1px solid;
   width: 100%;
   padding: 7px;
-  font-family: monospace, sans-serif;
+  font-family: var(--font-mono);
   font-size: 0.9rem;
   white-space: pre;
   overflow: auto;
-  background: #fff;
+  background: var(--color-white);
   border-radius: 0px;
   line-height: 1.6;
-  color: #333;
+  color: var(--color-text);
   margin-bottom: -rem;
 }
 
 .mediumnavigation {
   background: rgba(255, 255, 255, 0.97);
-  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 2px -2px var(--color-shadow);
   transition: top 0.2s ease-in-out;
 }
 
@@ -73,14 +102,14 @@ section.recent-posts {
 }
 
 .section-title h2 {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  border-bottom: 1px solid var(--color-border-light);
   margin-bottom: 25px;
   font-weight: 700;
   font-size: 1.4rem;
 }
 
 .section-title span {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.44);
+  border-bottom: 1px solid var(--color-text-muted);
   display: inline-block;
   padding-bottom: 20px;
   margin-bottom: -1px;
@@ -125,7 +154,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-  color: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
   font-size: 0.95rem;
   line-height: 1.6;
   font-weight: 400;
@@ -160,7 +189,7 @@ section.recent-posts {
 
 .post-top-meta span {
   font-size: 0.9rem;
-  color: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
   display: inline-block;
 }
 
@@ -185,7 +214,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-  color: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
 }
 
 span.post-read-more {
@@ -196,12 +225,12 @@ span.post-read-more {
 }
 
 span.post-read-more a {
-  color: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
 }
 
 span.post-name a,
 span.post-read-more a:hover {
-  color: rgba(0, 0, 0, 0.8);
+  color: var(--color-text);
 }
 
 .dot:after {
@@ -214,7 +243,7 @@ span.post-read-more a:hover {
   font-size: 0.8rem;
   border-radius: 30px;
   overflow: hidden;
-  border: 1px solid rgba(0, 0, 0, 0.09);
+  border: 1px solid var(--color-border-medium);
   min-width: 180px;
 }
 
@@ -232,7 +261,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
   background: transparent;
-  color: green;
+  color: var(--color-primary);
 }
 
 .mediumnavigation .navbar-brand {
@@ -240,7 +269,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .dropdown-menu {
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--color-border-medium);
   margin: 0.5rem 0 0;
 }
 
@@ -268,32 +297,32 @@ span.post-read-more a:hover {
 }
 
 .footer {
-  border-top: 1px solid rgba(0, 0, 0, 0.05) !important;
+  border-top: 1px solid var(--color-border-light) !important;
   padding-top: 15px;
   padding-bottom: 12px;
   font-size: 0.8rem;
-  color: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
   margin-top: 50px;
   margin-bottom: 62px;
   position: relative;
-  background: #fff;
+  background: var(--color-white);
 }
 
 .link-dark {
-  color: rgba(0, 0, 0, 0.8);
+  color: var(--color-text);
 }
 
 .article-post {
   font-size: 1.1rem;
   line-height: 1.84;
-  color: rgba(0, 0, 0, 0.8);
+  color: var(--color-text);
 }
 
 blockquote {
-  border-left: 4px solid #00ab6b;
+  border-left: 4px solid var(--color-primary);
   padding: 0 20px;
   font-style: italic;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .article-post p,
@@ -326,7 +355,7 @@ blockquote {
 }
 
 .share ul li i.fa {
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border);
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -381,7 +410,7 @@ blockquote {
   .alertbar input[type="email"] {
     margin-right: 0px !important;
     display: block;
-    border-right: 1px solid #ddd !important;
+    border-right: 1px solid var(--color-border) !important;
     margin-bottom: 10px;
   }
 
@@ -423,12 +452,12 @@ blockquote {
 
 .share,
 .share a {
-  color: rgba(0, 0, 0, 0.44);
-  fill: rgba(0, 0, 0, 0.44);
+  color: var(--color-text-muted);
+  fill: var(--color-text-muted);
 }
 
 .graybg {
-  background-color: #fafafa;
+  background-color: var(--color-bg-gray);
   padding: 40px 0 46px;
   position: relative;
 }
@@ -450,14 +479,14 @@ ul.tags li {
 }
 
 ul.tags li a {
-  background: rgba(0, 0, 0, 0.05);
-  color: rgba(0, 0, 0, 0.6);
+  background: var(--color-border-light);
+  color: var(--color-text-secondary);
   border-radius: 3px;
   padding: 5px 10px;
 }
 
 ul.tags li a:hover {
-  background: rgba(0, 0, 0, 0.07);
+  background: var(--color-border-medium);
   text-decoration: none;
 }
 
@@ -468,14 +497,14 @@ ul.tags li a:hover {
 .sep {
   height: 1px;
   width: 20px;
-  background: #999;
+  background: var(--color-gray);
   margin: 0px auto;
   margin-bottom: 1.2rem;
 }
 
 .btn.follow {
-  border-color: #02b875;
-  color: #1c9963;
+  border-color: var(--color-primary);
+  color: var(--color-primary);
   padding: 3px 10px;
   text-align: center;
   border-radius: 999em;
@@ -484,10 +513,10 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-  background-color: #1c9963;
-  border-color: #1c9963;
-  color: rgba(255, 255, 255, 1);
-  fill: rgba(255, 255, 255, 1);
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-white);
+  fill: var(--color-white);
   border-radius: 30px;
   font-size: 0.85rem;
   margin-left: 10px;
@@ -505,7 +534,7 @@ ul.tags li a:hover {
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: #fff;
+  background-color: var(--color-white);
   width: 100%;
   padding: 14px 0;
   z-index: 1;
@@ -521,7 +550,7 @@ ul.tags li a:hover {
   padding: 3px 5px 3px 10px;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
-  border: 1px solid #ddd;
+  border: 1px solid var(--color-border);
   border-right: 0;
   margin-right: -10px;
   height: 34px;
@@ -530,10 +559,10 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-  background-color: #1c9963;
-  border: 1px solid #1c9963;
-  color: rgba(255, 255, 255, 1);
-  fill: rgba(255, 255, 255, 1);
+  background-color: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  color: var(--color-white);
+  fill: var(--color-white);
   font-size: 0.85rem;
   border-radius: 0;
   padding: 4px 10px;
@@ -546,23 +575,23 @@ ul.tags li a:hover {
 }
 
 .form-control::-webkit-input-placeholder {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .form-control:-moz-placeholder {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .form-control::-moz-placeholder {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .form-control:-ms-input-placeholder {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .form-control::-ms-input-placeholder {
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--color-text-light);
 }
 
 .authorpage h1 {
@@ -576,7 +605,7 @@ ul.tags li a:hover {
 
 .authorpage .author-description {
   font-size: 1rem;
-  color: rgba(0, 0, 0, 0.6);
+  color: var(--color-text-secondary);
 }
 
 .post-top-meta.authorpage .btn.follow {
@@ -587,7 +616,7 @@ ul.tags li a:hover {
 }
 
 .graybg.authorpage {
-  border-top: 1px solid #f0f0f0;
+  border-top: 1px solid var(--color-border);
 }
 
 .authorpostbox {
@@ -606,8 +635,8 @@ ul.tags li a:hover {
 }
 
 .sociallinks a {
-  background: #666;
-  color: #fff;
+  background: var(--color-gray-medium);
+  color: var(--color-white);
   width: 22px;
   height: 22px;
   display: inline-block;
@@ -634,8 +663,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-sans);
 }
 
 .article-post .h1,
@@ -661,9 +689,7 @@ h6 {
 }
 
 .layout-page .article-post {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-    "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: var(--font-sans-full);
   font-size: 1rem;
 }
 
@@ -681,8 +707,8 @@ img {
   padding: 15px 0 0 0;
   text-align: center;
   margin-bottom: 0rem;
-  color: #999;
-  border-top: 1px solid #ddd;
+  color: var(--color-gray);
+  border-top: 1px solid var(--color-border);
 }
 
 .pointerup {
@@ -692,7 +718,7 @@ img {
 }
 
 .pointerup i.fa {
-  color: #eaeaea;
+  color: var(--color-gray-light);
 }
 
 .bottompagination span.navigation i {
@@ -715,8 +741,8 @@ iframe {
 }
 
 .transpdark {
-  background: rgba(0, 0, 0, 0.75);
-  color: #fff;
+  background: var(--color-overlay);
+  color: var(--color-white);
 }
 
 @media (min-width: 768px) {
@@ -731,8 +757,8 @@ iframe {
   }
 
   .jumbotron.fortags .col-md-4 {
-    background: rgba(0, 0, 0, 0.75);
-    color: #fff;
+    background: var(--color-overlay);
+    color: var(--color-white);
   }
 
   .jumbotron.fortags .row {
@@ -750,9 +776,9 @@ iframe {
 
 .jumbotron.fortags a {
   padding: 5px 10px 7px;
-  background: #222;
+  background: var(--color-bg-dark);
   border-radius: 30px;
-  color: #fff;
+  color: var(--color-white);
   font-weight: 500;
   font-size: 0.8rem;
   display: inline-block;
@@ -818,14 +844,14 @@ iframe {
   top: 45%;
   left: calc(50% - 100px);
   text-shadow: none;
-  background: #222;
-  color: #fff;
+  background: var(--color-bg-dark);
+  color: var(--color-white);
   display: inline-block;
   font-size: 13px;
   line-height: 1;
   padding: 2px 3px;
   width: 150px;
-  font-family: Arial;
+  font-family: var(--font-sans);
   text-align: center;
   border-radius: 3px;
   transition: all 0.4s;
@@ -841,7 +867,7 @@ iframe {
   border: 0 none;
   opacity: 1;
   transition: opacity 0.25s;
-  background: #f2f2f2;
+  background: var(--color-bg-loading);
   outline: 0 none;
 }
 
@@ -852,7 +878,33 @@ iframe {
 }
 
 .badge-danger {
-  background-color: #ff4e2c;
+  background-color: var(--color-primary);
+}
+
+.btn-success {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active {
+  background-color: var(--color-text);
+  border-color: var(--color-text);
+}
+
+.btn-primary {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  background-color: var(--color-text);
+  border-color: var(--color-text);
 }
 
 .card-img-top {
@@ -875,7 +927,7 @@ iframe {
   top: 20px;
   right: 0px;
   width: 70%;
-  background-color: #ff4e2c;
+  background-color: var(--color-primary);
   opacity: 0.9;
   color: white;
   padding-left: 10px;
@@ -925,6 +977,6 @@ iframe {
   color: white;
   font-size: 12px;
   text-align: right;
-  background-color: #f74d36;
+  background-color: var(--color-primary);
   padding: 5px;
 }

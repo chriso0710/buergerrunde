@@ -9,7 +9,30 @@ search: true
   .protected span {
     display: none;
   }
+  .protected {
+    cursor: pointer;
+    color: var(--color-primary);
+  }
+  .protected:hover {
+    text-decoration: underline;
+  }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.protected').forEach(function(el) {
+    var email = '';
+    el.childNodes.forEach(function(node) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        email += node.textContent;
+      }
+    });
+    el.addEventListener('click', function() {
+      window.location.href = 'mailto:' + email;
+    });
+  });
+});
+</script>
 
 Allgemeine Anfragen schickt ihr am besten an:
 
@@ -23,6 +46,7 @@ Ihr erreicht unsere Arbeitsgruppen auch per eMail an:
 - <span class="protected">klima<span>NOSPAM</span>mobil@<span>DELETE</span>heu<span>THIS</span>weiler.net</span>
 - <span class="protected">natur<span>NOSPAM</span>freunde@<span>DELETE</span>heu<span>THIS</span>weiler.net</span>
 - <span class="protected">o<span>NOSPAM</span>p@<span>DELETE</span>heu<span>THIS</span>weiler.net</span>
+- <span class="protected">dorf<span>NOSPAM</span>karte@<span>DELETE</span>heu<span>THIS</span>weiler.net</span>
 
 Den Vorstand erreicht ihr unter:
 

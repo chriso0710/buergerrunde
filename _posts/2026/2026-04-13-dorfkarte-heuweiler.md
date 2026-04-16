@@ -10,6 +10,10 @@ Zum 750-jährigen Bestehen von Heuweiler hat die Bürgerrunde im Auftrag der Gem
 
 Alle Einträge können auf der [Karte](/map) direkt angeklickt oder in der [Listenansicht](/locations) nach Kategorien gefiltert werden. Zu den 13 Kategorien gehören unter anderem Bauernhöfe, Öffentliche Gebäude, Historische Gebäude, Geschäfte & Gastronomie, Vereine & Gruppen und Mobilität.
 
+> Das 750-jährige Bestehen unserer Gemeinde Heuweiler haben wir zum Anlass genommen, einen bunten Blumenstrauß an Veranstaltungen und Aktivitäten zu veranstalten und damit die Dorfgeschichte lebendig werden zu lassen. In diesem Zusammenhang hat mir die Idee einer digitalen Dorfbroschüre von Anfang an sehr gut gefallen. Ich danke allen helfenden Händen, die an der Verwirklichung dieser Broschüre mitgewirkt haben, und wünsche allen Interessierten viel Freude beim digitalen Erkunden unseres Dorfes.
+>
+> -- *Raphael Walz, Bürgermeister*
+
 Ergänzend zur Dorfkarte findet ihr eine Übersicht der [regelmäßigen Veranstaltungen im Jahreslauf](/yearlyevents) -- vom Neujahrsempfang über Hemdglunki und Bühlhock bis zum Krippenspiel.
 
 #### Wir brauchen eure Mithilfe!
