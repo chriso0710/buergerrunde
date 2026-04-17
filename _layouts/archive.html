@@ -3,28 +3,21 @@ layout: default
 title: Archiv
 ---
 
-<div class="section-title">
-  {% assign visible_posts = site.posts | where_exp: "p", "p.hidden != true" %}
-  <h1><span>{{ page.title }}</span> ({{ visible_posts.size }})</h1>
-</div>
+{% assign visible_posts = site.posts | where_exp: "p", "p.hidden != true" %}
+{% include section-title.html title=page.title level="h1" count=visible_posts.size %}
 
 {% include search-lunr.html %} 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %} 
 {% for year in postsByYear %}
-    <div class="section-title col-md-12 mt-4">
-        <h2>{{ year.name }}</h2>
-    </div>
+    {% include section-title.html title=year.name classes="col-md-12 mt-4" %}
     <ul>
     {% for post in year.items %}
         {% unless post.hidden %}
         <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
+            {% if post.author %}{% assign author = site.authors[post.author] %}| {{ author.display_name }}{% endif %}
+            | {{ post.date | german_date }}
         </li>
-        {% if post.author %}
-            {% assign author = site.authors[post.author] %}
-            {{ author.display_name }}
-        {% endif %}
-        {{ post.date | german_date }}
         {% endunless %}
     {% endfor %}
     </ul>

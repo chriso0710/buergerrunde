@@ -1,7 +1,7 @@
 ---
 title: "Musik aus 750 Jahren"
 categories: [Konzert]
-author: kh
+author: kah
 image: /assets/images/konzert/750jahre.jpg
 event: 2025-11-16 17:00:00
 location: Kirche St. Remigius

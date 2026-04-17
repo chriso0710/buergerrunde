@@ -970,6 +970,49 @@ iframe {
   transform: scale(1.1); /* Zoom in */
 }
 
+.page-featured-image {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.location-card-img {
+  height: 150px;
+  object-fit: contain;
+  background: var(--color-white);
+  padding: 10px;
+}
+
+.location-card-placeholder {
+  height: 150px;
+  object-fit: cover;
+}
+
+.category-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  color: var(--color-white);
+}
+
+.category-icon i {
+  font-size: 3rem;
+}
+
+#map {
+  height: 600px;
+  width: 100%;
+  border-radius: 0.375rem;
+}
+
+#filter-status {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  font-weight: normal;
+}
+
 .image-text {
   position: absolute;
   top: 10px;

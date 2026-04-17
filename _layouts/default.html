@@ -92,12 +92,7 @@
             </li>
             {% endfor %}
 
-            <a href="https://www.instagram.com/buergerrunde_heuweiler/"
-              ><img
-                src="/assets/images/insta-icon.png"
-                alt="Instagram"
-                width="24px"
-            /></a>
+            {% include social-instagram.html %}
           </ul>
           <!-- End Menu -->
         </div>
@@ -196,12 +191,7 @@
               |
               <a href="{{ site.baseurl }}/imprint">{{ site.static.imprint }}</a>
               |
-              <a href="https://www.instagram.com/buergerrunde_heuweiler/"
-                ><img
-                  src="/assets/images/insta-icon.png"
-                  alt="Instagram"
-                  width="24px"
-              /></a>
+              {% include social-instagram.html %}
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right"></div>
           </div>

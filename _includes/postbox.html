@@ -8,21 +8,7 @@ option_compact = false %} {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">
       <div class="zoom-container">
         <div class="image-text">{{ post.categories | sort | join: ', ' }}</div>
-        {% if post.image contains "://" %} {% assign image_url = post.image %}
-        {% else %} {% capture image_url %}{{ post.image | prepend: site.baseurl
-        }}{% endcapture %} {% endif %} {% if site.lazyimages == "enabled" %}
-        <img
-          class="card-img-top lazyimg"
-          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-          data-src="{{ image_url }}"
-          alt="{{ post.title | escape }}" />
-        {% else %}
-        <img
-          class="card-img-top"
-          src="{{ image_url }}"
-          alt="{{ post.title | escape }}"
-          loading="lazy" />
-        {% endif %}
+        {% include lazy-image.html src=post.image classes="card-img-top" alt=post.title %}
       </div>
     </a>
     <!--        
@@ -43,9 +29,7 @@ option_compact = false %} {% endif %}
           {% include star_rating.html rating=post.rating %}
         </div>
         {% endif %} {% if post.event %}
-        <span class="badge badge-danger">
-          {{ post.event | german_datetime }}
-        </span>
+        {% include event-badge.html event=post.event %}
         {% endif %}
       </h2>
       <h4 class="card-text">
@@ -59,21 +43,9 @@ option_compact = false %} {% endif %}
     </div>
     <div class="card-footer bg-white">
       <div class="wrapfooter">
-        {% if post.author %} {% assign author = site.authors[post.author] %}
-        <span class="meta-footer-thumb">
-          {% if author.avatar %}
-          <img
-            class="author-thumb"
-            src="{{site.baseurl}}/{{ author.avatar }}"
-            alt="{{ author.display_name }}" />
-          {% endif %}
-        </span>
-        <span class="author-meta">
-          <span class="post-name">
-            {{ author.display_name }}
-          </span>
-          <br />
-        </span>
+        {% if post.author %}
+        {% include author-display.html author=post.author %}
+        <br />
         {% endif %}
         <span class="post-date">{{ post.date | german_date }}</span>
         <div class="clearfix"></div>

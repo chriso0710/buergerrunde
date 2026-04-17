@@ -1,0 +1,3 @@
+<div class="section-title{% if include.classes %} {{ include.classes }}{% endif %}">
+    <{{ include.level | default: "h2" }}{% if include.id %} id="{{ include.id | replace: ' ', '-' }}"{% endif %}>{% if include.level == "h1" %}<span>{% endif %}{{ include.title }}{% if include.count %} ({{ include.count }}){% endif %}{% if include.level == "h1" %}</span>{% endif %}</{{ include.level | default: "h2" }}>
+</div>

@@ -36,8 +36,7 @@ archive: false
                 </h1>
                 <h2>
                     {% if page.event %}
-                        <span class="badge badge-danger">{{ page.event | german_datetime }}</span>
-                        <span class="badge badge-primary">{{ page.location }}</span>
+                        {% include event-badge.html event=page.event location=page.location %}
                     {% endif %}
                 </h2>
 
@@ -51,18 +50,7 @@ archive: false
 
             <!-- Post Featured Image -->
             {% if page.image and page.gallery.first == nil %}
-                {% if page.image contains "://" %}
-                    {% assign image_url = page.image %}
-                {% else %}
-                    {% capture image_url %}{{ page.image | prepend: site.baseurl }}{% endcapture %}
-                {% endif %}
-                {% if site.lazyimages == "enabled" %}
-                    <img class="featured-image img-fluid lazyimg"
-                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                         data-src="{{ image_url }}" alt="{{ page.title | escape }}">
-                {% else %}
-                    <img class="featured-image img-fluid" src="{{ image_url }}" alt="{{ page.title | escape }}" loading="lazy">
-                {% endif %}
+                {% include lazy-image.html src=page.image classes="featured-image img-fluid" alt=page.title %}
             {% endif %}
             <!-- End Featured Image -->
 
@@ -75,14 +63,10 @@ archive: false
             {% if page.gallery.first %}
                 <div class="card-columns">
                     {% for item in page.gallery %}
-                        {% if item.img contains "://" %}
-                            {% assign image_url = item.img %}
-                        {% else %}
-                            {% capture image_url %}{{ item.img | prepend: site.baseurl }}{% endcapture %}
-                        {% endif %}
                         <div class="card">
                             {% if item.img %}
-                                <img class="card-img-top-auto" src="{{ image_url }}" alt="{{ item.title | default: 'Verwandter Beitrag' | escape }}" loading="lazy">
+                                {% include image-url.html src=item.img %}
+                                <img class="card-img-top-auto" src="{{ resolved_image_url }}" alt="{{ item.title | default: 'Verwandter Beitrag' | escape }}" loading="lazy">
                             {% endif %}
                             {% if item.title %}
                                 <div class="card-body">
@@ -122,7 +106,7 @@ archive: false
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/category/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category }}</a>
                     </li>
                     {% endfor %}
                 </ul>

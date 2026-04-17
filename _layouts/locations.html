@@ -2,31 +2,22 @@
 layout: default
 ---
 
-<div class="section-title">
-    <h1><span>{{ page.title }}</span></h1>
-</div>
+{% include section-title.html title=page.title level="h1" %}
 
 <div class="row listrecent">
 {% assign locationsByCategory = site.locations | group_by: 'category' | sort: 'name' %}
 {% for category in locationsByCategory %}
-    <div class="section-title col-md-12 mt-4">
-        <h2 id="{{ category.name | replace: " ","-" }}">{{ category.name }} ({{ category.items | size }})</h2>
-    </div>
+    {% assign cat_count = category.items | size %}
+    {% include section-title.html title=category.name level="h2" classes="col-md-12 mt-4" id=category.name count=cat_count %}
     
     {% assign sortedLocations = category.items | sort: 'title' %}
     {% for location in sortedLocations %}
         <div class="col-xl-3 col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
                 {% if location.image and location.image != '' %}
-                    {% assign img_parts = location.image | split: "/assets/images/locations/" %}
-                    {% if img_parts.size == 2 %}
-                        {% assign optimized_image = "/assets/images/locations/w300/" | append: img_parts[1] %}
-                    {% else %}
-                        {% assign optimized_image = location.image %}
-                    {% endif %}
-                    <img src="{{ optimized_image }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: contain; background: #fff; padding: 10px;" loading="lazy">
+                    {% include lazy-image.html src=location.image classes="card-img-top location-card-img" alt=location.title width="w300" %}
                 {% else %}
-                    <img src="{{ '/assets/images/location-placeholder.png' | relative_url }}" class="card-img-top" alt="{{ location.title }}" style="height: 150px; object-fit: cover;" loading="lazy">
+                    <img src="{{ '/assets/images/location-placeholder.png' | relative_url }}" class="card-img-top location-card-placeholder" alt="{{ location.title }}" loading="lazy">
                 {% endif %}
                 <div class="card-body d-flex flex-column">
                     <h6 class="card-title">{{ location.title }}</h6>

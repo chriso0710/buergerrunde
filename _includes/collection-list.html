@@ -1,0 +1,17 @@
+<div class="row listrecent">
+{% for item in include.collection %}
+    <div class="section-title col-md-12 mt-4">
+    <h2 id="{{ item[0] | replace: " ","-" }}">{{ include.label }} <span class="text-capitalize">{{ item[0] }}</span></h2>
+    </div>
+    {% assign pages_list = item[1] %}
+    {% for post in pages_list %}
+        {% if post.title != null %}
+            {% if group == null or group == post.group %}
+                {% include postbox.html %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
+{% endfor %}
+</div>

@@ -3,21 +3,11 @@ layout: default
 ---
 
 <section>
-    <div class="section-title">
-        <h1><span>{{ page.title }}</span></h1>
-    </div>
+    {% include section-title.html title=page.title level="h1" %}
 
     {% if page.image and page.image != '' %}
         <div class="mb-4">
-            {% if page.image contains "://" %}
-                {% assign image_url = page.image %}
-            {% elsif page.image contains "/assets/images/locations/" %}
-                {% assign img_parts = page.image | split: "/assets/images/locations/" %}
-                {% assign image_url = "/assets/images/locations/w800/" | append: img_parts[1] %}
-            {% else %}
-                {% capture image_url %}{{ page.image | prepend: site.baseurl }}{% endcapture %}
-            {% endif %}
-            <img class="img-fluid" src="{{ image_url }}" alt="{{ page.title }}" style="max-height: 400px; object-fit: cover;">
+            {% include lazy-image.html src=page.image classes="img-fluid page-featured-image" alt=page.title width="w800" %}
         </div>
     {% elsif page.collection == 'locations' %}
         {% assign cat_icon = "fas fa-map-marker-alt" %}
@@ -29,8 +19,8 @@ layout: default
             {% endif %}
         {% endfor %}
         <div class="mb-4">
-            <div style="display: inline-flex; align-items: center; justify-content: center; width: 120px; height: 120px; border-radius: 50%; background-color: {{ cat_color }}; color: white;">
-                <i class="{{ cat_icon }}" style="font-size: 3rem;"></i>
+            <div class="category-icon" style="background-color: {{ cat_color }};">
+                <i class="{{ cat_icon }}"></i>
             </div>
         </div>
     {% endif %}
