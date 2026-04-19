@@ -44,9 +44,6 @@ layout: default
     </div>
 
     {% if page.collection == 'locations' %}
-    <hr>
-    <p class="text-muted small">
-        <i class="fas fa-info-circle"></i> Fehler entdeckt oder ein Foto für diesen Eintrag? Schreibt uns gerne an <a href="mailto:buergerrunde@heuweiler.net">buergerrunde@heuweiler.net</a>.
-    </p>
+    {% include location-help.html %}
     {% endif %}
 </section>

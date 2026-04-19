@@ -35,8 +35,8 @@ menu:
     url: /about
   - name: Termine
     url: /events
-  #  - name: Karte
-  #    url: /karte
+  - name: Dorfkarte
+    url: /map
   - name: Carlos
     url: /carlos/
   - name: Holly

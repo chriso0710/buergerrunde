@@ -14,17 +14,3 @@ Klicke auf die Marker für weitere Informationen oder nutze die Filter, um besti
 
 <p>Zusätzlich zur Karte haben wir auch die <a href="/yearlyevents">Übersicht der regelmässigen Veranstaltungen</a> neu aufbereitet.</p>
     
-<p>
-  <button class="btn btn-link p-0 text-muted" type="button" data-toggle="collapse" data-target="#hintergrund" aria-expanded="false" aria-controls="hintergrund">
-    Mehr Infos zur Karte. Fehler gefunden?
-  </button>
-  (Stand 04/2026)
-</p>
-
-<div class="collapse" id="hintergrund">
-  <div class="card card-body">
-    <p>Zum 750-jährigen Bestehen von Heuweiler hat die Bürgerrunde im Auftrag der Gemeinde eine interaktive Dorfkarte von Heuweiler erstellt. Die Karte ersetzt den <a href="bildband-2017/">Bildband über Heuweiler</a>, den die Bürgerrunde bereits 2017 veröffentlicht hat. Die aktuellen Informationen sind eine Kombination aus KI-Recherche und manueller Korrektur.</p>
-    
-    <p>Wenn du dich in Heuweiler auskennst, brauchen wir deine Mitarbeit. Hast du einen Fehler gefunden oder ein Foto (mit entsprechenden Rechten) für einen Eintrag? Dann sende uns bitte eine E-Mail an <a href="mailto:buergerrunde@heuweiler.net">buergerrunde@heuweiler.net</a>. Vielen Dank!</p>
-  </div>
-</div>
