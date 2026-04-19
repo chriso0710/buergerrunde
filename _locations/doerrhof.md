@@ -1,26 +1,28 @@
 ---
 title: Dörrhof
-latitude: 48.052494
-longitude: 7.903271
 category: Bauernhöfe
 description: Traditionsreicher Hof im Kerndorf von Heuweiler, genannt Dörrhof.
 address: Dorfstraße 23
+latitude: 48.052494
+longitude: 7.903271
 website: ""
-email: ""
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9517.jpg&fileId=55711&x=2560&y=1440&a=true&etag=1951b8066abca7a6741cb8caa4c32a9c
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 07:10:48 +0000'
-notes: 'Quellen: Gemeindeseite Heuweiler (Geschichte / Fotogalerie) nennt den Dörrhof
-  als einen der ältesten Höfe im Kerndorf; eine Veranstaltungs-/Verzeichnisseite nennt
-  als Standort ''Dorfstraße 23, 79194 Heuweiler'' (BZ-Ticket). Über einen direkten
-  Bildnachweis für den Dörrhof (als einzelnes Motiv) konnte online kein frei zugänglicher
-  Direktlink in ausreichender Auflösung (≥300×300) eindeutig zugeordnet werden; das
-  Bild-Feld daher leer gelassen. Ich habe versucht, Koordinaten zu ermitteln: Mapbox-Reverse-Geocoding
-  für nahegelegene Dorfstraße 20 (Restauration Rebstock) liefert Koordinaten 48.051897,
-  7.903127 — ein proxysbezogener Referenzpunkt in der Dorfstraße; exakte Hausnummern-Koordinaten
-  für Dörrhof (Dorfstraße 23) konnten nicht verlässlich verifiziert werden, daher
-  wurden latitude/longitude leer gelassen. Wichtige Web-Quellen in ''Referenzen''.'
+generated_at: 2025-10-15 07:10:48 +0000
+notes: "Quellen: Gemeindeseite Heuweiler (Geschichte / Fotogalerie) nennt den
+  Dörrhof als einen der ältesten Höfe im Kerndorf; eine
+  Veranstaltungs-/Verzeichnisseite nennt als Standort 'Dorfstraße 23, 79194
+  Heuweiler' (BZ-Ticket). Über einen direkten Bildnachweis für den Dörrhof (als
+  einzelnes Motiv) konnte online kein frei zugänglicher Direktlink in
+  ausreichender Auflösung (≥300×300) eindeutig zugeordnet werden; das Bild-Feld
+  daher leer gelassen. Ich habe versucht, Koordinaten zu ermitteln:
+  Mapbox-Reverse-Geocoding für nahegelegene Dorfstraße 20 (Restauration
+  Rebstock) liefert Koordinaten 48.051897, 7.903127 — ein proxysbezogener
+  Referenzpunkt in der Dorfstraße; exakte Hausnummern-Koordinaten für Dörrhof
+  (Dorfstraße 23) konnten nicht verlässlich verifiziert werden, daher wurden
+  latitude/longitude leer gelassen. Wichtige Web-Quellen in 'Referenzen'."
+email: ""
 ---
 
 #### Beschreibung
