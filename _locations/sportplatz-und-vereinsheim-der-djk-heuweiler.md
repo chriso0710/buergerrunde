@@ -1,27 +1,28 @@
 ---
 title: Sportplatz und Vereinsheim der DJK Heuweiler
+category: Veranstaltungsorte
+description: Sportplatz mit Vereinsheim der DJK Heuweiler — zentrale Sport- und
+  Begegnungsstätte des Ortes.
+address: Glottertalstraße 11
 latitude: 48.054066
 longitude: 7.911084
-category: Veranstaltungsorte
-description: Sportplatz mit Vereinsheim der DJK Heuweiler — zentrale Sport- und Begegnungsstätte
-  des Ortes.
-address: Glottertalstraße 11
 website: https://www.djkheuweiler.de
-email: vorstand@djkheuweiler.de
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9461.jpg&fileId=55534&x=2560&y=1440&a=true&etag=eb5a461003da9c531f70bea980b65d9c
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 09:12:53 +0000'
-notes: 'Adresse des Sportplatzes laut Sportportalen: Glottertalstraße 11 (Spielstätte);
-  die Vereins-Postanschrift/Ansprechpartner wird von der Gemeinde mit Dorfstraße 31a,
-  79194 Heuweiler angegeben (siehe Referenzen). Bild und eigene Vereinswebsite waren
-  bei Recherche nicht verfügbar bzw. offline; die angegebenen Koordinaten (48.04533,
-  7.903262) wurden mit dem Mapbox-Reverse-Geocoding-Tool für den Heuweiler-Ortsbereich
-  ermittelt (ergebnisbezogene Adresse: Hinterheuweiler 11) und dienen hier als ortsnahe
-  Geo-Koordinate — sie sind nicht zwangsläufig die exakte GPS-Position des Vereinsheims.
-  Wenn exakte GPS-Koordinaten für das Vereinsheim benötigt werden, kann ich gezielt
-  mit einer Adress-zu-Koordinate-Abfrage (Forward-Geocoding) versuchen, diese präzise
-  zu ermitteln.'
+generated_at: 2025-10-15 09:12:53 +0000
+notes: "Adresse des Sportplatzes laut Sportportalen: Glottertalstraße 11
+  (Spielstätte); die Vereins-Postanschrift/Ansprechpartner wird von der Gemeinde
+  mit Dorfstraße 31a, 79194 Heuweiler angegeben (siehe Referenzen). Bild und
+  eigene Vereinswebsite waren bei Recherche nicht verfügbar bzw. offline; die
+  angegebenen Koordinaten (48.04533, 7.903262) wurden mit dem
+  Mapbox-Reverse-Geocoding-Tool für den Heuweiler-Ortsbereich ermittelt
+  (ergebnisbezogene Adresse: Hinterheuweiler 11) und dienen hier als ortsnahe
+  Geo-Koordinate — sie sind nicht zwangsläufig die exakte GPS-Position des
+  Vereinsheims. Wenn exakte GPS-Koordinaten für das Vereinsheim benötigt werden,
+  kann ich gezielt mit einer Adress-zu-Koordinate-Abfrage (Forward-Geocoding)
+  versuchen, diese präzise zu ermitteln."
+email: vorstand@djkheuweiler.de
 ---
 
 #### Beschreibung
