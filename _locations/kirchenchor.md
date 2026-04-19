@@ -1,21 +1,22 @@
 ---
 title: Kirchenchor St. Remigius
+category: Vereine & Gruppen
+description: Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der
+  Gottesdienste und kirchliche Feste musikalisch begleitet.
+address: Kirchberg 6
 latitude: 48.051985
 longitude: 7.904412
-category: Vereine & Gruppen
-description: Kirchenchor der Pfarrgemeinde St. Remigius in Heuweiler, der Gottesdienste
-  und kirchliche Feste musikalisch begleitet.
-address: Kirchberg 6
 website: https://an-der-glotter.de/fuer-mitmacher/kirchenmusik/kirchenchor-glottertal/
-email: info@an-der-glotter.de
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9494.jpg&fileId=55678&x=2560&y=1440&a=true&etag=6c63e255210c314b009f9a162859e4ca
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 12:11:28 +0000'
-notes: Adressen und Informationen aus Gemeinde- und Dekanatsseiten; Bild (St. Remigius)
-  von Wikimedia Commons geprüft (Direktlink). Geo-Koordinaten für Kirchberg 6 (48.051942,
-  7.904279) über Mapbox-Reverse-Geocoding verifiziert; Fallweise beziehen sich Kontaktinfos
-  auf das Pfarrbüro der Seelsorgeeinheit 'An der Glotter'.
+generated_at: 2025-10-15 12:11:28 +0000
+notes: Adressen und Informationen aus Gemeinde- und Dekanatsseiten; Bild (St.
+  Remigius) von Wikimedia Commons geprüft (Direktlink). Geo-Koordinaten für
+  Kirchberg 6 (48.051942, 7.904279) über Mapbox-Reverse-Geocoding verifiziert;
+  Fallweise beziehen sich Kontaktinfos auf das Pfarrbüro der Seelsorgeeinheit
+  'An der Glotter'.
+email: info@an-der-glotter.de
 ---
 
 #### Beschreibung
