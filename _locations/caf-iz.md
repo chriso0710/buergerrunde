@@ -1,24 +1,25 @@
 ---
 title: Café iz
+category: Geschäfte & Gastronomie
+description: Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von
+  Heuweiler, betrieben von Ines Zschau.
+address: Dorfstraße 22
 latitude: 48.052077
 longitude: 7.903343
-category: Geschäfte & Gastronomie
-description: Gemütliches Café mit kleinem Dorfladen im Alt‑Vogtshof von Heuweiler,
-  betrieben von Ines Zschau.
-address: Dorfstraße 22
 website: https://cafe-iz.de
-email: info@cafe-iz.de
-image: http://cafe-iz.de/wp-content/uploads/2022/07/logo-cafe-iz-basic.png
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/5ZbX6dDbsELjkqj?file=/&fileId=55708&x=2560&y=1440&a=true&etag=8ddc0bac9b2ebcdfba2a73da76f73b18
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 11:37:18 +0000'
-notes: 'Bei der Generierung wurden die offizielle Website und das Impressum von Café
-  iz (cafe-iz.de) sowie Berichte der Badischen Zeitung und Projektseiten zum Alt‑Vogtshof
-  verwendet. Es wurde versucht, mit Mapbox-Reverse-Geocoding die genauen Koordinaten
-  für Dorfstraße 22 zu finden; Mapbox lieferte nahegelegene Hausnummern (z. B. Dorfstraße
-  19: lat 48.05158, lon 7.90295 / routable point 48.051552, 7.903039), konnte aber
-  keine explizite Enträge für Nr. 22 zurückgeben — daher sind die Koordinaten im Eintrag
-  leer gelassen worden. Quellen und Hinweise siehe Referenzen.'
+generated_at: 2025-10-15 11:37:18 +0000
+notes: "Bei der Generierung wurden die offizielle Website und das Impressum von
+  Café iz (cafe-iz.de) sowie Berichte der Badischen Zeitung und Projektseiten
+  zum Alt‑Vogtshof verwendet. Es wurde versucht, mit Mapbox-Reverse-Geocoding
+  die genauen Koordinaten für Dorfstraße 22 zu finden; Mapbox lieferte
+  nahegelegene Hausnummern (z. B. Dorfstraße 19: lat 48.05158, lon 7.90295 /
+  routable point 48.051552, 7.903039), konnte aber keine explizite Enträge für
+  Nr. 22 zurückgeben — daher sind die Koordinaten im Eintrag leer gelassen
+  worden. Quellen und Hinweise siehe Referenzen."
+email: info@cafe-iz.de
 ---
 
 #### Beschreibung
