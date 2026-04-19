@@ -1,23 +1,24 @@
 ---
 title: Pfarrhaus St. Remigius
+category: Historische Gebäude
+description: Historisches Pfarrhaus der Pfarrei St. Remigius in Heuweiler (um
+  1790 erbaut), gelegen am Kirchberg neben der Pfarrkirche.
+address: Kirchberg 6
 latitude: 48.051985
 longitude: 7.904412
-category: Historische Gebäude
-description: Historisches Pfarrhaus der Pfarrei St. Remigius in Heuweiler (um 1790
-  erbaut), gelegen am Kirchberg neben der Pfarrkirche.
-address: Kirchberg 6
 website: ""
-email: ""
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9494.jpg&fileId=55678&x=2560&y=1440&a=true&etag=6c63e255210c314b009f9a162859e4ca
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 09:06:59 +0000'
-notes: 'Adresse und Koordinaten wurden anhand öffentlicher Quellen recherchiert (LEO-BW,
-  Wikimedia Commons) und per Mapbox-Reverse-Geocoding bestätigt; einige Quellen listen
-  die Kirche an ''Kirchberg 4'' — die denkmalpflegerische Quelle nennt ''Kirchberg
-  6''. Kein eindeutiger, frei lizenzierter Direktlink zu einem Foto des Pfarrhauses
-  gefunden; deshalb ist das Bildfeld leer. Quellen: Gemeinde Heuweiler, Seelsorgeeinheit
-  An der Glotter, LEO-BW, Wikimedia Commons, Badische Zeitung.'
+generated_at: 2025-10-15 09:06:59 +0000
+notes: "Adresse und Koordinaten wurden anhand öffentlicher Quellen recherchiert
+  (LEO-BW, Wikimedia Commons) und per Mapbox-Reverse-Geocoding bestätigt; einige
+  Quellen listen die Kirche an 'Kirchberg 4' — die denkmalpflegerische Quelle
+  nennt 'Kirchberg 6'. Kein eindeutiger, frei lizenzierter Direktlink zu einem
+  Foto des Pfarrhauses gefunden; deshalb ist das Bildfeld leer. Quellen:
+  Gemeinde Heuweiler, Seelsorgeeinheit An der Glotter, LEO-BW, Wikimedia
+  Commons, Badische Zeitung."
+email: ""
 ---
 
 #### Beschreibung
