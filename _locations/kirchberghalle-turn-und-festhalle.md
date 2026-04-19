@@ -1,21 +1,21 @@
 ---
 title: Kirchberghalle (Turn- und Festhalle)
+category: Veranstaltungsorte
+description: Zentrale Turn- und Festhalle von Heuweiler für Vereinsleben,
+  Kultur- und Sportveranstaltungen.
+address: Kirchberg 2
 latitude: 48.051437
 longitude: 7.904522
-category: Veranstaltungsorte
-description: Zentrale Turn- und Festhalle von Heuweiler für Vereinsleben, Kultur-
-  und Sportveranstaltungen.
-address: Kirchberg 2
 website: https://www.heuweiler.de
-email: rathaus@heuweiler.de
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9481.jpg&fileId=55657&x=2560&y=1440&a=true&etag=6bb37771431ea0d0ffae415ccb1a4a96
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 09:29:06 +0000'
-notes: Keine eigene, eigenständige Website für die Kirchberghalle gefunden; Eintrag
-  basiert auf Gemeindeinformationen, Veranstaltungseinträgen und Wikimedia-Bild. Exakte
-  Koordinaten wurden über Mapbox-Reverse-Geocoding verifiziert; Bildkoordinaten/Metadaten
-  aus Wikimedia Commons.
+generated_at: 2025-10-15 09:29:06 +0000
+notes: Keine eigene, eigenständige Website für die Kirchberghalle gefunden;
+  Eintrag basiert auf Gemeindeinformationen, Veranstaltungseinträgen und
+  Wikimedia-Bild. Exakte Koordinaten wurden über Mapbox-Reverse-Geocoding
+  verifiziert; Bildkoordinaten/Metadaten aus Wikimedia Commons.
+email: rathaus@heuweiler.de
 ---
 
 #### Beschreibung
