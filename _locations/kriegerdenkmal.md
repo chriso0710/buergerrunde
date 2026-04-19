@@ -1,24 +1,25 @@
 ---
 title: Kriegerdenkmal im Kirchenwald
+category: Historische Gebäude
+description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler,
+  errichtet als Gedenkstätte für Gefallene.
+address: ""
 latitude: 48.050674
 longitude: 7.908063
-category: Historische Gebäude
-description: Mahnmal / Kriegerdenkmal im Kirchenwald oberhalb von Heuweiler, errichtet
-  als Gedenkstätte für Gefallene.
-address: ""
 website: ""
-email: ""
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9466.jpg&fileId=55567&x=2560&y=1440&a=true&etag=ad78d7030300a460c3d3545a19dc0fb8
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 08:41:22 +0000'
-notes: 'Koordinaten basieren auf öffentlich zugänglichen Karten-/Wanderbeschreibungen
-  (Mapcarta / OpenStreetMap). Kein offizieller Straßenanschrift für das Denkmal gefunden;
-  Bild (Fotoreportage Badische Zeitung, Fotograf: Andrea Steinhart) existiert, es
-  konnte jedoch kein eindeutiger Direktlink zu einer frei verwendbaren Bilddatei (>=300×300
-  px) auf Wikimedia Commons oder ähnlichen freien Bildarchiven ermittelt werden, daher
-  Image-Feld leer gelassen. Quellen: Gemeindeseite Heuweiler, Badische Zeitung, Mapcarta,
-  Wikipedia.'
+generated_at: 2025-10-15 08:41:22 +0000
+notes: "Koordinaten basieren auf öffentlich zugänglichen
+  Karten-/Wanderbeschreibungen (Mapcarta / OpenStreetMap). Kein offizieller
+  Straßenanschrift für das Denkmal gefunden; Bild (Fotoreportage Badische
+  Zeitung, Fotograf: Andrea Steinhart) existiert, es konnte jedoch kein
+  eindeutiger Direktlink zu einer frei verwendbaren Bilddatei (>=300×300 px) auf
+  Wikimedia Commons oder ähnlichen freien Bildarchiven ermittelt werden, daher
+  Image-Feld leer gelassen. Quellen: Gemeindeseite Heuweiler, Badische Zeitung,
+  Mapcarta, Wikipedia."
+email: ""
 ---
 
 #### Beschreibung
