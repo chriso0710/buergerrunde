@@ -1,22 +1,22 @@
 ---
 title: Kirche St. Remigius
+category: Religiöse Stätten
+description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar
+  und seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
+address: Kirchberg 6
 latitude: 48.051985
 longitude: 7.904412
-category: Religiöse Stätten
-description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar und
-  seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
-address: Kirchberg 6
 website: ""
-email: ""
-image: ""
+image: /assets/images/locations/img_9483.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 08:40:00 +0000'
-notes: 'Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die Seelsorgeeinheit
-  ''An der Glotter'' nennt Kirchberg 4 — hier wurde Kirchberg 6 als Postadresse gewählt,
-  da die Mapbox-Reverse-Geocoding-Abfrage diese Nummer zurückgab (Koordinaten: 48.051942,
-  7.904279). Bild von Wikimedia Commons (Rauenstein, CC BY-SA 3.0). Quellenangaben
-  und Abgleich in den Referenzen.'
+generated_at: 2025-10-15 08:40:00 +0000
+notes: "Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die
+  Seelsorgeeinheit 'An der Glotter' nennt Kirchberg 4 — hier wurde Kirchberg 6
+  als Postadresse gewählt, da die Mapbox-Reverse-Geocoding-Abfrage diese Nummer
+  zurückgab (Koordinaten: 48.051942, 7.904279). Bild von Wikimedia Commons
+  (Rauenstein, CC BY-SA 3.0). Quellenangaben und Abgleich in den Referenzen."
+email: ""
 ---
 
 #### Beschreibung
