@@ -7,7 +7,7 @@ address: Holzweg 5
 latitude: 48.055357
 longitude: 7.907597
 website: http://www.hotel-garni-heuweiler.de
-image: /assets/images/locations/img_9441.jpg
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9441.jpg&fileId=55522&x=2560&y=1440&a=true&etag=6ff935fcfd3a4f02c9c4752e5c15c82c
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 12:17:25 +0000
