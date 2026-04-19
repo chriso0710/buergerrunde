@@ -104,7 +104,7 @@ collections:
         name: "image"
         widget: "image"
         required: false
-        hint: "Hauptbild des Ortes (max. 1024x768 Pixel, max. 250 KB)"
+        hint: "Hauptbild des Ortes (wird automatisch optimiert)"
         allow_multiple: false
 
       - label: "Bildrechte / Copyright"
