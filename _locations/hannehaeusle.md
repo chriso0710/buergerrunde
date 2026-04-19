@@ -1,23 +1,25 @@
 ---
 title: Hannehäusle
+category: Historische Gebäude
+description: Kleines historisches Häuschen direkt unterhalb der Kirche St.
+  Remigius in Heuweiler, das seit Jahrzehnten leersteht.
+address: ""
 latitude: 48.051811
 longitude: 7.904116
-category: Historische Gebäude
-description: Kleines historisches Häuschen direkt unterhalb der Kirche St. Remigius
-  in Heuweiler, das seit Jahrzehnten leersteht.
-address: ""
-website: ''
-email: ""
-image: ""
-image_copyright: ""
+website: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9490.jpg&fileId=55666&x=2560&y=1440&a=true&etag=9f024649e42cadfb9b2b04fd0dfd531c
+image_copyright: C Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 08:21:44 +0000'
-notes: 'Keine eigene offizielle Postadresse für das Hannehäusle im Internet gefunden;
-  die angegebenen Koordinaten stammen von einer Mapbox-Reverse-Geocoding-Abfrage nahe
-  der Kirche St. Remigius (Kirchberg 6). Es konnte kein verlässlicher Direktlink zu
-  einem frei nutzbaren Bild des Hannehäusle gefunden werden (Badische Zeitung zeigt
-  Fotos, ist aber nicht direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website,
-  Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW (Kirchenadresse).'
+generated_at: 2025-10-15 08:21:44 +0000
+notes: "Keine eigene offizielle Postadresse für das Hannehäusle im Internet
+  gefunden; die angegebenen Koordinaten stammen von einer
+  Mapbox-Reverse-Geocoding-Abfrage nahe der Kirche St. Remigius (Kirchberg 6).
+  Es konnte kein verlässlicher Direktlink zu einem frei nutzbaren Bild des
+  Hannehäusle gefunden werden (Badische Zeitung zeigt Fotos, ist aber nicht
+  direkt verlinkbar ohne Abo/Restriktionen). Quellen: Heuweiler-Website,
+  Wikipedia Heuweiler, Badische Zeitung (Artikel über das Hannehäusle), LEO‑BW
+  (Kirchenadresse)."
+email: ""
 ---
 
 #### Beschreibung
