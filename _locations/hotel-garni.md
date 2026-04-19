@@ -8,7 +8,7 @@ latitude: 48.055357
 longitude: 7.907597
 website: http://www.hotel-garni-heuweiler.de
 image: /assets/images/locations/img_9441.jpg
-image_copyright: Christoph und Carla Teuchert
+image_copyright: Christoph Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 12:17:25 +0000
 notes: Adresse und Kontaktdaten basieren auf Branchenbucheinträgen (Das
