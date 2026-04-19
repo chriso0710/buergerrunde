@@ -1,24 +1,26 @@
 ---
 title: Hotel Garni - Ruth Bank
+category: Geschäfte & Gastronomie
+description: Kleines, familiär geführtes Hotel Garni in Heuweiler (Hotel Garni
+  Ruth Bank) mit Frühstücksangebot und wenigen Zimmern.
+address: Holzweg 5
 latitude: 48.055357
 longitude: 7.907597
-category: Geschäfte & Gastronomie
-description: Kleines, familiär geführtes Hotel Garni in Heuweiler (Hotel Garni Ruth
-  Bank) mit Frühstücksangebot und wenigen Zimmern.
-address: Holzweg 5
 website: http://www.hotel-garni-heuweiler.de
-email: info@hotel-garni-heuweiler.de
-image: ""
+image: /assets/images/locations/img_9441.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
-generated_at: '2025-10-15 12:17:25 +0000'
-notes: Adresse und Kontaktdaten basieren auf Branchenbucheinträgen (Das Örtliche,
-  ProvenExpert u. a.). Online-Quellen zeigen teilweise unterschiedliche Einträge für
-  'Grüner Baum' (Glottertalstraße 3) und 'Hotel Garni / Hotel Garni - Ruth Bank' (Holzweg
-  5). Auf Anfrage kann ich versuchen, exakte Geo-Koordinaten mit weiterführender Geokodierung
-  zu ermitteln; beim ersten Versuch mit Mapbox wurde kein eindeutiger Eintrag für
-  Holzweg 5 zurückgegeben, daher sind die Koordinatenfelder leer gelassen worden.
-  Kein verlässlicher Direktlink zu einem Bild des Hotels in geeigneter Auflösung gefunden.
+generated_at: 2025-10-15 12:17:25 +0000
+notes: Adresse und Kontaktdaten basieren auf Branchenbucheinträgen (Das
+  Örtliche, ProvenExpert u. a.). Online-Quellen zeigen teilweise
+  unterschiedliche Einträge für 'Grüner Baum' (Glottertalstraße 3) und 'Hotel
+  Garni / Hotel Garni - Ruth Bank' (Holzweg 5). Auf Anfrage kann ich versuchen,
+  exakte Geo-Koordinaten mit weiterführender Geokodierung zu ermitteln; beim
+  ersten Versuch mit Mapbox wurde kein eindeutiger Eintrag für Holzweg 5
+  zurückgegeben, daher sind die Koordinatenfelder leer gelassen worden. Kein
+  verlässlicher Direktlink zu einem Bild des Hotels in geeigneter Auflösung
+  gefunden.
+email: info@hotel-garni-heuweiler.de
 ---
 
 #### Beschreibung
