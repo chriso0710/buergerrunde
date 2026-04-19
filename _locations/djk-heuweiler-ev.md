@@ -1,26 +1,27 @@
 ---
 title: DJK Heuweiler e.V.
+category: Vereine & Gruppen
+description: Sportverein (DJK) aus Heuweiler mit Sportplatz und
+  Veranstaltungsangeboten wie dem jährlichen Rosskopflauf.
+address: Dorfstraße 31a
 latitude: 48.053743
 longitude: 7.9115
-category: Vereine & Gruppen
-description: Sportverein (DJK) aus Heuweiler mit Sportplatz und Veranstaltungsangeboten
-  wie dem jährlichen Rosskopflauf.
-address: Dorfstraße 31a
 website: https://www.djkheuweiler.de
-email: vorstand@djkheuweiler.de
-image: ""
-image_copyright: ""
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9461.jpg&fileId=55534&x=2560&y=1440&a=true&etag=eb5a461003da9c531f70bea980b65d9c
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
-generated_at: '2025-10-14 16:51:29 +0000'
-notes: 'Quellen: Gemeindeverwaltung Heuweiler (Vereinsliste), DJK Diözesanverband
-  Freiburg, Europlan, Badische Zeitung, fussball.de, Wikipedia Heuweiler. Die von
-  mehreren Verzeichnissen genannte Vereinsadresse ist Dorfstraße 31a, 79194 Heuweiler;
-  die vermeintliche Vereinswebsite (www.djkheuweiler.de) war bei Prüfung zeitweise
-  nicht erreichbar (502). Eine exakte Geokodierung für die Hausnummer 31a konnte mit
-  dem eingesetzten Reverse-Geocoding-Workflow nicht eindeutig bestätigt; der Mapbox-Reverse-Geocoder
-  gab nahegelegene Dorfstraßen-Adressen (z. B. Dorfstraße 19) zurück. Bild-URL (direktlink
-  ≥300×300 px) für den DJK-Standort konnte bei der Recherche nicht zuverlässig gefunden;
-  daher leer gelassen.'
+generated_at: 2025-10-14 16:51:29 +0000
+notes: "Quellen: Gemeindeverwaltung Heuweiler (Vereinsliste), DJK
+  Diözesanverband Freiburg, Europlan, Badische Zeitung, fussball.de, Wikipedia
+  Heuweiler. Die von mehreren Verzeichnissen genannte Vereinsadresse ist
+  Dorfstraße 31a, 79194 Heuweiler; die vermeintliche Vereinswebsite
+  (www.djkheuweiler.de) war bei Prüfung zeitweise nicht erreichbar (502). Eine
+  exakte Geokodierung für die Hausnummer 31a konnte mit dem eingesetzten
+  Reverse-Geocoding-Workflow nicht eindeutig bestätigt; der
+  Mapbox-Reverse-Geocoder gab nahegelegene Dorfstraßen-Adressen (z. B.
+  Dorfstraße 19) zurück. Bild-URL (direktlink ≥300×300 px) für den DJK-Standort
+  konnte bei der Recherche nicht zuverlässig gefunden; daher leer gelassen."
+email: vorstand@djkheuweiler.de
 ---
 
 #### Beschreibung
