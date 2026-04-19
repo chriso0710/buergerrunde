@@ -7,7 +7,7 @@ address: Kirchberg 2a
 latitude: 48.051295
 longitude: 7.904944
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9480.jpg&fileId=55654&x=2560&y=1440&a=true&etag=65201c5a5705a783048b7f3c42a5c317
+image: /assets/images/locations/spielplatz-kirchberg.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 12:19:30 +0000

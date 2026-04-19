@@ -8,7 +8,7 @@ address: Dorfstraße 21
 latitude: 48.051713
 longitude: 7.903225
 website: https://www.heuweiler.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9503.jpg&fileId=55687&x=2560&y=1440&a=true&etag=c98cab03f1dce00c2a9791f1fb99b681
+image: ""
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:18:16 +0000

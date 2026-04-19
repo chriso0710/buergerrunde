@@ -7,7 +7,7 @@ address: ""
 latitude: 48.052109
 longitude: 7.904701
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9493.jpg&fileId=55675&x=2560&y=1440&a=true&etag=728a07651d4054e0db11ff7430c0dde4
+image: /assets/images/locations/messnerhaus.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:05:31 +0000

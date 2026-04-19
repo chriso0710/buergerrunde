@@ -8,7 +8,7 @@ address: Glottertalstraße 1
 latitude: 48.056581
 longitude: 7.906305
 website: https://www.heuweiler.de/unsere-gemeinde/anfahrt-lage-oepnv
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/ASSi5ZgdatXtGqs?file=/&fileId=55519&x=2560&y=1440&a=true&etag=21d4e22c9d4fd994495502802c9b2007
+image: ""
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 10:09:31 +0000

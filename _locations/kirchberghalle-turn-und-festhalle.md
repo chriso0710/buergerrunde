@@ -7,7 +7,7 @@ address: Kirchberg 2
 latitude: 48.051437
 longitude: 7.904522
 website: https://www.heuweiler.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9481.jpg&fileId=55657&x=2560&y=1440&a=true&etag=6bb37771431ea0d0ffae415ccb1a4a96
+image: /assets/images/locations/kirchberghalle-turn-und-festhalle.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:29:06 +0000

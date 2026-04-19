@@ -7,7 +7,7 @@ address: Dorfplatz / Dorfstraße 20
 latitude: 48.0519604
 longitude: 7.9033387
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9505.jpg&fileId=55690&x=2560&y=1440&a=true&etag=8fcb718629711baa5865f7f1abc4b8a1
+image: /assets/images/locations/dorfbrunnen.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:05:04 +0000

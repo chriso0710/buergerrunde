@@ -7,7 +7,7 @@ address: Holzweg 8
 latitude: 48.053855
 longitude: 7.90925
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9444.jpg&fileId=55510&x=2560&y=1440&a=true&etag=630aaafc4e4e9df2db8250a9d07dc0ba
+image: /assets/images/locations/spielplatz-holzweg.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 12:23:56 +0000

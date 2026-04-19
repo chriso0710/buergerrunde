@@ -7,7 +7,7 @@ address: ""
 latitude: 48.051713
 longitude: 7.904707
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/CfRXALKLw6PoGks?file=/&fileId=55663&x=2560&y=1440&a=true&etag=a8397cd00baa9ce24ffa06fa45e74d06
+image: /assets/images/locations/burg-polizeie-altes-gefaengnis.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 11:25:03 +0000

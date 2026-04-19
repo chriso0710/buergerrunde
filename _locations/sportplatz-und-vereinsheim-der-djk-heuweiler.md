@@ -7,7 +7,7 @@ address: Glottertalstraße 11
 latitude: 48.054066
 longitude: 7.911084
 website: https://www.djkheuweiler.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9461.jpg&fileId=55534&x=2560&y=1440&a=true&etag=eb5a461003da9c531f70bea980b65d9c
+image: /assets/images/locations/sportplatz-und-vereinsheim-der-djk-heuweiler.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:12:53 +0000

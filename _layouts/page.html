@@ -7,7 +7,10 @@ layout: default
 
     {% if page.image and page.image != '' %}
         <div class="mb-4">
-            {% include lazy-image.html src=page.image classes="img-fluid page-featured-image" alt=page.title width="w800" %}
+            {% include lazy-image.html src=page.image classes="img-fluid page-featured-image" alt=page.title %}
+            {% if page.image_copyright and page.image_copyright != '' %}
+            <small class="text-muted d-block mt-1"><i class="fas fa-camera"></i> {{ page.image_copyright }}</small>
+            {% endif %}
         </div>
     {% elsif page.collection == 'locations' %}
         {% assign cat_icon = "fas fa-map-marker-alt" %}

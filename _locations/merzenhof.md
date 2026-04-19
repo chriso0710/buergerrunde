@@ -7,7 +7,7 @@ address: ""
 latitude: 48.051328
 longitude: 7.903421
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9500.jpg&fileId=55684&x=2560&y=1440&a=true&etag=6ec9e672d61222db4a38762607705f6a
+image: /assets/images/locations/merzenhof.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:17:29 +0000

@@ -7,7 +7,7 @@ address: Dorfstraße 31a
 latitude: 48.053743
 longitude: 7.9115
 website: https://www.djkheuweiler.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9461.jpg&fileId=55534&x=2560&y=1440&a=true&etag=eb5a461003da9c531f70bea980b65d9c
+image: /assets/images/locations/djk-heuweiler-ev.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 16:51:29 +0000

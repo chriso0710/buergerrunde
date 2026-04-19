@@ -7,7 +7,7 @@ address: Kirchberg 6
 latitude: 48.051985
 longitude: 7.904412
 website: ""
-image: https://nx75971.your-storageshare.de/s/QqeoRRjYEBGCg8K/preview
+image: /assets/images/locations/kirche-st-remigius.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:40:00 +0000

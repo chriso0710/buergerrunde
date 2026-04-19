@@ -7,7 +7,7 @@ address: ""
 latitude: 48.050674
 longitude: 7.908063
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9466.jpg&fileId=55567&x=2560&y=1440&a=true&etag=ad78d7030300a460c3d3545a19dc0fb8
+image: /assets/images/locations/kriegerdenkmal.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:41:22 +0000

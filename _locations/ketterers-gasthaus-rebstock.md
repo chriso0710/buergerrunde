@@ -7,7 +7,7 @@ address: Dorfstraße 20
 latitude: 48.051906
 longitude: 7.903079
 website: http://rebstock-heuweiler.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9511.jpg&fileId=55699&x=2560&y=1440&a=true&etag=031b8218a1bdf7b90a8e3405a1ab3e2e
+image: /assets/images/locations/ketterers-gasthaus-rebstock.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:43:19 +0000

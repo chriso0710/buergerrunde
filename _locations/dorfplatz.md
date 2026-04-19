@@ -7,7 +7,7 @@ address: Dorfstraße 21
 latitude: 48.0518641
 longitude: 7.903442
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9495.jpg&fileId=55681&x=2560&y=1440&a=true&etag=1bed75a708d5d36f3e6331d9cdd224b9
+image: /assets/images/locations/dorfplatz.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-14 19:56:51 +0000

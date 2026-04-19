@@ -8,7 +8,7 @@ address: Dorfstraße 21
 latitude: 48.0518347
 longitude: 7.9032817
 website: https://buergerrunde.heuweiler.net/carlos/
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9510.jpg&fileId=55696&x=2560&y=1440&a=true&etag=351b800f53384f63470da954ba44f7ea
+image: /assets/images/locations/freies-lastenrad-carlos-lastenvelo-freiburg.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 11:26:53 +0000

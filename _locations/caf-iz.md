@@ -7,7 +7,7 @@ address: Dorfstraße 22
 latitude: 48.052077
 longitude: 7.903343
 website: https://cafe-iz.de
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/5ZbX6dDbsELjkqj?file=/&fileId=55708&x=2560&y=1440&a=true&etag=8ddc0bac9b2ebcdfba2a73da76f73b18
+image: /assets/images/locations/caf-iz.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 11:37:18 +0000

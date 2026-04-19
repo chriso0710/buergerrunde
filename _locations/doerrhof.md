@@ -6,7 +6,7 @@ address: Dorfstraße 23
 latitude: 48.052494
 longitude: 7.903271
 website: ""
-image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9517.jpg&fileId=55711&x=2560&y=1440&a=true&etag=1951b8066abca7a6741cb8caa4c32a9c
+image: /assets/images/locations/doerrhof.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 07:10:48 +0000

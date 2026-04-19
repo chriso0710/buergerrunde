@@ -971,8 +971,8 @@ iframe {
 }
 
 .page-featured-image {
-  max-height: 400px;
-  object-fit: cover;
+  max-height: 600px;
+  object-fit: contain;
 }
 
 .location-card-img {
