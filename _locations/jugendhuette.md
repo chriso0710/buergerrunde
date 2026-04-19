@@ -7,7 +7,7 @@ address: ""
 latitude: 48.050804
 longitude: 7.907678
 website: ""
-image: /assets/images/locations/img_9470.jpg
+image: https://nx75971.your-storageshare.de/apps/files_sharing/publicpreview/QJrebHk2qgYxBDD?file=/IMG_9470.jpg&fileId=55639&x=2560&y=1440&a=true&etag=b849da12221c7b5ce389b9ee5b1927ba
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 08:25:34 +0000
