@@ -2,8 +2,8 @@
 title: Kirche St. Remigius
 category: Religiöse Stätten
 address: Kirchberg 6
-latitude: 48.051973
-longitude: 7.904393
+latitude: 48.051939
+longitude: 7.904312
 website: ""
 image: /assets/images/locations/kirche-st-remigius.jpg
 image_copyright: ""
