@@ -1,18 +1,24 @@
 ---
-title: "Malefikantenweg"
-latitude: 48.053307
-longitude: 7.886083
+title: Malefikantenweg
 category: Straßen & Wege
 description: "Der Malefikantenweg ist ein Feldweg, der in Teilen zur Gemarkung
   Denzlingen und Gundelfingen gehört.        "
 address: Malefikantenweg
+latitude: 48.053307
+longitude: 7.886083
 website: ""
+image: /assets/images/locations/malefikantenweg.jpeg
+image_copyright: C Teuchert
+generated_by: gpt-5-mini
+generated_at: 2025-10-15 10:38:06 +0000
+notes: Malefikantenweg ist als Flur-/Wegname in OSM/Regionalverzeichnissen
+  aufgeführt und wird von der Gärtnerei Kornzept für ein Selbsternte‑Blumenfeld
+  genutzt; die Straße selbst hat offenbar keine Hausnummernangabe und wird
+  postalisch dem 79194‑Gebiet (Gundelfingen/Heuweiler) zugeordnet. Für die
+  Postadresse der Gemeinde Heuweiler wurde zur Bestimmung der Koordinaten ein
+  Reverse‑Geocoding (mcp_mapbox) verwendet (ergab Dorfstraße 19 / 48.05158,
+  7.90295).
 email: ""
-image: ""
-image_copyright: ""
-generated_by: "gpt-5-mini"
-generated_at: "2025-10-15 10:38:06 +0000"
-notes: "Malefikantenweg ist als Flur-/Wegname in OSM/Regionalverzeichnissen aufgeführt und wird von der Gärtnerei Kornzept für ein Selbsternte‑Blumenfeld genutzt; die Straße selbst hat offenbar keine Hausnummernangabe und wird postalisch dem 79194‑Gebiet (Gundelfingen/Heuweiler) zugeordnet. Für die Postadresse der Gemeinde Heuweiler wurde zur Bestimmung der Koordinaten ein Reverse‑Geocoding (mcp_mapbox) verwendet (ergab Dorfstraße 19 / 48.05158, 7.90295)."
 ---
 
 #### Beschreibung
