@@ -6,8 +6,8 @@ address: ""
 latitude: 48.053712
 longitude: 7.909437
 website: ""
-image: ""
-image_copyright: ""
+image: /assets/images/locations/img_9450.jpg
+image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:17:27 +0000
 notes: Bei der Recherche konnte kein eigenständiges offizielles Impressum, keine
