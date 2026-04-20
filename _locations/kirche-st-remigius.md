@@ -1,11 +1,9 @@
 ---
 title: Kirche St. Remigius
 category: Religiöse Stätten
-description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar
-  und seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
 address: Kirchberg 6
-latitude: 48.051985
-longitude: 7.904412
+latitude: 48.051973
+longitude: 7.904393
 website: ""
 image: /assets/images/locations/kirche-st-remigius.jpg
 image_copyright: ""
@@ -17,6 +15,8 @@ notes: "Adressequellen: Landesdenkmalpflege/LEO-BW listet Kirchberg 6; die
   zurückgab (Koordinaten: 48.051942, 7.904279). Bild von Wikimedia Commons
   (Rauenstein, CC BY-SA 3.0). Quellenangaben und Abgleich in den Referenzen."
 email: ""
+description: Barocke katholische Pfarrkirche auf dem Kirchberg, weithin sichtbar
+  und seit dem 18. Jahrhundert Mittelpunkt der Gemeinde.
 ---
 
 #### Beschreibung
