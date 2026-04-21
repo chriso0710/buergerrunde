@@ -11,7 +11,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxNativeZoom: 19,
+        maxZoom: 20
     }).addTo(map);
     
     // Store all markers for filtering
