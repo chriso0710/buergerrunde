@@ -7,7 +7,7 @@ address: Malefikantenweg
 latitude: 48.053307
 longitude: 7.886083
 website: ""
-image: /assets/images/locations/malefikantenweg.jpeg
+image: /assets/images/locations/malefikantenweg.jpg
 image_copyright: C Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 10:38:06 +0000

@@ -6,7 +6,7 @@ address: ""
 latitude: 48.053712
 longitude: 7.909437
 website: ""
-image: /assets/images/locations/img_9450.jpg
+image: /assets/images/locations/zollplaetzle.jpg
 image_copyright: C. Teuchert
 generated_by: gpt-5-mini
 generated_at: 2025-10-15 09:17:27 +0000
