@@ -4,8 +4,24 @@ layout: default
 
 {% include section-title.html title=page.title level="h1" %}
 
-<div class="row listrecent">
 {% assign locationsByCategory = site.locations | group_by: 'category' | sort: 'name' %}
+
+<div class="mb-4">
+    {% for category in locationsByCategory %}
+        {% assign cat_icon = "fas fa-map-marker-alt" %}
+        {% assign cat_count = category.items | size %}
+        {% for cat in site.data.categories.categories %}
+            {% if cat.name == category.name %}
+                {% assign cat_icon = cat.icon %}
+            {% endif %}
+        {% endfor %}
+        <a href="#{{ category.name | replace: ' ', '-' }}" class="btn btn-outline-primary btn-sm me-2 mb-2">
+            <i class="{{ cat_icon }}"></i> {{ category.name }} ({{ cat_count }})
+        </a>
+    {% endfor %}
+</div>
+
+<div class="row listrecent">
 {% for category in locationsByCategory %}
     {% assign cat_count = category.items | size %}
     {% include section-title.html title=category.name level="h2" classes="col-md-12 mt-4" id=category.name count=cat_count %}

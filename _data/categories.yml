@@ -45,7 +45,7 @@ categories:
     btn_class: "btn-outline-primary"
   - name: "Mobilität"
     color: "#1E90FF"
-    icon: "fas fa-shuttle-van"
+    icon: "fas fa-bicycle"
     btn_class: "btn-outline-primary"
   - name: "Vereine & Gruppen"
     color: "#2ECC71"

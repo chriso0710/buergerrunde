@@ -38,3 +38,4 @@ Die Anschaffung und Inbetriebnahme von Carlos erfolgte als gemeinschaftliches Pr
 * Carlos trägt den internen LastenVelo‑Code LastenVelo 21 (Standorteintrag im LastenVelo‑System). 
 * Sehr hohe Nutzungszahlen im lokalen Kontext: Berichte der Bürgerrunde dokumentieren mehrere Tausend km pro Einsatzzeitraum (Berichte laufend auf der Vereinsseite). 
 * Wartung, Sponsoring und Technikupdates (z. B. Beleuchtung von Supernova) wurden dokumentiert und gesponsert, wodurch die Sicherheit bei Dämmerung/Nacht verbessert wurde — Bilddokumentation auf der Vereinsseite.
+* Am Standort von Carlos steht eine freie E-Bike-Ladestation mit Bosch- und Shimano-Stecker zur Verfügung, die allen E-Bike-Fahrern kostenlos zum Laden offensteht.
