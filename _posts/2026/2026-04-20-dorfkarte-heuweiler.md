@@ -7,6 +7,8 @@ image: "/assets/images/dorfkarte.png"
 
 Zum 750-jährigen Bestehen von Heuweiler hat die Bürgerrunde im Auftrag der Gemeinde eine [interaktive Dorfkarte](/map) erstellt. Ca. 100 Orte sind erfasst -- von Bauernhöfen und historischen Gebäuden über Vereine und Geschäfte bis hin zu Naturdenkmälern und Mobilitätsangeboten. Die Karte baut auf der gedruckten [Dorfbroschüre](/bildband-2017/) auf, die die Bürgerrunde bereits 2017 veröffentlicht hatte. Der damalige Bildband wurde seitdem allen Neubürgerinnen und Neubürgern als Willkommensgeschenk überreicht und dient als erste Orientierungs- und Informationsquelle über die Gemeinde. Mit der digitalen Dorfkarte wird dieses bewährte Konzept nun zeitgemäß weiterentwickelt -- und soll auch künftig Zugezogenen den Einstieg ins Dorfleben erleichtern.
 
+<a class="btn btn-success" href="/map" role="button">Zur Dorfkarte</a>
+
 Alle Einträge können auf der [Karte](/map) direkt angeklickt oder in der [Listenansicht](/locations) nach Kategorien gefiltert werden. Zu den 13 Kategorien gehören unter anderem Bauernhöfe, Öffentliche Gebäude, Historische Gebäude, Geschäfte & Gastronomie, Vereine & Gruppen und Mobilität.
 
 > Das 750-jährige Bestehen unserer Gemeinde Heuweiler haben wir zum Anlass genommen, einen bunten Blumenstrauß an Veranstaltungen und Aktivitäten zu veranstalten und damit die Dorfgeschichte lebendig werden zu lassen. In diesem Zusammenhang hat mir die Idee einer digitalen Dorfbroschüre von Anfang an sehr gut gefallen. Ich danke allen helfenden Händen, die an der Verwirklichung dieser Broschüre mitgewirkt haben, und wünsche allen Interessierten viel Freude beim digitalen Erkunden unseres Dorfes.
