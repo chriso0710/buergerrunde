@@ -1,5 +1,5 @@
 ---
-title: "Carlos ist wieder einsatzbereit"
+title: "Carlos und Holly wieder einsatzbereit"
 categories: [Klimaschutz, Mobilität]
 author: co
 image: /assets/images/klimamobil/carlos.jpg
@@ -13,4 +13,4 @@ Die Elektrikprobleme sind behoben und die vorderen Bremskolben sowie die Bremsbe
 
 **Hinweis:** Wegen einer Baustelle vor dem Rathaus ist der Standort von Carlos derzeit schwer zugänglich -- beim Abholen und Zurückbringen muss etwas rangiert werden.
 
-Holly ist leider noch in der Werkstatt. Wir informieren euch, sobald auch sie wieder verfügbar ist.
+Auch Holly ist wieder ausleihbar -- die Elektronik- und Akkuprobleme sind nicht mehr aufgetreten.
