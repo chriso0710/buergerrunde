@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /location/
 
 Sitemap: https://buergerrunde.heuweiler.net/sitemap.xml
