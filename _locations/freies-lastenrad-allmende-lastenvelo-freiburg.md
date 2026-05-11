@@ -1,7 +1,7 @@
 ---
-title: Freies Lastenrad Allmende (LastenVelo Freiburg)
+title: Freies Lastenrad Alma (LastenVelo Freiburg)
 category: Mobilität
-description: Kostenlos ausleihbares E-Lastenrad 'LastenVelo 22' in Gundelfingen-Allmende,
+description: Kostenlos ausleihbares E-Lastenrad 'Alma' (LastenVelo 22) in Gundelfingen-Allmende,
   betrieben vom Wohnprojekt Allmende in Kooperation mit LastenVelo Freiburg.
 address: Am Waldfriedhof 1, 79194 Gundelfingen
 latitude: 48.046674
@@ -16,7 +16,7 @@ notes: "Initiiert vom Wohnprojekt Allmende in Gundelfingen. Standort am Waldfrie
 
 #### Beschreibung
 
-Das LastenVelo 22 ist ein zweirädriges, elektrisch unterstütztes Lastenrad (Urban Arrow) der LastenVelo-Flotte, das am Wohnprojekt Allmende in Gundelfingen kostenfrei ausgeliehen werden kann. Das Rad ist ins Ausleihnetz von LastenVelo Freiburg eingebunden.
+Alma (LastenVelo 22) ist ein zweirädriges, elektrisch unterstütztes Lastenrad (Urban Arrow) der LastenVelo-Flotte, das am Wohnprojekt Allmende in Gundelfingen kostenfrei ausgeliehen werden kann. Das Rad wurde mit Unterstützung von Badenova, Fahrradspezialitäten Freiburg und dem Wohnprojekt Allmende realisiert und ist ins Ausleihnetz von LastenVelo Freiburg eingebunden.
 
 #### Ausleihe
 
@@ -29,4 +29,4 @@ Das LastenVelo 22 ist ein zweirädriges, elektrisch unterstütztes Lastenrad (Ur
 #### Besonderheiten
 
 - Teil des regionalen, kostenfreien Sharing-Netzes LastenVelo Freiburg — Registrierung und Buchung über LastenVelo erforderlich.
-- Gundelfingen ist die Nachbargemeinde von Heuweiler und das LastenVelo Allmende somit eine weitere praktische Alternative zu den Heuweilermer Lastenrädern Carlos und Holly.
+- Gundelfingen ist die Nachbargemeinde von Heuweiler und Alma somit eine weitere praktische Alternative zu den Heuweilermer Lastenrädern Carlos und Holly.
