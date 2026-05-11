@@ -1,5 +1,5 @@
 ---
-title: Mitgliederversammlung der Bürgerrunde -- Gäste willkommen!
+title: Mitgliederversammlung der Bürgerrunde – Gäste willkommen!
 event: 2026-05-28 19:00:00
 categories: [Bürgerrunde]
 location: Jugendhütte Heuweiler
