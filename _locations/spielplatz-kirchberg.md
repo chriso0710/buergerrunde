@@ -4,8 +4,8 @@ category: Infrastruktur
 description: Kleiner öffentlicher Spielplatz am Kirchberg in Heuweiler (nahe
   Kindergarten Sonnenhügel und Kirchberghalle) für Kleinkinder und Familien.
 address: Kirchberg 2a
-latitude: 48.051295
-longitude: 7.904944
+latitude: 48.050987
+longitude: 7.905134
 website: ""
 image: /assets/images/locations/spielplatz-kirchberg.jpg
 image_copyright: C. Teuchert

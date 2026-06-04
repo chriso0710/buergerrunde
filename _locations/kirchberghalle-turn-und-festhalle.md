@@ -4,8 +4,8 @@ category: Veranstaltungsorte
 description: Zentrale Turn- und Festhalle von Heuweiler für Vereinsleben,
   Kultur- und Sportveranstaltungen.
 address: Kirchberg 2
-latitude: 48.051437
-longitude: 7.904522
+latitude: 48.051361
+longitude: 7.904902
 website: https://www.heuweiler.de
 image: /assets/images/locations/kirchberghalle-turn-und-festhalle.jpg
 image_copyright: C. Teuchert

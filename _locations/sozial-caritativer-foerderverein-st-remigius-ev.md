@@ -1,11 +1,11 @@
 ---
 title: Sozial-Caritativer Förderverein St. Remigius e.V.
-latitude: 48.051985
-longitude: 7.904412
+latitude: 48.052113
+longitude: 7.904222
 category: Vereine & Gruppen
 description: Lokaler Förderverein zur Unterstützung der sozial‑caritativen Aufgaben
   der Pfarrgemeinde St. Remigius in Heuweiler.
-address: Kirchberg 6
+address: Kirchberg 4
 website: https://www.an-der-glotter.de/kirche-vor-ort/heuweiler/soziale-einrichtungen/sozial-caritativer-foerderverein/
 email: info@an-der-glotter.de
 image: ""
