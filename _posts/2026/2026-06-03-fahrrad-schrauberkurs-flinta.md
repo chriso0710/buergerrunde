@@ -9,6 +9,10 @@ location: Schulhof Heuweiler
 
 Platter Reifen? Bremse schleift? Kette springt? Kein Problem — beim Fahrrad-Schrauberkurs der Bürgerrunde lernst du, wie du dein Rad selbst reparierst und fit hältst.
 
+## Warum ein FLINTA-Kurs?
+
+Technisches Wissen rund ums Fahrrad wird oft von Mann zu Mann weitergegeben. Viele Frauen und nicht-binäre Personen hatten bisher weniger Gelegenheit, diese Handgriffe zu lernen. Unser Kurs schafft bewusst einen Raum, in dem das Ausprobieren und Fragenstellen im Vordergrund steht — ohne das Gefühl, sich beweisen zu müssen.
+
 ## Was erwartet dich?
 
 In einem dreistündigen Praxiskurs zeigt euch Franzi von der [Flickerei Freiburg](https://flickerei-freiburg.de) die wichtigsten Handgriffe rund ums Fahrrad:
