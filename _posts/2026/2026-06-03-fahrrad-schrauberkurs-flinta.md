@@ -1,5 +1,5 @@
 ---
-title: "FLINTA-Schrauberkurs: Mach dein Rad selbst fit"
+title: "Schrauberkurs: Mach dein Rad selbst fit"
 categories: [Mobilität, Gemeinschaft]
 author: co
 image: /assets/images/klimamobil/reifen-platt.jpg
@@ -22,11 +22,11 @@ Die Flickerei kommt mit ihrer komplett ausgestatteten mobilen Werkstatt auf dem 
 
 ## Details
 
+- **Für wen:** FLINTA (Frauen, Lesben, inter, nicht-binäre, trans und agender Personen)
 - **Wann:** Mittwoch, 23. Juli 2026, 17:00–20:00 Uhr
 - **Wo:** Überdachter Schulhof der Schule Heuweiler
 - **Teilnehmerinnen:** max. 10
 - **Kostenbeitrag:** 20 Euro pro Person
-- **Für wen:** FLINTA (Frauen, Lesben, inter, nicht-binäre, trans und agender Personen)
 
 Der Kurs wird von der Bürgerrunde Heuweiler bezuschusst.
 
@@ -36,7 +36,7 @@ Die Plätze sind begrenzt und werden nach Reihenfolge der Anmeldung vergeben. De
 
 Bürgerrunde Heuweiler eV
 IBAN: DE84 6806 4222 0000 7227 07
-Raiffeisenbank Gundelfingen
+Raiffeisenbank im Breisgau
 
 Der Betrag muss innerhalb von 5 Tagen nach Anmeldung überwiesen werden. Erst mit Zahlungseingang ist der Platz verbindlich reserviert.
 

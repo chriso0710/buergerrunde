@@ -25,7 +25,7 @@ Unser Angebot ist gratis. Der Betrieb der Räder erfolgt ehrenamtlich durch die 
 
 Bürgerrunde Heuweiler eV
 DE84 6806 4222 0000 7227 07
-Raiffeisenbank Gundelfingen
+Raiffeisenbank im Breisgau
 
 Auf Wunsch erstellen wir eine Spendenbescheinigung.
 

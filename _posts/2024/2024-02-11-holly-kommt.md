@@ -26,7 +26,7 @@ Nicht zuletzt danken wir von Herzen den zahlreichen und großzügigen Sponsoren 
 - Kandel Apotheke Gundelfingen
 - Lastenvelo Freiburg
 - Minirock Heuweiler
-- Raiffeisenbank Gundelfingen
+- Raiffeisenbank im Breisgau
 - Rebstock Heuweiler
 - Stiftsgarten Bern
 - Stiftung Natur Zuerst
