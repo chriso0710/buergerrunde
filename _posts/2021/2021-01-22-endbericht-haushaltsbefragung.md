@@ -10,7 +10,7 @@ Der Endbericht zur Haushaltsbefragung in Heuweiler vom Frühjahr letzten Jahres 
 Danke an alle teilnehmenden Haushalte an dieser Stelle, und auch an die Gemeinde Heuweiler mit Bürgermeister und Gemeinderat für die vielfältige Unterstützung.
 Viel Spaß beim Lesen - Wir sind gespannt auf die Resonanz im Ort.
 
-Folgende Themen des Berichtes finden Sie/findet Ihr in entsprechenden Ergebnis- und Empfehlungskapiteln:
+Folgende Themen des Berichtes findet ihr in entsprechenden Ergebnis- und Empfehlungskapiteln:
 
 - Wohnen und Wohnen im Alter: Ergebnisse: Kapitel 5.2; Empfehlungen: Kapitel 7.2
 - Mobilität (Radweg Lösung, Förderung Radfahren, Lastenrad, E-Car-Sharing, Reduktion des Durchgangsverkehrs, ÖPNV, u.v.a.m.): Ergebnisse: Kapitel 5.3, Empfehlungen: Kapitel 7.3
@@ -20,7 +20,7 @@ Folgende Themen des Berichtes finden Sie/findet Ihr in entsprechenden Ergebnis- 
 - Verhältnis Bürger*innen zur politischen Kommune, zum Staat und zur Kirche: Ergebnisse: Kapitel 5.7, Empfehlungen: Kapitel 7.7
 - Perspektiven zum Wohnort/-art im Alter; Versorgung bei Pflegebedürftigkeit; Situation der Haushalte mit Pflegebedürftigen: Ergebnisse: Kapitel 5.8 sowie 5.9, Empfehlungen: Kapitel 7.8
 
-Unten finden Sie den überarbeiteten Bericht mit Stand Januar 2022. Im Frühjahr/Frühsommer ist eine öffentliche Präsentation der Ergebnisse in Heuweiler vorgesehen, sobald die Corona-Situation das zulässt. Wir werden frühzeitig informieren.
+Unten findet ihr den überarbeiteten Bericht mit Stand Januar 2022. Im Frühjahr/Frühsommer ist eine öffentliche Präsentation der Ergebnisse in Heuweiler vorgesehen, sobald die Corona-Situation das zulässt. Wir werden frühzeitig informieren.
 
 Prof. Dr. Burkhard Werner und 10 Studierende der Kath. Hochschule Freiburg 
 

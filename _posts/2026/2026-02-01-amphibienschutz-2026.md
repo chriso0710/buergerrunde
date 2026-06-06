@@ -9,7 +9,7 @@ Mit den steigenden Nachttemperaturen beginnt auch in Heuweiler wieder die Zeit d
 
 Viele der Tiere überqueren dabei Straßen oder bleiben auf dem warmen Asphalt sitzen. Das ist für sie lebensgefährlich: Schon der Luftdruck vorbeifahrender Autos kann tödliche Verletzungen verursachen. Ab einer Geschwindigkeit von etwa 50 km/h haben Amphibien kaum eine Überlebenschance. Deshalb ist es besonders wichtig, in den betroffenen Bereichen Tempo 30 einzuhalten.
 
-Wir bitten alle Autofahrer\*innen, im Bereich der Krötenzäune aufmerksam und langsam zu fahren. Damit helfen Sie ganz konkret, die Amphibien zu schützen und unsere Aktion zu unterstützen. Die Zäune werden in den kommenden Wochen wieder in Hinterheuweiler am Löschteich sowie an der Gundelfingerstraße am Ortsausgang beim Löschteich aufgebaut.
+Wir bitten alle Autofahrer\*innen, im Bereich der Krötenzäune aufmerksam und langsam zu fahren. Damit helft ihr ganz konkret, die Amphibien zu schützen und unsere Aktion zu unterstützen. Die Zäune werden in den kommenden Wochen wieder in Hinterheuweiler am Löschteich sowie an der Gundelfingerstraße am Ortsausgang beim Löschteich aufgebaut.
 
 Wer unsere Arbeit im Amphibienschutz unterstützen möchte, kann sich gerne bei uns unter [naturfreunde@heuweiler.net](mailto:naturfreunde@heuweiler.net) melden.
 

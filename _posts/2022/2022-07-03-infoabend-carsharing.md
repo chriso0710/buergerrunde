@@ -9,8 +9,8 @@ image: "/assets/images/klimamobil/carsharing.jpg"
 
 Carsharing ist in aller Munde, denn die Mobilitätsbedürfnisse verändern sich. Die Vorteile liegen auf der Hand: Laufende Kosten (Steuer, Versicherung) werden eingespart, die Wartung (Reparaturen, TÜV, Reinigung) fällt weg. Es stehen weniger Autos auf der Straße. Carsharing Autos werden effektiver genutzt und Carsharing trägt zum Umweltschutz bei.
 
-Wir möchten Carsharing nach Heuweiler bringen. Gemeinsam mit Ihnen wollen wir mögliche Carsharing-Modelle für Heuweiler ausloten und Ihre Bedürfnisse besser kennenlernen. Dazu haben wir Patrick Spies von der [Energieagentur Freiburg](https://energieagentur-regio-freiburg.eu/kontakt/) als Referenten eingeladen. 
+Wir möchten Carsharing nach Heuweiler bringen. Gemeinsam mit euch wollen wir mögliche Carsharing-Modelle für Heuweiler ausloten und eure Bedürfnisse besser kennenlernen. Dazu haben wir Patrick Spies von der [Energieagentur Freiburg](https://energieagentur-regio-freiburg.eu/kontakt/) als Referenten eingeladen. 
 
 Wir freuen uns auf einen angeregten Austausch am 13.07.!
 
-Für unseren Infoabend und für die Planung wollen wir Ihren Bedarf und Ihre Wünsche kennenlernen. Bitte füllen Sie den untenstehenden Fragebogen aus. Das dauert nur 2 Minuten und ist anonym. Herzlichen Dank für's Mitmachen!
+Für unseren Infoabend und für die Planung wollen wir euren Bedarf und eure Wünsche kennenlernen. Bitte füllt den untenstehenden Fragebogen aus. Das dauert nur 2 Minuten und ist anonym. Herzlichen Dank für's Mitmachen!

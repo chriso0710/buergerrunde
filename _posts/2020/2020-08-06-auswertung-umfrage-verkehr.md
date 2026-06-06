@@ -9,7 +9,7 @@ Projekt Mobil, immobil und die Immobilie. Erste Ergebnisse aus der Haushaltsbefr
 
 Nachdem die Datenauswertung zum Projekt von den Studierenden vorläufig abgeschlossen wurde, können erste Ergebnisse bekannt gemacht werden. Wegen Corona werden vorläufig - jeweils themenbezogen - Ergebnisse in den Gundelfinger Nachrichten berichtet. An dieser Stelle sei noch einmal allen 166 Haushalten (36% von allen) in Heuweiler gedankt, die sich an der Befragung beteiligten, sowie an die unterstützenden Institutionen und Personen.
 
-Die ausführliche Auswertung als PDF finden Sie am Ende dieser Zusammenfassung.
+Die ausführliche Auswertung als PDF findet ihr am Ende dieser Zusammenfassung.
 
 ### Inner- und außerörtlicher Verkehr in Heuweiler
 

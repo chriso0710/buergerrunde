@@ -10,7 +10,7 @@ Heute wurde mit der Verwaltung der Partnergemeinden Heuweiler und Gundelfingen a
 
 Erneut rufen wir auch die Wohnungsbesitzer mit freistehendem Wohnraum in Heuweiler auf, ihre freien Wohnungen doch zu diesem Zweck vorübergehend zur Verfügung zu stellen. Anbieter von Ferienwohnungen sprechen wir ebenfalls an.
 
-Ebenfalls wurde ein Spendenaufruf direkt an die Heuweilermer Bevölkerung verabredet. Sie können und mögen bitte auf das 
+Ebenfalls wurde ein Spendenaufruf direkt an die Heuweilermer Bevölkerung verabredet. Ihr könnt und mögt bitte auf das 
 
 > Konto der Gemeinde Heuweiler
 > IBAN DE33 6806 4222 0007 0100 01

@@ -26,4 +26,4 @@ Bei wem könnte wohl dieses Bild zuhause hängen?
 
 Dieses Bild ist auch ein Lieblingsbild, weil eine lustige Geschichte damit verbunden ist. Der Besitzer hat es selber gemalt und wird es auf jeden Fall im Gemeindehaus Heuweiler zusammen mit der Geschichte präsentieren.
 
-Sind Sie neugierig geworden und haben auch ein Lieblingsbild, das Sie gerne mal anderen zeigen möchten? Melden Sie sich einfach per Email an <hallo@heuweiler.net>.
+Seid ihr neugierig geworden und habt auch ein Lieblingsbild, das ihr gerne mal anderen zeigen möchtet? Meldet euch einfach per Email an <hallo@heuweiler.net>.

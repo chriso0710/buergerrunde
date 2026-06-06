@@ -10,4 +10,4 @@ Der Klimawandel bringt für jeden Gartenliebhaber neue Herausforderungen mit sic
 
 Der Vortrag findet am 16. November um 19 Uhr im Café IZ in Heuweiler statt und wird auf Spendenbasis finanziert. Aufgrund der begrenzten Sitzplätze bitten wir um Anmeldung per Email unter: [buergerrunde@heuweiler.net](mailto:buergerrunde@heuweiler.net).
 
-Wir freuen uns auf diesen informativen Abend mit Ihnen und Herrn Fischer in unserem schönen Dorfcafé, in dem Getränke und kleine Speisen verzehrt werden können.
+Wir freuen uns auf diesen informativen Abend mit euch und Herrn Fischer in unserem schönen Dorfcafé, in dem Getränke und kleine Speisen verzehrt werden können.

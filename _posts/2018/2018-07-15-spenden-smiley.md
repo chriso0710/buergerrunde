@@ -12,6 +12,6 @@ In vielen Nachbargemeinden stehen mittlerweile diese Anzeigen und normalerweise 
 Wir haben für die Genehmigung und Finanzierung der Geschwindigkeitsanzeige einen Antrag bei Bürgermeister Walz eingereicht. Der Antrag wird voraussichtlich in der GR-Sitzung im September behandelt.
 
 Seit dem großen Dorfflohmarkt gehen Mitglieder der Bürgerrunde im Dorf von Haus zu Haus und versuchen, SpenderInnen zu gewinnen. Das wird auch in den nächsten Wochen bis September noch so weitergehen. Bereits jetzt sind wir überwältigt von der positiven Resonanz auf unsere Aktion.
-Wir freuen uns über alle Unterstützer und Spender. Da die Bürgerrunde gemeinnützig ist, können Sie eine Spendenbescheinigung erhalten.
+Wir freuen uns über alle Unterstützer und Spender. Da die Bürgerrunde gemeinnützig ist, kannst du eine Spendenbescheinigung erhalten.
 
 (Foto: Viatraffic)

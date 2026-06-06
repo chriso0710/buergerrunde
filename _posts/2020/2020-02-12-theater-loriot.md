@@ -9,7 +9,7 @@ description: "Das Theater Flügelschuh aus Denzlingen spielt Loriot-Sketche im G
 ---
 ABGESAGT - NEUER TERMIN VORAUSSICHTLICH IM HERBST
 
-Was heißt denn das nun wieder? Am besten kommen Sie einfach.
+Was heißt denn das nun wieder? Am besten komm einfach.
 
 Wir präsentieren das Theater [Flügelschuh aus Denzlingen](https://theater-fluegelschuh.de/) mit ausgewählten Szenen aus Loriots Werken. Für Loriot-Fans ein Muss, für alle anderen Theaterbegeisterten ebenso. Die vierköpfige Theatergruppe um Gregor Marstaller und Mareike Glönkler liest und spielt bekannte Loriot-Sketche nach. Der Lachfaktor wird hoch sein. 
 

@@ -22,4 +22,4 @@ Ein bisschen zu meiner Person: Ich wurde 1952 in Gütersloh geboren, bin verheir
 - Mitglied im AK Sorgende Gemeinschaft und im AK Pflege des Landkreises Breisgau-Hochschwarzwald
 - Mitglied in der Initiative Bürgerbus für Gundelfingen-Heuweiler
 
-Ich würde mich freuen, eure/Ihre Unterstützung bei der kommenden Wahl zu erhalten und im Gemeinderat positive Veränderungen für Heuweiler herbeizuführen.
+Ich würde mich freuen, eure Unterstützung bei der kommenden Wahl zu erhalten und im Gemeinderat positive Veränderungen für Heuweiler herbeizuführen.

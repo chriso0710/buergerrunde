@@ -6,7 +6,7 @@ image: /assets/images/klimamobil/radweg.png
 ---
 
 Unterschriftensammlung für einen befestigten Fuß-/Fahrradweg zwischen Heuweiler und Gundelfingen zur Vorlage beim Gemeinderat.
-Unterzeichnende wollen grundsätzlich einen solchen Weg! Bitte eine der drei genannten Varianten ankreuzen, falls Sie eine feste Meinung dazu haben.
+Unterzeichnende wollen grundsätzlich einen solchen Weg! Bitte eine der drei genannten Varianten ankreuzen, falls ihr eine feste Meinung dazu habt.
 
 <form name="radweg" class="form-horizontal" method="POST" data-netlify="true" action="/thankyou">
 <fieldset>

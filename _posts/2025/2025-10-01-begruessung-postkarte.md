@@ -7,10 +7,10 @@ description: Die Bürgerrunde begrüsst neue Bewohner in Heuweiler mit einer Pos
 ---
 
 > Herzlich Willkommen in Heuweiler!
-> Schön, dass Sie da sind! Mit dieser Karte möchten wir Sie auf Aktivitäten der Bürgerrunde Heuweiler aufmerksam machen. Ob Klima, Natur, Kultur oder gemeinsames Anpacken im Dorf – bei uns ist für jede:n etwas dabei.
-> Neugierig? Dann schauen Sie gerne auf unserer Website vorbei und entdecken Sie, was wir alles bewegen - vielleicht ja bald gemeinsam?
+> Schön, dass ihr da seid! Mit dieser Karte möchten wir euch auf Aktivitäten der Bürgerrunde Heuweiler aufmerksam machen. Ob Klima, Natur, Kultur oder gemeinsames Anpacken im Dorf – bei uns ist für jede:n etwas dabei.
+> Neugierig? Dann schaut gerne auf unserer Website vorbei und entdeckt, was wir alles bewegen - vielleicht ja bald gemeinsam?
 > Und ganz nach dem Motto der Karte: Einfach mal bei uns melden – könnte ja gut werden! 😉
-> Wir freuen uns auf Sie!
+> Wir freuen uns auf euch!
 
 Mit diesen Worten haben wir in den letzten Tagen alle BewohnerInnen der neuen Häuser in Heuweiler mit Brief und Postkarte begrüsst.
 

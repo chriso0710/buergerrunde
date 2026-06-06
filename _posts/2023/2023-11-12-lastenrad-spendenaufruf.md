@@ -15,8 +15,8 @@ Genutzt wird das Rad von vielen Bürger:innen. Betrieb und Wartung übernehmen E
 
 Aufgrund der großen Nachfrage möchten wir das Angebot erweitern und ein zweites E-Lastenrad anschaffen, das allen Bürger:innen für klimafreundliche Fahrten in Heuweiler und in die Nachbargemeinden zur Verfügung steht. Wir wollen langfristig den Fahrradverkehr fördern und eine nachhaltige Lebensweise durch Teilen-statt-Besitzen leben.
 
-Als gemeinnützig organisierter Verein verfügen wir nicht über die Mittel, selbst ein weiteres Lastenrad anzuschaffen. Wir sind daher auf der Suche nach Freund:innen klimafreundlicher Mobilität, die die Anschaffung eines weiteren Lastenrades mit einem Sponsoring unterstützen möchten. Ab einem einmaligen Sponsoring von 100,- EUR bedrucken wir das neue Rad sehr gern mit Ihrem/Deinem Logo und sorgen für tägliche Sichtbarkeit auf den Wegen und Straßen rund um Heuweiler, Denzlingen, Glottertal, Gundelfingen und Freiburg.
+Als gemeinnützig organisierter Verein verfügen wir nicht über die Mittel, selbst ein weiteres Lastenrad anzuschaffen. Wir sind daher auf der Suche nach Freund:innen klimafreundlicher Mobilität, die die Anschaffung eines weiteren Lastenrades mit einem Sponsoring unterstützen möchten. Ab einem einmaligen Sponsoring von 100,- EUR bedrucken wir das neue Rad sehr gern mit eurem Logo und sorgen für tägliche Sichtbarkeit auf den Wegen und Straßen rund um Heuweiler, Denzlingen, Glottertal, Gundelfingen und Freiburg.
 
-Auch Namensvorschläge für Carlos’ Schwester/Bruder nehmen wir sehr gern entgegen. Für alle Fragen rund um freie Lastenräder und das Sponsoring stehen wir gern zur Verfügung. Wir würden uns sehr über Ihre/Eure Unterstützung freuen.
+Auch Namensvorschläge für Carlos’ Schwester/Bruder nehmen wir sehr gern entgegen. Für alle Fragen rund um freie Lastenräder und das Sponsoring stehen wir gern zur Verfügung. Wir würden uns sehr über eure Unterstützung freuen.
 
 Wir erstellen für alle Spender:innen selbstverständlich eine offizielle Spendenbescheinigung.

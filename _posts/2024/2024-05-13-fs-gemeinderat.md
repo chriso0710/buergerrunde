@@ -14,4 +14,4 @@ Meine Schwerpunkte:
 - Jugendangebote: Mehr Möglichkeiten und Angebote für Jugendliche.
 - Bürgerbeteiligung: Förderung der aktiven Beteiligung aller Bürger und Stärkung des Vereinslebens.
 
-Ich bin Mitglied in der AG Naturfreunde der Bürgerrunde Heuweiler und freue mich darauf, gemeinsam mit euch/Ihnen an der Zukunft unseres Dorfes zu arbeiten.
+Ich bin Mitglied in der AG Naturfreunde der Bürgerrunde Heuweiler und freue mich darauf, gemeinsam mit euch an der Zukunft unseres Dorfes zu arbeiten.
