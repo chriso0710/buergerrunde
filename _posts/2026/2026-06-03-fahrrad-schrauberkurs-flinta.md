@@ -1,5 +1,5 @@
 ---
-title: "Schrauberkurs: Mach dein Rad selbst fit"
+title: "Schraubkurs FLINTA*-only: Mach dein Rad selbst fit!"
 categories: [Mobilität, Gemeinschaft]
 author: co
 image: /assets/images/klimamobil/reifen-platt.jpg
@@ -9,9 +9,9 @@ location: Schulhof Heuweiler
 
 Platter Reifen? Bremse schleift? Kette springt? Kein Problem — beim Fahrrad-Schrauberkurs der Bürgerrunde lernst du, wie du dein Rad selbst reparierst und fit hältst.
 
-## Warum ein FLINTA-Kurs?
+## Warum ein FLINTA*-only Kurs?
 
-Technisches Wissen rund ums Fahrrad wird oft von Mann zu Mann weitergegeben. Viele Frauen und nicht-binäre Personen hatten bisher weniger Gelegenheit, diese Handgriffe zu lernen. Unser Kurs schafft bewusst einen Raum, in dem das Ausprobieren und Fragenstellen im Vordergrund steht — ohne das Gefühl, sich beweisen zu müssen.
+FLINTA* ist ein Akronym für Frauen, Lesben, intergeschlechtliche, nichtbinäre, transgeschlechtliche und agender Personen. Technisches Wissen rund ums Fahrrad wird oft von Mann zu Mann weitergegeben und viele FLINTA*-Personen haben auf Grund von gesellschaftlichen Zuschreibungen und männlich-dominierten Strukturen zunächst Berührungsängste. Wir haben Lust unser Wissen weiterzugeben und ein Interesse daran, Ängste und Barrieren mit/von FLINTA*-Personen abzubauen, die sie davon abhalten Dinge zu tun, die sie tun könnten. Der Kurs schafft bewusst einen Raum, in dem das Ausprobieren und Fragenstellen im Vordergrund steht — ohne das Gefühl, sich beweisen zu müssen.
 
 ## Was erwartet dich?
 
@@ -26,7 +26,7 @@ Die Flickerei kommt mit ihrer komplett ausgestatteten mobilen Werkstatt auf dem 
 
 ## Details
 
-- **Für wen:** FLINTA (Frauen, Lesben, inter, nicht-binäre, trans und agender Personen)
+- **Für wen:** FLINTA*-only
 - **Wann:** Mittwoch, 23. Juli 2026, 17:00–20:00 Uhr
 - **Wo:** Überdachter Schulhof der Schule Heuweiler
 - **Teilnehmerinnen:** max. 10
