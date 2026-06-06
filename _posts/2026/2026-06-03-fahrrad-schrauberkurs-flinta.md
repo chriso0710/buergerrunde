@@ -1,5 +1,5 @@
 ---
-title: "Schraubkurs FLINTA\*-only: Mach dein Rad selbst fit!"
+title: "Schraubkurs FLINTA*-only: Mach dein Rad selbst fit!"
 categories: [Mobilität, Gemeinschaft]
 author: co
 image: /assets/images/klimamobil/reifen-platt.jpg
