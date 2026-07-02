@@ -15,6 +15,10 @@ image: "/assets/images/buergernetz/whatsapp-qr.jpg"
 - **Wichtige Infos in Echtzeit:** Stromausfall, Wasserrohrbruch oder Straßensperrung — im Bürgernetz informieren sich Nachbar:innen gegenseitig, schnell und direkt.
 - **Aufmerksam füreinander:** Offene Gartentore, herrenlose Fundstücke oder ungewöhnliche Beobachtungen — gemeinsam hat man ein Auge aufs Dorf und hilft sich gegenseitig.
 
+## Damit sich alle wohlfühlen
+
+Damit die Gruppe für alle ein angenehmer Ort bleibt, haben wir eine kleine Bitte: Postet bitte nur Dinge mit Bezug zu Heuweiler und verzichtet auf politische Inhalte, auf Witze und Spam sowie auf alles Diskriminierende. So bleibt das Bürgernetz übersichtlich, respektvoll und erfüllt weiterhin seinen eigentlichen Zweck – als unser kurzer, hilfreicher Draht ins Dorf.
+
 ## Mitmachen
 
 Wer noch nicht dabei ist und mitmachen möchte, kann der WhatsApp-Gruppe ganz einfach über den QR-Code beitreten oder uns per E-Mail an [hallo@heuweiler.net](mailto:hallo@heuweiler.net) erreichen.
