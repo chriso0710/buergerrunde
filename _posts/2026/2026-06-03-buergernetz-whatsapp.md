@@ -5,7 +5,7 @@ author: dg
 image: "/assets/images/buergernetz/whatsapp-qr.jpg"
 ---
 
-Über 100 Heuweilemer:innen sind bereits dabei — im Bürgernetz Heuweiler auf WhatsApp. Die Gruppe ist unser kurzer Draht ins Dorf: schnell, unkompliziert und für alle offen.
+Über 120 Heuweilemer:innen sind bereits dabei — im Bürgernetz Heuweiler auf WhatsApp. Die Gruppe ist unser kurzer Draht ins Dorf: schnell, unkompliziert und für alle offen.
 
 ## Was passiert im Bürgernetz?
 
