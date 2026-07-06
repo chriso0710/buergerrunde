@@ -1,0 +1,6 @@
+[env]
+# Lädt Variablen aus .env (z. B. OPENAI_API_KEY, BREVO_API) in die Shell-Umgebung
+_.file = ".env"
+
+[tools]
+ruby = "3.2.9"
