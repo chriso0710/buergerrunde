@@ -27,7 +27,7 @@ Die Flickerei kommt mit ihrer komplett ausgestatteten mobilen Werkstatt auf dem 
 ## Details
 
 - **Für wen:** FLINTA\*-only
-- **Wann:** Mittwoch, 23. Juli 2026, 17:00–20:00 Uhr
+- **Wann:** Donnerstag, 23. Juli 2026, 17:00–20:00 Uhr
 - **Wo:** Überdachter Schulhof der Schule Heuweiler
 - **Teilnehmerinnen:** max. 10
 - **Kostenbeitrag:** 20 Euro pro Person
