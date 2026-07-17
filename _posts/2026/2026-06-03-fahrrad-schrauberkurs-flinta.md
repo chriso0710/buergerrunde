@@ -3,9 +3,11 @@ title: "Schraubkurs FLINTA*-only: Mach dein Rad selbst fit!"
 categories: [Mobilität, Gemeinschaft]
 author: co
 image: /assets/images/klimamobil/reifen-platt.jpg
-event: 2026-07-23 17:00:00
+event: 2026-09-24 17:00:00
 location: Schulhof Heuweiler
 ---
+
+> **Hinweis:** Der Kurs wurde vom 23. Juli auf **Donnerstag, den 24. September 2026** verschoben. Uhrzeit und Ort bleiben unverändert.
 
 Platter Reifen? Bremse schleift? Kette springt? Kein Problem — beim Fahrrad-Schraubkurs der Bürgerrunde lernst du, wie du dein Rad selbst reparierst und fit hältst.
 
@@ -27,7 +29,7 @@ Die Flickerei kommt mit ihrer komplett ausgestatteten mobilen Werkstatt auf dem 
 ## Details
 
 - **Für wen:** FLINTA\*-only
-- **Wann:** Donnerstag, 23. Juli 2026, 17:00–20:00 Uhr
+- **Wann:** Donnerstag, 24. September 2026, 17:00–20:00 Uhr
 - **Wo:** Überdachter Schulhof der Schule Heuweiler
 - **Teilnehmerinnen:** max. 10
 - **Kostenbeitrag:** 20 Euro pro Person
