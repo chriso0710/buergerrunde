@@ -4,7 +4,7 @@ category: Religiöse Stätten
 address: Kirchberg 6
 latitude: 48.051939
 longitude: 7.904312
-website: ""
+website: https://www.kath-elz.de
 image: /assets/images/locations/kirche-st-remigius.jpg
 image_copyright: ""
 generated_by: gpt-5-mini
@@ -25,7 +25,7 @@ Die Kirche St. Remigius ist die römisch‑katholische Pfarrkirche von Heuweiler
 
 #### Bedeutung
 
-Als Pfarrkirche ist St. Remigius Zentrum des katholischen Gemeindelebens in Heuweiler (Seelsorgeeinheit "An der Glotter") und Standort für Gottesdienste, Taufen, Trauungen, Beerdigungen sowie Gemeindeveranstaltungen.
+Als Pfarrkirche ist St. Remigius Zentrum des katholischen Gemeindelebens in Heuweiler. Die Gemeinde gehört zur Römisch-Katholischen Kirchengemeinde An der Elz ([www.kath-elz.de](https://www.kath-elz.de)) und ist Standort für Gottesdienste, Taufen, Trauungen, Beerdigungen sowie Gemeindeveranstaltungen.
 
 #### Geschichte
 

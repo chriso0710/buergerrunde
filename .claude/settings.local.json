@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git commit -q -m ' *)",
+      "Bash(git push *)",
+      "Bash(JEKYLL_ENV=production bundle exec jekyll build)",
+      "Bash(netlify api *)",
+      "Bash(python3 -c ' *)",
+      "Bash(curl:*)",
+      "Bash(python3 *)"
     ]
   }
 }
