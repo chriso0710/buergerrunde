@@ -11,3 +11,6 @@ _site
 # Temporary and log files
 tmp/
 *.log
+
+# Netlify CLI (lokale Projektverknüpfung)
+.netlify/
