@@ -16,10 +16,7 @@ bundle exec jekyll serve --livereload    # Dev-Server auf localhost:4000
 bundle exec jekyll build                 # Lokaler Build
 JEKYLL_ENV=production bundle exec jekyll build  # Produktions-Build (Netlify)
 
-# Locations (OpenAI-basierte Generierung)
-rake locations:generate                  # Bis zu 10 Locations aus orte_heuweiler.txt generieren
-rake locations:test['Ortsname']          # Einzelne Location testen
-rake locations:list                      # Verfügbare Orte anzeigen
+# Locations
 rake locations:geocode                   # Koordinaten via Nominatim aktualisieren
 
 # Bildverarbeitung
@@ -32,7 +29,6 @@ rake images:convert_heic_to_jpg          # HEIC zu JPG konvertieren
 - Ruby 3.2.x (exakt 3.2.9, siehe `.ruby-version`)
 - Bundler (`bundle install`)
 - ImageMagick (für `mini_magick` / Bildverarbeitung)
-- `.env`-Datei mit `OPENAI_API_KEY` für Location-Generierung
 
 ## Architektur
 
@@ -47,7 +43,7 @@ rake images:convert_heic_to_jpg          # HEIC zu JPG konvertieren
 - `_plugins/german_date_filter.rb` — Deutsche Datumsformatierung
 - `_plugins/liquid_frozen_string_patch.rb` — Frozen-String-Kompatibilität
 
-**AI-Location-Pipeline:** `lib/location_generator.rb` liest Ortsnamen aus `orte_heuweiler.txt`, generiert via OpenAI strukturierte Markdown-Dateien mit YAML-Frontmatter (Koordinaten, Kategorien, Beschreibung) nach `_locations/`.
+**Locations:** Die Ortsbeschreibungen in `_locations/` wurden 2025 einmalig KI-gestützt erzeugt und werden seitdem von Hand gepflegt. Die Generierungs-Pipeline (`lib/location_generator.rb`, OpenAI) wurde entfernt; erhalten bleibt `rake locations:geocode` zur Aktualisierung der Koordinaten via Nominatim.
 
 ## SEO-Konfiguration
 
