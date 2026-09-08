@@ -8,7 +8,10 @@
       "Bash(netlify api *)",
       "Bash(python3 -c ' *)",
       "Bash(curl:*)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Read(//tmp/**)",
+      "Bash(identify /tmp/test_max.jpg)",
+      "Bash(identify /tmp/ext_burg.jpg)"
     ]
   }
 }
