@@ -233,28 +233,6 @@ Diese Übersicht zeigt die wichtigsten wiederkehrenden Termine im Jahresverlauf 
     </div>
   </div>
 
-  <!-- Pfarrfest -->
-  <div class="card">
-    <div class="card-header" id="headingPfarrfest">
-      <h2 class="mb-0">
-        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapsePfarrfest" aria-expanded="false" aria-controls="collapsePfarrfest">
-          <i class="fas fa-church mr-2"></i>Pfarrfest (Mai)
-        </button>
-      </h2>
-    </div>
-    <div id="collapsePfarrfest" class="collapse" aria-labelledby="headingPfarrfest" data-parent="#eventsAccordion">
-      <div class="card-body">
-        Jedes Jahr im Mai feiert die Pfarrgemeinde St. Remigius nach dem Gottesdienst um die Kirche ein Fest. Wie bei anderen Veranstaltungen in Heuweiler kann man auch hier sehen, wie vielfältig das Gemeindeleben ist: Alle kirchlichen Vereine und Gruppierungen und die Trachtenkapelle unterstützen die Programmgestaltung schon im Vorfeld und sind beim Feiern aktiv dabei.
-        <br><br>
-        In einem Programm aus einem der vergangenen Jahre konnte man zum Beispiel entnehmen: Sektempfang des Kirchenchors, Platzkonzert der Trachtenkapelle, Sportangebote des DJK, Kreativangebote des Kindergartens, Orgelspielen für Kinder, Ketten fädeln der Kleinkind- und Familiengottesdienstgruppe, eine Kirchenführung bis zum Dachboden und das Angebot der Malteser, den Blutdruck der Besucherinnen und Besucher zu messen.
-        <br><br>
-        Auch für das leibliche Wohl ist bestens gesorgt. Wer seinen „kleinen" Hunger stillen oder zu Kaffee und Kuchen verweilen möchte, ist herzlich eingeladen – unabhängig von der eigenen Konfession.
-        <br><br>
-        Informationen zur Pfarrgemeinde, die zur katholischen Seelsorgeeinheit „An der Glotter" gehört, findet man auf der Internetseite www.an-der-glotter.de.
-      </div>
-    </div>
-  </div>
-
   <!-- Evangelischer Gottesdienst zu Christi Himmelfahrt -->
   <div class="card">
     <div class="card-header" id="headingEvangelischerGottesdienst">
@@ -524,9 +502,9 @@ Diese Übersicht zeigt die wichtigsten wiederkehrenden Termine im Jahresverlauf 
     </div>
     <div id="collapsePatrozinium" class="collapse" aria-labelledby="headingPatrozinium" data-parent="#eventsAccordion">
       <div class="card-body">
-        Patrozinium bezeichnet die Schutzherrschaft eines Patrons und auch das Patronatsfest, zu dem der Patron gefeiert wird. Die Heuweilermer Kirche führt als Schutzpatron den Heiligen St. Remigius und feiert am ersten Sonntag im Oktober das Patrozinium. Gefeiert wird mit einem Festgottesdienst, zu dessen Gelingen der Kirchenchor eine gesungene Messe und das Kinderchörle zwei Lieder beitragen. Im Anschluss ist die Gemeinde zum Sektempfang auf dem Kirchplatz eingeladen, bei dem auch die Trachtenkapelle ein Platzkonzert spielt. In früheren Jahren wurde anschließend das Pfarrfest gefeiert, das inzwischen aber auf einen Sonntag im Mai oder Juni verlegt wurde.
+        Das Patrozinium, ein Fest zu Ehren des heiligen Remigius, wird in Heuweiler traditionell am ersten Sonntag im Oktober gefeiert. Gefeiert wird mit einem Festgottesdienst, der musikalisch von den Kirchenchören Heuweiler und Glottertal mitgestaltet wird.
         <br><br>
-        Das hier abgebildete Altarbild der Heuweilermer Kirche zeigt Remigius von Reims bei der Taufe des Königs Chlodwig und seiner Gattin Chlothilde.
+        Im Anschluss ist die Gemeinde zum Sektempfang auf dem Kirchplatz eingeladen, bei dem auch die Trachtenkapelle ein Platzkonzert spielt.
       </div>
     </div>
   </div>
