@@ -3,6 +3,8 @@ title: "Live-Musik beim Dorfflohmarkt: Maria und Pia"
 categories: [Flohmarkt, Konzert]
 author: co
 image: /assets/images/konzert/mariaundpia.jpg
+event: 2026-09-19 12:00:00
+location: Café IZ, Heuweiler
 ---
 
 Beim Dorfflohmarkt am Samstag, den 19. September 2026, gibt es am Café IZ Live-Musik: **Maria und Pia** spielen ab etwa 12 Uhr zwei Sets von jeweils rund 30 Minuten.
