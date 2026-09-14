@@ -5,7 +5,7 @@ hidden: true
 sitemap: false
 robots: noindex,nofollow
 author: co
-image: /assets/images/location-placeholder.png  # TODO: Platzhalter – durch Foto vom Zepner-Gelände oder eine Projektskizze ersetzen
+image: /assets/images/locations/zepner.jpg
 ---
 
 Die Bürgergenossenschaft Heuweiler hat sich etwas Großes vorgenommen: Auf dem ehemaligen Zepner-Gelände soll ein Mehrzweckhaus entstehen. Die Gemeinde Heuweiler hat das Grundstück gekauft und stellt es der Genossenschaft in Erbpacht zur Verfügung.
