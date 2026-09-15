@@ -324,6 +324,29 @@ span.post-read-more a:hover {
   white-space: nowrap;
 }
 
+/* Instagram-Icon in der Menuezeile auf Texthoehe zentrieren */
+.nav-item-social {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 0.5rem 1rem;
+}
+
+.nav-item-social a {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+/* ohne feste Breite quetscht das globale img{max-width:100%} das Icon im Flex-Container zusammen */
+.nav-item-social img {
+  display: block;
+  width: 24px;
+  height: 24px;
+  max-width: none;
+  flex-shrink: 0;
+}
+
 .mainheading h1.posttitle {
   font-weight: 700;
   margin-bottom: 1rem;
