@@ -50,57 +50,70 @@ def button(url, label):
     return f"""
       <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin:4px 0 0 0;">
         <tr><td align="center" bgcolor="{ACCENT}" style="background-color:{ACCENT};border-radius:4px;">
-          <a href="{url}" target="_blank" style="display:inline-block;padding:12px 26px;font-family:{FONT};font-size:16px;font-weight:bold;color:#ffffff;text-decoration:none;line-height:1.15;">{label}</a>
+          <a href="{url}" target="_blank" style="display:inline-block;padding:14px 28px;font-family:{FONT};font-size:17px;font-weight:bold;color:#ffffff;text-decoration:none;line-height:1.15;">{label}</a>
         </td></tr>
       </table>"""
 
 def block_html(b):
     return f"""
-    <tr><td style="padding:0 24px;">
+    <tr><td class="pad" style="padding:0 24px;">
       <a href="{b['url']}" target="_blank" style="text-decoration:none;">
         <img src="{b['img']}" width="552" alt="" style="width:100%;max-width:552px;height:auto;border-radius:6px;display:block;border:0;" />
       </a>
     </td></tr>
-    <tr><td style="padding:18px 24px 6px 24px;">
-      <h2 style="margin:0;font-size:24px;line-height:1.25;color:{HEAD};font-family:{FONT};font-weight:bold;">
+    <tr><td class="pad" style="padding:18px 24px 6px 24px;">
+      <h2 class="h2" style="margin:0;font-size:25px;line-height:1.25;color:{HEAD};font-family:{FONT};font-weight:bold;">
         <a href="{b['url']}" target="_blank" style="color:{HEAD};text-decoration:none;">{b['title']}</a>
       </h2>
     </td></tr>
-    <tr><td style="padding:6px 24px 12px 24px;">
-      <p style="margin:0;font-size:16px;line-height:1.6;color:{TEXT};font-family:{FONT};">{b['text']}</p>
+    <tr><td class="pad" style="padding:6px 24px 12px 24px;">
+      <p class="tx" style="margin:0;font-size:17px;line-height:1.65;color:{TEXT};font-family:{FONT};">{b['text']}</p>
     </td></tr>
-    <tr><td style="padding:0 24px 26px 24px;">{button(b['url'], b['cta'])}</td></tr>
-    <tr><td style="padding:0 24px 26px 24px;"><hr style="border:0;border-top:1px solid #e2e6ec;margin:0;" /></td></tr>
+    <tr><td class="pad" style="padding:0 24px 26px 24px;">{button(b['url'], b['cta'])}</td></tr>
+    <tr><td class="pad" style="padding:0 24px 26px 24px;"><hr style="border:0;border-top:1px solid #e2e6ec;margin:0;" /></td></tr>
     """
 
 def build_html():
     blocks_html = "".join(block_html(b) for b in blocks)
     return f"""<!DOCTYPE html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<html lang="de"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<style>
+  body {{ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }}
+  @media only screen and (max-width:620px) {{
+    .wrap {{ width:100% !important; max-width:100% !important; border-radius:0 !important; }}
+    .pad {{ padding-left:18px !important; padding-right:18px !important; }}
+    .tx {{ font-size:17px !important; line-height:1.65 !important; }}
+    .h2 {{ font-size:22px !important; }}
+  }}
+</style>
+</head>
 <body style="margin:0;padding:0;background:{PAGE_BG};">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:{PAGE_BG};">
 <tr><td align="center" style="padding:24px 12px;">
-  <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;background:{CARD_BG};border-radius:8px;overflow:hidden;">
+  <table role="presentation" width="600" cellpadding="0" cellspacing="0" class="wrap" style="width:100%;max-width:600px;background:{CARD_BG};border-radius:8px;overflow:hidden;">
     <tr><td style="padding:32px 24px 12px 24px;text-align:center;">
       <img src="{LOGO}" width="140" alt="B&uuml;rgerrunde Heuweiler" style="width:140px;max-width:45%;height:auto;display:inline-block;border:0;" />
       <div style="font-size:16px;color:{ACCENT};font-family:{FONT};margin-top:14px;font-weight:bold;">Neues aus dem Dorf</div>
     </td></tr>
-    <tr><td style="padding:14px 24px 18px 24px;">
-      <p style="margin:0;font-size:16px;line-height:1.6;color:{TEXT};font-family:{FONT};">{INTRO}</p>
+    <tr><td class="pad" style="padding:14px 24px 18px 24px;">
+      <p class="tx" style="margin:0;font-size:17px;line-height:1.65;color:{TEXT};font-family:{FONT};">{INTRO}</p>
     </td></tr>
     <tr><td style="padding:0 24px 24px 24px;"><hr style="border:0;border-top:1px solid #e2e6ec;margin:0;" /></td></tr>
     {blocks_html}
-    <tr><td style="padding:18px 24px 22px 24px;">
-      <p style="margin:0;font-size:16px;line-height:1.6;color:{TEXT};font-family:{FONT};">{OUTRO}</p>
+    <tr><td class="pad" style="padding:18px 24px 22px 24px;">
+      <p class="tx" style="margin:0;font-size:17px;line-height:1.65;color:{TEXT};font-family:{FONT};">{OUTRO}</p>
     </td></tr>
     <tr><td style="padding:22px 24px 30px 24px;background:{PAGE_BG};text-align:center;">
-      <p style="margin:0 0 10px 0;font-size:14px;line-height:1.7;color:{MUTED};font-family:{FONT};">
+      <p style="margin:0 0 10px 0;font-size:15px;line-height:1.7;color:{MUTED};font-family:{FONT};">
         <a href="{{{{ mirror }}}}" target="_blank" style="color:{ACCENT};text-decoration:underline;">Im Browser &ouml;ffnen</a> |
         <a href="{{{{ unsubscribe }}}}" target="_blank" style="color:{ACCENT};text-decoration:underline;">Newsletter abbestellen</a><br>
         <a href="{BASE}/imprint" target="_blank" style="color:{ACCENT};text-decoration:underline;">Impressum</a> |
         <a href="{BASE}/privacy" target="_blank" style="color:{ACCENT};text-decoration:underline;">Datenschutz</a>
       </p>
-      <p style="margin:0;font-size:13px;line-height:1.6;color:{MUTED};font-family:{FONT};">
+      <p style="margin:0;font-size:14px;line-height:1.6;color:{MUTED};font-family:{FONT};">
         B&uuml;rgerrunde Heuweiler e.V.<br>Diese E-Mail wurde an {{{{ contact.EMAIL }}}} gesendet.
       </p>
     </td></tr>

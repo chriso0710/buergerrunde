@@ -57,13 +57,24 @@ Endpoint-Basis `https://api.brevo.com/v3`, Header `api-key: <BREVO_API>`, `accep
 | Akzent / Buttons / Links | `#f74d36` (Orange-Rot) |
 | Seiten-Hintergrund | `#eff2f7` |
 | Inhaltsfläche | `#ffffff` |
-| Fließtext | `#3b3f44`, 16px, line-height 1.6 |
-| Überschriften | `#1f2d3d`, 24px bold (Haupttitel 32px) |
-| Footer / dezent | `#8a8f96`, 13–14px |
+| Fließtext | `#3b3f44`, 17px, line-height 1.65 |
+| Überschriften | `#1f2d3d`, 25px bold (auf Mobil 22px) |
+| Footer / dezent | `#8a8f96`, 14–15px |
 | Schrift | `arial,helvetica,sans-serif` |
-| Breite | 600px zentriert, Blöcke 24px seitliches Padding |
+| Breite | max. 600px zentriert, **fluid**; Blöcke 24px Padding (Mobil 18px) |
 
-**CTA-Buttons:** echte Tabellen-Buttons, `bgcolor=#f74d36`, `border-radius:4px`, weiße 16px-Bold-Schrift, Padding `12px 26px`. Keine reinen Text-Links.
+**CTA-Buttons:** echte Tabellen-Buttons, `bgcolor=#f74d36`, `border-radius:4px`, weiße 17px-Bold-Schrift, Padding `14px 28px`. Keine reinen Text-Links.
+
+## Mobile Darstellung (wichtig)
+
+Rückmeldung aus der Praxis: Mit fester Breite wirkt die Schrift auf dem Handy **viel zu klein**. Ursache ist nicht die Schriftgröße selbst, sondern die Breite: Bei `width="600" style="width:600px"` skaliert der Mail-Client die ganze Mail auf einem 390px-Display auf ~65 % herunter — aus 16px werden dann ~10px. Deshalb gilt:
+
+1. **Inhaltstabelle fluid halten:** `width="600"` als Attribut (für Outlook) behalten, aber `style="width:100%;max-width:600px"` setzen. Niemals `width:600px` im style.
+2. **`<style>`-Block im `<head>`** mit Media Query für ≤620px — Klassen `.wrap` (volle Breite, kein Radius), `.pad` (18px statt 24px), `.tx` (17px), `.h2` (22px). Die Klassen müssen an den Zellen/Absätzen stehen, sonst greift die Query ins Leere.
+3. **`-webkit-text-size-adjust:100%`** auf `body` und `<meta name="x-apple-disable-message-reformatting">`, damit iOS/Outlook die Größen nicht eigenmächtig umrechnen.
+4. **Mindestgrößen:** Fließtext nie unter 17px, Buttons nicht unter 17px, Footer nicht unter 14px.
+
+Die Vorlage `build_newsletter.py` bringt das alles bereits mit — beim Anpassen nicht versehentlich die Klassen `wrap`/`pad`/`tx`/`h2` entfernen.
 
 **Logo:** `https://buergerrunde.heuweiler.net/assets/images/br_logo_email.png` (aus `br_logo.svg` gerendert, transparent). Rund, zentriert, ~140px.
 ⚠️ **Kein SVG im E-Mail-`<img>`** – Gmail/Outlook/Webmail zeigen SVG nicht. Bei Logo-Änderung neu aus SVG rendern:
