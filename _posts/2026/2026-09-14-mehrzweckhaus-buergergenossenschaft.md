@@ -1,9 +1,6 @@
 ---
 title: "Mehrzweckhaus: Das neue Projekt der Bürgergenossenschaft"
 categories: [Gemeinschaft]
-hidden: true
-sitemap: false
-robots: noindex,nofollow
 author: co
 image: /assets/images/locations/zepner.jpg
 ---
