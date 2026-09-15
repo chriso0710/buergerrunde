@@ -85,8 +85,16 @@ pre {
 .site-content {
   min-height: 60vh;
   padding-top: 1.5rem;
-  margin-top: 110px;
+  /* Navbar ist fixed: Logo 80px + Padding */
+  margin-top: 104px;
   transition: all 0.4s;
+}
+
+@media (min-width: 992px) {
+  /* ab hier ist das Logo 110px hoch */
+  .site-content {
+    margin-top: 134px;
+  }
 }
 
 .site-title {
@@ -286,9 +294,34 @@ span.post-read-more a:hover {
   cursor: pointer;
 }
 
+.mediumnavigation .navbar-brand {
+  flex-shrink: 0;
+}
+
+/* Feste Hoehe statt max-height: im Flex-Layout wuerde das Logo sonst je nach
+   Breite unterschiedlich stark schrumpfen und die Navbar-Hoehe schwanken. */
 .mediumnavigation .navbar-brand img {
-  max-height: 120px;
+  height: 80px;
+  width: auto;
   margin-right: 5px;
+}
+
+@media (min-width: 992px) {
+  .mediumnavigation .navbar-brand img {
+    height: 110px;
+  }
+}
+
+.navbar-tagline {
+  max-width: 12rem;
+  margin-right: auto;
+  font-size: 0.75rem;
+  line-height: 1.35;
+  color: var(--color-text-muted);
+}
+
+.mediumnavigation .nav-link {
+  white-space: nowrap;
 }
 
 .mainheading h1.posttitle {
@@ -448,6 +481,17 @@ blockquote {
 @media (max-width: 767px) {
   .post-top-meta.authorpage {
     text-align: center;
+  }
+
+  /* Ueberschriften auf Mobil deutlich kleiner */
+  .section-title h1,
+  .mainheading h1.posttitle {
+    font-size: 1.6rem;
+    line-height: 1.25;
+  }
+
+  .section-title span {
+    padding-bottom: 12px;
   }
 }
 

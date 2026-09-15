@@ -65,6 +65,7 @@
             src="{{ site.logo | prepend: site.baseurl }}"
             alt="{{ site.name }}" />
         </a>
+        <span class="navbar-tagline d-none d-xl-block">{{ site.description }}</span>
         <!-- End Logo -->
 
         <button
@@ -100,11 +101,6 @@
 
     <div class="site-content">
       <div class="container">
-        <!-- Site Title ================================================== -->
-        <div class="mainheading">
-          <p>{{ site.description }}</p>
-        </div>
-
         <!-- Content ================================================== -->
         <div class="main-content">{{ content }}</div>
 
