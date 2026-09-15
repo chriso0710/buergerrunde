@@ -14,7 +14,7 @@ permalink: /:title/
 lang: de_DE
 
 static:
-  featured: "Aktuelle Termine und Themen"
+  featured: "Was läuft in Heuweiler"
   categories: Kategorien
   category: Kategorie
   tag: Etikett
