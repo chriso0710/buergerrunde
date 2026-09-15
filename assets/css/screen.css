@@ -954,13 +954,25 @@ iframe {
   border-color: var(--color-primary);
 }
 
+/* Buttons in Beitraegen: auf dem Handy volle Breite (sicheres Tap-Ziel),
+   ab Tablet Breite nach Inhalt - als Vollbreite-Balken wirken sie sonst
+   wie Ueberschriften statt wie Schaltflaechen. */
 .article-post .btn-success {
   display: block;
   width: 100%;
   text-align: center;
   margin: 1rem 0;
-  padding: 0.75rem 1.5rem;
-  font-size: 1.125rem;
+  padding: 0.7rem 1.75rem;
+  font-size: 1rem;
+}
+
+@media (min-width: 576px) {
+  .article-post .btn-success {
+    display: inline-block;
+    width: auto;
+    /* Sicherheitsnetz gegen sehr lange Beschriftungen, greift normal nicht */
+    max-width: 60%;
+  }
 }
 
 .btn-success:hover,
