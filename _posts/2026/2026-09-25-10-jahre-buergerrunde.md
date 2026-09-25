@@ -15,5 +15,3 @@ Jugendhütte Heuweiler**
 Es gibt weihnachtlichen Apfelpunsch und ein Feuer. Die Äpfel dafür kommen aus Heuweiler selbst — gesammelt und frisch gepresst von der AG Naturfreunde der Bürgerrunde.
 
 Zehn Jahre Bürgerrunde, das sind unzählige Aktionen, Projekte und Begegnungen im Dorf. Wir freuen uns auf alle, die in dieser Zeit dabei waren oder es künftig sein möchten.
-
-Das genaue Programm geben wir rechtzeitig bekannt.
