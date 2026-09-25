@@ -33,5 +33,5 @@ Das Rad „Holly“ wurde von der Bürgerrunde Heuweiler als zweites Dorf‑Last
 #### Besonderheiten
 
 - Typ: Urban Arrow Family (geräumige Ladebox, für Kindertransport geeignet). 
-- Standortbeschreibung: überdachter Stellplatz auf dem Zepner-Gelände, Dorfstraße 51; Ladestrom vor Ort (Rückgabe bitte angesteckt lassen), Rad hat Zahlenschlösser und wird am Boden- bzw. Wandanker angeschlossen. 
+- Standortbeschreibung: überdachter Stellplatz auf dem Zepner-Gelände, Dorfstraße 51; Ladestrom vor Ort (Rückgabe bitte angesteckt lassen), Rad hat Zahlenschlösser und wird am Wandanker angeschlossen. 
 - Teil des regionalen, kostenfreien Sharing‑Netzes LastenVelo Freiburg — Registrierung und Buchung über LastenVelo erforderlich.
