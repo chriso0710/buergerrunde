@@ -647,7 +647,7 @@ Adresse: Dorfstraße 2
 
 # Schule
 
-Das Schulgebäude auf dem Kirchberg wurde Anfang der 60er Jahre als Volksschule Heuweiler erbaut; damals wurden alle Heuweilemer Schüler- innen und Schüler in zwei altersgemischten Klassen gemeinsam unterrichtet (Klassen 1-4 und 5-8). Nach der Verwaltungs- und Schulreform in den frühen 70er Jahren wurde die Schule der Johann-Peter-Grundschule in Gundelfingen als Außen- stelle angegliedert und war somit nur noch eine reine Grundschule; die älteren Kinder wurden fortan im Glottertal unterrichtet.
+Das Schulgebäude auf dem Kirchberg wurde Anfang der 60er Jahre als Volksschule Heuweiler erbaut; damals wurden alle Heuweilermer Schüler- innen und Schüler in zwei altersgemischten Klassen gemeinsam unterrichtet (Klassen 1-4 und 5-8). Nach der Verwaltungs- und Schulreform in den frühen 70er Jahren wurde die Schule der Johann-Peter-Grundschule in Gundelfingen als Außen- stelle angegliedert und war somit nur noch eine reine Grundschule; die älteren Kinder wurden fortan im Glottertal unterrichtet.
 
 Anfangs beherbergte die Außenstelle drei 3. und 4. Klassen mit Kindern aus Heuweiler und Gundelfingen; später wurden es - wie auch heute noch - nur zwei dritte Klassen. In eine davon gehen ausschließlich Kinder aus Heuweiler.
 

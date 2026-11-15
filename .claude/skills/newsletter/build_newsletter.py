@@ -29,7 +29,7 @@ TEXT, HEAD, MUTED = "#3b3f44", "#1f2d3d", "#8a8f96"
 FONT = "arial,helvetica,sans-serif"
 LOGO = f"{BASE}/assets/images/br_logo_email.png"  # aus SVG gerendert; KEIN .svg im Mail-img
 
-INTRO = ("Liebe Heuweilemer:innen,<br>hier sind unsere aktuellen Themen und Termine. "
+INTRO = ("Liebe Heuweilermer:innen,<br>hier sind unsere aktuellen Themen und Termine. "
          "Viel Freude beim Lesen!")
 OUTRO = ("Und nicht vergessen: Unser <strong>Feierabend-Treff</strong> findet weiterhin "
          "einmal im Monat im Caf&eacute; IZ statt &ndash; offen f&uuml;r alle.")

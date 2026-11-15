@@ -31,4 +31,4 @@ Und auch bei den vorgestellten Varianten fällt das Votum deutlich aus: Knapp zw
 > Bitte nehmen Sie dieses aktuelle Stimmungsbild von über 12% der Heuweilermer Wahlberechtigten zur Kenntnis.
 
 
-Politik hat die Aufgabe, Rahmenbedingungen zu schaffen und damit Wandel anzureizen. Wir fordern Sie deshalb auf, schaffen Sie Rahmenbedingungen, die sehr viele Heuweilemer dazu bringt, immer häufiger das Auto stehen zu lassen. Es ist eine Sache der Gewohnheit und der Infrastruktur.  Wir freuen uns auf Ihr Konzept und stehen als AG Klima und Mobil gern zur Verfügung für Fragen und Unterstützung.
+Politik hat die Aufgabe, Rahmenbedingungen zu schaffen und damit Wandel anzureizen. Wir fordern Sie deshalb auf, schaffen Sie Rahmenbedingungen, die sehr viele Heuweilermer dazu bringt, immer häufiger das Auto stehen zu lassen. Es ist eine Sache der Gewohnheit und der Infrastruktur.  Wir freuen uns auf Ihr Konzept und stehen als AG Klima und Mobil gern zur Verfügung für Fragen und Unterstützung.

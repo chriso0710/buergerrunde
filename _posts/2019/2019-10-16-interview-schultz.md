@@ -19,5 +19,5 @@ BZ: Welche Aktionen haben Sie geplant?
  
 BZ: Wer soll zum Vortragsabend kommen? 
 
->Wir wünschen uns, dass sich alle angesprochen fühlen. Alt und jung, neue und alteingesessene Heuweilemer, einfach alle. Außerdem hoffen wir sehr, dass sich die Gemeinderäte und Gemeinderätinnen bei dem Thema engagieren.  
+>Wir wünschen uns, dass sich alle angesprochen fühlen. Alt und jung, neue und alteingesessene Heuweilermer, einfach alle. Außerdem hoffen wir sehr, dass sich die Gemeinderäte und Gemeinderätinnen bei dem Thema engagieren.  
  

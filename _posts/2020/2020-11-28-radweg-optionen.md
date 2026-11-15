@@ -51,7 +51,7 @@ Ein Vorteil wäre hier vor allem die Sicherheit der Radfahrer. Erhebliche Nachte
 
 ### Ausbau des Malefikantenwegs zu einem vollständig befestigten Radweg
 
-Auch bei dieser Variante sind nicht unerhebliche Kosten zu erwarten. Der Weg hat aber auch einen Umwegcharakter, zumindest für alle Heuweilemer, die von der Dorfmitte bis nach Hinterheuweiler leben. Wir wollen Alltagswege vom Auto auf das Rad verlagern. Gerade bei diesen Alltagswegen liegt es aber in der Natur das Sache, dass sie so kurz und so schnell wie möglich sein müssen, damit viele Menschen sie häufig nutzen.
+Auch bei dieser Variante sind nicht unerhebliche Kosten zu erwarten. Der Weg hat aber auch einen Umwegcharakter, zumindest für alle Heuweilermer, die von der Dorfmitte bis nach Hinterheuweiler leben. Wir wollen Alltagswege vom Auto auf das Rad verlagern. Gerade bei diesen Alltagswegen liegt es aber in der Natur das Sache, dass sie so kurz und so schnell wie möglich sein müssen, damit viele Menschen sie häufig nutzen.
   </div>
 </div>
 </div>

@@ -17,7 +17,7 @@ Eine deutliche Mehrheit spricht sich nach bisherigem Stand für eine Umwidmung d
 
 Auch wenn man angesichts des schnell fortschreitenden Klimawandels an der Geschwindigkeit von politischem Handeln zweifeln kann, ist dies ein toller Teilerfolg. Wir bleiben dran im nächsten Jahr! Und werden weitere Klima-relevante Themen aufs Tableau bringen.
 
-Überdies bemühen wir uns um den Anschluss an das Verleihnetz für freie Lastenräder von [LastenVelo Freiburg](https://www.lastenvelofreiburg.de){:target="_blank"}. Das Ziel ist, eine Lastenradstation in der Dorfmitte Heuweilers zu etablieren, an der sich die Heuweilemer ein Lastenrad kostenlos ausleihen können. Ein weiteres Puzzleteilchen in einer neuen Mobilität.
+Überdies bemühen wir uns um den Anschluss an das Verleihnetz für freie Lastenräder von [LastenVelo Freiburg](https://www.lastenvelofreiburg.de){:target="_blank"}. Das Ziel ist, eine Lastenradstation in der Dorfmitte Heuweilers zu etablieren, an der sich die Heuweilermer ein Lastenrad kostenlos ausleihen können. Ein weiteres Puzzleteilchen in einer neuen Mobilität.
 
 Für heute bleibt uns, Euch frohe Feiertage und natürlich Gesundheit zu wünschen. Wir hoffen, Ihr könnt die (erzwungene) Ruhe für Schönes nutzen und freuen uns mit Euch auf ein 2021, das irgendwann auch wieder Normalität und damit wieder mehr Dorfgemeinschaft bringen wird. 
 

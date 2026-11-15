@@ -1,12 +1,12 @@
 ---
-title: Heuweilemer Dorfputzede
+title: Heuweilermer Dorfputzede
 categories: [ Gemeinschaft, Klimaschutz ]
 author: dg
 image: /assets/images/naturschutz/muell.jpg
 event: 2021-05-15 11:00:00
 location: Rathausplatz
 ---
-Die AG Klima und Mobilität der Bürgerrunde Heuweiler e.V. lädt ein zur Heuweilemer Dorfputzede.
+Die AG Klima und Mobilität der Bürgerrunde Heuweiler e.V. lädt ein zur Heuweilermer Dorfputzede.
 
 Alle BürgerInnen, die Lust und Zeit haben, sind herzlich dazu eingeladen, die Straßen und Wege unserer Gemeinde von Müll und Unrat zu befreien. Hierzu treffen wir uns 
 

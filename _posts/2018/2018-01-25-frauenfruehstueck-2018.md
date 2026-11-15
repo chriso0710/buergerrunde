@@ -1,5 +1,5 @@
 ---
-title: Zweites Heuweilemer Frauenfrühstück
+title: Zweites Heuweilermer Frauenfrühstück
 categories: [ Gemeinschaft ]
 author: dg
 image: "/assets/images/buergernetz/frauenfruehstueck.png"
@@ -7,8 +7,8 @@ location: Gemeindesaal, Rathaus
 event: 2018-02-25 10:00:00
 ---
 
-Liebe Heuweilemerinnen! Seit unserem ersten Heuweilemer Frauenfrühstück ist ein Jahr vergangen. Wie angekündigt, möchten wir diese schöne Aktion wiederholen und euch herzlich einladen, am Sonntag, den 25. Februar, ab 10 Uhr mit uns ein gemeinsames Frühstück im Gemeindehaus zu teilen. Es wäre schön, wenn jede eine Kleinigkeit zu essen mitbringen würde, so dass wir uns über ein reichhaltiges Buffet freuen können. Wir besorgen Getränke und Brötchen. Und vielleicht tauchen in diesem Rahmen wieder neue (oder alte) Ideen für unser gemeinsames Leben in Heuweiler auf?
+Liebe Heuweilermerinnen! Seit unserem ersten Heuweilermer Frauenfrühstück ist ein Jahr vergangen. Wie angekündigt, möchten wir diese schöne Aktion wiederholen und euch herzlich einladen, am Sonntag, den 25. Februar, ab 10 Uhr mit uns ein gemeinsames Frühstück im Gemeindehaus zu teilen. Es wäre schön, wenn jede eine Kleinigkeit zu essen mitbringen würde, so dass wir uns über ein reichhaltiges Buffet freuen können. Wir besorgen Getränke und Brötchen. Und vielleicht tauchen in diesem Rahmen wieder neue (oder alte) Ideen für unser gemeinsames Leben in Heuweiler auf?
 
 Zur besseren Planung bitte bis zum 23.2.18 anmelden per Email an <hallo@heuweiler.net>
 
-Wir würden uns freuen, wenn wir wieder viele Heuweilemer Frauen an diesem Vormittag begrüßen dürften!
+Wir würden uns freuen, wenn wir wieder viele Heuweilermer Frauen an diesem Vormittag begrüßen dürften!

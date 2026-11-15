@@ -1,5 +1,5 @@
 ---
-title: Pflanzaktion im Heuweilemer Wald wurde durch eine Baumspende ermöglicht
+title: Pflanzaktion im Heuweilermer Wald wurde durch eine Baumspende ermöglicht
 categories: [Naturschutz]
 author: jk
 image: /assets/images/naturschutz/esskastanien.jpg

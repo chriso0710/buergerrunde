@@ -46,7 +46,7 @@ Auch für 2018 und später gibt es viele Artikel in der Presse. Aber leider ist 
 * Die Geschichten hinter dem Kreuz - BZ 25.3.2017
 * Heuweiler räumt aus. Zweiter großer Dorfflohmarkt am 8. Juli - Gundelfinger Nachrichten 27. April 2017
 * Heuweiler räumt aus. Zweiter großer Dorfflohmarkt am 8. Juli - Gundelfinger Nachrichten 20. April 2017
-* In Zukunft noch mehr Gutes teilen. Rückblick auf das Heuweilemer Frauenfrühstück Gundelfinger Nachrichten 13. April 2017
+* In Zukunft noch mehr Gutes teilen. Rückblick auf das Heuweilermer Frauenfrühstück Gundelfinger Nachrichten 13. April 2017
 * Heuweiler räumt aus. Zweiter großer Dorfflohmarkt am 8. Juli - Gundelfinger Nachrichten 13. April 2017
 * Ortskunst in Wort und Bild - Gundelfinger Nachrichten 13. April 2017
 * Kleindenkmäler in Dokumentation gesichert. Drei Autoren spiegeln Ortskunst in Wort und Bild von Haus zu Haus 13. April 2017
@@ -57,7 +57,7 @@ Auch für 2018 und später gibt es viele Artikel in der Presse. Aber leider ist 
 * Die Geschichten hinter dem Kreuz Themenwoche in Heuweiler mit drei Veranstaltungen. - BZ 25. März 2017
 * Kreuze und Kleindenkmäler in Heuweiler Buchvorstellung und Vernissage - BZ 21. März 2017
 * Buchvorstellung mit Vernissage: "Kreuze und Kleindenkmäler in Heuweiler" - Gundelfinger Nachrichten 23. März 2017
-* Heuweilemer Frauenfrühstück - Gundelfinger Nachrichten 09. März 2017
+* Heuweilermer Frauenfrühstück - Gundelfinger Nachrichten 09. März 2017
 * Planung des 2. Dorfflohmarktes - Gundelfinger Nachrichten 09. März 2017
 * Beizefasnet und mehr... - Gundelfinger Nachrichten 02. März 2017
 * Frauenfrühstück - von Haus zu Haus 02. März 2017
