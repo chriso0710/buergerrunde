@@ -96,7 +96,6 @@ def build_html():
   <table role="presentation" width="600" cellpadding="0" cellspacing="0" class="wrap" style="width:100%;max-width:600px;background:{CARD_BG};border-radius:8px;overflow:hidden;">
     <tr><td style="padding:32px 24px 12px 24px;text-align:center;">
       <img src="{LOGO}" width="140" alt="B&uuml;rgerrunde Heuweiler" style="width:140px;max-width:45%;height:auto;display:inline-block;border:0;" />
-      <div style="font-size:16px;color:{ACCENT};font-family:{FONT};margin-top:14px;font-weight:bold;">Neues aus dem Dorf</div>
     </td></tr>
     <tr><td class="pad" style="padding:14px 24px 18px 24px;">
       <p class="tx" style="margin:0;font-size:17px;line-height:1.65;color:{TEXT};font-family:{FONT};">{INTRO}</p>
