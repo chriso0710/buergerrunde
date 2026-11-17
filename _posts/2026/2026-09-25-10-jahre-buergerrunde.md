@@ -1,7 +1,7 @@
 ---
 title: "Zehn Jahre Bürgerrunde Heuweiler: Feiert mit!"
 categories: [Bürgerrunde, Gemeinschaft]
-author: co
+author: ad
 image: /assets/images/verein/gruendung.jpg
 event: 2026-11-29 16:00:00
 location: Jugendhütte Heuweiler
